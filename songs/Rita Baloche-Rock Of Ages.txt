@@ -1,0 +1,54 @@
+{title:Rock Of Ages}
+{subtitle:Rita Baloche}
+{original_key:A}
+{key:A}
+{tempo:136}
+{time:4/4}
+{as:10}
+
+{c:Intro}
+[A]
+
+#Verse 1
+[A]There is no rock    [A]there is no god like  [A]our God
+[D]No other name    [D]worthy of all our  [A]praise
+The [E]Rock of sal - vation that [E]cannot be moved
+He’s [F#m]proven Himself to be [D]faithful and true
+[B]There is no rock [D]there is no god like [A]ours
+
+#Verse 1
+[A]There is no rock    [A]there is no god like  [A]our God
+[D]No other name    [D]worthy of all our  [A]praise
+The [E]Rock of sal - vation that [E]cannot be moved
+He’s [F#m]proven Himself to be [D]faithful and true
+[B]There is no rock [D]there is no god like [A]ours
+
+{soc}
+Rock of [F#m]Ag - [D]es   [A]Je - sus is the [E]Rock
+Rock of [F#m]Ag - [D]es   [A]Je - sus is the [E]Rock
+Rock of [F#m]Ag - [D]es   [A]Je - sus is the [E]Rock
+[G]There is no rock [D]there is no god like [A]ours
+{eoc}
+
+#Verse 1
+[A]There is no rock    [A]there is no god like  [A]our God
+[D]No other name    [D]worthy of all our  [A]praise
+The [E]Rock of sal - vation that [E]cannot be moved
+He’s [F#m]proven Himself to be [D]faithful and true
+[B]There is no rock [D]there is no god like [A]ours
+
+{soc}
+Rock of [F#m]Ag - [D]es   [A]Je - sus is the [E]Rock
+Rock of [F#m]Ag - [D]es   [A]Je - sus is the [E]Rock
+Rock of [F#m]Ag - [D]es   [A]Je - sus is the [E]Rock
+[G]There is no rock [D]there is no god like [A]ours
+
+Rock of [F#m]Ag - [D]es   [A]Je - sus is the [E]Rock
+Rock of [F#m]Ag - [D]es   [A]Je - sus is the [E]Rock
+Rock of [F#m]Ag - [D]es   [A]Je - sus is the [E]Rock
+[G]There is no rock [D]there is no god like [A]ours
+{eoc}
+
+{c:Ending}
+[G]There is no rock [D]there is no god like [A]ours
+[G]There is no rock [D]there is no god like [A]ours

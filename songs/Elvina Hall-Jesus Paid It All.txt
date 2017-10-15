@@ -1,0 +1,79 @@
+{title:Jesus Paid It All}
+{subtitle:Elvina Hall}
+{original_key:Db}
+{key:A}
+{tempo:80}
+{time:3/4}
+{as:10}
+
+{c:Intro}
+He [A]washed it [E]white as [A]snow
+
+#Verse 1
+[A]I hear the Saviour say
+Thy [E]strength in - deed is [A]small
+[A]Child of weak - ness watch and pray
+Find in [E]Me thine all in [A]all
+
+{soc}
+[A]Je - sus paid it all
+[A]All to Him I [E]owe
+[A]Sin had left a crim - son [D]stain
+He [A]washed it [E]white as [A]snow
+{eoc}
+
+#Verse 2
+[A]Lord now in - deed I find
+Thy [E]power and Thine a - [A]lone
+[A]Can change the leper's spots
+And [E]melt the heart of [A]stone
+
+{soc}
+[A]Je - sus paid it all
+[A]All to Him I [E]owe
+[A]Sin had left a crim - son [D]stain
+He [A]washed it [E]white as [A]snow
+{eoc}
+#
+#Verse 3
+#[A]For noth - ing good have I
+#Where - [E]by Thy grace to [A]claim
+#[A]I'll wash my garments white
+#In the [E]blood of Cal - vary's [A]Lamb
+#{soc}
+#[A]Je - sus paid it all
+#[A]All to Him I [E]owe
+#[A]Sin had left a crim - son [D]stain
+#He [A]washed it [E]white as [A]snow
+#{eoc}
+
+#Verse 4
+[A]And when be - fore the throne
+I [E]stand in Him com - [A]plete
+[A]Jesus died my soul to save
+My [E]lips shall still re - [A]peat
+
+{soc}
+[A]Je - sus paid it all
+[A]All to Him I [E]owe
+[A]Sin had left a crim - son [D]stain
+He [A]washed it [E]white as [A]snow
+
+[A]Sin had left a crim - son [D]stain
+He [A]washed it [E]white as [A]snow
+
+He [A]washed it [E]white as [A]snow
+{eoc}
+#
+# {c:Ending}
+# Oh [A]praise the One Who paid my debt
+# And [Bm]raised this life up [D]from the dead
+#
+# Oh [A]praise the One Who paid my debt
+# And [Bm]raised this life up [D]from the dead
+#
+# Oh [A]praise the One Who paid my debt
+# And [Bm]raised this life up [D]from the dead
+#
+# Oh [A]praise the One Who paid my debt
+# And [Bm]raised this life up [D]from the dead

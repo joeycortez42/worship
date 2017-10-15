@@ -1,0 +1,43 @@
+{title:God Bless America }
+{subtitle:Irving Berlin}
+{original_key:C}
+{key:G}
+{time:4/4}
+{as:10}
+
+{c:Intro}
+My [G]home [D]sweet [G]home
+
+{soc}
+[G]God bless A[D]-mer-i-ca
+Land [D]that I [G]love
+Stand be[C]-side her and [G]guide her
+Thru the [G]night with a [D]light from a[G]bove
+
+From the [D]mountains to the [G]prairies
+To the [D]oceans white with [G]foam
+
+[C]God bless A[G]-mer-i-ca
+[C]My [G]home [D]sweet [G]home
+[C]God bless A[G]-mer-i-ca
+[C]My [G]home [D]sweet [G]home
+{eoc}
+
+It’s our prayer today Lord that you would bless this nation.
+
+{soc}
+[G]God bless A[D]-mer-i-ca
+Land [D]that I [G]love
+Stand be[C]-side her and [G]guide her
+Thru the [G]night with a [D]light from a[G]bove
+
+From the [D]mountains to the [G]prairies
+To the [D]oceans white with [G]foam
+
+[C]God bless A[G]-mer-i-ca
+[C]My [G]home [D]sweet [G]home
+
+{c:Retard}
+[C]God bless A[G]-mer-i-ca
+[C]My [G]home [D]sweet [G]home
+{eoc}

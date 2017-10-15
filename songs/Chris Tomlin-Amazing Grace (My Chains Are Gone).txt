@@ -1,0 +1,57 @@
+{title:Amazing Grace (My Chains Are Gone)}
+{subtitle:Chris Tomlin}
+{original_key:F}
+{key:D}
+{tempo:60}
+{time:4/4}
+{as:10}
+
+{c:Intro}
+[G]
+
+#Verse 1
+A - [G]mazing grace [C] how sweet the [G]sound
+That [G]saved a wretch like [D] me
+I [G]once was lost but [C]now I'm [G]found
+Was [G]blind but [D]now I [G] see
+
+#Verse 2
+'Twas [G]grace that taught my [C] heart to [G]fear
+And [G]grace my fears re [D]- lieved
+How [G]precious did that [C]grace ap - [G]pear
+The [G]hour I [D]first be - [G]lieved
+
+{soc}
+My chains [C] are gone I've been set [G] free
+My God my [C]Savior has ransomed [G] me
+And [G]like a [C] flood His mercy [G] rains
+Unending [Am7]love [D] amazing [G]grace
+{eoc}
+
+#Verse 3
+The [G]Lord has promised [C]good to [G]me
+His [G]word my hope se - [D]cures
+He [G]will my shield and [C]portion [G]be
+As [G]long as [D] life en - [G]dures
+
+{soc}
+My chains [C] are gone I've been set [G] free
+My God my [C]Savior has ransomed [G] me
+And [G]like a [C] flood His mercy [G] rains
+Unending [Am7]love [D] amazing [G]grace
+
+My chains [C] are gone I've been set [G] free
+My God my [C]Savior has ransomed [G] me
+And [G]like a [C] flood His mercy [G] rains
+Unending [Am7]love [D] amazing [G]grace
+{eoc}
+
+#Verse 4
+The [G]earth shall soon dis - [C]solve like [G]snow
+The [G]sun forbear to [D]shine
+But [G] God who called me [C]here be - [G]low
+Will [G]be for - [D]ever [G]mine
+
+{c:Ending}
+Will [G]be for - [D]ever [G]mine
+You [G]are for - [D]ever [G] mine

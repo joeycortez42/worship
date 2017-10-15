@@ -1,0 +1,55 @@
+{title:Give Thanks}
+{subtitle:Henry Smith}
+{original_key:F}
+{key:D}
+{tempo:80}
+{time:4/4}
+{as:10}
+
+{c:Intro}
+[D]
+
+{soc}
+Give [D]thanks with a [A]grateful heart
+Give [Bm]thanks to the [F#m]Holy One
+Give [G]thanks because He's [D/F#]given
+Je - [D]sus [C]Christ His [A]Son
+
+Give [D]thanks with a [A]grateful heart
+Give [Bm]thanks to the [F#m]Holy One
+Give [G]thanks because He's [D/F#]given
+Je - [D]sus [C]Christ His [A]Son
+{eoc}
+
+#Verse
+And [F#m]now let the [BM]weak say I am [Em]strong
+Let the [A]poor say I am [D]rich
+Be - cause of [Bm]what the Lord has [C]done for [A]us
+And [F#m]now let the [Bm]weak say I am [Em]strong
+Let the [A]poor say I am [D]rich
+Be - cause of [Bm]what the Lord has [C]done for [A]us
+
+Give [D]thanks
+
+#Vamp
+[D]
+
+{soc}
+Give [D]thanks with a [A]grateful heart
+Give [Bm]thanks to the [F#m]Holy One
+Give [G]thanks because He's [D/F#]given
+Je - [D]sus [C]Christ His [A]Son
+{eoc}
+
+#Verse
+And [F#m]now let the [BM]weak say I am [Em]strong
+Let the [A]poor say I am [D]rich
+Be - cause of [Bm]what the Lord has [C]done for [A]us
+And [F#m]now let the [Bm]weak say I am [Em]strong
+Let the [A]poor say I am [D]rich
+Be - cause of [Bm]what the Lord has [C]done for [A]us
+
+{c:Ending}
+Give [D]thanks
+Give [D]thanks
+Give [D]thanks

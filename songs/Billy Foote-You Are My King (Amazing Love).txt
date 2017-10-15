@@ -1,0 +1,63 @@
+{title:You Are My King (Amazing Love)}
+{subtitle:Billy Foote}
+{original_key:E}
+{key:G}
+{tempo:70}
+{time:4/4}
+{as:9.0}
+
+{c:Intro}
+[G]
+
+#Verse
+[G]  I'm for - gi[C]ven [G]be - cause You were for - s[D]aken
+[G]  I'm ac - [C]cepted [G]You were con - de[D]mned
+[G]  I'm a - [C]live and well [G]Your Spirit is with - [D]in me
+Be - c[C]ause You di[D]ed and rose a - g[G]ain
+
+#Verse
+[G]  I'm for - gi[C]ven [G]be - cause You were for - s[D]aken
+[G]  I'm ac - [C]cepted [G]You were con - de[D]mned
+[G]  I'm a - [C]live and well [G]Your Spirit is with - [D]in me
+Be - c[C]ause You di[D]ed and rose a - g[G]ain
+
+{soc}
+[G] Amazing love h[C]ow can it be
+[G] That You my King would die for [D]me
+[G] Amazing love [C]I know it's true
+[G] It's my joy to honor [D]You
+[D] In all [C]I do[D] I honor Yo[G]u
+{eoc}
+
+#Verse
+[G]  I'm for - gi[C]ven [G]be - cause You were for - s[D]aken
+[G]  I'm ac - [C]cepted [G]You were con - de[D]mned
+[G]  I'm a - [C]live and well [G]Your Spirit is with - [D]in me
+Be - c[C]ause You di[D]ed and rose a - g[G]ain
+
+{soc}
+[G] Amazing love h[C]ow can it be
+[G] That You my King would die for [D]me
+[G] Amazing love [C]I know it's true
+[G] It's my joy to honor [D]You
+[D] In all [C]I do[D] I honor Yo[G]u
+{eoc}
+
+{sob}
+Y[G]ou are my King
+Y[G]ou are my King
+J[G]esus You are my King
+J[G]esus You are my King
+{eob}
+
+{soc}
+[G] Amazing love h[C]ow can it be
+[G] That You my King would die for [D]me
+[G] Amazing love [C]I know it's true
+[G] It's my joy to honor [D]You
+[D] In all [C]I do[D] I honor Yo[G]u
+{eoc}
+
+{c:Ending}
+In all [C]I do[D] I honor Yo[G]u
+In all [C]I do[D] I honor Yo[G]u

@@ -1,0 +1,54 @@
+{title:Great Is Thy Faithfulness}
+{subtitle:Thomas Obediah Chisholm}
+{original_key:D}
+{key:C}
+{tempo:75}
+{time:4/4}
+{as:10}
+
+{c:Intro}
+[C]Lord [G]unto [C]me
+
+#Verse 1
+[C]Great is Thy [F]faith - fulness [G]O God my [F]Fa - [C]ther
+[F]There is no [C]shad - ow of [D]turn - ing with [G]Thee
+[G]Thou changest [C]not Thy com - pas - sions they [Dm7]fail not
+[F]As Thou hast [C]been Thou forev - [G]er wilt [C]be
+
+{soc}
+[G]Great is Thy [C]faith - fulness [A]great is Thy [D]faith - fulness
+[G]Morning by [C]morning new [D]mer - cies I [G]see
+[G]All I have [C]need - ed Thy hand hath pro - [F]vi - ded
+[F]Great is Thy [C]faithfulness Lord [G]unto [C]me
+{eoc}
+
+#Verse 2
+[C]Summer and [F]win - ter and [G]spring - time and [F]har - [C]vest
+[F]Sun moon and [C]stars in their [D]cours - es a - [G]bove
+[G]Join with all [C]na - ture in man - i - fold [Dm7]wit - ness
+[F]To Thy great [C]faithfulness mer - cy [G]and [C]love
+
+{soc}
+[G]Great is Thy [C]faith - fulness [A]great is Thy [D]faith - fulness
+[G]Morning by [C]morning new [D]mer - cies I [G]see
+[G]All I have [C]need - ed Thy hand hath pro - [F]vi - ded
+[F]Great is Thy [C]faithfulness Lord [G]unto [C]me
+{eoc}
+
+#Verse 3
+[C]Pardon for [F]sin and a [G]peace that en - [F]dur - [C]eth
+[F]Thy own dear [C]pres - ence to [D]cheer and to [G]guide
+[G]Strength for to - [C]day and bright hope for to - [Dm]mor - row
+[F]Bless - ings all [C]mine with ten thou - sand [G]be - [C]side
+
+{soc}
+[G]Great is Thy [C]faith - fulness [A]great is Thy [D]faith - fulness
+[G]Morning by [C]morning new [D]mer - cies I [G]see
+[G]All I have [C]need - ed Thy hand hath pro - [F]vi - ded
+[F]Great is Thy [C]faithfulness Lord [G]unto [C]me
+{eoc}
+
+{c:Ending}
+[F]Great is Thy [C]faithfulness
+[F]Great is Thy [C]faithfulness
+Lord [G]unto [C]me

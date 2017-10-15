@@ -1,0 +1,51 @@
+{title:Great And Mighty Is The Lord Our God}
+{subtitle:Marlene Bigley}
+{key:C}
+{tempo:146}
+{time:4/4}
+{as:10}
+
+{c:Intro}
+[F] [C] [G] [C]
+
+{soc}
+G[C]reat and might - y is the Lord our God
+Great and might - y is [G]He
+G[G]reat and might - y is the Lord our God
+Great and might - y is [C]He
+Lift up your banner let the anthems ring
+Prais-es to our Ki[F]ng
+G[F]reat and might - y is the L[C]ord our God
+G[G]reat and might - y is [C]He
+{eoc}
+{c:Repeat}
+
+{soc}
+G[D]reat and might - y is the Lord our God
+Great and might - y is [A]He
+G[A]reat and might - y is the Lord our God
+Great and might - y is [D]He
+Lift up your banner let the anthems ring
+Prais-es to our Ki[G]ng
+G[G]reat and might - y is the L[D]ord our God
+G[A]reat and might - y is [D]He
+{eoc}
+{c:Repeat}
+
+{soc}
+G[E]reat and might - y is the Lord our God
+Great and might - y is [B]He
+G[B]reat and might - y is the Lord our God
+Great and might - y is [E]He
+Lift up your banner let the anthems ring
+Prais-es to our Ki[A]ng
+G[A]reat and might - y is the L[E]ord our God
+G[B]reat and might - y is [E]He
+{eoc}
+{c:Repeat}
+
+{c:Ending}
+G[A]reat and might - y is the L[E]ord our God
+G[B]reat and might - y is [E]He
+G[A]reat and might - y is the L[E]ord our God
+G[B]reat and might - y is [E]He

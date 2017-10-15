@@ -1,0 +1,91 @@
+{title:We Want to See Jesus Lifted High}
+{subtitle:Doug Horley}
+{original_key:G}
+{key:G}
+{tempo:146}
+{time:4/4}
+{as:14.0}
+
+{c:Intro & Main Riff}
+E--------------------------------------------|
+A--------------------------------------------|
+D---------12-------12-------12-12h14----14---|
+G---12-11----12-11----12-11----------12------|
+B--------------------------------------------|
+e--------------------------------------------|
+
+#Verse
+[G] We want to see Je[D]sus lifted hi[Em]gh
+A banner that fl[C]ies accross this la[G]nd
+Then all men might s[D]ee the truth and k[Em]now
+He is the w[C]ay to heaven
+
+[G] We want to see Je[D]sus lifted hi[Em]gh
+A banner that fl[C]ies accross this la[G]nd
+Then all men might s[D]ee the truth and k[Em]now
+He is the w[C]ay to heaven
+
+{soc}
+{c:Palm muting}
+[G] We want to see   [D] We want to see
+[Em] We want to see Je[C]sus lifted hi[G]gh
+
+We want to see   [D] We want to see
+[Em] We want to see Je[C]sus lifted hi[G]gh
+{eoc}
+
+{c:Riff over verse}
+#Verse
+[G] We want to see Je[D]sus lifted hi[Em]gh
+A banner that fl[C]ies accross this la[G]nd
+Then all men might s[D]ee the truth and k[Em]now
+He is the w[C]ay to heaven
+
+{soc}
+{c:Palm muting}
+[G] We want to see   [D] We want to see
+[Em] We want to see Je[C]sus lifted hi[G]gh
+
+We want to see   [D] We want to see
+[Em] We want to see Je[C]sus lifted hi[G]gh
+{eoc}
+
+{sob}
+{c:Single strum}
+[G]Step by s[D]tep we're moving fo[Em]ward
+Little by lit[D]tle taking gro[Em]und
+Every pr[D]ayer a powerful we[Em]apon
+Strongholds c[C]ome tumblin' do[D]wn and down and down and down
+{eob}
+
+[G] [D] [Em] [C]
+[G] [D] [Em] [C]
+
+{soc}
+[G] We want to see   [D] We want to see
+[Em] We want to see Je[C]sus lifted hi[G]gh
+
+We want to see   [D] We want to see
+[Em] We want to see Je[C]sus lifted hi[G]gh
+{eoc}
+
+{c:Riff over verse}
+#Verse
+[G] We want to see Je[D]sus lifted hi[Em]gh
+A banner that fl[C]ies accross this la[G]nd
+Then all men might s[D]ee the truth and k[Em]now
+He is the w[C]ay to heaven
+
+[G] We want to see Je[D]sus lifted hi[Em]gh
+A banner that fl[C]ies accross this la[G]nd
+Then all men might s[D]ee the truth and k[Em]now
+He is the w[C]ay to heaven
+
+{soc}
+[G] We want to see   [D] We want to see
+[Em] We want to see Je[C]sus lifted hi[G]gh
+
+We want to see   [D] We want to see
+{c:Retard}
+[Em] We want to see Je[C]sus lifted hi[G]gh
+{eoc}

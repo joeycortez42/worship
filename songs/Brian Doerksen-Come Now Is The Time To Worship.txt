@@ -1,0 +1,62 @@
+{title:Come Now Is The Time To Worship}
+{subtitle:Brian Doerksen}
+{original_key:D}
+{key:D}
+{tempo:98}
+{time:4/4}
+{as:10}
+
+{c:Intro}
+[D]
+
+{soc}
+[D]Come now is the time to [Dsus]wor - [D]ship
+[A]Come now is the time to [Em]give your [G]heart
+[D]Come just as you are to [Dsus]wor - [D]ship
+[A]Come just as you are be - [Em]fore your [G]God
+[D]Come
+
+[D]Come now is the time to [Dsus]wor - [D]ship
+[A]Come now is the time to [Em]give your [G]heart
+[D]Come just as you are to [Dsus]wor - [D]ship
+[A]Come just as you are be - [Em]fore your [G]God
+[D]Come
+{eoc}
+
+#Verse
+[G]One day every tongue will con - [D]fess You are God
+[G]One day every knee will [D]bow
+[G]Still the greatest treasure re - [Bm]mains for those
+Who [G]gladly choose You [A]now
+
+{soc}
+[D]Come now is the time to [Dsus]wor - [D]ship
+[A]Come now is the time to [Em]give your [G]heart
+[D]Come just as you are to [Dsus]wor - [D]ship
+[A]Come just as you are be - [Em]fore your [G]God
+[D]Come
+{eoc}
+
+#Verse
+[G]One day every tongue will con - [D]fess You are God
+[G]One day every knee will [D]bow
+[G]Still the greatest treasure re - [Bm]mains for those
+Who [G]gladly choose You [A]now
+
+#Verse
+[G]One day every tongue will con - [D]fess You are God
+[G]One day every knee will [D]bow
+[G]Still the greatest treasure re - [Bm]mains for those
+Who [G]gladly choose You [A]now
+
+{soc}
+[D]Come now is the time to [Dsus]wor - [D]ship
+[A]Come now is the time to [Em]give your [G]heart
+[D]Come just as you are to [Dsus]wor - [D]ship
+[A]Come just as you are be - [Em]fore your [G]God
+[D]Come
+{eoc}
+
+{c:Ending}
+[D]Come
+[D]Come

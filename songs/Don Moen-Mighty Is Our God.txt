@@ -1,0 +1,65 @@
+{title:Mighty Is Our God}
+{subtitle:Don Moen}
+{original_key:Bb}
+{key:A}
+{tempo:152}
+{time:4/4}
+{as:12.6}
+
+{c:Intro}
+Gl[A]ory to our L[F#m]ord
+[Bm7]Ruler of [E]ev - 'ry - th[A]ing
+
+{soc}
+Mi[A]ghty is our G[D]od
+Mi[A]ghty is our K[D]ing
+Mi[A]ghty is our L[F#m]ord
+[Bm7]Ruler of [E]ev - 'ry - th[A]ing [D] [E]
+
+Gl[A]ory to our G[D]od
+Gl[A]ory to our K[D]ing
+Gl[A]ory to our L[F#m]ord
+[Bm7]Ruler of [E]ev - 'ry - th[A]ing [D] [E]
+{eoc}
+
+#Verse
+His name is hi[G]gher
+Hi[D]gher than any other n[A]ame
+His pow'r is gr[G]eater
+For [D]He has created ev'ryth[E]ing
+
+{soc}
+Mi[A]ghty is our G[D]od
+Mi[A]ghty is our K[D]ing
+Mi[A]ghty is our L[F#m]ord
+[Bm7]Ruler of [E]ev - 'ry - th[A]ing [D] [E]
+
+Gl[A]ory to our G[D]od
+Gl[A]ory to our K[D]ing
+Gl[A]ory to our L[F#m]ord
+[Bm7]Ruler of [E]ev - 'ry - th[A]ing [D] [E]
+{eoc}
+
+#Verse
+His name is hi[G]gher
+Hi[D]gher than any other n[A]ame
+His pow'r is gr[G]eater
+For [D]He has created ev'ryth[E]ing
+
+{soc}
+{c:A cappella}
+Mi[A]ghty is our G[D]od
+Mi[A]ghty is our K[D]ing
+Mi[A]ghty is our L[F#m]ord
+[Bm7]Ruler of [E]ev - 'ry - th[A]ing [D] [E]
+
+Gl[A]ory to our G[D]od
+Gl[A]ory to our K[D]ing
+Gl[A]ory to our L[F#m]ord
+[Bm7]Ruler of [E]ev - 'ry - th[A]ing [D] [E]
+{eoc}
+
+{c:Ending}
+[Bm7]Ruler of [E]ev - 'ry - th[A]ing
+{c:Retard}
+[Bm7]Ruler of [E]ev - 'ry - th[A]ing

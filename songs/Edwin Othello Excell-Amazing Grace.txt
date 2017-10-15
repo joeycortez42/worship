@@ -1,0 +1,46 @@
+{title:Amazing Grace}
+{subtitle:Edwin Othello Excell}
+{original_key:Eb}
+{key:G}
+{tempo:130}
+{time:4/4}
+{as:10}
+
+{c:Intro}
+[G] [C] [G] [Em] [D] [G]
+
+#Verse 1
+A - [G]mazing [G]grace how [C]sweet the [G]sound
+That saved a wretch like [D]me
+[G]I once was lost but [C]now am [G]found
+Was [Em]blind but [D]now I [G]see
+
+#Verse 2
+'Twas [G]grace that [G]taught my [C]heart to [G]fear
+And grace my fears re - [D]lieved
+[G]How precious did that [C]grace ap - [G]pear
+The [Em]hour I [D]first be - [G]lieved
+
+#Verse 3
+#The [G]Lord has [G]prom - ised [C]good to [G]me
+#His Word my hope se - [D]cures
+#[G]He will my shield and [C]por - tion [G]be
+#As [Em]long as [D]life en - [G]dures
+#
+#Verse 4
+#Through [G]many [G]dan - gers [C]toils and [G]snares
+#I have al - read - y [D]come
+#[G]'Tis grace hath brought me [C]safe thus [G]far
+#And [Em]grace will lead me [G]home
+#
+#Verse 6
+When [G]we've been [G]there ten [C]thou - sand [G]years
+Bright shining as the [D]sun
+[G]We've no less days to [C]sing God's [G]praise
+Than [Em]when we [D]first be - [G]gun
+
+#Verse 1
+A - [G]mazing [G]grace how [C]sweet the [G]sound
+That saved a wretch like [D]me
+[G]I once was lost but [C]now am [G]found
+Was [Em]blind but [D]now I [G]see

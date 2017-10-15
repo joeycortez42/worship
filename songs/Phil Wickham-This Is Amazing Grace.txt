@@ -1,0 +1,92 @@
+{title:This Is Amazing Grace}
+{subtitle:Phil Wickham}
+{original_key:Bb}
+{key:G}
+{tempo:120}
+{time:4/4}
+{as:11.0}
+
+{c:Intro}
+#|-8-7-5-7--7-5-7---3-5-7-10-12----8-7-5-7--7-5-7---3-5-7-0---|
+#|----------------------------------------------------------3-|
+#|------------------------------------------------------------|
+#|------------------------------------------------------------|
+#|------------------------------------------------------------|
+#|------------------------------------------------------------|
+[G] [G] [G] [G] [G]
+[C] [C] [C] [C] [C]
+{c:Repeat}
+
+#Verse 1
+#{c:(PM Picking with Echo, Ring last C chord)}
+[G] Who breaks the power of sin and darkness
+[C] Whose love is mighty and so much stronger
+[Em] The King of Glory [D] the King above all[C] kings
+
+[G] Who shakes the whole earth with holy thunder
+[C] Who leaves us breathless in awe and wonder
+[Em] The King of Glory [D] the King above all[C] kings
+
+{soc}
+This is amazing g[G]race this is unfailing lo[C]ve
+That You would take my p[Em]lace that You would bear my cr[D]oss
+You laid down Your li[G]fe that I would be set fr[C]ee
+Oh[Em] Jesus I sing for [D] all that You've done for [G]me
+{eoc}
+
+#|-8-7-5-7--7-5-7---3-5-7-10-12----8-7-5-7--7-5-7---3-5-7-0---|
+#|----------------------------------------------------------3-|
+#|------------------------------------------------------------|
+#|------------------------------------------------------------|
+#|------------------------------------------------------------|
+#|------------------------------------------------------------|
+[G] [G] [G] [G] [G]
+[C] [C] [C] [C] [C]
+
+#Verse 2
+#{c:(PM Strum Reverse Echo)}
+[G] Who brings our chaos back into order
+[C] Who makes the orphan a son and daughter
+[Em] The King of Glory [D] the King of Glory
+
+[G] Who rules the nations with truth and justice
+[C] Shines like the sun in all of its brilliance
+[Em] The King of Glory [D] the King above all[C] kings
+
+{soc}
+This is amazing g[G]race this is unfailing lo[C]ve
+That You would take my p[Em]lace that You would bear my cr[D]oss
+You laid down Your li[G]fe that I would be set fr[C]ee
+Oh[Em] Jesus I sing for [D] all that You've done for [G]me
+{eoc}
+
+{sob}
+Wo[G]rthy is the Lamb who was slain
+[C]Worthy is the King who conquered the grave
+Wo[G]rthy is the Lamb who was slain
+[C]Worthy is the King who conquered the grave
+
+{c:Distortion Open Chord Picking}
+Wo[G]rthy is the Lamb who was slain
+[C]Worthy is the King who conquered the grave
+W[Em]orthy is the Lamb who was sl[G]ain
+Worthy [C]worthy worthy
+{eob}
+
+{soc}
+This is amazing g[G]race this is unfailing lo[C]ve
+That You would take my p[Em]lace that You would bear my cr[D]oss
+You laid down Your li[G]fe that I would be set fr[C]ee
+Oh[Em] Jesus I sing for [D] all that You've done for [G]me
+{eoc}
+
+{c:Ending}
+#|-8-7-5-7--7-5-7---3-5-7-10-12----8-7-5-7--7-5-7---3-5-7-0---|
+#|----------------------------------------------------------3-|
+#|------------------------------------------------------------|
+#|------------------------------------------------------------|
+#|------------------------------------------------------------|
+#|------------------------------------------------------------|
+[G] [G] [G] [G] [G]
+[C] [C] [C] [C] [C]
+{c:Repeat}

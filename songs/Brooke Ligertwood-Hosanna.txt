@@ -1,0 +1,78 @@
+{title:Hosanna}
+{subtitle:Brooke Ligertwood}
+{original_key:E}
+{key:D}
+{tempo:75}
+{time:4/4}
+{as:10}
+
+{c:Intro - Pick}
+[Bm]  [D]  [Em7]  [F#m7]
+[Bm]  [D]  [Em7]  [F#m7]
+
+#Verse 1
+[D]  I see the King of glory
+[Bm]Coming on the clouds with fire
+The whole earth [Em7]shakes
+The whole earth [A]shakes
+
+Yeah [Bm]
+
+#Verse 2
+[D]  I see His love and mercy
+[Bm]Washing over all our sin
+The people [Em7]sing
+The people [A]sing
+
+{soc}
+{c:Softly}
+Ho - [D/F#]sanna  [G]   ho - [A]sanna  [Bm]
+Ho - [G]sanna in the [Bm]highest  [A]
+Ho - [D/F#]sanna  [G]   ho - [A]sanna  [Bm]
+Ho - [G]sanna in the [A]high - [Bm]est
+{eoc}
+
+#Verse 3
+[D]  I see a generation
+[Bm]Rising up to take their place
+With selfless [Em7]faith
+With selfless [A]faith
+
+#Verse 4
+[D]  I see a near revival
+[Bm]Stirring as we pray and seek
+We're on our [Em7]knees
+We're on our [A]knees
+
+{soc}
+Ho - [D/F#]sanna  [G]   ho - [A]sanna  [Bm]
+Ho - [G]sanna in the [Bm]highest  [A]
+Ho - [D/F#]sanna  [G]   ho - [A]sanna  [Bm]
+Ho - [G]sanna in the [A]high - [D]est
+{eoc}
+
+{sob}
+[G]Heal my heart and make it [A]clean
+[D]Open up my eyes to the [Bm]things unseen
+[G]Show me how to love like [A]You have loved me  [Bm]
+[G]Break my heart for what breaks [A]Yours
+[D]Everything I am for Your [Bm]Kingdom's cause
+[G]As I walk from earth in - [A]to eternity  [D]
+{eob}
+
+{soc}
+{c:Softly}
+Ho - [D/F#]sanna  [G]   ho - [A]sanna  [Bm]
+Ho - [G]sanna in the [Bm]highest  [A]
+Ho - [D/F#]sanna  [G]   ho - [A]sanna  [Bm]
+Ho - [G]sanna in the [A]high - [D]est
+
+{c:Full Band}
+Ho - [D/F#]sanna  [G]   ho - [A]sanna  [Bm]
+Ho - [G]sanna in the [Bm]highest  [A]
+Ho - [D/F#]sanna  [G]   ho - [A]sanna  [Bm]
+Ho - [G]sanna in the [A]high - [Bm]est
+{eoc}
+
+{c:Ending}
+Ho - [G]sanna in the [A]high - [D]est

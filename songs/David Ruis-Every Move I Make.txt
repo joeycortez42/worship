@@ -1,0 +1,32 @@
+{title:Every Move I Make}
+{subtitle:David Ruis}
+{original_key:D}
+{key:G}
+{tempo:76}
+{time:2/2}
+{as:10}
+
+{c:Intro}
+[G] [C] [D] [C]
+
+#Verse 1
+Ev[G]ery move I m[C]ake I make in [D]You
+You make me m[C]ove Jesus
+Ev[G]ery breath I ta[C]ke I breathe in [D]You [C]
+Ev[G]ery step I ta[C]ke I take in [D]You
+You are my w[C]ay Jesus
+Ev[G]ery breath I ta[C]ke I breathe in [D]You [C]
+
+{soc}
+Wa[G]ves of [Am7]mercy w[Bm7]aves of gr[C]ace
+Ev[G]ery - w[Am7]here I [Bm7]look I s[C]ee Your face
+[G] Your [Am7]love has ca[Bm7]ptured [C]me
+[G]Oh my [Am7]God this [Bm7]love how [C]can it be
+{eoc}
+{c:Repeat from top}
+
+{sob}
+[G]Na na na [C]na na na na
+[D]Na na na na na [C]na na na na
+{eob}
+{c:Repeat}

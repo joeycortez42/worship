@@ -1,0 +1,15 @@
+{title:What A Mighty God We Serve}
+{subtitle:Marcus Dawson}
+{original_key:Db}
+{key:C}
+{tempo:95}
+{time:4/4}
+{as:10}
+
+{soc}
+W[C]hat a mighty God [F]we se[C]rve
+W[C]hat a mighty [Am]God we s[G]erve
+[C]Angels bow before Him
+[C]Heaven and earth a - dore Him
+[C]What a mighty G[G]od we se[C]rve
+{eoc}

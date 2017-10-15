@@ -1,0 +1,51 @@
+{title:Hallelujah What A Savior}
+{subtitle:Lee Black}
+{original_key:G}
+{key:G}
+{tempo:140}
+{time:4/4}
+{as:12.5}
+
+{c:Intro}
+[G] [D] [Em7] [C]
+[G] [D] [F]
+
+#Verse 1
+[G]Great Re - deem - er w[D/F#]hat a name
+F[Em7]or the Son of [D]God who came
+[C]Taking all our [G]sin and shame
+Hal-le-[Am]lu-[G]jah What a [C]Sav - [D]ior—
+
+#Verse 2
+[G]Lifted up was [D/F#]He to die
+[Em7]It is finished [D]was His cry
+N[C]ow in Heaven ex[G]alted high
+Hal-le-[Am]lu-[G]jah What a [C]Sav - [D]ior—
+
+{soc}
+[G]  Hal-le-lu[D]-jah What a Sav [C]- ior Je - sus is[G]
+[G]  Hal-le-lu[D]-jah For the cross[C] that made us [G]His
+[Em]  Praise the One[D] who conquered Death [C] And rose again [G]
+[Eb]  Hal-le-lu[F]-jah What a Sav -[G] ior—
+{eoc}
+
+[D] [Em7] [C] [G] [D] [F]
+
+#Verse 3
+W[G]hen He comes our [D/F#]glorious King
+[Em7]All His ransomed [D]home to bring
+[C]Then anew this s[G]ong we’ll sing
+Hal-le-[Am]lu-[G]jah What a [C]Sav - [D]ior—
+
+{soc}
+[G]  Hal-le-lu[D]-jah What a Sav [C]- ior Je - sus is[G]
+[G]  Hal-le-lu[D]-jah For the cross[C] that made us [G]His
+[Em]  Praise the One[D] who conquered Death [C] And rose again [G]
+[Eb]  Hal-le-lu[F]-jah What a Sav -[G] ior—
+{eoc}
+
+[Eb]  Hal-le-lu[F]-jah What a Sav -[G] ior—
+
+[D] [Em7] [C] [G] [D] [F]
+
+[G]

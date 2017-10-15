@@ -1,0 +1,90 @@
+{title:Blessed Be Your Name}
+{subtitle:Matt Redman}
+{original_key:B}
+{key:D}
+{tempo:116}
+{time:4/4}
+{as:12.0}
+
+{c:Intro}
+[D] [A] [Bm7] [G]
+
+#Verse 1
+[D] Blessed [A]be Your name
+In the [Bm7]land that is [G]plentiful
+Where Your [D]streams of a - [A]bundance flow
+Bless - [G]ed be Your name
+
+#Verse 2
+[D] Blessed [A]be Your name
+When I'm [Bm7]found in the [G]desert place
+Though I [D]walk through the [A]wilderness
+Bless - [G]ed be Your name
+
+{c:Pre-Chorus}
+[D] Every blessing [A]You pour out I’ll [Bm7] Turn back to [G]praise
+[D] When the darkness [A]closes in Lord [Bm7] Still I will [G]say
+
+{soc}
+Blessed be the [D]name of the [A]Lord
+Blessed be Your [Bm7]name     [G]
+Blessed be the [D]name of the [A]Lord
+Blessed be Your [Bm7]glo - rious [G]name
+{eoc}
+
+#Verse 3
+[D] Blessed [A]be Your name
+When the [Bm7]sun's shining [G]down on me
+When the [D]world's all as [A]it should be
+Bless - [G]ed be Your name
+
+#Verse 4
+[D] Blessed [A]be Your name
+On the [Bm7]road marked with [G]suffering
+Though there's [D]pain in the [A]offering
+Bless - [G]ed be Your name
+
+{c:Pre-Chorus}
+[D] Every blessing [A]You pour out I’ll [Bm7] Turn back to [G]praise
+[D] When the darkness [A]closes in Lord [Bm7] Still I will [G]say
+
+{soc}
+Blessed be the [D]name of the [A]Lord
+Blessed be Your [Bm7]name     [G]
+Blessed be the [D]name of the [A]Lord
+Blessed be Your [Bm7]glo - rious [G]name
+{eoc}
+
+{sob}
+You [D]give and take a - [A]way
+You [Bm7]give and take a - [G]way
+My [D]heart will choose to [A]say
+Lord [Bm7]blessed be Your [G]name
+{eob}
+
+{c:Pre-Chorus}
+{c:Softly}
+[D] Every blessing [A]You pour out I’ll [Bm7] Turn back to [G]praise
+[D] When the darkness [A]closes in Lord [Bm7] Still I will [G]say
+
+{soc}
+Blessed be the [D]name of the [A]Lord
+Blessed be Your [Bm7]name     [G]
+Blessed be the [D]name of the [A]Lord
+Blessed be Your [Bm7]glo - rious [G]name
+
+Blessed be the [D]name of the [A]Lord
+Blessed be Your [Bm7]name     [G]
+Blessed be the [D]name of the [A]Lord
+Blessed be Your [Bm7]glo - rious [G]name
+{eoc}
+
+{sob}
+You [D]give and take a - [A]way
+You [Bm7]give and take a - [G]way
+My [D]heart will choose to [A]say
+Lord [Bm7]blessed be Your [G]name
+{eob}
+
+{c:Ending}
+[D]

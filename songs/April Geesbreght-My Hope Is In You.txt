@@ -1,0 +1,72 @@
+{title:My Hope Is In You}
+{subtitle:April Geesbreght}
+{original_key:D}
+{key:A}
+{as:10}
+{tempo:75}
+{time:4/4}
+
+{c:Intro}
+[D] [A] [E] [F#m]
+[D] [A] [E]
+
+#Verse 1
+[F#m]  I meet with Y[A]ou and my s[D]oul sings o[A]ut
+As Your w[D]ord throws [F#m7]doubt far away  [E]
+[F#m]  I sing to Y[A]ou and my h[D]eart cries h[A]oly
+Halle - lu[D]jah F[F#m7]ather You're [E]near
+
+{soc}
+[D]  My hope is [A] in You Lord [E] all the day l[F#m]ong
+[D]  I won't be[A] shaken by [E] drought or s[F#m]torm
+[D]  A peace that pa[A]sses understa[E]nding is my song
+[F#m] And I sing
+[D]  My hope is [A] in You L[E]ord
+{eoc}
+
+#Verse 2
+[F#m]  I wait for Y[A]ou and my s[D]oul finds r[A]est
+In my sel[D]fish - [F#m7]ness You show me [E]grace
+[F#m]  I worship Y[A]ou and my h[D]eart cries gl[A]ory
+Halle - lu[D]jah F[F#m7]ather You're [E]here
+
+{soc}
+[D]  My hope is [A] in You Lord [E] all the day l[F#m]ong
+[D]  I won't be[A] shaken by [E] drought or s[F#m]torm
+[D]  A peace that pa[A]sses understa[E]nding is my song
+[F#m] And I sing
+[D]  My hope is [A] in You L[E]ord
+{eoc}
+
+[D] [F#m] [E]  [D] [F#m] [E]
+
+{sob}
+I will w[D]ait [F#m]on Y[E]ou
+You are [D]my [F#m]ref - u[E]ge
+
+I will w[D]ait [F#m]on Y[E]ou
+You are [D]my [F#m]ref - u[E]ge
+
+I will w[D]ait [F#m]on Y[E]ou
+You are [D]my [F#m]ref - u[E]ge
+
+I will w[D]ait [F#m]on Y[E]ou
+You are [D]my [F#m]ref - u[E]ge
+{eob}
+
+{soc}
+[D]  My hope is [A] in You Lord [E] all the day l[F#m]ong
+[D]  I won't be [A] shaken by [E] drought or s[F#m]torm
+
+[D]  My hope is [A] in You Lord [E] all the day l[F#m]ong
+[D]  I won't be[A] shaken by [E] drought or s[F#m]torm
+[D]  A peace that pa[A]sses understa[E]nding is my song
+[F#m] And I sing
+[D]  My hope is [A/C#] in Y[A]ou L[E]ord
+{eoc}
+
+[D]  My hope is [A/C#] in Y[A]ou L[E]ord
+[D]  My hope is [A/C#] in Y[A]ou L[E]ord
+
+[D] [A] [E] [F#m]
+[D] [A] [E]

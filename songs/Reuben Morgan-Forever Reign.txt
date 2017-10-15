@@ -1,0 +1,65 @@
+{title:Forever Reign}
+{subtitle:Reuben Morgan}
+{original_key:C}
+{key:A}
+{tempo:83}
+{time:4/4}
+{as:10}
+
+{c:Intro}
+[A]
+
+#Verse 1
+You are [A]good You are good when there’s nothing good in me
+You are [E]love You are love on display for all to see
+You are [A]light You are light when the darkness closes in
+You are [E]hope You are hope You have covered all my sin  [A]
+
+#Verse 2
+You are [A]peace You are peace when my fear is crippling
+You are [E]true You are true even in my wandering
+You are [A]joy You are joy You’re the reason that I sing
+You are [E]life You are life in You death has lost its sting  [A]
+
+{soc}
+[A]   I’m running to Your [E]arms I’m running to Your [F#m]arms
+The riches of Your [F#m]love will [E]always be e - [D]nough
+Nothing com - [F#m]pares to [E]Your em - [D]brace
+Light of the [F#m]world for - [E]ever [D]reign
+{eoc}
+
+#Verse 3
+You are [A]more You are more than my words will ever say
+You are [E]Lord You are Lord all creation will proclaim
+You are [A]here You are here in Your presence I’m made whole
+You are [E]God You are God of all else I’m letting go  [A]
+
+{soc}
+[A]   I’m running to Your [E]arms I’m running to Your [F#m]arms
+The riches of Your [F#m]love will [E]always be e - [D]nough
+Nothing com - [F#m]pares to [E]Your em - [D]brace
+Light of the [F#m]world for - [E]ever [A]reign
+{eoc}
+
+{sob}
+[F#m]  My heart will sing [D]  no other Name
+[A]  Jesus [E]  Jesus
+[F#m]  My heart will sing [D]  no other Name
+[A]  Jesus [E]  Jesus
+[F#m]  My heart will sing [D]  no other Name
+[A]  Jesus [E]  Jesus
+{eob}
+
+{soc}
+[A]   I’m running to Your [E]arms I’m running to Your [F#m]arms
+The riches of Your [F#m]love will [E]always be e - [D]nough
+Nothing com - [F#m]pares to [E]Your em - [D]brace
+Light of the [F#m]world for - [E]ever [A]reign
+
+[A]   I’m running to Your [E]arms I’m running to Your [F#m]arms
+The riches of Your [F#m]love will [E]always be e - [D]nough
+Nothing com - [F#m]pares to [E]Your em - [D]brace
+Light of the [F#m]world for - [E]ever [A]reign
+{eoc}
+
+[A]

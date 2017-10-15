@@ -1,0 +1,85 @@
+{title:It Is You}
+{subtitle:Peter Furler}
+{original_key:G}
+{key:D}
+{tempo:80}
+{time:4/4}
+{as:12.1}
+
+{c:Intro}
+[D]
+
+#Verse
+[Bm]  As we [G]lift up our [A]hands will You meet us [Bm]here
+[Bm]  As we [G]call on Your [A]name will You meet us [Bm]here
+[Bm]  We have [G]come to this [A]place to worship [Bm]You
+[Bm]  God of [G]mercy and [A]grace
+
+{c:Pre-Chorus}
+It is [D]You    we a - [G]dore
+It is [D]You    praises are [G]for
+Only [D]You    the heavens de - [G]clare
+It is [D]You    It is [G]You
+
+{start_of_chorus}
+[A]  And holy holy is [G]our God al - [D]mighty
+[A]  And holy holy is [G]His name a - [D]lone
+[A]  And holy holy is [G]our God al - [D]mighty
+[A]  And holy holy is [G]His name a - [D]lone
+
+It is [D]You    we a - [G]dore
+It is [D]You    only [G]You
+{end_of_chorus}
+
+#Verse
+[Bm]  As we [G]lift up our [A]hands will You meet us [Bm]here
+[Bm]  As we [G]call on Your [A]name will You meet us [Bm]here
+[Bm]  We have [G]come to this [A]place to worship [Bm]You
+[Bm]  God of [G]mercy and [A]grace
+
+{c:Pre-Chorus}
+It is [D]You    we a - [G]dore
+It is [D]You    praises are [G]for
+Only [D]You    the heavens de - [G]clare
+It is [D]You    It is [G]You
+
+{start_of_chorus}
+[A]  And holy holy is [G]our God al - [D]mighty
+[A]  And holy holy is [G]His name a - [D]lone
+[A]  And holy holy is [G]our God al - [D]mighty
+[A]  And holy holy is [G]His name a - [D]lone
+{end_of_chorus}
+
+{sob}
+{c:Distortion}
+As we [A]lift up our hands
+As we [G]call on Your [D]name
+Will You [A]visit this place
+By Your [G]mercy and [D]grace
+
+As we [A]lift up our hands
+As we [G]call on Your [D]name
+Will You [A]visit this place
+By Your [G]mercy and [D]grace
+
+{c:Clean}
+It is [D]You    we a - [G]dore
+It is [D]You    It is [G]You
+{eob}
+
+{start_of_chorus}
+{c:Distortion}
+[A]  And holy holy is [G]our God al - [D]mighty
+[A]  And holy holy is [G]His name a - [D]lone
+[A]  And holy holy is [G]our God al - [D]mighty
+[A]  And holy holy is [G]His name a - [D]lone
+
+[A]  And holy holy is [G]our God al - [D]mighty
+[A]  And holy holy is [G]His name a - [D]lone
+[A]  And holy holy is [G]our God al - [D]mighty
+[A]  And holy holy is [G]His name a - [D]lone
+{end_of_chorus}
+
+{c:Ending - Clean}
+It is [D]You    we a - [G]dore
+It is [D]You    only [G]You

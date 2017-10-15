@@ -1,0 +1,24 @@
+{title:Ah Lord God}
+{subtitle:Kay Chance}
+{original_key:D}
+{key:D}
+{tempo:126}
+{time:4/4}
+{as:10}
+
+#Verse
+[D]Ah Lord God
+T[G]hou hast made the hea[D]vens
+And the [D]earth by Thy great po[A]wer
+[D]Ah Lord God
+T[G]hou hast made the hea[D]vens
+And the [D]earth by Thine [A]out - stretched a[D]rm
+
+{soc}
+Not[D]hing is too d[A]ifficult for T[G]hee
+Not[A]hing is too difficult for T[D]hee
+G[D]reat and mighty God [G]
+Great in coun - sel and m[D]ight - y in deed [D]
+Not[D]hing [Bm]nothing [Em7]absolutely [A]nothing
+Not[D]hing is too [A]diffi - cult for T[D]hee
+{eoc}

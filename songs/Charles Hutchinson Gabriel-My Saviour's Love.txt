@@ -1,0 +1,70 @@
+{title:My Saviour's Love}
+{subtitle:Charles Hutchinson Gabriel}
+{original_key:Ab}
+{key:G}
+{time:4/4}
+{as:10}
+
+{c:Intro}
+[G]How marvelous [G]how wonderful
+[C]Is my [G]Sav - iour's [D]love for [G]me
+
+#Verse 1
+[D]I [G]stand amazed in the presence
+Of [D]Jesus the Naz - a - [G]rene
+And [C]wonder how He could [G]love me
+A [G]sinner con - [D]demned un - [G]clean
+
+{soc}
+[G]How marvelous [G]how wonderful
+[D]And my song shall ev - er be
+[G]How marvelous [G]how wonderful
+[C]Is my [G]Sav - iour's [D]love for [G]me
+{eoc}
+
+#Verse 2
+For [G]me it was in the garden
+He [D]prayed not My will but [G]Thine
+He [C]had no tears for His [G]own griefs
+But [G]sweat drops of [D]blood for [G]mine
+
+{soc}
+[G]How marvelous [G]how wonderful
+[D]And my song shall ev - er be
+[G]How marvelous [G]how wonderful
+[C]Is my [G]Sav - iour's [D]love for [G]me
+{eoc}
+
+#Verse 3
+He [G]took my sins and my sorrows
+He [D]made them His ve - ry [G]own
+He [C]bore the bur - den to [G]Cal - vary
+And [G]suffered and [D]died a - [G]lone
+
+{soc}
+[G]How marvelous [G]how wonderful
+[D]And my song shall ev - er be
+[G]How marvelous [G]how wonderful
+[C]Is my [G]Sav - iour's [D]love for [G]me
+{eoc}
+
+#Verse 4
+When [G]with the ransomed in glory
+His [D]face I at last shall [G]see
+'Twill [C]be my joy through the [G]a - ges
+To [G]sing of His [D]love for[G] me
+
+{soc}
+[G]How marvelous [G]how wonderful
+[D]And my song shall ev - er be
+[G]How marvelous [G]how wonderful
+[C]Is my [G]Sav - iour's [D]love for [G]me
+
+[G]How marvelous [G]how wonderful
+[D]And my song shall ev - er be
+[G]How marvelous [G]how wonderful
+[C]Is my [G]Sav - iour's [D]love for [G]me
+{eoc}
+
+{c:Ending}
+[C]Is my [G]Sav - iour's [D]love for [G]me

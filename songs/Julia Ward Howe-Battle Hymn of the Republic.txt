@@ -1,0 +1,76 @@
+{title:Battle Hymn of the Republic}
+{subtitle:Julia Ward Howe}
+{original_key:Bb}
+{key:G}
+{time:4/4}
+{as:11.0}
+
+{c:Intro}
+His [C]truth is m[D]arching [G]on
+
+#Verse 1
+Mine [G]eyes have seen the glory
+Of the coming of the Lord
+He is [C]trampling out the vintage
+Where the [G]grapes of wrath are stored
+He hath loosed the fateful lightning
+Of His terri - ble swift sword
+His [C]truth is m[D]arch - ing [G]on
+
+{soc}
+[G]Glory glory hal - le - lu - jah
+[C]Glory glory halle - [G]lujah
+[G]Glory glory hal - le - lu - jah
+His [C]truth is m[D]arch - ing [G]on
+{eoc}
+
+#Verse 2
+I have [G]seen Him in the watchfires
+Of a hundred cir - cling camps
+They have [C]builded Him an altar
+In the [G]evening dews and damps
+I can read His righteous sentence
+By the dim and flar - ing lamps
+His [C]day is m[D]arch - ing [G]on
+
+{soc}
+[G]Glory glory hal - le - lu - jah
+[C]Glory glory halle - [G]lujah
+[G]Glory glory hal - le - lu - jah
+His [C]truth is m[D]arch - ing [G]on
+{eoc}
+
+#Verse 3
+He has [G]sounded forth the trumpet
+That shall never call re - treat
+He is [C]sifting out the hearts of men
+Be - [G]fore His judgment seat
+O be swift my soul to answer Him
+Be jubi - lant my feet
+Our [C]God is m[D]arch - ing [G]on
+
+{soc}
+[G]Glory glory hal - le - lu - jah
+[C]Glory glory halle - [G]lujah
+[G]Glory glory hal - le - lu - jah
+His [C]truth is m[D]arch - ing [G]on
+{eoc}
+
+#Verse 4
+In the [G]beauty of the lilies
+Christ was born a - cross the sea
+With a [C]glory in His bosom
+That trans - [G]figures you and me
+As He died to make men holy
+Let us live to make men free
+While [C]God is m[D]arch - ing [G]on
+
+{soc}
+[G]Glory glory hal - le - lu - jah
+[C]Glory glory halle - [G]lujah
+[G]Glory glory hal - le - lu - jah
+His [C]truth is m[D]arch - ing [G]on
+{eoc}
+
+{c:Ending w/ Retard}
+His [C]truth is m[D]arch - ing [G]on

@@ -1,0 +1,83 @@
+{title:One Way}
+{subtitle:Joel Houston}
+{original_key:B}
+{key:A}
+{tempo:125}
+{time:4/4}
+{as:14.0}
+
+{c:Intro}
+[A] [F#m] [E] [D]
+
+#Verse 1
+[A] I lay my life down at Your feet
+[F#m] You're the only One I need
+[E] I turn to You and You are always [D]there
+[A] In troubled times it's You I seek
+[F#m] I put You first that's all I need
+[E] I humble all I am all to [D]You
+
+{soc}
+[A] One way [E] Jesus
+[F#m] You're the only One that [D]I could live for
+[A] One way [E] Jesus
+[F#m] You're the only One that [D]I could live for
+{eoc}
+
+[F#m] [D]
+
+#Verse 2
+[A] You are always always there
+[F#m] Every how and every where
+[E] Your grace abounds so deeply within [D]me
+[A] You will never ever change
+[F#m] Yesterday today the same
+[E] Forever 'til forever meets no [D]end
+
+{soc}
+[A] One way [E] Jesus
+[F#m] You're the only One that [D]I could live for
+[A] One way [E] Jesus
+[F#m] You're the only One that [D]I could live for
+
+[A] One way [E] Jesus
+[F#m] You're the only One that [D]I could live for
+[A] One way [E] Jesus
+[F#m] You're the only One that [D]I could live for
+{eoc}
+
+{sob}
+{c:Palm Muting 1st time}
+[A]You are the Way
+[E]The Truth and the Life
+We [F#m]live by faith and [D]not by sight for [F#m]You
+We're [E]living all for [D]You
+
+[A]You are the Way
+[E]The Truth and the Life
+We [F#m]live by faith and [D]not by sight for [F#m]You
+We're [E]living all for [D]You
+
+[A]You are the Way
+[E]The Truth and the Life
+We [F#m]live by faith and [D]not by sight for [F#m]You
+We're [E]living all for [D]You
+
+[A]You are the Way
+[E]The Truth and the Life
+We [F#m]live by faith and [D]not by sight for [F#m]You
+We're [E]living all for [D]You
+{eob}
+
+{soc}
+[A] One way [E] Jesus
+[F#m] You're the only One that [D]I could live for
+[A] One way [E] Jesus
+[F#m] You're the only One that [D]I could live for
+
+[A] One way [E] Jesus
+[F#m] You're the only One that [D]I could live for
+[A] One way [E] Jesus
+{c:Retard}
+[F#m] You're the only One that [D]I could live [A]for
+{eoc}

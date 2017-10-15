@@ -1,0 +1,44 @@
+{title:I Give You My Heart}
+{subtitle:Reuben Morgan}
+{original_key:G}
+{key:G}
+{tempo:76}
+{time:4/4}
+{as:10}
+
+{c:Intro}
+[C]  [D]  [Bm7]  [C]
+
+#Verse
+[G]This is my de -  [Em7]sire to [C]hon -  [G]our  [D/F#]You
+[Em]Lord with all [D/F#]my [G]heart I worship [F]You    [C]     [D]
+[G]All I have with - [Em7]in me I [C]give    [G]You  [D/F#]praise
+[Em]All that I [D/F#]a - [G]dore is in [F]You    [C]     [D]
+
+{soc}
+[G]  Lord I give You my [D/F#]heart I give You my [Am7]soul
+I [C]live for [D/F#]You [G]alone
+[G]  Ev'ry breath that I [D/F#]take ev'ry moment I'm a - [Am7]wake
+Lord [C]have Your [D/F#]way in [C]me
+{eoc}
+
+#Verse
+[G]This is my de -  [Em7]sire to [C]hon -  [G]our  [D/F#]You
+[Em]Lord with all [D/F#]my [G]heart I worship [F]You    [C]     [D]
+[G]All I have with - [Em7]in me I [C]give    [G]You  [D/F#]praise
+[Em]All that I [D/F#]a - [G]dore is in [F]You    [C]     [D]
+
+{soc}
+[G]  Lord I give You my [D/F#]heart I give You my [Am7]soul
+I [C]live for [D/F#]You [G]alone
+[G]  Ev'ry breath that I [D/F#]take ev'ry moment I'm a - [Am7]wake
+Lord [C]have Your [D/F#]way in [G]me
+
+[G]  Lord I give You my [D/F#]heart I give You my [Am7]soul
+I [C]live for [D/F#]You [G]alone
+[G]  Ev'ry breath that I [D/F#]take ev'ry moment I'm a - [Am7]wake
+Lord [C]have Your [D/F#]way in [C]me
+{eoc}
+
+{c:Ending}
+[C]  [D]  [Bm7]  [C]  [G]

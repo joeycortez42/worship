@@ -1,0 +1,42 @@
+{title:Hurt}
+{subtitle:Trent Reznor}
+{original_key:C}
+{key:C}
+{tempo:91}
+{time:4/4}
+{as:4.8}
+
+{c:Intro}
+[Am]   [C] [D] [Am]   [C] [D]
+
+#Verse 1
+[Am]   I [C]hurt my[D]self to[Am]day   to [C]see if [D]I still [Am]feel
+[C]I focus [D]on the [Am]pain   the [C]only thi[D]ng that's[Am] real
+[C]The needl[D]e tears a[Am] hole   the [C]old fam[D]iliar s[Am]ting
+Try t[C]o kill i[D]t all a[Am]way   but I r[C]emember [D]everythi[G]ng
+
+{soc}
+[Am]What have I beco[F]me   [C]  My sweetest fr[G]iend
+[Am]Everyone I k[F]now  goes away[C] in the e[G]nd
+And [Am]you could have it a[F]ll   [G]My empire of [G]dirt
+[Am]I will let you d[F]own    [G]I will make you h[Am]urt
+{eoc}
+
+[Am]   [C] [D] [Am]   [C] [D]
+
+#Verse 2
+[Am]   I [C]wear this [D]crown of [Am]thorns   up[C]on my l[D]iars c[Am]hair
+[C]Full of bro[D]ken thoug[Am]hts   [C]I cann[D]ot rep[Am]air
+[C]Beneath the [D]stains of [Am]time   the [C]feeling [D]disappe[Am]ars
+[C]You are so[D]meone e[Am]lse   [C]I am s[D]till r[G]ight here
+
+{soc}
+[Am]What have I beco[F]me   [C]  My sweetest fr[G]iend
+[Am]Everyone I k[F]now  goes away[C] in the e[G]nd
+And [Am]you could have it a[F]ll   [G]My empire of [G]dirt
+[Am]I will let you d[F]own   [G]I will make you [G]hurt
+{eoc}
+
+{c: Ending}
+If [Am]I could start aga[F]in  a [G]million miles a[G]way
+[Am]I would keep mys[F]elf  [G]I would find a [Am]way

@@ -1,0 +1,74 @@
+{title:How Great Is Our God}
+{subtitle:Chris Tomlin}
+{original_key:C}
+{key:G}
+{tempo:76}
+{time:4/4}
+{as:10}
+
+{c:Intro}
+[G] [Em] [C] [G]
+
+#Verse 1
+The [G]splendor of the King
+[Em]Clothed in majesty
+Let all the earth [C]rejoice
+All the earth re - joice
+He [G]wraps Himself in light
+And [Em]darkness tries to hide
+And trembles at His [C]voice
+And trembles at His voice
+
+{soc}
+How [G]great is our God... Sing with me
+How [Em]great is our God
+And all will see
+How [C]great How [D]great is our [G]God
+{eoc}
+
+#Verse 2
+And [G]age to age He stands
+And [Em]time is in His hands
+Beginning and the [C]End
+Beginning and the End
+The [G]Godhead three in one
+[Em]Father Spirit Son
+The Lion and the [C]Lamb
+The Lion and the Lamb
+
+{soc}
+How [G]great is our God... Sing with me
+How [Em]great is our God
+And all will see
+How [C]great How [D]great is our [G]God
+{eoc}
+
+{sob}
+[G]Name above all names
+[Em]Worthy of all praise
+My [C]heart will sing
+How [D]great is our [G]God
+
+[G]Name above all names
+[Em]Worthy of all praise
+My [C]heart will sing
+How [D]great is our [G]God
+{eob}
+
+{soc}
+How [G]great is our God... Sing with me
+How [Em]great is our God
+And all will see
+How [C]great How [D]great is our [G]God
+
+How [G]great is our God... Sing with me
+How [Em]great is our God
+And all will see
+How [C]great How [D]great is our [G]God
+{eoc}
+
+{c:Ending - A cappella}
+How [G]great is our God... Sing with me
+How [Em]great is our God
+And all will see
+How [C]great How [D]great is our [G]God

@@ -1,0 +1,17 @@
+{title:Let The Redeemed}
+{subtitle:Ward Ellis}
+{original_key:C}
+{key:C}
+{time:4/4}
+{as:11.0}
+
+{c:Intro}
+[C] [F] [C] [G]
+
+{soc}
+L[C]et the redeemed of the L[F]ord say [C]so
+Let the redeemed of the Lord say [G]so
+L[C]et the redeemed of the Lord say [F]So
+I'm re - de[C]emed I'm re - de[G]emed
+Praise the L[C]ord
+{eoc}

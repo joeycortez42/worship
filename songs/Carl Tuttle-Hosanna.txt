@@ -1,0 +1,57 @@
+{title:Hosanna}
+{subtitle:Carl Tuttle}
+{original_key:G}
+{key:G}
+{tempo:120}
+{time:4/4}
+{as:11.0}
+
+#Verse 1
+Ho - s[G]anna ho - [D]sanna
+Ho - [Em]sanna in the h[C]igh - [D]est
+Ho - s[G]anna ho - [D]sanna
+Ho - [Em]sanna in the h[C]igh - [D]est
+
+{soc}
+[C] Lord we lift up Your na[G] - me
+[C] With hearts full of pr[G] - aise
+[C] Be ex-alted oh L[G]ord [D/F#]my   [Em]God
+Ho - s[C]anna in the h[D]igh - [G]est
+{eoc}
+
+{c:Now sing Glory to Him}
+
+#Verse 2
+Gl[G] - o - ry  gl[D] - o - ry
+G[Em]lory to the K[C]ing of ki[D]ngs—
+Gl[G] - o - ry  gl[D] - o - ry
+G[Em]lory to the K[C]ing of ki[D]ngs—
+
+{soc}
+[C] Lord we lift up Your na[G] - me
+[C] With hearts full of pr[G] - aise
+[C] Be ex-alted oh L[G]ord [D/F#]my   [Em]God
+Gl[C]ory to the K[D]ing- of k[G]ings—
+
+[C] Lord we lift up Your na[G] - me
+[C] With hearts full of pr[G] - aise
+[C] Be ex-alted oh L[G]ord [D/F#]my   [Em]God
+Gl[C]ory to the K[D]ing- of k[G]ings—
+{eoc}
+
+#Verse 1
+Ho - s[G]anna ho - [D]sanna
+Ho - [Em]sanna in the h[C]igh - [D]est
+Ho - s[G]anna ho - [D]sanna
+Ho - [Em]sanna in the h[C]igh - [D]est
+
+{soc}
+[C] Lord we lift up Your na[G] - me
+[C] With hearts full of pr[G] - aise
+[C] Be ex-alted oh L[G]ord [D/F#]my   [Em]God
+Ho - s[C]anna in the h[D]igh - [G]est
+{eoc}
+
+{c:Ending}
+Ho - s[C]anna in the h[D]igh - [G]est
+Ho - s[C]anna in the h[D]igh - [G]est

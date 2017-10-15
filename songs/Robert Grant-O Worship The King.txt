@@ -1,0 +1,60 @@
+{title:O Worship The King}
+{subtitle:Robert Grant}
+{original_key:G}
+{key:D}
+{tempo:120}
+{time:4/4}
+{as:11.0}
+
+{c:Intro}
+Pa - [D]vil - ioned in splendor [G]and gird - ed [A]with [D]praise
+
+#Verse 1
+O [D]wor - ship the King all [G]glo - rious a - [A]bove
+And [D]grate - ful - ly sing [G]His wonder[A]ful [D]love
+[A]Our Shield and De - fender the Ancient of Days
+Pa - [D]vil - ioned in splendor [G]and gird - ed [A]with [D]praise
+
+#Verse 2
+O [D]tell of His might O [G]sing of His [A]grace
+Whose [D]robe is the light [G]whose can - o - [A]py [D]space
+[A]His chariots of wrath the deep thunder - clouds form
+And [D]dark is His path on [G]the wings of [A]the [D]storm
+
+{soc}
+O [D]Worship the [G]Lord God On [A]High
+[D]Praise Him all [G]Creatures Draw [A]Nigh
+[D]Sing ‘Round [G]His Glorious [A]Throne
+[Bm]Our True Adoration [A]Forever Make [D]Known
+{eoc}
+#
+#Verse 3
+#Thy [D]boun - ti - ful care what [G]tongue can re - [A]cite
+#It [D]breathes in the air [G]it shines in [A]the [D]light
+#[A]It streams from the hills it de - scends to the plain
+#And [D]sweet - ly dis - tills in [G]the dew and [A]the [D]rain
+
+#Verse 4
+Frail [D]chil - dren of dust and [G]fee - ble as [A]frail
+In [D]Thee do we trust [G]nor find Thee [A]to [D]fail
+[A]Thy mercies how tender how firm to the end
+Our [D]Mak - er De - fender [G]Re - deem - er [A]and [D]Friend
+
+{soc}
+O [D]Worship the [G]Lord God On [A]High
+[D]Praise Him all [G]Creatures Draw [A]Nigh
+[D]Sing ‘Round [G]His Glorious [A]Throne
+[Bm]Our True Adoration [A]Forever Make [D]Known
+
+O [D]Worship the [G]Lord God On [A]High
+[D]Praise Him all [G]Creatures Draw [A]Nigh
+[D]Sing ‘Round [G]His Glorious [A]Throne
+[Bm]Our True Adoration
+{eoc}
+
+{c:Ending}
+[Bm]Our True Adoration
+[Bm]Our True Adoration
+[A]Forever Make [D]Known
+
+[G] [A] [D]

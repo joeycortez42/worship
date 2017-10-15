@@ -1,0 +1,78 @@
+{title:Arise}
+{subtitle:Paul Baloche}
+{original_key:E}
+{key:E}
+{tempo:117}
+{time:4/4}
+{as:12}
+
+{c:Intro}
+[D] [A] [C] [G]
+[D] [A] [C] [G]
+
+#Verse
+[D]  One thing we [A]ask of You
+[C]  One thing that [G]we desire
+[D]  That as we wor[A]ship You
+[C]  Lord come and ch[G]ange our lives
+A - r[D]ise   a - r[A]ise
+A - r[D]ise   a - r[G]ise
+
+{soc}
+A - ri[D]se take Your pl[A]ace
+Be en - th[Bm7]roned on our pr[G]aise
+A - ri[D]se King of ki[A]ngs
+Holy G[Bm7]od as we si[G]ng
+A - ri[D]se [A] [Bm7] [G]
+A - ri[D]se [A] [Bm7] [G]
+{eoc}
+
+#Verse
+[D]  One thing we [A]ask of You
+[C]  One thing that [G]we desire
+[D]  That as we wor[A]ship You
+[C]  Lord come and ch[G]ange our lives
+A - r[D]ise   a - r[A]ise
+A - r[D]ise   a - r[G]ise
+
+{soc}
+A - ri[D]se take Your pl[A]ace
+Be en - th[Bm7]roned on our pr[G]aise
+A - ri[D]se King of ki[A]ngs
+Holy G[Bm7]od as we si[G]ng
+A - ri[D]se [A] [Bm7] [G]
+A - ri[D]se [A] [Bm7] [G]
+{eoc}
+
+[D] [A] [C] [G]
+[D] [A] [C] [G]
+Lord, one thing we ask of you today. One thing that we desire. That as we worship you would you come, Holy Spirit, change our lives.
+
+A - r[D]ise   a - r[A]ise
+A - r[D]ise   a - r[G]ise
+
+A - r[D]ise   a - r[A]ise
+A - r[Bm7]ise   a - r[G]ise
+
+{soc}
+A - ri[D]se take Your pl[A]ace
+Be en - th[Bm7]roned on our pr[G]aise
+A - ri[D]se King of ki[A]ngs
+Holy G[Bm7]od as we si[G]ng
+
+A - ri[D]se take Your pl[A]ace
+Be en - th[Bm7]roned on our pr[G]aise
+A - ri[D]se King of ki[A]ngs
+Holy G[Bm7]od as we si[G]ng
+
+A - ri[D]se take Your pl[A]ace
+Be en - th[Bm7]roned on our pr[G]aise
+A - ri[D]se King of ki[A]ngs
+Holy G[Bm7]od as we si[G]ng
+{eoc}
+
+{c:Ending}
+A - ri[D]se [A] [Bm7] [G]
+A - ri[D]se [A] [Bm7] [G]
+A - ri[D]se [A] [Bm7] [G]
+[D]

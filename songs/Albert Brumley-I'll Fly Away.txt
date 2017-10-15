@@ -1,0 +1,54 @@
+{title:I'll Fly Away}
+{subtitle:Albert Brumley}
+{original_key:G}
+{key:E}
+{tempo:120}
+{time:4/4}
+{as:11.0}
+
+{c:Intro}
+[E]When I die hallelujah by and by
+I[E]'ll [B]fly a - w[E]ay
+
+#Verse 1
+So[E]me glad morning when this life is o'er
+I[A]'ll fly a - w[E]ay
+[E]To a home on God's celestial shore
+I[E]'ll [B]fly a - w[E]ay
+
+{soc}
+I[E]'ll fly away O glory
+I[A]'ll fly a - w[E]ay (in the morning)
+When I die hallelujah by and by
+I[E]'ll [B]fly a - w[E]ay
+{eoc}
+
+#Verse 2
+W[E]hen the shadows of this life have grown
+I[A]'ll fly a - w[E]ay
+[E]Like a bird from prison bars has flown
+I[E]'ll [B]fly a - w[E]ay
+
+{soc}
+I[E]'ll fly away O glory
+I[A]'ll fly a - w[E]ay (in the morning)
+When I die hallelujah by and by
+I[E]'ll [B]fly a - w[E]ay
+{eoc}
+
+#Verse 3
+J[E]ust a few more weary days and then
+I[A]'ll fly a - w[E]ay
+[E]To a land where joys shall never end
+I[E]'ll [B]fly a - w[E]ay
+
+{soc}
+I[E]'ll fly away O glory
+I[A]'ll fly a - w[E]ay (in the morning)
+When I die hallelujah by and by
+I[E]'ll [B]fly a - w[E]ay
+{eoc}
+
+{c:Ending}
+When I die hallelujah by and [C#]by
+I[E]'ll [B]fly a - w[E]ay

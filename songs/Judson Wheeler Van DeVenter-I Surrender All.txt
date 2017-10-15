@@ -1,0 +1,63 @@
+{title:I Surrender All}
+{subtitle:Judson Wheeler Van DeVenter}
+{original_key:D}
+{key:A}
+{tempo:120}
+{time:4/4}
+{as:8}
+
+{c:Intro}
+[A]All to T[A]hee my [A]blessed Sa[D]vior
+[A]I surren - [E]der a[A]ll
+
+#Verse 1
+A[A]ll to Je - sus [E]I surrender
+A[A]ll to [D]Him I fr[E]eely g[A]ive
+[A]I will ev - er l[E]ove and trust Him
+I[A]n His [D]pres - ence d[E]aily li[A]ve
+
+{soc}
+[A]I sur - ren - der [Bm]all
+[E]I surrender [A]all
+[A]All to T[A]hee my [A]blessed Sa[D]vior
+[A]I surren - [E]der a[A]ll
+{eoc}
+
+#Verse 2
+A[A]ll to Je - sus [E]I surrender
+Hu[A]mbly [D]at His f[E]eet I b[A]ow
+[A]Worldly pleas - ures [E]all forsaken
+T[A]ake me [D]Je - sus t[E]ake me n[A]ow
+
+{soc}
+[A]I sur - ren - der [Bm]all
+[E]I surrender [A]all
+[A]All to T[A]hee my [A]blessed Sa[D]vior
+[A]I surren - [E]der a[A]ll
+{eoc}
+
+#Verse 3
+A[A]ll to Je - sus [E]I surrender
+M[A]ake me [D]Sav - ior w[E]holly Th[A]ine
+[A]May The Ho - ly S[E]pirit fill me
+M[A]ay I [D]know Thy p[E]ow'r divi[A]ne
+
+{soc}
+[A]I sur - ren - der [Bm]all
+[E]I surrender [A]all
+[A]All to T[A]hee my [A]blessed Sa[D]vior
+[A]I surren - [E]der a[A]ll
+{eoc}
+
+#Verse 4
+A[A]ll to Je - sus [E]I surrender
+L[A]ord I [D]give my - [E]self to Th[A]ee
+[A]Fill me with Thy l[E]ove and power
+L[A]et Thy b[D]less - ing [E]fall on [A]me
+
+{soc}
+[A]I sur - ren - der [Bm]all
+[E]I surrender [A]all
+[A]All to T[A]hee my [A]blessed Sa[D]vior
+[A]I surren - [E]der a[A]ll
+{eoc}

@@ -1,0 +1,65 @@
+{title:Awesome is the Lord Most High}
+{subtitle:Chis Tomlin}
+{original_key:Ab}
+{key:E}
+{tempo:132}
+{time:4/4}
+{as:11}
+
+{c:Intro}
+[E] [B] [C#m] [A]
+
+#Verse 1
+[E] Great are You Lord mighty in stre[B]ngth
+[A] You are faithful and You will ever [E]be
+[E]We will praise You all of our d[B]ays
+[A] It's for Your glory we offer ev'ry - t[C#m]hing
+
+{soc}
+Raise your ha[E]nds all you nations
+Shout to [B]God all creation
+How aw[C#m]esome is the Lord most high [A]
+{eoc}
+
+#Verse 2
+[E] Where You send us God we will[B] go
+[A] You're the answer we want the world to kn[E]ow
+[E]We will trust You When You call our na[B]me
+[A] Where You lead us we'll follow all the [C#m]way
+
+{soc}
+Raise your ha[E]nds all you nations
+Shout to [B]God all creation
+How aw[C#m]esome is the Lord most high [A]
+
+We will pr[E]aise You together for [B]now and forever
+How aw[C#m]esome is the Lord most high [A]
+{eoc}
+
+[E] [B] [C#m] [A]
+
+{sob}
+H[E]allelujah, h[B]allelujah
+How aw[C#m]esome is the Lord most high [A]
+H[E]allelujah, h[B]allelujah
+How aw[C#m]esome is the Lord most high [A]
+{eob}
+
+{soc}
+Raise your ha[E]nds all you nations
+Shout to [B]God all creation
+How aw[C#m]esome is the Lord most high [A]
+
+We will pr[E]aise You together for [B]now and forever
+How aw[C#m]esome is the Lord most high [A]
+{eoc}
+
+{sob}
+H[E]allelujah, h[B]allelujah
+How aw[C#m]esome is the Lord most high [A]
+H[E]allelujah, h[B]allelujah
+How aw[C#m]esome is the Lord most high [A]
+{eob}
+
+{c:Ending}
+The Lord most high [E]

@@ -1,0 +1,83 @@
+{title:My Life is in You Lord}
+{subtitle:Daniel Gardner}
+{original_key:G}
+{key:G}
+{tempo:160}
+{time:4/4}
+{as:15.0}
+
+{c:Intro}
+[G] [Em] [C] [D]
+
+{soc}
+My [G]life is in You Lord
+My [Em]strength is in You Lord
+My [C]hope is in You Lord
+In [G]You it's in [D]You
+
+My [G]life is in You Lord
+My [Em]strength is in You Lord
+My [C]hope is in You Lord
+In [G]You it's in [D]You
+
+My [G]life is in You, Lord
+My [Em]strength is in You Lord
+My [C]hope is in You Lord
+In [G]You it's in [D]You
+
+My [G]life is in You, Lord
+My [Em]strength is in You Lord
+My [C]hope is in You Lord
+In [G]You it's in [D]You
+{eoc}
+
+#Verse
+[C]I will praise You [D]with all of my [G]life
+[C]I will praise You [D]with all of my stre[G]ngth
+[D]With all of my [G]life
+[E]With all of my stre[Am]ngth
+[F]All of my [Am7]hope is in [D]You
+
+{soc}
+My [G]life is in You Lord
+My [Em]strength is in You Lord
+My [C]hope is in You Lord
+In [G]You it's in [D]You
+
+My [G]life is in You Lord
+My [Em]strength is in You Lord
+My [C]hope is in You Lord
+In [G]You it's in [D]You
+{eoc}
+
+#Verse
+[C]I will praise You [D]with all of my [G]life
+[C]I will praise You [D]with all of my stre[G]ngth
+[D]With all of my [G]life
+[E]With all of my stre[Am]ngth
+[F]All of my [Am7]hope is in [D]You
+
+{soc}
+My [G]life is in You Lord
+My [Em]strength is in You Lord
+My [C]hope is in You Lord
+In [G]You it's in [D]You
+
+My [G]life is in You Lord
+My [Em]strength is in You Lord
+My [C]hope is in You Lord
+In [G]You it's in [D]You
+
+My [G]life is in You Lord
+My [Em]strength is in You Lord
+My [C]hope is in You Lord
+In [G]You it's in [D]You
+
+My [G]life is in You Lord
+My [Em]strength is in You Lord
+My [C]hope is in You Lord
+In [G]You it's in [D]You
+{eoc}
+
+{c:Ending}
+It's in [G]You

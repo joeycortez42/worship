@@ -1,0 +1,31 @@
+{title:This Is The Day}
+{subtitle:Les Garrett}
+{original_key:Eb}
+{key:D}
+{tempo:120}
+{time:4/4}
+{as:10}
+
+{c:Intro}
+[D]
+
+[D]This is the day
+[D]This is the day
+That the [A]Lord hath made
+That the [A]Lord hath made
+[A]We will rejoice
+[A]We will rejoice
+And be [D]glad in it
+And be [D]glad in it
+
+[G]This is the day
+That the [D]Lord hath made
+[G]We will rejoice and be [D]glad in [A]it
+[D]This is the day
+[D]This is the day
+That the [A]Lord hath [D]made
+{c:Repeat x3}
+
+{c:Ending}
+That the [A]Lord hath [D]made
+That the [A]Lord hath [D]made

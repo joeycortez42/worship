@@ -1,0 +1,71 @@
+{title:10,000 Reasons}
+{subtitle:Matt Redman}
+{original_key:G}
+{key:D}
+{tempo:73}
+{time:4/4}
+{as:10}
+
+{c:Intro}
+[D] [A] [E] [F#m]
+[D] [A] [E] [E]
+
+#Verse 1
+The [D]sun comes [A]up it's a [E]new day [F#m]dawn-ing
+[D] It's time to s[A]ing Your song [E] a-gain[F#m]
+What-[D]ev-er may p[A]ass and what-[E]ev-er lies be-[F#m]fore me
+{c:Rest}
+[D] let me be [A]sign-ing when the ev-'[E]ning [A]comes
+[A]
+
+{soc}
+Bless the [D]Lord O my [A]soul [E]O my [F#m]soul
+[D]wors-hip His ho[A] - ly name[E]
+Sing like [D]nev-er be-[F#m]fore
+[D]O [E]my [F#m]soul I'll [D]wor-ship Your ho[E] - ly name[A]
+{eoc}
+
+#Verse 2
+You're [D]rich in l[A]ove and You're sl[E]ow to [F#m]an-ger
+Your [D]name is gr[A]eat and Your he[E]art is ki[F#m]nd
+For [D]all You g[A]ood-ness I will k[E]eep on [F#m]sign-ing
+{c:Rest}
+[D] ten thou-sand r[A]ea-sons for my heart [E]to f[A]ind
+[A]
+
+{soc}
+Bless the [D]Lord O my [A]soul [E]O my [F#m]soul
+[D]wors-hip His ho[A] - ly name[E]
+Sing like [D]nev-er be-[F#m]fore
+[D]O [E]my [F#m]soul I'll [D]wor-ship Your ho[E] - ly name[A]
+{eoc}
+
+[D] [A] [E] [F#m]
+[D] [A] [E] [E]
+
+#Verse 3
+{c:No Bass, Guitars Empty Strum}
+And [D]on that [A]day when my str[E]ength is [F#m]fail-ing
+the [D]end draws n[A]ear and my t[E]ime has co[F#m]me
+S[D]till my [F#m]soul sings Your [D]priase un - [F#m]ending
+{c:Rest 2,3 Full Band}
+[D] ten thou-sand y[A]ears and then for - ev - [E]er - m[A]ore
+
+{soc}
+Bless the [D]Lord O my [A]soul [E]O my [F#m]soul
+[D]wors-hip His ho[A] - ly name[E]
+Sing like [D]nev-er be-[F#m]fore
+[D]O [E]my [F#m]soul I'll [D]wor-ship Your ho[E] - ly name[F#m]
+{eoc}
+
+{c:Ending}
+I'll [D]wor-ship Your ho[E] - ly name[F#m]
+Lord I'll [D]wor-ship Your ho[E] - ly name[A]
+{c:Rest}
+[D] [A] [E] [F#m]
+[D] [A] [E] [E]
+
+Sing like [D]nev-er be-[F#m]fore
+[D]O [E]my [F#m]soul I'll [D]wor-ship Your ho[E] - ly name[F#m]
+I'll [D]wor-ship Your ho[E] - ly name[F#m]
+I'll [D]wor-ship Your ho[E] - ly name[A]

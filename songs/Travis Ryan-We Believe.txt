@@ -1,0 +1,81 @@
+{title:We Believe}
+{subtitle:Travis Ryan}
+{original_key:D}
+{key:G}
+{tempo:66}
+{time:4/4}
+{as:8.4}
+
+{c:Intro}
+[G] [C] [G] [C]
+
+#Verse 1
+[G] In this time of desper - [C]ation
+[G] When all we know is doubt [C]and fear
+[Em] There is only one foun - da[C]tion
+We be - li[G]eve we be - l[C]ieve
+
+[G] In this broken gener - a[C]tion
+[G] When all is dark You help [C]us see
+[Em] There is only one sal - va[C]tion
+We beli[G]eve we bel[C]ieve
+
+{soc}
+We be - li[G]eve in God the Father
+We be - li[D]eve in Jesus Christ
+We be - li[Em]eve in the Holy Spirit
+And He's gi[C]ven us new life
+
+We be - li[G]eve in the crucifixion
+We be - li[D]eve that He conquered death
+We be - li[Em]eve in the resurrection
+And He's co[C]ming back again
+We li[G]eve [C]
+{eoc}
+
+{as:11.9}
+#Verse 2
+So[G] let our faith be more than ant[C]hems
+[G] Greater than the songs [C]we sing
+[Em] In our weakness and temp - tat[C]ions
+We be - li[G]eve we be - li[C]eve
+
+{soc}
+We be - li[G]eve in God the Father
+We be - li[D]eve in Jesus Christ
+We be - li[Em]eve in the Holy Spirit
+And He's gi[C]ven us new life
+
+We be - li[G]eve in the crucifixion
+We be - li[D]eve that He conquered death
+We be - li[Em]eve in the resurrection
+And He's co[C]ming back again
+{eoc}
+
+{sob}
+Let the [C]lost be found and the [D]dead be raised
+In the [Em]here and now let [G]love invade
+Let the ch[C]urch live loud our [D]God will save
+We be - [Em]lieve we be - li[G]eve
+And the g[C]ates of hell will [D]not prevail
+For the p[Em]ow'r of God has t[G]orn the veil
+Now we k[C]now Your love will ne[D]ver fail
+We be - [Em]lieve we be - li[G]eve
+{eob}
+
+{soc}
+We be - li[G]eve in God the Father
+We be - li[D]eve in Jesus Christ
+We be - li[Em]eve in the Holy Spirit
+And He's gi[C]ven us new life
+
+We be - li[G]eve in the crucifixion
+We be - li[D]eve that He conquered death
+We be - li[Em]eve in the resurrection
+And He's co[C]ming back
+{eoc}
+
+{c:Ending}
+He's coming back a - g[G]ain [D]
+He's coming back a - g[Em]ain
+We be - li[C]eve we believe [G]

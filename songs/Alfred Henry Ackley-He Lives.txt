@@ -1,0 +1,67 @@
+{title:He Lives}
+{subtitle:Alfred Henry Ackley}
+{original_key:Ab}
+{key:G}
+{tempo:66}
+{time:6/8}
+{as:11.5}
+
+#Verse 1
+I [G]serve a ris - en Savior
+[G]He's in the world to - day
+I know that [B]He is living
+What - [A]ever men may [D]say
+I [G]see His hand of mer-cy
+[G]I hear His voice of cheer
+And [A]just the time I need Him He's al - ways [D]near
+
+{soc}
+He [G]lives He lives [G]
+Christ [C]Jesus lives to - [G]day
+He [D]walks with me and [G]talks with me
+A - [A]long life's nar - row [D]way
+He [G]lives He lives [G]
+Sal - [C]vation to im - [B]part
+You [E]ask me how I know [A]He lives
+He [C]lives with - [D]in [G]my heart
+{eoc}
+
+#Verse 2
+In [G]all the world around me
+[G]I see His loving care
+And though my [B]heart grows weary
+I [A]never will de - [D]spair
+I [G]know that He is lead - ing
+[G]Through all the stormy blast
+The [A]day of His ap - pearing Will come at [D]last
+
+{soc}
+He [G]lives He lives [G]
+Christ [C]Jesus lives to - [G]day
+He [D]walks with me and [G]talks with me
+A - [A]long life's nar - row [D]way
+He [G]lives He lives [G]
+Sal - [C]vation to im - [B]part
+You [E]ask me how I know [A]He lives
+He [C]lives with - [D]in [G]my heart
+{eoc}
+
+#Verse 3
+Re - [G]joice rejoice O Chris - tian
+[G]Lift up your voice and sing
+Eternal [B]hal - le - lu - jahs
+To [A]Jesus Christ the [D]King
+The [G]Hope of all who seek Him
+[G]The Help of all who find
+None [A]oth - er is so loving So good and [D]kind
+
+{soc}
+He [G]lives He lives [G]
+Christ [C]Jesus lives to - [G]day
+He [D]walks with me and [G]talks with me
+A - [A]long life's nar - row [D]way
+He [G]lives He lives [G]
+Sal - [C]vation to im - [B]part
+You [E]ask me how I know [A]He lives
+He [C]lives with - [D]in [G]my heart
+{eoc}

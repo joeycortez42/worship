@@ -1,0 +1,53 @@
+{title:Blessed Assurance}
+{subtitle:Fanny Jane Crosby}
+{original_key:D}
+{key:G}
+{tempo:65}
+{time:9/8}
+{as:10}
+
+{c:Intro}
+[G]Prais - ing my [Am]Savior [D]all the day [G]long
+
+#Verse 1
+Bless - ed a[G]ssurance [C]Je - sus is [G]mine
+O what a [Em]fore - taste of [A]glo - ry di - v[D]ine
+Heir of sal[G]vation [C]pur - chase of [G]God
+Born of His [Am]Spirit [D]washed in His [G]blood
+
+{soc}
+This is my [G]story [C]this is my [G]song
+Praising my [Em]Sav - ior [A]all the day [D]long
+This is my [G]story [C]this is my [G]song
+Prais - ing my [Am]Savior [D]all the day [G]long
+{eoc}
+
+#Verse2
+Per - fect sub[G]mission [C]per - fect de - [G]light
+Visions of [Em]rap - ture now [A]burst on my [D]sight
+An - gels des[G]cending [C]bring from a - [G]bove
+Ech - oes of [Am]mercy [D]whis - pers of [G]love
+
+{soc}
+This is my [G]story [C]this is my [G]song
+Praising my [Em]Sav - ior [A]all the day [D]long
+This is my [G]story [C]this is my [G]song
+Prais - ing my [Am]Savior [D]all the day [G]long
+{eoc}
+
+#Verse 3
+Per - fect sub[G]mission [C]all is at [G]rest
+I in my [Em]Sav - ior am [A]hap - py and [D]blest
+Watch - ing and [G]waiting [C]look - ing a - [G]bove
+Filled with His [Am]goodness [D]lost in His [G]love
+
+{soc}
+This is my [G]story [C]this is my [G]song
+Praising my [Em]Sav - ior [A]all the day [D]long
+This is my [G]story [C]this is my [G]song
+Prais - ing my [Am]Savior [D]all the day [G]long
+{eoc}
+
+{c:Ending}
+This is my [G]story [C]this is my [G]song
+Prais - ing my [Am]Savior [D]all the day [G]long [C] [G]

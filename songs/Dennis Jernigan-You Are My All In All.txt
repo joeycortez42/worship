@@ -1,0 +1,45 @@
+{title:You Are My All In All}
+{subtitle:Dennis Jernigan}
+{original_key:F}
+{key:D}
+{tempo:80}
+{time:4/4}
+{as:10}
+
+{c:Intro}
+You are my [A]all in [D]all  [A]
+
+#Verse 1
+[D] You are my [A]strength when I am [Bm]weak
+You are the [D]trea - sure that I [G]seek
+You are my [A]all in [D]all  [A]
+[D] Seeking You [A]as a precious [Bm]jewel
+Lord to [D]give up I'd be a [G]fool
+You are my [A]all in [D]all  [A]
+
+{soc}
+[D]Je - [A]sus [Bm]Lamb of [D]God
+[G]Worthy [A]is Your [D]na[A]me
+[D]Je - [A]sus [Bm]Lamb of [D]God
+[G]Worthy [A]is Your [D]name
+{eoc}
+
+#Verse 2
+[D] Taking my [A]sin my cross my [Bm]shame
+Rising a - [D]gain I bless Your [G]name
+You are my [A]all in [D]all  [A]
+[D] When I fall [A]down You pick me [Bm]up
+When I am [D]dry You fill my [G]cup
+You are my [A]all in [D]all  [A]
+
+{soc}
+[D]Je - [A]sus [Bm]Lamb of [D]God
+[G]Worthy [A]is Your [D]na[A]me
+[D]Je - [A]sus [Bm]Lamb of [D]God
+[G]Worthy [A]is Your [D]na[A]me
+
+[D]Je - [A]sus [Bm]Lamb of [D]God
+[G]Worthy [A]is Your [D]na[A]me
+[D]Je - [A]sus [Bm]Lamb of [D]God
+[G]Worthy [A]is Your [D]na[A]me
+{eoc}
