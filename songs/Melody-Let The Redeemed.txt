@@ -1,0 +1,82 @@
+{title:Let The Redeemed}
+{subtitle:Melody}
+{key:C}
+{time:4/4}
+{as:10}
+
+{c:Intro}
+[C] [F] [C] [G]
+
+{soc}
+L[C]et the redeemed of the L[F]ord say [C]so
+Let the redeemed of the Lord say [G]so
+L[C]et the redeemed of the Lord say [F]So
+I'm re - de[C]emed I'm re - de[G]emed
+Praise the L[C]ord
+{eoc}
+
+{soc}
+L[C]et the redeemed of the L[F]ord say [C]so
+Let the redeemed of the Lord say [G]so
+L[C]et the redeemed of the Lord say [F]So
+I'm re - de[C]emed I'm re - de[G]emed
+Praise the L[C]ord
+{eoc}
+
+{soc}
+L[C]et the redeemed of the L[F]ord say [C]so
+Let the redeemed of the Lord say [G]so
+L[C]et the redeemed of the Lord say [F]So
+I'm re - de[C]emed I'm re - de[G]emed
+Praise the L[C]ord
+{eoc}
+
+#Verse
+[C]Ah Lord God
+T[F]hou hast made the hea[C]vens
+And the [C]earth by Thy great po[G]wer
+[C]Ah Lord God
+T[F]hou hast made the hea[C]vens
+And the [C]earth by Thine [G]out - stretched a[C]rm
+
+{soc}
+Not[C]hing is too d[G]ifficult for T[F]hee
+Not[G]hing is too difficult for T[C]hee
+G[C]reat and mighty God [F]
+Great in coun - sel and m[C]ight - y in deed [C]
+Not[C]hing [Am]nothing [Dm7]absolutely [G]nothing
+Not[C]hing is too [G]diffi - cult for T[C]hee
+{eoc}
+
+#Verse
+[C]Ah Lord God
+T[F]hou hast made the hea[C]vens
+And the [C]earth by Thy great po[G]wer
+[C]Ah Lord God
+T[F]hou hast made the hea[C]vens
+And the [C]earth by Thine [G]out - stretched a[C]rm
+
+{soc}
+Not[C]hing is too d[G]ifficult for T[F]hee
+Not[G]hing is too difficult for T[C]hee
+G[C]reat and mighty God [F]
+Great in coun - sel and m[C]ight - y in deed [C]
+Not[C]hing [Am]nothing [Dm7]absolutely [G]nothing
+Not[C]hing is too [G]diffi - cult for T[C]hee
+{eoc}
+
+{soc}
+W[C]hat a mighty God [F]we se[C]rve
+W[C]hat a mighty [Am]God we s[G]erve
+[C]Angels bow before Him
+[C]Heaven and earth a - dore Him
+[C]What a mighty G[G]od we se[C]rve
+{eoc}
+
+{soc}
+W[C]hat a mighty God [F]we se[C]rve
+W[C]hat a mighty [Am]God we s[G]erve
+[C]Angels bow before Him
+[C]Heaven and earth a - dore Him
+[C]What a mighty G[G]od we se[C]rve
+{eoc}

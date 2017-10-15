@@ -1,0 +1,48 @@
+{title:Lord I Lift Your Name on High}
+{subtitle:Rick Founds}
+{original_key:G}
+{key:G}
+{tempo:86}
+{time:4/4}
+{as:10}
+
+{c:Intro}
+Lord I l[D]ift Your name on h[G]igh [C] [D] [C]
+
+#Verse
+[G] Lord I [C]lift Your name on [D]high [C]
+[G] Lord I l[C]ove to sing Your pr[D]aises [C]
+[G] I'm so g[C]lad You're in my l[D]ife [C]
+[G] I'm so g[C]lad You came to s[D]ave us [C]
+
+{soc}
+[G]You came from he[C]aven to e[D]arth to s[C]how the[G] way
+From the ea[C]rth to the cr[D]oss my d[C]ebt t[G]o pay
+From the cr[C]oss to the gr[D]ave
+From the g[Em7]rave to the [Am7]sky
+Lord I l[D]ift Your name on h[G]igh [C] [D] [C]
+{eoc}
+
+#Verse
+[G] Lord I [C]lift Your name on [D]high [C]
+[G] Lord I l[C]ove to sing Your pr[D]aises [C]
+[G] I'm so g[C]lad You're in my l[D]ife [C]
+[G] I'm so g[C]lad You came to s[D]ave us [C]
+
+{soc}
+[G]You came from he[C]aven to e[D]arth to s[C]how the[G] way
+From the ea[C]rth to the cr[D]oss my d[C]ebt t[G]o pay
+From the cr[C]oss to the gr[D]ave
+From the g[Em7]rave to the [Am7]sky
+Lord I l[D]ift Your name on h[G]igh [A ]
+
+[G]You came from he[C]aven to e[D]arth to s[C]how the[G] way
+From the ea[C]rth to the cr[D]oss my d[C]ebt t[G]o pay
+From the cr[C]oss to the gr[D]ave
+From the g[Em7]rave to the [Am7]sky
+Lord I l[D]ift Your name on h[G]igh [C] [D]
+{eoc}
+
+{c:Ending}
+Lord I l[D]ift Your name on h[G]igh [C] [D]
+Lord I l[D]ift Your name on h[G]igh [C] [D] [C] [G]

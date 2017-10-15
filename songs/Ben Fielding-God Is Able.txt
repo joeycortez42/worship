@@ -1,0 +1,69 @@
+{title:God Is Able}
+{subtitle:Ben Fielding}
+{original_key:B}
+{key:A}
+{tempo:79}
+{time:4/4}
+{as:11.0}
+
+{c:Intro}
+[A]  [E]  [F#m]  [D]
+[A]  [E]  [F#m]  [D]
+
+#Verse 1
+God is [A]able He will [E]never fail
+[F#m]He is Almighty [D]God
+Greater than [A]all we seek
+Greater than [E]all we ask
+[F#m]He has [D]done great [E]things
+
+{soc}
+Lifted [A]up He defeated the [E]grave
+Raised to [F#m]life our [E]God is [D]able
+In His [A]Name we over - [E]come
+For the [F#m]Lord our [E]God is [D]able
+{eoc}
+
+[A]  [E]  [F#m]  [D]
+
+#Verse 2
+God is [A]with us God is [E]on our side
+[F#m]He will make a [D]way
+Far above [A]all we know
+Far above [E]all we hope
+[F#m]He has [D]done great [E]things
+
+{soc}
+Lifted [A]up He defeated the [E]grave
+Raised to [F#m]life our [E]God is [D]able
+In His [A]Name we over - [E]come
+For the [F#m]Lord our [E]God is [D]able
+{eoc}
+
+[A]  [E]  [F#m]  [D]
+
+{sob}
+God is [A]with us He will [E]go before
+He will never [F#m]leave us
+[E]  He will never [D]leave us
+
+God is [A]for us He has [E]open arms
+He will never [F#m]fail us
+[E]  He will never [D]fail us
+{eob}
+
+{soc}
+Lifted [A]up He defeated the [E]grave
+Raised to [F#m]life our [E]God is [D]able
+In His [A]Name we over - [E]come
+For the [F#m]Lord our [E]God is [D]able
+
+Lifted [A]up He defeated the [E]grave
+Raised to [F#m]life our [E]God is [D]able
+In His [A]Name we over - [E]come
+For the [F#m]Lord our [E]God is [D]able
+{eoc}
+
+{c:Ending}
+For the [F#m]Lord our [E]God is [D]able
+For the [F#m]Lord our [E]God is [D]able    [A]
