@@ -1,0 +1,50 @@
+{title:As The Deer}
+{subtitle:Martin Nystrom}
+{original_key:D}
+{key:D}
+{tempo:74}
+{time:4/4}
+{as:10}
+
+{c:Intro}
+Y[D]ou a - [A]lone   are my [Bm]heart’s de - [D]sire
+And I [G]long to [A]wor - ship     [D]Thee
+
+#Verse 1
+[D]As the [A]deer   panteth [Bm]for the [D]water
+So my [G]soul longeth [A]af - ter    [D]Thee [G] [A]
+Y[D]ou a - [A]lone   are my [Bm]heart’s de - [D]sire
+And I [G]long to [A]wor - ship     [D]Thee
+
+{soc}
+[Bm]You alone are my [G]strength my     [D/F#]shield
+To [G]You alone may my [Em]spir - it   [F#]yield
+[D]You a - [A]lone    are my [Bm]heart’s de - [D]sire
+And I [G]long to [A]wor - ship     [D]Thee
+{eoc}
+
+#Verse 2
+[D]You’re my [A]friend   and You [Bm]are my [D]brother
+Even [G]though You [A]are   a    [D]King    [G] [A]
+[D]I love [A]You    more than [Bm]any    [D]other
+So much [G]more than [A]an - y -  [D]thing
+
+{soc}
+[Bm]You alone are my [G]strength my     [D/F#]shield
+To [G]You alone may my [Em]spir - it   [F#]yield
+[D]You a - [A]lone    are my [Bm]heart’s de - [D]sire
+And I [G]long to [A]wor - ship     [D]Thee
+{eoc}
+
+#Verse 3
+[D]I want [A]You   more than [Bm]gold or [D]silver
+Only [G]You can [A]sat - is - [D]fy   [G] [A]
+Y[D]ou a - [A]lone   are the [Bm]real joy - [D]giver
+And the [G]apple [A]of   my    [D]eye
+
+{soc}
+[Bm]You alone are my [G]strength my     [D/F#]shield
+To [G]You alone may my [Em]spir - it   [F#]yield
+[D]You a - [A]lone    are my [Bm]heart’s de - [D]sire
+And I [G]long to [A]wor - ship     [D]Thee
+{eoc}

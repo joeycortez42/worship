@@ -1,0 +1,79 @@
+{title:You’re Worthy Of My Praise}
+{subtitle:David Ruis}
+{original_key:F}
+{key:D}
+{tempo:82}
+{time:4/4}
+{as:10}
+
+{c:Intro}
+
+
+#Verse 1
+[D]I will worship (I will worship)
+With [C]all of my heart (with all of my heart)
+[G]I will praise You (I will praise You)
+With all   [D]of   my    strength [Em7](all my [A]strength)
+[D]I will seek You (I will seek You)
+[C]All of my days (all of my days)
+[G]I will follow (I will follow)
+All   [D]of   Your    ways [Em7](all Your [A]ways)
+
+{soc}
+[D]   I will give You [A]all my worship
+[G]   I will give You [Em7]all my [A]praise
+[D]   You alone I [A]long to worship
+[G]   You alone are [Em7]worthy [A]of my [D]praise
+{eoc}
+
+#Verse 2
+[D]I will bow down (I will bow down)
+And [C]hail You as King (and hail You as King)
+[G]I will serve You (I will serve You)
+Give You   [D]ev - 'ry -  thing [Em7](ev - 'ry - [A]thing)
+[D]I will lift up (I will lift up)
+My [C]eyes to Your throne (my eyes to Your throne)
+[G]I will trust You (I will trust You)
+Trust   [D]You  a -  lone [Em7](You a - [A]lone)
+
+{soc}
+[D]   I will give You [A]all my worship
+[G]   I will give You [Em7]all my [A]praise
+[D]   You alone I [A]long to worship
+[G]   You alone are [Em7]worthy [A]of my [D]praise
+
+[D]   I will give You [A]all my worship
+[G]   I will give You [Em7]all my [A]praise
+[D]   You alone I [A]long to worship
+[G]   You alone are [Em7]worthy [A]of my [D]praise
+{eoc}
+
+#Verse 2
+[D]I will bow down (I will bow down)
+And [C]hail You as King (and hail You as King)
+[G]I will serve You (I will serve You)
+Give You   [D]ev - 'ry -  thing [Em7](ev - 'ry - [A]thing)
+[D]I will lift up (I will lift up)
+My [C]eyes to Your throne (my eyes to Your throne)
+[G]I will trust You (I will trust You)
+Trust   [D]You  a -  lone [Em7](You a - [A]lone)
+
+{soc}
+[D]   I will give You [A]all my worship
+[G]   I will give You [Em7]all my [A]praise
+[D]   You alone I [A]long to worship
+[G]   You alone are [Em7]worthy [A]of my [D]praise
+
+[D]   I will give You [A]all my worship
+[G]   I will give You [Em7]all my [A]praise
+[D]   You alone I [A]long to worship
+[G]   You alone are [Em7]worthy [A]of my [D]praise
+{eoc}
+
+{c:Ending}
+{c:A cappella}
+[D]   I will give You [A]all my worship
+[G]   I will give You [Em7]all my [A]praise
+[D]   You alone I [A]long to worship
+{c:Retard}
+[G]   You alone are [Em7]worthy [A]of my [D]praise

@@ -1,0 +1,29 @@
+{title:He Is The Sovereign}
+{subtitle:Emmanuael Espinosa}
+{key:Em}
+{time:4/4}
+{as:10}
+
+{c:Intro}
+[Em] [C] [G] [D]
+
+#Verse
+[Em] He is the Sovereign of in[C]finite power
+[Em] He is the King of [C]heaven
+[Em] I will be [C]faithful to Him
+For my [G]life He bought with His l - [D]ove
+
+[Em] Proclaim that He r[C]eigns on high
+[Em] He is the King of the a[C]ges
+[Em] I'll place my [C]life at His feet
+For He [G]reigns over my [D]heart
+
+{soc}
+[Em]He is the King, [C]He is the King
+[G]He is the King for - [D]ever
+[Em]He is the King, [C]He is the King
+[G]Great and mighty is [D]He
+He [C]reigns eter[D]nal - ly
+He [Em]reigns in ma-[C]je-sty
+[C]He is the King who [D]comes for His chosen [Em]ones
+{eoc}
