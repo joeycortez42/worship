@@ -7,59 +7,59 @@
 {as:11}
 
 {c:Intro}
-[E] [B] [C#m] [A]
+[G] [D] [Em] [C]
 
 #Verse 1
-[E] Great are You Lord mighty in stre[B]ngth
-[A] You are faithful and You will ever [E]be
-[E]We will praise You all of our d[B]ays
-[A] It's for Your glory we offer ev'ry - t[C#m]hing
+[G] Great are You Lord mighty in stre[D]ngth
+[C] You are faithful and You will ever [G]be
+[G]We will praise You all of our d[D]ays
+[C] It's for Your glory we offer ev'ry - t[Em]hing
 
 {soc}
-Raise your ha[E]nds all you nations
-Shout to [B]God all creation
-How aw[C#m]esome is the Lord most high [A]
+Raise your ha[G]nds all you nations
+Shout to [D]God all creation
+How aw[Em]esome is the Lord most high [C]
 {eoc}
 
 #Verse 2
-[E] Where You send us God we will[B] go
-[A] You're the answer we want the world to kn[E]ow
-[E]We will trust You When You call our na[B]me
-[A] Where You lead us we'll follow all the [C#m]way
+[G] Where You send us God we will[D] go
+[C] You're the answer we want the world to kn[G]ow
+[G]We will trust You When You call our na[D]me
+[C] Where You lead us we'll follow all the [Em]way
 
 {soc}
-Raise your ha[E]nds all you nations
-Shout to [B]God all creation
-How aw[C#m]esome is the Lord most high [A]
+Raise your ha[G]nds all you nations
+Shout to [D]God all creation
+How aw[Em]esome is the Lord most high [C]
 
-We will pr[E]aise You together for [B]now and forever
-How aw[C#m]esome is the Lord most high [A]
+We will pr[G]aise You together for [D]now and forever
+How aw[Em]esome is the Lord most high [C]
 {eoc}
 
-[E] [B] [C#m] [A]
+[G] [D] [Em] [C]
 
 {sob}
-H[E]allelujah, h[B]allelujah
-How aw[C#m]esome is the Lord most high [A]
-H[E]allelujah, h[B]allelujah
-How aw[C#m]esome is the Lord most high [A]
+H[G]allelujah, h[D]allelujah
+How aw[Em]esome is the Lord most high [C]
+H[G]allelujah, h[D]allelujah
+How aw[Em]esome is the Lord most high [C]
 {eob}
 
 {soc}
-Raise your ha[E]nds all you nations
-Shout to [B]God all creation
-How aw[C#m]esome is the Lord most high [A]
+Raise your ha[G]nds all you nations
+Shout to [D]God all creation
+How aw[Em]esome is the Lord most high [C]
 
-We will pr[E]aise You together for [B]now and forever
-How aw[C#m]esome is the Lord most high [A]
+We will pr[G]aise You together for [D]now and forever
+How aw[Em]esome is the Lord most high [C]
 {eoc}
 
 {sob}
-H[E]allelujah, h[B]allelujah
-How aw[C#m]esome is the Lord most high [A]
-H[E]allelujah, h[B]allelujah
-How aw[C#m]esome is the Lord most high [A]
+H[G]allelujah, h[D]allelujah
+How aw[Em]esome is the Lord most high [C]
+H[G]allelujah, h[D]allelujah
+How aw[Em]esome is the Lord most high [C]
 {eob}
 
 {c:Ending}
-The Lord most high [E]
+The Lord most high [G]

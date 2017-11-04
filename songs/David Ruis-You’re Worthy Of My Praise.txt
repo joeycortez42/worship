@@ -4,10 +4,11 @@
 {key:D}
 {tempo:82}
 {time:4/4}
-{as:10}
+{as:11.0}
 
 {c:Intro}
-
+[D]   You alone I [A]long to worship
+[G]   You alone are [Em7]worthy [A]of my [D]praise
 
 #Verse 1
 [D]I will worship (I will worship)
