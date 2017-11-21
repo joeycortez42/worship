@@ -1,0 +1,74 @@
+{title:Build Your Kingdom Here}
+{subtitle:Rend Collective}
+{original_key:D}
+{key:E}
+{tempo:137}
+{time:4/4}
+{as:10}
+
+{c:Cold start}
+
+#Verse 1
+Come [A]set Your rule and [E]reign
+In [A]our hearts a - [E]gain
+In - [A]crease in us we [E]pray
+Un - [B]veil why we're made
+Come [A]set our hearts a - [E]blaze with hope
+Like [A]wildfire in our [E]very souls
+[A]Holy Spirit [E]come invade us [B]now
+[A]We [E]are Your [B]church
+[A]We [E]need Your [B]pow'r in [E]us
+
+#Verse 2
+We [A]seek Your kingdom [E]first
+We [A]hunger and we [E]thirst
+Re - [A]fuse to waste our [E]lives
+For [B]You're our joy and prize
+To [A]see the captives' [E]hearts released
+The [A]hurt the sick the [E]poor at peace
+[A]We lay down our [E]lives for heaven's [B]cause
+[A]We [E]are Your [B]church
+[A]We [E]pray re - [B]vive this [E]earth
+
+{soc}
+Build Your [B]kingdom [C#m7]here
+Let the [A]darkness [E]fear
+Show Your [B]mighty [C#m7]hand
+Heal our [A]streets and [B]land
+[E]Set Your [B]church on [C#m7]fire
+Win this [A]nation [E]back
+Change the [B]atmos - [C#m7]phere
+Build Your [A]kingdom [B]here we [E]pray
+{eoc}
+
+#Verse 3
+Un - [A]leash Your kingdom's [E]pow'r
+Reach - [A]ing the near and [E]far
+No [A]force of hell can [E]stop
+Your [B]beauty changing hearts
+You [A]made us for much [E]more than this
+A - [A]wake the kingdom [E]seed in us
+[A]Fill us with the [E]strength and love of [B]Christ
+[A]We [E]are Your [B]church
+[A]We [E]are the [B]hope on [E]earth
+
+{soc}
+Build Your [B]kingdom [C#m7]here
+Let the [A]darkness [E]fear
+Show Your [B]mighty [C#m7]hand
+Heal our [A]streets and [B]land
+[E]Set Your [B]church on [C#m7]fire
+Win this [A]nation [E]back
+Change the [B]atmos - [C#m7]phere
+Build Your [A]kingdom [B]here we [E]pray
+
+{c:Start empty}
+Build Your [B]kingdom [C#m7]here
+Let the [A]darkness [E]fear
+Show Your [B]mighty [C#m7]hand
+Heal our [A]streets and [B]land
+[E]Set Your [B]church on [C#m7]fire
+Win this [A]nation [E]back
+Change the [B]atmos - [C#m7]phere
+Build Your [A]kingdom [B]here we [E]pray
+{eoc}

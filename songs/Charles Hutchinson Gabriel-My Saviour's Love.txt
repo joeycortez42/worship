@@ -3,7 +3,7 @@
 {original_key:Ab}
 {key:G}
 {time:4/4}
-{as:10}
+{as:11.0}
 
 {c:Intro}
 [G]How marvelous [G]how wonderful
@@ -55,7 +55,8 @@ His [D]face I at last shall [G]see
 To [G]sing of His [D]love for[G] me
 
 {soc}
-[G]How marvelous [G]how wonderful
+{c:Acappela}
+[G ]How marvelous [G]how wonderful
 [D]And my song shall ev - er be
 [G]How marvelous [G]how wonderful
 [C]Is my [G]Sav - iour's [D]love for [G]me
