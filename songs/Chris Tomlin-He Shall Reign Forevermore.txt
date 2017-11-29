@@ -1,0 +1,58 @@
+{title:He Shall Reign Forevermore}
+{subtitle:Chris Tomlin}
+{original_key:Bb}
+{key:A}
+{tempo:122}
+{time:4/4}
+{as:10}
+
+{c:Intro}
+[F#m] [D] [A] [E]
+
+#Verse 1
+[F#m]In the bleak mid-[D]winter [A]all creation [E]groans
+[F#m]For a world in [D]darkness [A]frozen like a [E]stone
+Light is [Bm7]breaking [D]  in a [A]stable for a [E]throne
+
+{soc}
+And [F#m]He shall [D]reign forever-[A]more forever-[E]more
+And [F#m]He shall [D]reign forever-[A]more forever-[E]more
+[F#m]Unto us a [D]Child is born the [A]King of kings and [E]Lord of lords
+And [F#m]He shall [D]reign forever-[A]more forever-[E]more
+{eoc}
+
+[F#m] [D] [A] [E]
+
+#Verse 2
+[F#m]If I were a [D]wise man [A]I would travel [E]far
+[F#m]If I were a [D]shepherd [A]I would do my [C#m7]part
+But poor as [Bm7]I am  [D]  I will [A]give to Him my [E]heart
+
+{soc}
+And [F#m]He shall [D]reign forever-[A]more forever-[E]more
+And [F#m]He shall [D]reign forever-[A]more forever-[E]more
+[F#m]Unto us a [D]Child is born the [A]King of kings and [E]Lord of lords
+And [F#m]He shall [D]reign forever-[A]more forever-[E]more
+{eoc}
+
+{sob}
+[F#m]Here within a [D]manger lies the [A]One who made the [E]starry skies
+This [F#m]baby born for [D]sacrifice [A]Christ the Mes-[E]siah
+In-[F#m]to our hopes in-[D]to our fears the [A]Savior of the [E]world appears
+The [F#m]promise of e-[D/F#]ternal years [A]Christ the Mes-[E]siah
+{eob}
+
+{soc}
+And [F#m]He shall [D]reign forever-[A]more forever-[E]more
+And [F#m]He shall [D]reign forever-[A]more forever-[E]more
+
+And [F#m]He shall [D]reign forever-[A]more forever-[E]more
+And [F#m]He shall [D]reign forever-[A]more forever-[E]more
+[F#m]Unto us a [D]Child is born the [A]King of kings and [E]Lord of lords
+And [F#m]He shall [D]reign forever-[A]more forever-[E]more
+{eoc}
+
+{c:Ending}
+[F#m] [D] [A] [E] He shall reign
+[F#m] [D] [A] [E] [D] He shall reign
+He shall reign
