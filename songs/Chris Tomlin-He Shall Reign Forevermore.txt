@@ -7,52 +7,51 @@
 {as:10}
 
 {c:Intro}
-[F#m] [D] [A] [E]
+[Em] [C] [G] [D]
 
 #Verse 1
-[F#m]In the bleak mid-[D]winter [A]all creation [E]groans
-[F#m]For a world in [D]darkness [A]frozen like a [E]stone
-Light is [Bm7]breaking [D]  in a [A]stable for a [E]throne
+[Em]In the bleak mid-[C]winter [G]all creation [D]groans
+[Em]For a world in [C]darkness [G]frozen like a [D]stone
+Light is [Am7]breaking [C]  in a [G]stable for a [D]throne
 
 {soc}
-And [F#m]He shall [D]reign forever-[A]more forever-[E]more
-And [F#m]He shall [D]reign forever-[A]more forever-[E]more
-[F#m]Unto us a [D]Child is born the [A]King of kings and [E]Lord of lords
-And [F#m]He shall [D]reign forever-[A]more forever-[E]more
+And [Em]He shall [C]reign forever-[G]more forever-[D]more
+And [Em]He shall [C]reign forever-[G]more forever-[D]more
+[Em]Unto us a [C]Child is born the [G]King of kings and [D]Lord of lords
+And [Em]He shall [C]reign forever-[G]more forever-[D]more
 {eoc}
 
-[F#m] [D] [A] [E]
+[Em] [C] [G] [D]
 
 #Verse 2
-[F#m]If I were a [D]wise man [A]I would travel [E]far
-[F#m]If I were a [D]shepherd [A]I would do my [C#m7]part
-But poor as [Bm7]I am  [D]  I will [A]give to Him my [E]heart
+[Em]If I were a [C]wise man [G]I would travel [D]far
+[Em]If I were a [C]shepherd [G]I would do my [Bm7]part
+But poor as [Am7]I am  [C]  I will [G]give to Him my [D]heart
 
 {soc}
-And [F#m]He shall [D]reign forever-[A]more forever-[E]more
-And [F#m]He shall [D]reign forever-[A]more forever-[E]more
-[F#m]Unto us a [D]Child is born the [A]King of kings and [E]Lord of lords
-And [F#m]He shall [D]reign forever-[A]more forever-[E]more
+And [Em]He shall [C]reign forever-[G]more forever-[D]more
+And [Em]He shall [C]reign forever-[G]more forever-[D]more
+[Em]Unto us a [C]Child is born the [G]King of kings and [D]Lord of lords
+And [Em]He shall [C]reign forever-[G]more forever-[D]more
 {eoc}
 
 {sob}
-[F#m]Here within a [D]manger lies the [A]One who made the [E]starry skies
-This [F#m]baby born for [D]sacrifice [A]Christ the Mes-[E]siah
-In-[F#m]to our hopes in-[D]to our fears the [A]Savior of the [E]world appears
-The [F#m]promise of e-[D/F#]ternal years [A]Christ the Mes-[E]siah
+[Em]Here within a [C]manger lies the [G]One who made the [D]starry skies
+This [Em]baby born for [C]sacrifice [G]Christ the Mes-[D]siah
+In-[Em]to our hopes in-[C]to our fears the [G]Savior of the [D]world appears
+The [Em]promise of e-[C]ternal years [G]Christ the Mes-[D]siah
 {eob}
 
 {soc}
-And [F#m]He shall [D]reign forever-[A]more forever-[E]more
-And [F#m]He shall [D]reign forever-[A]more forever-[E]more
+And [Em]He shall [C]reign forever-[G]more forever-[D]more
+And [Em]He shall [C]reign forever-[G]more forever-[D]more
 
-And [F#m]He shall [D]reign forever-[A]more forever-[E]more
-And [F#m]He shall [D]reign forever-[A]more forever-[E]more
-[F#m]Unto us a [D]Child is born the [A]King of kings and [E]Lord of lords
-And [F#m]He shall [D]reign forever-[A]more forever-[E]more
+And [Em]He shall [C]reign forever-[G]more forever-[D]more
+And [Em]He shall [C]reign forever-[G]more forever-[D]more
+[Em]Unto us a [C]Child is born the [G]King of kings and [D]Lord of lords
+And [Em]He shall [C]reign forever-[G]more forever-[D]more
 {eoc}
 
 {c:Ending}
-[F#m] [D] [A] [E] He shall reign
-[F#m] [D] [A] [E] [D] He shall reign
-He shall reign
+[Em] [C] He shall reign [G] [D] He shall reign
+[Em] [C] He shall reign [G] [D] [Em]

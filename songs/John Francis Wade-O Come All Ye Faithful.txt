@@ -1,0 +1,53 @@
+{title:O Come All Ye Faithful}
+{subtitle:John Francis Wade}
+{original_key:G}
+{key:G}
+{time:4/4}
+{as:10}
+
+{c:Intro}
+[D]O c[G]ome let us [D]a-d[G]ore H[C]im
+C[G]hrist [D] the L[G]ord
+
+#Verse 1
+[G]O come all ye fa[D]ith-ful
+J[G]oy-f[D]ul a[G]nd t[C]ri-[G]um-ph[D]ant
+[Em]O come [A]ye O c[D]ome ye to Beth [A]- le-h[D]em
+Co[G]me and be-[D]hold H[G]im
+B[C]orn the King of an[D]gels
+
+{soc}
+O c[G]ome let us a-dore Him
+O come let us a - dore H[D]im
+[D]O c[G]ome let us [D]a-d[G]ore H[C]im
+C[G]hrist [D] the L[G]ord
+{eoc}
+
+#Verse 2
+[G] Sing choirs of [D]an-gels
+S[G]ing [D]in [G]ex-[C]ul-[G]ta-ti[D]on
+[Em]O sing a[A]ll ye br[D]ight
+Hosts of heav'n [A] a-b[D]ove
+G[G]lo-ry to G[D]od a[G]ll
+G[C]lo-ry in the hig[D]hest
+
+{soc}
+O c[G]ome let us adore Him
+O come let us a - dore H[D]im
+[D]O c[G]ome let us [D]a-d[G]ore H[C]im
+C[G]hrist [D] the L[G]ord
+{eoc}
+
+#Verse 3
+[G] Yea Lord we gr[D]eet Thee
+B[G]orn t[D]his h[G]ap-[C]py m[G]orn-i[D]ng
+[Em] Je-[A]sus to T[D]hee be all glo[A]-ry gi[D]v'n
+W[G]ord of the [D]Fa-t[G]her
+N[C]ow in flesh ap-pea[D]ring
+
+{soc}
+O c[G]ome let us adore Him
+O come let us a - dore H[D]im
+[D]O c[G]ome let us [D]a-d[G]ore H[C]im
+C[G]hrist [D] the L[G]ord
+{eoc}
