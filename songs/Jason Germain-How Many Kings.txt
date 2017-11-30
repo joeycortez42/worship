@@ -1,0 +1,64 @@
+{title:How Many Kings}
+{subtitle:Jason Germain}
+{original_key:B}
+{key:G}
+{tempo:120}
+{time:4/4}
+{as:10}
+
+{c:Intro}
+[G]
+
+#Verse 1
+Fo[G]llow the star to a place unexpected
+W[Em]ould you believe after all we've projected
+A c[Am]hild in a manger
+L[G]owly and small the weakest of all
+Un-lik[Em]eliest hero wrapped in His mother's s[Am]hawl
+Just a child
+Is this who we've waited [Dsus]from    [D]
+
+{soc}
+'cause H[G]ow many kings stepped down from their thrones
+H[Em]ow many lords have abandoned their homes
+H[Am]ow many greats have become the least for [Dsus]me    [D]
+And h[G]ow many gods have poured out their hearts
+To ro[Em]mance a world that is torn all apart
+H[Am]ow many fathers gave up their sons for [Dsus]me    [D]
+{eoc}
+
+#Verse 2
+Bri[G]nging out gifts for the newborn Savior
+[Em]All that we have whether costly or meek
+Be-c[Am]ause we believe
+G[G]old for His honor and frankincense for His ple[Em]asure
+And myrrh for the cross He'll suffer
+[Am]Do you believe
+Is this who we've waited [Dsus]from    [D]
+
+{soc}
+'cause H[G]ow many kings stepped down from their thrones
+H[Em]ow many lords have abandoned their homes
+H[Am]ow many greats have become the least for [Dsus]me    [D]
+And h[G]ow many gods have poured out their hearts
+To ro[Em]mance a world that is torn all apart
+H[Am]ow many fathers gave up their sons for [Dsus]me    [D]
+{eoc}
+
+{sob}
+[D]Only one did that [F] for me  [C] ooh[Am]
+All for [F]me ah [Em] ah ah [D]
+{eob}
+
+{soc}
+H[G]ow many kings stepped down from their thrones
+H[Em]ow many lords have abandoned their homes
+H[Am]ow many greats have become the least
+H[G]ow many gods have poured out their hearts
+To ro[Em]mance a world that is torn all apart
+H[Am]ow many fathers gave up their sons for [Dsus]me    [D]
+{eoc}
+
+{c:Ending}
+[D]Only one did that [G] for me oh [Em]
+All for [Am]me all for [D]you     [G]
