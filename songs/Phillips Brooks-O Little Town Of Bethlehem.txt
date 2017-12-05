@@ -1,0 +1,54 @@
+{title:O Little Town Of Bethlehem}
+{subtitle:Phillips Brooks}
+{original_key:F}
+{key:D}
+{time:4/4}
+{as:10}
+
+{c:Intro}
+T[D]he hopes and fears of all [Em]the years
+Are m[D]et in th[A]ee to-ni[D]ght
+
+#Verse 1
+[D]O little town of Be[Em]th-lehem
+How st[D]ill we s[A]ee thee l[D]ie
+Above thy d[B]eep and dr[Em]eam-less sleep
+The s[D]i-lent st[A]ars go [D]by
+Y[D]et in thy da[E]rk streets sh[F#]ineth
+The e[Bm]v-er-last-i[Em]ng L[F#]ight
+T[D]he hopes and fears of all [Em]the years
+Are m[D]et in th[A]ee to-ni[D]ght
+
+#Verse 2
+F[D]or Christ is born of M[Em]a-ry
+And g[D]ath-ered [A]all a-b[D]ove
+While mor-tals sl[B]eep the [Em]an-gels keep
+Their wa[D]tch of w[A]on-dering lo[D]ve
+O[D] morning st[E]ars to-ge[F#]ther
+Pro-c[Bm]laim the ho-[Em]ly b[F#]irth
+A[D]nd praises sing to God [Em]the King
+And p[D]eace to m[A]en on e[D]arth
+
+#Verse 3
+H[D]ow silent-ly how s[Em]i-lently
+The w[D]on-drous g[A]ift is gi[D]ven
+So God imp-a[B]rts to [Em]hu-man hearts
+The bl[D]ess-ings [A]of His he[D]aven
+N[D]o ear may he[E]ar His co[F#]ming
+But [Bm]in this world [Em]of s[F#]in
+W[D]here meek souls will re-ceive H[Em]im still
+The d[D]ear Christ e[A]n-ters [D]in
+
+#Verse 4
+[D]O holy Child of B[Em]eth-lehem
+De-sc[D]end to [A]us we p[D]ray
+Cast out our s[B]in and [Em]en-ter in
+Be b[D]orn in [A]us to-d[D]ay
+W[D]e hear the Ch[E]rist-mas an[F#]gels
+The g[Bm]reat glad ti-d[Em]ings t[F#]ell
+[D]O come to us a-bide w[Em]ith us
+Our L[D]ord Em-m[A]an-u-[D]el
+
+{c:Ending}
+[D]O come to us a-bide w[Em]ith us
+Our L[D]ord Em-m[A]an-u-[D]el

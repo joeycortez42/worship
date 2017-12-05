@@ -1,0 +1,50 @@
+{title:Hark The Herald Angels Sing}
+{subtitle:Charles Wesley}
+{original_key:F}
+{key:D}
+{time:4/4}
+{as:10}
+
+{c:Intro}
+H[G]ark the her-ald [Em]an-gels sing
+G[A]lo-ry [D/F#]to the n[D]ew-b[A]orn K[D]ing
+
+#Verse 1
+H[D]ark the her-ald an-gels si[A]ng
+G[D/F#]lo-ry to the n[D]ew-b[A]orn K[D]ing
+P[D]eace on earth and mer-cy m[E]ild
+G[A]od and sin-ners rec-[E]on-c[A]iled
+J[D]oyful all ye n[A]a-tions rise
+J[D]oin the tri-umph [A]of the skies
+W[G]ith the angel-ic h[Em]osts pro-claim
+C[A]hrist is b[D/F#]orn in B[A]eth-le-h[D]em
+H[G]ark the her-ald [Em]an-gels sing
+G[A]lo-ry [D/F#]to the n[D]ew-b[A]orn K[D]ing
+
+#Verse 2
+C[D]hrist by high-est heav'n a-do[A]red
+C[D/F#]hrist the ev-er-l[D]ast-i[A]ng L[D]ord
+L[D]ate in time be-hold Him co[E]me
+O[A]ff-spring of the Vir-g[E]in’s w[A]omb
+V[D]eiled in flesh the G[A]od-head see
+H[D]ail the incar-nate [A]De-i-ty
+Ple[G]ased as man with m[Em]en to dwell
+Je[A]sus o[D/F#]ur Em-m[A]an-u-[D]el
+H[G]ark the her-ald [Em]an-gels sing
+G[A]lo-ry [D/F#]to the n[D]ew-b[A]orn K[D]ing
+
+#Verse 3
+H[D]ail the heav'n-born Prince of Pe[A]ace
+H[D/F#]ail the Sun of Ri[D]ght-e[A]ous-n[D]ess
+L[D]ight and life to all He br[E]ings
+R[A]is'n with heal-ing in H[E]is wi[A]ngs
+M[D]ild He lays His g[A]lo-ry by
+B[D]orn that man no m[A]ore may die
+B[G]orn to raise the s[Em]ons of earth
+B[A]orn to g[D/F#]ive them s[A]ec-ond bi[D]rth
+H[G]ark the her-ald [Em]an-gels sing
+G[A]lo-ry [D/F#]to the n[D]ew-b[A]orn K[D]ing
+
+{c:Ending}
+H[G]ark the her-ald [Em]an-gels sing
+G[A]lo-ry [D/F#]to the n[D]ew-b[A]orn K[D]ing
