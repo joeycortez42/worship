@@ -3,7 +3,7 @@
 {original_key:F}
 {key:D}
 {time:4/4}
-{as:10}
+{as:11.0}
 
 {c:Intro}
 H[G]ark the her-ald [Em]an-gels sing
