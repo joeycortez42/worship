@@ -1,0 +1,61 @@
+{title:Angels We Have Heard On High}
+{subtitle:James Chadwick}
+{original_key:F}
+{key:E}
+{time:4/4}
+{as:10}
+
+{c:Intro}
+[E]In ex-[B]cel-sis [E]De [B]-  [E]o
+
+#Verse 1
+An[E]gels we have he[B]ard on h[E]igh
+Sweet-ly sing-ing o[B]'er the pl[E]ains
+And the moun-tains [B]in re-[E]ply
+Ech-o-ing their j[B]oy-ous str[E]ains
+
+{soc}
+G[E]lo    [B]-    [E]-    -   [B]ri-a
+[E]In e[B]x-cel-sis [E]De-[B]o
+G[E]lo    [B]-    [E]-    -   [B]ri-a
+[E]In e[B]x-cel-sis [E]De [B]-  [E]o
+{eoc}
+
+#Verse 2
+Shep[E]herds why this [B]ju - bi-l[E]ee
+Why your joy-ous str[B]ains pro-lo[E]ng
+What the glad-some [B]ti-dings [E]be
+Which in-spire your he[B]aven-ly s[E]ong
+
+{soc}
+G[E]lo    [B]-    [E]-    -   [B]ri-a
+[E]In e[B]x-cel-sis [E]De-[B]o
+G[E]lo    [B]-    [E]-    -   [B]ri-a
+[E]In e[B]x-cel-sis [E]De [B]-  [E]o
+{eoc}
+
+#Verse 3
+C[E]ome to Bethle-[B]hem and s[E]ee
+Christ whose birth the [B]an-gels si[E]ng
+Come a-dore on b[B]end-ed k[E]nee
+Christ the Lord the n[B]ew-born K[E]ing
+
+{soc}
+G[E]lo    [B]-    [E]-    -   [B]ri-a
+[E]In e[B]x-cel-sis [E]De-[B]o
+G[E]lo    [B]-    [E]-    -   [B]ri-a
+[E]In e[B]x-cel-sis [E]De [B]-  [E]o
+{eoc}
+
+#Verse 4
+S[E]ee Him in a m[B]an-ger l[E]aid
+Whom the choirs of [B]an-gels pr[E]aise
+Mar-y Jo-seph le[B]nd your a[E]id
+While our hearts in lo[B]ve we ra[E]ise
+
+{soc}
+G[E]lo    [B]-    [E]-    -   [B]ri-a
+[E]In e[B]x-cel-sis [E]De-[B]o
+G[E]lo    [B]-    [E]-    -   [B]ri-a
+[E]In e[B]x-cel-sis [E]De [B]-  [E]o
+{eoc}
