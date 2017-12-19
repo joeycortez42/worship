@@ -33,19 +33,19 @@ G[E]lo    [B]-    [E]-    -   [B]ri-a
 G[E]lo    [B]-    [E]-    -   [B]ri-a
 [E]In e[B]x-cel-sis [E]De [B]-  [E]o
 {eoc}
-
+#
 #Verse 3
-C[E]ome to Bethle-[B]hem and s[E]ee
-Christ whose birth the [B]an-gels si[E]ng
-Come a-dore on b[B]end-ed k[E]nee
-Christ the Lord the n[B]ew-born K[E]ing
-
-{soc}
-G[E]lo    [B]-    [E]-    -   [B]ri-a
-[E]In e[B]x-cel-sis [E]De-[B]o
-G[E]lo    [B]-    [E]-    -   [B]ri-a
-[E]In e[B]x-cel-sis [E]De [B]-  [E]o
-{eoc}
+#C[E]ome to Bethle-[B]hem and s[E]ee
+#Christ whose birth the [B]an-gels si[E]ng
+#Come a-dore on b[B]end-ed k[E]nee
+#Christ the Lord the n[B]ew-born K[E]ing
+#
+#{soc}
+#G[E]lo    [B]-    [E]-    -   [B]ri-a
+#[E]In e[B]x-cel-sis [E]De-[B]o
+#G[E]lo    [B]-    [E]-    -   [B]ri-a
+#[E]In e[B]x-cel-sis [E]De [B]-  [E]o
+#{eoc}
 
 #Verse 4
 S[E]ee Him in a m[B]an-ger l[E]aid

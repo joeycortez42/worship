@@ -4,7 +4,7 @@
 {key:G}
 {tempo:62}
 {time:6/8}
-{as:12}
+{as:13.5}
 
 {c:Intro}
 You are [G]strong when [D]you feel [C]weak

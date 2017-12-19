@@ -1,0 +1,53 @@
+{title:O Holy Night}
+{subtitle:Adolphe Charles Adam}
+{original_key:D}
+{key:C}
+{time:6/8}
+{as:10}
+
+{c:Intro}
+Oh ni[C]ght[G] oh night di[C]vine
+
+#Verse
+[C]Oh holy night
+The st[F]ars are brightly s[C]hin - ing
+It is the night of our d[G]ear Savior's b[C]irth
+L[C]ong lay the w[G]orld
+In s[F]in and error p[C]in - ing
+Till He ap-pe[Em]ared and the s[B]oul felt its w[Em]orth
+A th[G]rill of hope the we[C]ary world re-j[C]oic-es
+For yo[G]nder breaks
+A n[C]ew and glo-[C]rious morn
+
+{soc}
+[Am]Fall on yo[Em]ur knees
+Oh he[Dm]ar the an-[Am]gel voices
+Oh ni[C]ght[G] di[Am]vine
+Oh ni[C]ght[G] when Christ w[C]as born
+Oh ni[G]ght di-[C]vine [F]
+Oh ni[C]ght[G] oh night di[C]vine
+{eoc}
+
+#Verse
+[C]Oh holy night
+The st[F]ars are brightly s[C]hin - ing
+It is the night of our d[G]ear Savior's b[C]irth
+L[C]ong lay the w[G]orld
+In s[F]in and error p[C]in - ing
+Till He ap-pe[Em]ared and the s[B]oul felt its w[Em]orth
+A th[G]rill of hope the we[C]ary world re-j[C]oic-es
+For yo[G]nder breaks
+A n[C]ew and glo-[C]rious morn
+
+{soc}
+[Am]Fall on yo[Em]ur knees
+Oh he[Dm]ar the an-[Am]gel voices
+Oh ni[C]ght[G] di[Am]vine
+Oh ni[C]ght[G] when Christ w[C]as born
+Oh ni[G]ght di-[C]vine [F]
+Oh ni[C]ght[G] oh night di[C]vine
+{eoc}
+
+{c:Ending}
+Oh ni[G]ght di-[C]vine [F]
+Oh ni[C]ght[G] oh night di[C]vine

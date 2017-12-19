@@ -6,8 +6,8 @@
 {as:10}
 
 {c:Intro}
-The world in sol-emn still-ness lay
-To hear the an-gels sing
+The w[G]orld in s[C]ol-emn s[G]till-ness lay
+To h[C]ear the a[D]n-gels s[G]ing
 
 #Verse 1
 It c[G]ame up[C]-on the m[G]id-night clear
@@ -40,4 +40,5 @@ And t[G]he whole wo[C]rld send ba[G]ck the song
 Which n[C]ow the a[D]n-gels s[G]ing
 
 {c:Ending}
+Which n[C]ow the a[D]n-gels s[G]ing
 Which n[C]ow the a[D]n-gels s[G]ing

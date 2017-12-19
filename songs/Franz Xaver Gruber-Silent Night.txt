@@ -1,0 +1,34 @@
+{title:Silent Night}
+{subtitle:Franz Xaver Gruber}
+{original_key:Bb}
+{key:G}
+{time:6/8}
+{as:10}
+
+{c:Intro}
+S[D]leep in heavenly pe[G]ace
+S[D]leep in heaven-ly pe[G]ace
+
+#Verse 1
+[G]Si - lent night ho - ly night
+[D]All is calm [G]all is bright
+Ro[C]und yon virgin m[G]oth-er and Child
+H[C]oly Infant so t[G]en-der and mild
+S[D]leep in heavenly pe[G]ace
+S[D]leep in heaven-ly pe[G]ace
+
+#Verse 2
+[G]Si - lent night ho - ly night
+[D]Shepherds quake [G]at the sight
+Gl[C]ories stream from he[G]av-en afar
+He[C]av'nly hosts sing [G]al-le-luia
+C[D]hrist the Savior is b[G]orn
+C[D]hrist the Savior is b[G]orn
+
+#Verse 3
+[G]Si - lent night ho - ly night
+S[D]on of God lo[G]ve's pure light
+Ra[C]diant beams from T[G]hy ho-ly face
+W[C]ith the dawn of re-d[G]eem-ing grace
+J[D]esus Lord at Thy bi[G]rth
+J[D]esus Lord at Thy bi[G]rth
