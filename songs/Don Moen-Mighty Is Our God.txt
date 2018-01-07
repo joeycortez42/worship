@@ -4,7 +4,7 @@
 {key:A}
 {tempo:152}
 {time:4/4}
-{as:12.6}
+{as:13.5}
 
 {c:Intro}
 Gl[A]ory to our L[F#m]ord
@@ -19,7 +19,7 @@ Mi[A]ghty is our L[F#m]ord
 Gl[A]ory to our G[D]od
 Gl[A]ory to our K[D]ing
 Gl[A]ory to our L[F#m]ord
-[Bm7]Ruler of [E]ev - 'ry - th[A]ing [D] [E]
+[Bm7]Ruler of [E]ev - 'ry - th[A]ing
 {eoc}
 
 #Verse
@@ -37,7 +37,7 @@ Mi[A]ghty is our L[F#m]ord
 Gl[A]ory to our G[D]od
 Gl[A]ory to our K[D]ing
 Gl[A]ory to our L[F#m]ord
-[Bm7]Ruler of [E]ev - 'ry - th[A]ing [D] [E]
+[Bm7]Ruler of [E]ev - 'ry - th[A]ing
 {eoc}
 
 #Verse
@@ -56,7 +56,7 @@ Mi[A]ghty is our L[F#m]ord
 Gl[A]ory to our G[D]od
 Gl[A]ory to our K[D]ing
 Gl[A]ory to our L[F#m]ord
-[Bm7]Ruler of [E]ev - 'ry - th[A]ing [D] [E]
+[Bm7]Ruler of [E]ev - 'ry - th[A]ing
 {eoc}
 
 {c:Ending}

@@ -1,44 +1,44 @@
 {title:What A Friend We Have In Jesus}
 {subtitle:Charles Crozat Converse}
 {original_key:F}
-{key:A}
+{key:D}
 {tempo:130}
 {time:4/4}
 {as:10}
 
 {c:Intro}
-[A]All because we do not [D]carry
-[A]Everything to [E]God in [A]prayer
+[D]All because we do not [G]carry
+[D]Everything to [A]God in [D]prayer
 
 #Verse 1
-[A]What a friend we have in [D]Jesus
-[A]All our sins and griefs to [E]bear
-[A]What a privilege to [D]carry
-[A]Everything to [E]God in [A]prayer
-[E]O what peace we often [A]forfeit
-[D]O what need - [A]less pain we [E]bear
-[A]All because we do not [D]carry
-[A]Everything to [E]God in [A]prayer
+[D]What a friend we have in [G]Jesus
+[D]All our sins and griefs to [A]bear
+[D]What a privilege to [G]carry
+[D]Everything to [A]God in [D]prayer
+[A]O what peace we often [D]forfeit
+[G]O what need - [D]less pain we [A]bear
+[D]All because we do not [G]carry
+[D]Everything to [A]God in [D]prayer
 
 #Verse 2
-[A]Have we trials and temp - [D]tations
-[A]Is there trouble any - [E]where
-[A]We should never be dis - [D]couraged
-[A]Take it to the [E]Lord in [A]prayer
-[E]Can we find a friend so [A]faithful
-[D]Who will all [A]our sor - rows [E]share
-[A]Jesus knows our every [D]weakness
-[A]Take it to the [E]Lord in [A]prayer
+[D]Have we trials and temp - [G]tations
+[D]Is there trouble any - [A]where
+[D]We should never be dis - [G]couraged
+[D]Take it to the [A]Lord in [D]prayer
+[A]Can we find a friend so [D]faithful
+[G]Who will all [D]our sor - rows [A]share
+[D]Jesus knows our every [G]weakness
+[D]Take it to the [A]Lord in [D]prayer
 
 #Verse 3
-[A]Are we weak and heavy [D]laden
-[A]Cumbered with a load of [E]care
-[A]Precious Savior still our [D]refuge
-[A]Take it to the [E]Lord in [A]prayer
-[E]Do thy friends de - [A]spise for - sake thee
-[D]Take it to [A]the Lord in [E]prayer
-[A]In His arms He'll take and [D]shield thee
-[A]Thou wilt find a [E]solace [A]there
+[D]Are we weak and heavy [G]laden
+[D]Cumbered with a load of [A]care
+[D]Precious Savior still our [G]refuge
+[D]Take it to the [A]Lord in [D]prayer
+[A]Do thy friends de - [D]spise for - sake thee
+[G]Take it to [D]the Lord in [A]prayer
+[D]In His arms He'll take and [G]shield thee
+[D]Thou wilt find a [A]solace [D]there
 
 {c:Ending w/ Retard}
-[A]Thou wilt find a [E]solace [A]there [D] [A]
+[D]Thou wilt find a [A]solace [D]there [G] [D]

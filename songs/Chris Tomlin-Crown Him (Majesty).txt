@@ -1,0 +1,80 @@
+{title:Crown Him (Majesty)}
+{subtitle:Chris Tomlin}
+{original_key:Db}
+{key:G}
+{tempo:76}
+{time:4/4}
+{as:10}
+
+{c:Intro}
+[Em] [C] [G] [Dsus][-][D]
+
+#Verse 1
+[Em]Crown Him with many [C]crowns
+The [G]Lamb upon His th[Dsus]rone
+Hark [Em]How the he[Dsus]avenly [A/C#]anthem [D]drowns
+All [D]music [A]but its [Dsus]own
+A-[G]wake my soul and [C]sing
+Of [A]Him who died for [D]me
+And [Em]hail Him [D]as thy [C]matchless [G]King
+Through [Am7]all e-t[Dsus]erni-[G]ty
+
+{soc}
+[C]Majesty L[G]ord of all
+Let [C]every throne be-f[Em]ore Him [Dsus]fall
+The [C]King of Kings
+O [G]come adore
+Our [Am7]God who [G]reigns for-[Dsus]ever-[G]more
+{eoc}
+
+{c:Downstrums}
+#Verse 2
+[Em]Crown Him the Lord of [C]life
+Who [G]triumphed o'er the [Dsus]grave
+And [Em]rose vic[Em]torious [A/C#]in the [D]strife
+For [D]those He [A]came to [Dsus]save
+His [G]glories now we [C]sing
+Who [A]died and rose on [D]high
+Who [Em]died e-[D]ternal [C]life to [G]bring
+And [Am7]lives that [Dsus]death may [G]die
+
+{soc}
+[C]Majesty L[G]ord of all
+Let [C]every throne be-f[Em]ore Him [Dsus]fall
+The [C]King of Kings
+O [G]come adore
+Our [Am7]God who [G]reigns for-[Dsus]ever-[G]more
+{eoc}
+Forevermore
+
+{sob}
+All [C]hail Re-[G]deemer [Dsus]hail
+For [G]He has [G]died for [C]me
+His [C]praise and [G]glory [Em]shall not [Dsus]fail
+Through-[C]out e-[Dsus]terni-[G]ty
+
+All [C]hail Re-[G]deemer [Dsus]hail
+For [G]He has [G]died for [C]me
+His [C]praise and [G]glory [Em]shall not [Dsus]fail
+Through-[C]out e-[Dsus]terni-[G]ty
+{eob}
+
+{c:Empty}
+{soc}
+[C]Majesty L[G]ord of all
+Let [C]every throne be-f[Em]ore Him [Dsus]fall
+{c:Downstrums}
+The [C]King of Kings
+O [G]come adore
+Our [Am7]God who [G]reigns for-[Dsus]ever-[G]more
+
+[C]Majesty L[G]ord of all
+Let [C]every throne be-f[Em]ore Him [Dsus]fall
+The [C]King of Kings
+O [G]come adore
+Our [Am7]God who [G]reigns for-[Dsus]ever-[G]more
+{eoc}
+
+{c:Ending}
+Praise [Am7]God who [G]reigns for-[Dsus]ever-[G]more
+You’re the [Am7]God who [G]reigns  for-[Dsus]ever-[G]more
