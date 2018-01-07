@@ -1,0 +1,85 @@
+{title: O Come To The Altar}
+{subtitle:Mack Brock}
+{original_key:B}
+{key:D}
+{tempo:140}
+{time:6/8}
+{as:10}
+
+{c:Intro}
+[A] [D] [A] [D]
+
+#Verse 1
+[A]  Are you [D]hurting and broken with-[A]in
+Over-[D]whelmed by the weight of your [F#m]sin
+Jesus is [D]calling
+[A]  Have you [D]come to the end of your-[A]self
+Do you [D]thirst for a drink from the w[F#m]ell
+Jesus is [D]calling
+
+{soc}
+[A]  O come to  [Bm]  the altar
+[F#m]  The Father's arms are [D]open wide
+[A]  Forgiveness  [Bm]  was bought with
+[F#m]  The precious blood of [D]Jesus [A]Christ
+{eoc}
+
+[A] [D] [A] [D]
+
+#Verse 2
+[A]  Leave be-[D]hind your regrets and mis-[A]takes
+Come to-[D]day there's no reason to w[F#m]ait
+Jesus is [D]calling
+[A]  Bring your [D]sorrows and trade them for [A]joy
+From the [D]ashes a new life is b[F#m]orn
+Jesus is [D]calling
+
+{soc}
+[A]  O come to  [Bm]  the altar
+[F#m]  The Father's arms are [D]open wide
+[A]  Forgiveness  [Bm]  was bought with
+[F#m]  The precious blood of [D]Jesus [A]Christ
+
+[A]  O come to  [Bm]  the altar
+[F#m]  The Father's arms are [D]open wide
+[A]  Forgiveness  [Bm]  was bought with
+[F#m]  The precious blood of [D]Jesus [A]Christ
+{eoc}
+
+[A] [F#m] [D]
+
+{sob}
+Oh what a [A]Savior
+Isn't he [F#m]wonderful
+Sing alle-[D]luia Christ is risen [A]
+Bow down be-[A]fore him
+For he is L[F#m]ord of all
+Sing alle-[D]luia Christ is risen [A]
+
+Oh what a [A]Savior
+Isn't he [F#m]wonderful
+Sing alle-[D]luia Christ is risen [A]
+Bow down be-[A]fore him
+For he is L[F#m]ord of all
+Sing alle-[D]luia Christ is risen [A]
+{eob}
+
+{soc}
+[A]  O come to  [Bm]  the altar
+[F#m]  The Father's arms are [D]open wide
+[A]  Forgiveness  [Bm]  was bought with
+[F#m]  The precious blood of [D]Jesus [A]Christ
+
+[A]  O come to  [Bm]  the altar
+[F#m]  The Father's arms are [D]open wide
+[A]  Forgiveness  [Bm]  was bought with
+[F#m]  The precious blood of [D]Jesus [A]Christ
+{eoc}
+
+[A] [Bm] [F#m] [D]
+
+#Verse 3
+[A]  Bear your [D]cross as you wait for the [A]crown
+Tell the [G]world of the t[D/F#]reasure you've [A]found
+
+[A] [D] [A] [D] [A]
