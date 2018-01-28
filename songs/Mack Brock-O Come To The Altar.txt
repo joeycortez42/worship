@@ -19,7 +19,7 @@ Jesus is [C]calling
 
 {soc}
 [G]  O come to  [Am]  the altar
-[Em]  The Father's arms are [C]open wide
+[Em]  The Father's arms are [C]open [G]wide
 [G]  Forgiveness  [Am]  was bought with
 [Em]  The precious blood of [C]Jesus [G]Christ
 {eoc}
@@ -36,7 +36,7 @@ Jesus is [C]calling
 
 {soc}
 [G]  O come to  [Am]  the altar
-[Em]  The Father's arms are [C]open wide
+[Em]  The Father's arms are [C]open [G]wide
 [G]  Forgiveness  [Am]  was bought with
 [Em]  The precious blood of [C]Jesus [G]Christ
 
@@ -66,12 +66,12 @@ Sing alle-[C]luia Christ is risen [G]
 
 {soc}
 [G]  O come to  [Am]  the altar
-[Em]  The Father's arms are [C]open wide
+[Em]  The Father's arms are [C]open [G]wide
 [G]  Forgiveness  [Am]  was bought with
 [Em]  The precious blood of [C]Jesus [G]Christ
 
 [G]  O come to  [Am]  the altar
-[Em]  The Father's arms are [C]open wide
+[Em]  The Father's arms are [C]open [G]wide
 [G]  Forgiveness  [Am]  was bought with
 [Em]  The precious blood of [C]Jesus [G]Christ
 {eoc}
@@ -80,6 +80,6 @@ Sing alle-[C]luia Christ is risen [G]
 
 #Verse 3
 [G]  Bear your [C]cross as you wait for the [G]crown
-Tell the [F]world of the t[C/E]reasure you've [G]found
-
-[G] [C] [G] [C] [G]
+Tell the [F]world of the t[C]reasure you've [G]found
+Jesus is [C]calling
+[G]
