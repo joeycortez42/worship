@@ -1,0 +1,105 @@
+{title:Our God}
+{subtitle:Chris Tomlin}
+{original_key:B}
+{key:G}
+{tempo:105}
+{time:4/4}
+{as:13.0}
+
+{c:Intro}
+|--------------------------------------|
+|-8 x 8----5 x 8----12 x 8----10 x 8---|
+|--------------------------------------|
+|--------------------------------------|
+|--------------------------------------|
+|--------------------------------------|
+[Em] [C] [G] [D]
+|--------------------------------------|
+|-8 x 8----13 x 8----12 x 8----10 x 8--|
+|--------------------------------------|
+|--------------------------------------|
+|--------------------------------------|
+|--------------------------------------|
+[Em] [C] [G] [D]
+
+#Verse 1
+[Em]Water You t[C]urned into [G]wine
+[Em]Opened the [C]eyes of the [G]blind
+There's no one [Am]like You None like [D] You
+
+#Verse 2
+[Em]Into the [C]darkness You [G]shine
+[Em]Out of the [C]ashes we [G]rise
+There's no one [Am]like You None like [D] You
+
+{soc}
+[Em]Our God is greater [C]Our God is stronger
+[G]God You are higher than [D]any other
+[Em]Our God is healer [C]Awesome in power
+Our [G]God our [D]God
+{eoc}
+
+{c:(Down strum only then fade)}
+[Em] [C] [G] [D]
+
+#Verse 2
+[Em]Into the [C]darkness You [G]shine
+[Em]Out of the [C]ashes we [G]rise
+There's no one [Am]like You None like [D] You
+
+{soc}
+[Em]Our God is greater [C]Our God is stronger
+[G]God You are higher than [D]any other
+[Em]Our God is healer [C]Awesome in power
+Our [G]God our [D]God
+
+[Em]Our God is greater [C]Our God is stronger
+[G]God You are higher than [D]any other
+[Em]Our God is healer [C]Awesome in power
+Our [G]God our [D]God
+{eoc}
+
+{c:(Down strum only)}
+[Em] [C] [G] [D]
+[Em] [C] [G] [D]
+
+{sob}
+[Em] And if our God is for us
+[C] Then who could ever stop us
+[G] And if our God is with us
+[D] Then what could stand against
+
+[Em] And if our God is for us
+[C] Then who could ever stop us
+[G] And if our God is with us
+[D] Then what could stand a[Em]gain[C]st [G]
+[D] Then what could stand a[Em]gain[C]st [G] [D]
+{eob}
+
+{soc}
+[Em]Our God is greater [C]Our God is stronger
+[G]God You are higher than [D]any other
+[Em]Our God is healer [C]Awesome in power
+Our [G]God our [D]God
+
+[Em]Our God is greater [C]Our God is stronger
+[G]God You are higher than [D]any other
+[Em]Our God is healer [C]Awesome in power
+Our [G]God our [D]God
+{eoc}
+
+{sob}
+[Em] And if our God is for us
+[C] Then who could ever stop us
+[G] And if our God is with us
+[D] Then what could stand against
+
+[Em] And if our God is for us
+[C] Then who could ever stop us
+[G] And if our God is with us
+[D] Then what could stand a[Em]gain[C]st [G]
+[D] Then what could stand a[Em]gain[C]st [G] [D]
+{eob}
+
+{c:Ending}
+[Em]

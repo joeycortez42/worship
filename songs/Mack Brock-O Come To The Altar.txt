@@ -1,85 +1,85 @@
 {title: O Come To The Altar}
 {subtitle:Mack Brock}
 {original_key:B}
-{key:D}
+{key:A}
 {tempo:140}
 {time:6/8}
-{as:10}
+{as:10.9}
 
 {c:Intro}
-[A] [D] [A] [D]
+[G] [C] [G] [C]
 
 #Verse 1
-[A]  Are you [D]hurting and broken with-[A]in
-Over-[D]whelmed by the weight of your [F#m]sin
-Jesus is [D]calling
-[A]  Have you [D]come to the end of your-[A]self
-Do you [D]thirst for a drink from the w[F#m]ell
-Jesus is [D]calling
+[G]  Are you [C]hurting and broken with-[G]in
+Over-[C]whelmed by the weight of your [Em]sin
+Jesus is [C]calling
+[G]  Have you [C]come to the end of your-[G]self
+Do you [C]thirst for a drink from the w[Em]ell
+Jesus is [C]calling
 
 {soc}
-[A]  O come to  [Bm]  the altar
-[F#m]  The Father's arms are [D]open wide
-[A]  Forgiveness  [Bm]  was bought with
-[F#m]  The precious blood of [D]Jesus [A]Christ
+[G]  O come to  [Am]  the altar
+[Em]  The Father's arms are [C]open wide
+[G]  Forgiveness  [Am]  was bought with
+[Em]  The precious blood of [C]Jesus [G]Christ
 {eoc}
 
-[A] [D] [A] [D]
+[G] [C] [G] [C]
 
 #Verse 2
-[A]  Leave be-[D]hind your regrets and mis-[A]takes
-Come to-[D]day there's no reason to w[F#m]ait
-Jesus is [D]calling
-[A]  Bring your [D]sorrows and trade them for [A]joy
-From the [D]ashes a new life is b[F#m]orn
-Jesus is [D]calling
+[G]  Leave be-[C]hind your regrets and mis-[G]takes
+Come to-[C]day there's no reason to w[Em]ait
+Jesus is [C]calling
+[G]  Bring your [C]sorrows and trade them for [G]joy
+From the [C]ashes a new life is b[Em]orn
+Jesus is [C]calling
 
 {soc}
-[A]  O come to  [Bm]  the altar
-[F#m]  The Father's arms are [D]open wide
-[A]  Forgiveness  [Bm]  was bought with
-[F#m]  The precious blood of [D]Jesus [A]Christ
+[G]  O come to  [Am]  the altar
+[Em]  The Father's arms are [C]open wide
+[G]  Forgiveness  [Am]  was bought with
+[Em]  The precious blood of [C]Jesus [G]Christ
 
-[A]  O come to  [Bm]  the altar
-[F#m]  The Father's arms are [D]open wide
-[A]  Forgiveness  [Bm]  was bought with
-[F#m]  The precious blood of [D]Jesus [A]Christ
+[G]  O come to  [Am]  the altar
+[Em]  The Father's arms are [C]open wide
+[G]  Forgiveness  [Am]  was bought with
+[Em]  The precious blood of [C]Jesus [G]Christ
 {eoc}
 
-[A] [F#m] [D]
+[G] [Em] [C]
 
 {sob}
-Oh what a [A]Savior
-Isn't he [F#m]wonderful
-Sing alle-[D]luia Christ is risen [A]
-Bow down be-[A]fore him
-For he is L[F#m]ord of all
-Sing alle-[D]luia Christ is risen [A]
+Oh what a [G]Savior
+Isn't he [Em]wonderful
+Sing alle-[C]luia Christ is risen [G]
+Bow down be-[G]fore him
+For he is L[Em]ord of all
+Sing alle-[C]luia Christ is risen [G]
 
-Oh what a [A]Savior
-Isn't he [F#m]wonderful
-Sing alle-[D]luia Christ is risen [A]
-Bow down be-[A]fore him
-For he is L[F#m]ord of all
-Sing alle-[D]luia Christ is risen [A]
+Oh what a [G]Savior
+Isn't he [Em]wonderful
+Sing alle-[C]luia Christ is risen [G]
+Bow down be-[G]fore him
+For he is L[Em]ord of all
+Sing alle-[C]luia Christ is risen [G]
 {eob}
 
 {soc}
-[A]  O come to  [Bm]  the altar
-[F#m]  The Father's arms are [D]open wide
-[A]  Forgiveness  [Bm]  was bought with
-[F#m]  The precious blood of [D]Jesus [A]Christ
+[G]  O come to  [Am]  the altar
+[Em]  The Father's arms are [C]open wide
+[G]  Forgiveness  [Am]  was bought with
+[Em]  The precious blood of [C]Jesus [G]Christ
 
-[A]  O come to  [Bm]  the altar
-[F#m]  The Father's arms are [D]open wide
-[A]  Forgiveness  [Bm]  was bought with
-[F#m]  The precious blood of [D]Jesus [A]Christ
+[G]  O come to  [Am]  the altar
+[Em]  The Father's arms are [C]open wide
+[G]  Forgiveness  [Am]  was bought with
+[Em]  The precious blood of [C]Jesus [G]Christ
 {eoc}
 
-[A] [Bm] [F#m] [D]
+[G] [Am] [Em] [C]
 
 #Verse 3
-[A]  Bear your [D]cross as you wait for the [A]crown
-Tell the [G]world of the t[D/F#]reasure you've [A]found
+[G]  Bear your [C]cross as you wait for the [G]crown
+Tell the [F]world of the t[C/E]reasure you've [G]found
 
-[A] [D] [A] [D] [A]
+[G] [C] [G] [C] [G]

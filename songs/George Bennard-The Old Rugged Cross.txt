@@ -8,56 +8,59 @@
 
 {c:Intro}
 I will [G]cling to the old rug - ged [C]cross
-And ex - [G]change it some [D]day for a [G]crown
+And ex - [G]change it some [D]day for a [G]crown [C] [G]
 
 #Verse 1
 [G]On a hill far a - way stood an [C]old rugged cross
-The [D]emblem of suff'ring and [G]shame
+The [D]emblem of suff'ring and [G]shame [C] [G]
 And I [G]love that old cross where the [C]dear - est and [C]best
 For a [D]world of lost [D]sin - ners was [G]slain
 
 {soc}
-So I'll [D]cherish the old rugged [G]cross
+So I'll [D]cherish the old rugged [G]cross [C] [G]
 Till my [C]trophies at last I lay [G]down
 I will [G]cling to the old rug - ged [C]cross
-And ex - [G]change it some [D]day for a [G]crown
+And ex - [G]change it some [D]day for a [G]crown [C] [G]
 {eoc}
 
 #Verse 2
-[G]O the old rugged cross so de - [C]spised by the world
-Has a [D]wondrous at - traction for [G]me
-For the [G]dear Lamb of God left His [C]glo - ry a - [C]bove
-To [D]bear it to [D]dark Cal - va - [G]ry
-
-{soc}
-So I'll [D]cherish the old rugged [G]cross
-Till my [C]trophies at last I lay [G]down
-I will [G]cling to the old rug - ged [C]cross
-And ex - [G]change it some [D]day for a [G]crown
-{eoc}
-
-#Verse 3
-[G]In the old rugged cross stained with [C]blood so di - vine
-A won - drous beauty I [G]see
-For 'twas [G]on that old cross Jesus [C]suf - fered and [C]died
-To [D]par - don and [D]sanc - ti - fy [G]me
-
-{soc}
-So I'll [D]cherish the old rugged [G]cross
-Till my [C]trophies at last I lay [G]down
-I will [G]cling to the old rug - ged [C]cross
-And ex - [G]change it some [D]day for a [G]crown
-{eoc}
-
+#[G]O the old rugged cross so de - [C]spised by the world
+#Has a [D]wondrous at - traction for [G]me [C] [G]
+#For the [G]dear Lamb of God left His [C]glo - ry a - [C]bove
+#To [D]bear it to [D]dark Cal - va - [G]ry
+#
+# {soc}
+# So I'll [D]cherish the old rugged [G]cross [C] [G]
+# Till my [C]trophies at last I lay [G]down
+# I will [G]cling to the old rug - ged [C]cross
+# And ex - [G]change it some [D]day for a [G]crown [C] [G]
+# {eoc}
+#
+# #Verse 3
+# [G]In the old rugged cross stained with [C]blood so di - vine
+# A won - drous beauty I [G]see [C] [G]
+# For 'twas [G]on that old cross Jesus [C]suf - fered and [C]died
+# To [D]par - don and [D]sanc - ti - fy [G]me
+#
+# {soc}
+# So I'll [D]cherish the old rugged [G]cross [C] [G]
+# Till my [C]trophies at last I lay [G]down
+# I will [G]cling to the old rug - ged [C]cross
+# And ex - [G]change it some [D]day for a [G]crown [C] [G]
+# {eoc}
+#
 #Verse 4
 [G]To the old rugged cross I will [C]ev - er be true
-It's shame and re - proach gladly [G]bear
+It's shame and re - proach gladly [G]bear [C] [G]
 Then He'll [G]call me some day to my [C]home far a - [C]way
 Where His [D]glo - ry for - [D]ev - er I'll [G]share
 
 {soc}
-So I'll [D]cherish the old rugged [G]cross
+So I'll [D]cherish the old rugged [G]cross [C] [G]
 Till my [C]trophies at last I lay [G]down
 I will [G]cling to the old rug - ged [C]cross
-And ex - [G]change it some [D]day for a [G]crown
+And ex - [G]change it some [D]day for a [G]crown [C] [G]
 {eoc}
+
+{c:Ending}
+And ex - [G]change it some [D]day for a [G]crown [C] [G]

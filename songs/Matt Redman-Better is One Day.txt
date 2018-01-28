@@ -7,71 +7,71 @@
 {as:9}
 
 {c:Intro}
-[E]
+[G]
 
 #Verse
-How [E]lovely is Your dwelling place
-[A]  O Lord Al - [B]mighty
-For [E]my soul longs and even faints for [B]You
-For [E]here my heart is satisfied
-[A]  Within Your [B]presence
-I [E]sing beneath the shadow of Your [B]wings
+How [G]lovely is Your dwelling place
+[C]  O Lord Al - [D]mighty
+For [G]my soul longs and even faints for [D]You
+For [G]here my heart is satisfied
+[C]  Within Your [D]presence
+I [G]sing beneath the shadow of Your [D]wings
 
 {soc}
-Better is [A]one day in Your courts
-Better is [B]one day in Your house
-Better is [A]one day in Your courts than thousands [B]elsewhere
+Better is [C]one day in Your courts
+Better is [D]one day in Your house
+Better is [C]one day in Your courts than thousands [D]elsewhere
 
-Better is [A]one day in Your courts
-Better is [B]one day in Your house
-Better is [A]one day in Your courts than thousands [B]elsewhere
-Than thousands [E]elsewhere
+Better is [C]one day in Your courts
+Better is [D]one day in Your house
+Better is [C]one day in Your courts than thousands [D]elsewhere
+Than thousands [G]elsewhere
 {eoc}
 
 #Verse
-How [E]lovely is Your dwelling place
-[A]  O Lord Al - [B]mighty
-For [E]my soul longs and even faints for [B]You
-For [E]here my heart is satisfied
-[A]  Within Your [B]presence
-I [E]sing beneath the shadow of Your [B]wings
+How [G]lovely is Your dwelling place
+[C]  O Lord Al - [D]mighty
+For [G]my soul longs and even faints for [D]You
+For [G]here my heart is satisfied
+[C]  Within Your [D]presence
+I [G]sing beneath the shadow of Your [D]wings
 
 {soc}
-Better is [A]one day in Your courts
-Better is [B]one day in Your house
-Better is [A]one day in Your courts than thousands [B]elsewhere
+Better is [C]one day in Your courts
+Better is [D]one day in Your house
+Better is [C]one day in Your courts than thousands [D]elsewhere
 
-Better is [A]one day in Your courts
-Better is [B]one day in Your house
-Better is [A]one day in Your courts than thousands [B]elsewhere
+Better is [C]one day in Your courts
+Better is [D]one day in Your house
+Better is [C]one day in Your courts than thousands [D]elsewhere
 {eoc}
 
 {as:12}
 
 {sob}
-[C#m] My heart and flesh cry [B]out
-[A] For you the living God
-[C#m] Your spirit’s water [B]to my [A]soul
-[C#m] I’ve tasted and I’ve [B]seen
-[A]Come once again to me
-[C#m]I will draw [B]near to You
-[F#m]I will draw near to [B]You
+[Em] My heart and flesh cry [D]out
+[C] For you the living God
+[Em] Your spirit’s water [D]to my [C]soul
+[Em] I’ve tasted and I’ve [D]seen
+[C]Come once again to me
+[Em]I will draw [D]near to You
+[Am]I will draw near to [D]You
 {eob}
 
 {soc}
 {c:Single Strum}
-Better is [A]one day in Your courts
-Better is [B]one day in Your house
-Better is [A]one day in Your courts than thousands [B]elsewhere
+Better is [C]one day in Your courts
+Better is [D]one day in Your house
+Better is [C]one day in Your courts than thousands [D]elsewhere
 
-Better is [A]one day in Your courts
-Better is [B]one day in Your house
-Better is [A]one day in Your courts than thousands [B]elsewhere
+Better is [C]one day in Your courts
+Better is [D]one day in Your house
+Better is [C]one day in Your courts than thousands [D]elsewhere
 
-Better is [A]one day in Your courts
-Better is [B]one day in Your house
-Better is [A]one day in Your courts than thousands [B]elsewhere
+Better is [C]one day in Your courts
+Better is [D]one day in Your house
+Better is [C]one day in Your courts than thousands [D]elsewhere
 {eoc}
 
 {c:Ending}
-Than thousands [E]elsewhere
+Than thousands [G]elsewhere
