@@ -2,6 +2,8 @@
 {subtitle:Dave Moody}
 {original_key:Ab}
 {key:G}
+{tempo:94}
+{time:4/4}
 {as:10}
 
 {soc}

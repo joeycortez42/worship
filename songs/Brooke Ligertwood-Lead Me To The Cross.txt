@@ -7,57 +7,57 @@
 {as:10}
 
 {c:Intro}
-[Bm]  [F#m7/A]  [G]  [Bm]  [F#m7/A]  [Em7]
+[Bm]  [F#m]  [G]  [Bm]  [F#m]  [Em7]
 
 #Verse 1
-[Bm]   Saviour I [F#m7/A]come quiet my [G]soul re - [D]mem - [A]ber
-[Bm]   Redemption’s [F#m7/A]hill where Your blood was [G]spilled for my [D]ran - [A]som
+[Bm]   Saviour I [F#m]come quiet my [G]soul re - [D]mem - [A]ber
+[Bm]   Redemption’s [F#m]hill where Your blood was [G]spilled for my [D]ran - [A]som
 
 {c:Pre-Chorus}
-[Em7]  Everything I [Asus]once held [A]dear I [Bm]count it [A]all as [Gmaj7]loss
+[Em7]  Everything I [A]once held [A]dear I [Bm]count it [A]all as [G]loss
 
 {soc}
-Lead me to the [Gmaj7]cross where Your [D]love poured [A]out
-Bring me to my [Gmaj7]knees Lord I [D]lay me [A]down
-Rid me of my - [Gmaj7]self I be - [D]long to [A]You
-Oh lead me [Em9]
+Lead me to the [G]cross where Your [D]love poured [A]out
+Bring me to my [G]knees Lord I [D]lay me [A]down
+Rid me of my - [G]self I be - [D]long to [A]You
+Oh lead me [Em]
 [G]lead me [A]to the [Bm]cross
 {eoc}
 
-[Bm]  [F#m7/A]  [G]  [Bm]  [F#m7/A]  [Em7]
+[Bm]  [F#m]  [G]  [Bm]  [F#m]  [Em]
 
 #Verse 2
-[Bm]  You were as [F#m7/A]I tempted and [G]tried [D]hu - [A]man
-[Bm]  The word became [F#m7/A]flesh bore my sin in [G]death now You’re [D]ris - [A]en
+[Bm]  You were as [F#m]I tempted and [G]tried [D]hu - [A]man
+[Bm]  The word became [F#m]flesh bore my sin in [G]death now You’re [D]ris - [A]en
 
 {c:Pre-Chorus}
-[Em7]  Everything I [Asus]once held [A]dear I [Bm]count it [A]all as [Gmaj7]loss
+[Em7]  Everything I [A]once held [A]dear I [Bm]count it [A]all as [G]loss
 
 {soc}
-Lead me to the [Gmaj7]cross where Your [D]love poured [A]out
-Bring me to my [Gmaj7]knees Lord I [D]lay me [A]down
-Rid me of my - [Gmaj7]self I be - [D]long to [A]You
-Oh lead me [Em9]
+Lead me to the [G]cross where Your [D]love poured [A]out
+Bring me to my [G]knees Lord I [D]lay me [A]down
+Rid me of my - [G]self I be - [D]long to [A]You
+Oh lead me [Em]
 [G]Lead me [A]to the [Bm]cross
 {eoc}
 
 {sob}
-To Your [D]heart   [Gmaj7]   [A]
 To Your [D]heart   [G]   [A]
-Lead me to Your [D]heart   [Gmaj7]   [A]
+To Your [D]heart   [G]   [A]
+Lead me to Your [D]heart   [G]   [A]
 Lead me to Your [D]heart   [G]   [A]
 {eob}
 
 {soc}
-Lead me to the [Gmaj7]cross where Your [D]love poured [A]out
-Bring me to my [Gmaj7]knees Lord I [D]lay me [A]down
-Rid me of my - [Gmaj7]self I be - [D]long to [A]You
-Oh lead me [Em9]
-Lead me [Em9]   [Gmaj7]
+Lead me to the [G]cross where Your [D]love poured [A]out
+Bring me to my [G]knees Lord I [D]lay me [A]down
+Rid me of my - [G]self I be - [D]long to [A]You
+Oh lead me [Em]
+Lead me [Em]   [G]
 
-[A]Lead me to the [Gmaj7]cross where Your [D]love poured [A]out
-Bring me to my [Gmaj7]knees Lord I [D]lay me [A]down
-Rid me of my - [Gmaj7]self I be - [D]long to [A]You
-Oh lead me [Em9]
+[A]Lead me to the [G]cross where Your [D]love poured [A]out
+Bring me to my [G]knees Lord I [D]lay me [A]down
+Rid me of my - [G]self I be - [D]long to [A]You
+Oh lead me [Em]
 [G]Lead me [A]to the [D]cross
 {eoc}

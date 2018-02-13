@@ -2,7 +2,7 @@
 {subtitle:John Peterson}
 {original_key:Eb}
 {key:D}
-{tempo:120}
+{tempo:125}
 {time:6/8}
 {as:13}
 

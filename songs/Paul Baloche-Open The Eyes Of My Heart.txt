@@ -1,8 +1,8 @@
 {title:Open The Eyes Of My Heart}
 {subtitle:Paul Baloche}
 {original_key:E}
-{key:E}
-{tempo:112}
+{key:D}
+{tempo:116}
 {time:4/4}
 {as:12.5}
 

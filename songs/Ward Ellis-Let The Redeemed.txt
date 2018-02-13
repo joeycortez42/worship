@@ -2,6 +2,7 @@
 {subtitle:Ward Ellis}
 {original_key:C}
 {key:C}
+{tempo:125}
 {time:4/4}
 {as:11.0}
 
