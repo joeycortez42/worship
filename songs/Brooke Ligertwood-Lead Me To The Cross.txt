@@ -7,7 +7,7 @@
 {as:10}
 
 {c:Intro}
-[Bm]  [F#m]  [G]  [Bm]  [F#m]  [Em7]
+[Bm]  [F#m]  [G]  [D]  [A]
 
 #Verse 1
 [Bm]   Saviour I [F#m]come quiet my [G]soul re - [D]mem - [A]ber
@@ -24,7 +24,7 @@ Oh lead me [Em]
 [G]lead me [A]to the [Bm]cross
 {eoc}
 
-[Bm]  [F#m]  [G]  [Bm]  [F#m]  [Em]
+[Bm]  [F#m]  [G]  [D]  [A]
 
 #Verse 2
 [Bm]  You were as [F#m]I tempted and [G]tried [D]hu - [A]man

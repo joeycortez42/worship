@@ -1,0 +1,61 @@
+{title:How Great Thou Art}
+{subtitle:Stuart Hine}
+{original_key:Bb}
+{key:A}
+{tempo:108}
+{time:4/4}
+{as:10}
+
+{c:Intro}
+[G]
+
+#Verse 1
+O Lord my [G]God when I in [C]awesome wonder
+Consid - er [G]all the [D]worlds Thy hands have [G]made
+I see the [G]stars I hear the [C]rolling thunder
+Thy pow'r through - [G]out the [D]uni - verse dis - [G]played
+
+{soc}
+Then sings my [G]soul my [C]Sav - ior God to [G]Thee
+How [G]great Thou [D]art how great Thou [G]art
+
+Then sings my [G]soul my [C]Sav - ior God to [G]Thee
+How great Thou [D]art how great Thou [G]art
+{eoc}
+#
+#Verse 2
+#When through the [G]woods and forest [C]glades I wander
+#And hear the [G]birds sing [D]sweetly in the [G]trees
+#When I look [G]down from lofty [C]mountain grandeur
+#And hear the [G]brook and [D]feel the gentle [G]breeze
+
+#Verse 3
+And when I [G]think that God His [C]Son not sparing
+Sent Him to [G]die I [D]scarce can take it [G]in
+That on the [G]cross my bur - den [C]gladly bearing
+He bled and [G]died to [D]take a - way my [G]sin
+
+{soc}
+Then sings my [G]soul my [C]Sav - ior God to [G]Thee
+How [G]great Thou [D]art how great Thou [G]art
+
+Then sings my [G]soul my [C]Sav - ior God to [G]Thee
+How great Thou [D]art how great Thou [G]art
+{eoc}
+
+#Verse 4
+When Christ shall [G]come with shout of [C]acclamation
+And take me [G]home what [D]joy shall fill my [G]heart
+Then I shall [G]bow in humb - le [C]adoration
+And there pro - [G]claim my [D]God how [C]great Thou [G]art
+
+{soc}
+Then sings my [G]soul my [C]Sav - ior God to [G]Thee
+How [G]great Thou [D]art how great Thou [G]art
+
+Then sings my [G]soul my [C]Sav - ior God to [G]Thee
+How great Thou [D]art how [C]great Thou [G]art
+{eoc}
+
+{c:Ending}
+How great Thou [D]art how [C]great Thou [G]art

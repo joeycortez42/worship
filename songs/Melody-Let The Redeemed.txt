@@ -3,7 +3,7 @@
 {key:C}
 {tempo:125}
 {time:4/4}
-{as:10}
+{as:13.5}
 
 {c:Intro}
 [C] [F] [C] [G]
@@ -81,3 +81,5 @@ W[C]hat a mighty [Am]God we s[G]erve
 [C]Heaven and earth a - dore Him
 [C]What a mighty G[G]od we se[C]rve
 {eoc}
+
+[C]What a mighty G[G]od we se[C]rve
