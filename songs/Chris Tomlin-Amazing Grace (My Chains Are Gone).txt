@@ -7,51 +7,51 @@
 {as:10}
 
 {c:Intro}
-[G]
+[D]
 
 #Verse 1
-A - [G]mazing grace [C] how sweet the [G]sound
-That [G]saved a wretch like [D] me
-I [G]once was lost but [C]now I'm [G]found
-Was [G]blind but [D]now I [G] see
+A - [D]mazing grace [G] how sweet the [D]sound
+That [D]saved a wretch like [A] me
+I [D]once was lost but [G]now I'm [D]found
+Was [D]blind but [A]now I [D] see
 
 #Verse 2
-'Twas [G]grace that taught my [C] heart to [G]fear
-And [G]grace my fears re [D]- lieved
-How [G]precious did that [C]grace ap - [G]pear
-The [G]hour I [D]first be - [G]lieved
+'Twas [D]grace that taught my [G] heart to [D]fear
+And [D]grace my fears re [A]- lieved
+How [D]precious did that [G]grace ap - [D]pear
+The [D]hour I [A]first be - [D]lieved
 
 {soc}
-My chains [C] are gone I've been set [G] free
-My God my [C]Savior has ransomed [G] me
-And [G]like a [C] flood His mercy [G] rains
-Unending [Am7]love [D] amazing [G]grace
+My chains [G] are gone I've been set [D] free
+My God my [G]Savior has ransomed [D] me
+And [D]like a [G] flood His mercy [D] rains
+Unending [Em7]love [A] amazing [D]grace
 {eoc}
 
 #Verse 3
-The [G]Lord has promised [C]good to [G]me
-His [G]word my hope se - [D]cures
-He [G]will my shield and [C]portion [G]be
-As [G]long as [D] life en - [G]dures
+The [D]Lord has promised [G]good to [D]me
+His [D]word my hope se - [A]cures
+He [D]will my shield and [G]portion [D]be
+As [D]long as [A] life en - [D]dures
 
 {soc}
-My chains [C] are gone I've been set [G] free
-My God my [C]Savior has ransomed [G] me
-And [G]like a [C] flood His mercy [G] rains
-Unending [Am7]love [D] amazing [G]grace
+My chains [G] are gone I've been set [D] free
+My God my [G]Savior has ransomed [D] me
+And [D]like a [G] flood His mercy [D] rains
+Unending [Em7]love [A] amazing [D]grace
 
-My chains [C] are gone I've been set [G] free
-My God my [C]Savior has ransomed [G] me
-And [G]like a [C] flood His mercy [G] rains
-Unending [Am7]love [D] amazing [G]grace
+My chains [G] are gone I've been set [D] free
+My God my [G]Savior has ransomed [D] me
+And [D]like a [G] flood His mercy [D] rains
+Unending [Em7]love [A] amazing [D]grace
 {eoc}
 
 #Verse 4
-The [G]earth shall soon dis - [C]solve like [G]snow
-The [G]sun forbear to [D]shine
-But [G] God who called me [C]here be - [G]low
-Will [G]be for - [D]ever [G]mine
+The [D]earth shall soon dis - [G]solve like [D]snow
+The [D]sun forbear to [A]shine
+But [D] God who called me [G]here be - [D]low
+Will [D]be for - [A]ever [D]mine
 
 {c:Ending}
-Will [G]be for - [D]ever [G]mine
-You [G]are for - [D]ever [G] mine
+Will [D]be for - [A]ever [D]mine
+You [D]are for - [A]ever [D] mine

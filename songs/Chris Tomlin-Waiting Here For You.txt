@@ -1,0 +1,68 @@
+{title:Waiting Here For You}
+{subtitle:Chris Tomlin}
+{original_key:Eb}
+{key:Eb}
+{tempo:66}
+{time:4/4}
+{as:10}
+
+{c:Intro}
+[Eb]
+
+#Verse 1
+If [Eb]faith can move the mountains [Cm]let the mountains [Bb]move
+We [Eb]come with expectation [Cm]waiting here for [Bb]You    [Ab]
+Waiting here for [Eb]You    [Cm]     [Bb]
+
+#Verse 2
+You're [Eb]the Lord of all creation and [Cm]still You know my [Bb]heart
+The [Eb]Author of salvation You've [Cm]loved us from the [Bb]start     [Ab]
+
+{soc}
+Waiting here for [Eb]You with our [Fm]hands
+Lifted [Cm]hi - [Bb]gh   in [Ab]praise
+And it's [Eb]You we a - [Fm]dore
+Singing [Cm]al -  [Bb]le -  [Cm]lu   [Bb]-    [Eb]ia
+{eoc}
+
+[Eb]   [Cm]   [Bb]   [Eb]   [Cm]   [Bb]
+
+#Verse 3
+You are [Eb]everything You've promised Your [Cm]faithfulness is [Bb]true
+We're [Eb]desp'rate for Your presence [Cm]all we need is [Bb]You    [Ab]
+
+{soc}
+Waiting here for [Eb]You with our [Fm]hands
+Lifted [Cm]hi - [Bb]gh   in [Ab]praise
+And it's [Eb]You we a - [Fm]dore
+Singing [Cm]al -  [Bb]le -  [Cm]lu   [Bb]-    [Ab]ia
+{eoc}
+
+[Ab]     We will [Cm]wait for You Lord  [Bb]
+In [Ab]step with You Lord  [Cm]  we sing alle - [Bb]luia
+
+{sob}
+Singing [Ab]alle - [Cm]lu - [Bb]ia
+[Ab]Alle - [Cm]lu - [Bb]ia
+Singing [Ab]alle - [Cm]lu - [Bb]ia
+[Ab]Alle - [Cm]lu - [Bb]ia
+{eob}
+
+{soc}
+Waiting here for [Eb]You with our [Fm]hands
+Lifted [Cm]hi - [Bb]gh   in [Ab]praise
+And it's [Eb]You we a - [Fm]dore
+Singing [Cm]al -  [Bb]le -  [Cm]lu   [Bb]-    [Ab]ia
+
+Waiting here for [Eb]You with our [Fm]hands
+Lifted [Cm]hi - [Bb]gh   in [Ab]praise
+And it's [Eb]You we a - [Fm]dore
+Singing [Cm]al -  [Bb]le -  [Cm]lu   [Bb]-  ia
+We're singing [Cm]al - [Bb]le - [Cm]lu   [Bb]-   [Ab]ia
+
+Waiting here for [Eb]You with our [Fm]hands
+Lifted [Cm]hi - [Bb]gh   in [Ab]praise
+And it's [Eb]You we a - [Fm]dore
+Singing [Cm]al -  [Bb]le -  [Cm]lu   [Bb]-  ia
+Singing [Cm]al -  [Bb]le -  [Cm]lu   [Bb]-    [Ab]ia
+{eoc}

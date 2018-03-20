@@ -1,0 +1,62 @@
+{title:The Wonderful Cross}
+{subtitle:Chris Tomlin}
+{original_key:D}
+{key:D}
+{tempo:88}
+{time:4/4}
+{as:10}
+
+{c:Intro}
+|--7--7--9--11--9--11--12--11--9--11--|
+
+|--11--11--12--12--11--9--7--6--7--9--|
+
+#Verse 1
+[D]When I survey the wondrous cross
+On which the Prince of Glory died
+[D]My richest gain I count but loss
+And pour contempt on all my pride
+
+#Verse 2
+[D]See from His head His hands His feet
+Sorrow and love flow mingled down
+[D]Did e'er such love and sorrow meet
+Or thorns compose so rich a crown
+
+{soc}
+O the [G]wonderful [D/F#]cross
+O the [G]wonderful [D/F#]cross
+Bids me [G]come and die and [D/F#]find
+That I may [A]truly live
+
+O the [G]wonderful [D/F#]cross
+O the [G]wonderful [D/F#]cross
+All who [G]gather here by [D/F#]grace
+Draw near and [A]bless Your name
+{eoc}
+
+#Verse 3
+[D]Were the whole realm of nature mine
+That were an offering far too small
+[D]Love so amazing so divine
+Demands my soul my life my all
+
+{soc}
+O the [G]wonderful [D/F#]cross
+O the [G]wonderful [D/F#]cross
+Bids me [G]come and die and [D/F#]find
+That I may [A]truly live
+
+O the [G]wonderful [D/F#]cross
+O the [G]wonderful [D/F#]cross
+All who [G]gather here by [D/F#]grace
+Draw near and [A]bless Your name
+{eoc}
+
+|--7--7--9--11--9--11--12--11--9--11--|
+
+|--11--11--12--12--11--9--7--6--7--9--|
+
+{c:Ending}
+[D]Love so amazing so divine
+Demands my soul my life my all

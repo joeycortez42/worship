@@ -4,7 +4,7 @@
 {key:G}
 {tempo:100}
 {time:4/4}
-{as:10}
+{as:12.0}
 
 {c:Intro w/ up stroke accents}
 [D] [D] [G] [G]

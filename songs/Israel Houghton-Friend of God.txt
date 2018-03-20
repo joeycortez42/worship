@@ -7,57 +7,57 @@
 {as:9.2}
 
 {c:Intro}
-[B] [Abm] [Dbm7] [B]
+[A] [F#m] [Bm7] [A]
 
-W[B]ho am I that You are mindful of m[Abm]e
-That You [Dbm]hear me when I c[B]all
-I[B]s it true that You are thinking of m[Abm]e
-How You [Dbm7]love me it's a - ma[A]zing
+W[A]ho am I that You are mindful of m[F#m]e
+That You [Bm]hear me when I c[A]all
+I[A]s it true that You are thinking of m[F#m]e
+How You [Bm7]love me it's a - ma[G]zing
 
-W[B]ho am I that You are mindful of m[Abm]e
-That You [Dbm]hear me when I c[B]all
-I[B]s it true that You are thinking of m[Abm]e
-How You [Dbm7]love me it's a - ma[A]zing
+W[A]ho am I that You are mindful of m[F#m]e
+That You [Bm]hear me when I c[A]all
+I[A]s it true that You are thinking of m[F#m]e
+How You [Bm7]love me it's a - ma[G]zing
 
 {soc}
-[B]I am a friend of God [Abm]I am a friend of God
-[Dbm7]I am a friend of [E]God He calls me fri[B]end
+[A]I am a friend of God [F#m]I am a friend of God
+[Bm7]I am a friend of [D]God He calls me fri[A]end
 
-[B]I am a friend of God [Abm]I am a friend of God
-[Dbm7]I am a friend of [E]God He calls me fri[B]end
+[A]I am a friend of God [F#m]I am a friend of God
+[Bm7]I am a friend of [D]God He calls me fri[A]end
 {eoc}
 
-W[B]ho am I that You are mindful of m[Abm]e
-That You [Dbm]hear me when I c[B]all
-I[B]s it true that You are thinking of m[Abm]e
-How You [Dbm7]love me it's a - ma[A]zing
+W[A]ho am I that You are mindful of m[F#m]e
+That You [Bm]hear me when I c[A]all
+I[A]s it true that You are thinking of m[F#m]e
+How You [Bm7]love me it's a - ma[G]zing
 
 {soc}
-[B]I am a friend of God [Abm]I am a friend of God
-[Dbm7]I am a friend of [E]God He calls me frie[B]nd
+[A]I am a friend of God [F#m]I am a friend of God
+[Bm7]I am a friend of [D]God He calls me frie[A]nd
 
-[B]I am a friend of God [Abm]I am a friend of God
-[Dbm7]I am a friend of [E]God He calls me frie[B]nd
+[A]I am a friend of God [F#m]I am a friend of God
+[Bm7]I am a friend of [D]God He calls me frie[A]nd
 {eoc}
 
 {sob}
-[E]God Almighty
-[B]Lord of Glory
-[Dbm7]You have called me [E]friend
+[D]God Almighty
+[A]Lord of Glory
+[Bm7]You have called me [D]friend
 
-[E]God Almighty
-[B]Lord of Glory
-[Dbm7]You have called me [E]friend
+[D]God Almighty
+[A]Lord of Glory
+[Bm7]You have called me [D]friend
 
-[E]God Almighty
-[B]Lord of Glory
-[Dbm7]You have called me [E]friend
+[D]God Almighty
+[A]Lord of Glory
+[Bm7]You have called me [D]friend
 {eob}
 
 {soc}
-[B]I am a friend of God [Abm]I am a friend of God
-[Dbm7]I am a friend of [E]God He calls me frie[B]nd
+[A]I am a friend of God [F#m]I am a friend of God
+[Bm7]I am a friend of [D]God He calls me frie[A]nd
 
-[B]I am a friend of God [Abm]I am a friend of God
-[Dbm7]I am a friend of [E]God He calls me frie[B]nd
+[A]I am a friend of God [F#m]I am a friend of God
+[Bm7]I am a friend of [D]God He calls me frie[A]nd
 {eoc}
