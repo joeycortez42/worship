@@ -1,62 +1,68 @@
 {title:The Wonderful Cross}
 {subtitle:Chris Tomlin}
 {original_key:D}
-{key:D}
+{key:E}
 {tempo:88}
 {time:4/4}
-{as:10}
+{as:5.0}
 
 {c:Intro}
-|--7--7--9--11--9--11--12--11--9--11--|
+#|--7--7--9--11--9--11--12--11--9--11--|
+#
+#|--11--11--12--12--11--9--7--6--7--9--|
+|--9--9--11--13--11--13--14--13--11--13--|
 
-|--11--11--12--12--11--9--7--6--7--9--|
+|--13--13--14--14--13--11--9--8--9--11---|
 
 #Verse 1
-[D]When I survey the wondrous cross
+[E]When I survey the wondrous cross
 On which the Prince of Glory died
-[D]My richest gain I count but loss
+[E]My richest gain I count but loss
 And pour contempt on all my pride
 
 #Verse 2
-[D]See from His head His hands His feet
+[E]See from His head His hands His feet
 Sorrow and love flow mingled down
-[D]Did e'er such love and sorrow meet
+[E]Did e'er such love and sorrow meet
 Or thorns compose so rich a crown
 
 {soc}
-O the [G]wonderful [D/F#]cross
-O the [G]wonderful [D/F#]cross
-Bids me [G]come and die and [D/F#]find
-That I may [A]truly live
+O the [A]wonderful [E]cross
+O the [A]wonderful [E]cross
+Bids me [A]come and die and [E]find
+That I may [B]truly live
 
-O the [G]wonderful [D/F#]cross
-O the [G]wonderful [D/F#]cross
-All who [G]gather here by [D/F#]grace
-Draw near and [A]bless Your name
+O the [A]wonderful [E]cross
+O the [A]wonderful [E]cross
+All who [A]gather here by [E]grace
+Draw near and [B]bless Your name
 {eoc}
 
 #Verse 3
-[D]Were the whole realm of nature mine
+[E]Were the whole realm of nature mine
 That were an offering far too small
-[D]Love so amazing so divine
+[E]Love so amazing so divine
 Demands my soul my life my all
 
 {soc}
-O the [G]wonderful [D/F#]cross
-O the [G]wonderful [D/F#]cross
-Bids me [G]come and die and [D/F#]find
-That I may [A]truly live
+O the [A]wonderful [E]cross
+O the [A]wonderful [E]cross
+Bids me [A]come and die and [E]find
+That I may [B]truly live
 
-O the [G]wonderful [D/F#]cross
-O the [G]wonderful [D/F#]cross
-All who [G]gather here by [D/F#]grace
-Draw near and [A]bless Your name
+O the [A]wonderful [E]cross
+O the [A]wonderful [E]cross
+All who [A]gather here by [E]grace
+Draw near and [B]bless Your name
 {eoc}
 
-|--7--7--9--11--9--11--12--11--9--11--|
+#|--7--7--9--11--9--11--12--11--9--11--|
+#
+#|--11--11--12--12--11--9--7--6--7--9--|
+|--9--9--11--13--11--13--14--13--11--13--|
 
-|--11--11--12--12--11--9--7--6--7--9--|
+|--13--13--14--14--13--11--9--8--9--9---|
 
 {c:Ending}
-[D]Love so amazing so divine
+[E]Love so amazing so divine
 Demands my soul my life my all
