@@ -4,10 +4,11 @@
 {key:Eb}
 {tempo:66}
 {time:4/4}
-{as:10}
+{as:8.0}
 
 {c:Intro}
-[Eb]
+[Eb] [Eb] [Cm] [Bb]
+[Eb] [Eb] [Cm] [Bb]
 
 #Verse 1
 If [Eb]faith can move the mountains [Cm]let the mountains [Bb]move

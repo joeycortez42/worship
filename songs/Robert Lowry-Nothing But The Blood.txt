@@ -1,0 +1,65 @@
+{title:Nothing But The Blood}
+{subtitle:Robert Lowry}
+{original_key:G}
+{key:G}
+{tempo:90}
+{time:4/4}
+{as:10}
+
+{c:Intro}
+Not[G]hing but the blood of [D]Je - s[G]us
+
+#Verse 1
+W[G]hat can wash a - way my sin
+Not[G]hing but the blood of [D]Je - s[G]us
+W[G]hat can make me whole again
+Not[G]hing but the blood of [D]Je - s[G]us
+
+{soc}
+[G]O pre - cious is the flow
+T[D]hat makes me white as sn[G]ow
+[G]No oth - er fount I know
+Not[G]hing but the blood of [D]Je - s[G]us
+{eoc}
+
+#Verse 2
+F[G]or my par - don this I see
+Not[G]hing but the blood of [D]Je - s[G]us
+F[G]or my cleans - ing this my plea
+Not[G]hing but the blood of [D]Je - s[G]us
+
+{soc}
+[G]O precious is the flow
+T[D]hat makes me white as sn[G]ow
+[G]No other fount I know
+Not[G]hing but the blood of [D]Je - s[G]us
+{eoc}
+#
+#Verse 3
+#Not[G]hing can for sin atone
+#Not[G]hing but the blood of [D]Je - s[G]us
+#Na[G]ught of good that I have done
+#Not[G]hing but the blood of [D]Je - s[G]us
+#
+#{soc}
+#[G]O precious is the flow
+#T[D]hat makes me white as sn[G]ow
+#[G]No other fount I know
+#Not[G]hing but the blood of [D]Je - s[G]us
+#{eoc}
+
+#Verse 4
+T[G]his is all my hope and peace
+Not[G]hing but the blood of [D]Je - s[G]us
+T[G]his is all my righteousness
+Not[G]hing but the blood of [D]Je - s[G]us
+
+{soc}
+[G]O precious is the flow
+T[D]hat makes me white as sn[G]ow
+[G]No other fount I know
+Not[G]hing but the blood of [D]Je - s[G]us
+{eoc}
+
+{c:Ending}
+Not[G]hing but the blood of [D]Je - s[G]us
