@@ -25,6 +25,23 @@ I [Em7]will rejoice for [A7]He has made me [D]glad
 I [Em7]will rejoice for [A7]He has made me [D]glad
 {eoc}
 
+#Verse
+I will [D]enter His [G]gates with thanks - [D]giving in my heart
+I will [D]enter His [G]courts with [A7]praise
+I will [D]say this is the [G]day that the [D]Lord has made
+I [Em7]will rejoice for [A7]He has made me [D]glad
+
+{soc}
+[D]He has made me [G]glad
+[D]He has made me glad
+I [Em7]will rejoice for [A7]He has made me [D]glad
+
+[D]He has made me [G]glad
+[D]He has made me glad
+I [Em7]will rejoice for [A7]He has made me [D]glad
+{eoc}
+
+{c:Ending}
 I [Em7]will rejoice for [A7]He has made me [D]glad
 I [Em7]will rejoice for [A7]He has made me [D]glad
 
@@ -44,3 +61,25 @@ Great in coun - sel and m[D]ight - y in deed [D]
 Not[D]hing [Bm]nothing [Em7]absolutely [A]nothing
 Not[D]hing is too [A]diffi - cult for T[D]hee
 {eoc}
+
+
+#Verse
+[D]Ah Lord God
+T[G]hou hast made the hea[D]vens
+And the [D]earth by Thy great po[A]wer
+[D]Ah Lord God
+T[G]hou hast made the hea[D]vens
+And the [D]earth by Thine [A]out - stretched a[D]rm
+
+{soc}
+Not[D]hing is too d[A]ifficult for T[G]hee
+Not[A]hing is too difficult for T[D]hee
+G[D]reat and mighty God [G]
+Great in coun - sel and m[D]ight - y in deed [D]
+Not[D]hing [Bm]nothing [Em7]absolutely [A]nothing
+Not[D]hing is too [A]diffi - cult for T[D]hee
+{eoc}
+
+{c:Ending}
+Not[D]hing [Bm]nothing [Em7]absolutely [A]nothing
+Not[D]hing is too [A]diffi - cult for T[D]hee

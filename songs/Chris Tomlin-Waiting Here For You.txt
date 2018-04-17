@@ -4,66 +4,66 @@
 {key:Eb}
 {tempo:66}
 {time:4/4}
-{as:8.0}
+{as:7.5}
 
 {c:Intro}
-[Eb] [Eb] [Cm] [Bb]
-[Eb] [Eb] [Cm] [Bb]
+[D] [D] [Bm] [A]
+[D] [D] [Bm] [A]
 
 #Verse 1
-If [Eb]faith can move the mountains [Cm]let the mountains [Bb]move
-We [Eb]come with expectation [Cm]waiting here for [Bb]You    [Ab]
-Waiting here for [Eb]You    [Cm]     [Bb]
+If [D]faith can move the mountains [Bm]let the mountains [A]move
+We [D]come with expectation [Bm]waiting here for [A]You    [G]
+Waiting here for [D]You    [Bm]     [A]
 
 #Verse 2
-You're [Eb]the Lord of all creation and [Cm]still You know my [Bb]heart
-The [Eb]Author of salvation You've [Cm]loved us from the [Bb]start     [Ab]
+You're [D]the Lord of all creation and [Bm]still You know my [A]heart
+The [D]Author of salvation You've [Bm]loved us from the [A]start     [G]
 
 {soc}
-Waiting here for [Eb]You with our [Fm]hands
-Lifted [Cm]hi - [Bb]gh   in [Ab]praise
-And it's [Eb]You we a - [Fm]dore
-Singing [Cm]al -  [Bb]le -  [Cm]lu   [Bb]-    [Eb]ia
+Waiting here for [D]You with our [Em]hands
+Lifted [Bm]hi - [A]gh   in [G]praise
+And it's [D]You we a - [Em]dore
+Singing [Bm]al -  [A]le -  [Bm]lu   [A]-    [D]ia
 {eoc}
 
-[Eb]   [Cm]   [Bb]   [Eb]   [Cm]   [Bb]
+[D]   [Bm]   [A]   [D]   [Bm]   [A]
 
 #Verse 3
-You are [Eb]everything You've promised Your [Cm]faithfulness is [Bb]true
-We're [Eb]desp'rate for Your presence [Cm]all we need is [Bb]You    [Ab]
+You are [D]everything You've promised Your [Bm]faithfulness is [A]true
+We're [D]desp'rate for Your presence [Bm]all we need is [A]You    [G]
 
 {soc}
-Waiting here for [Eb]You with our [Fm]hands
-Lifted [Cm]hi - [Bb]gh   in [Ab]praise
-And it's [Eb]You we a - [Fm]dore
-Singing [Cm]al -  [Bb]le -  [Cm]lu   [Bb]-    [Ab]ia
+Waiting here for [D]You with our [Em]hands
+Lifted [Bm]hi - [A]gh   in [G]praise
+And it's [D]You we a - [Em]dore
+Singing [Bm]al -  [A]le -  [Bm]lu   [A]-    [G]ia
 {eoc}
 
-[Ab]     We will [Cm]wait for You Lord  [Bb]
-In [Ab]step with You Lord  [Cm]  we sing alle - [Bb]luia
+[G]     We will [Bm]wait for You Lord  [A]
+In [G]step with You Lord  [Bm]  we sing alle - [A]luia
 
 {sob}
-Singing [Ab]alle - [Cm]lu - [Bb]ia
-[Ab]Alle - [Cm]lu - [Bb]ia
-Singing [Ab]alle - [Cm]lu - [Bb]ia
-[Ab]Alle - [Cm]lu - [Bb]ia
+Singing [G]alle - [Bm]lu - [A]ia
+[G]Alle - [Bm]lu - [A]ia
+Singing [G]alle - [Bm]lu - [A]ia
+[G]Alle - [Bm]lu - [A]ia
 {eob}
 
 {soc}
-Waiting here for [Eb]You with our [Fm]hands
-Lifted [Cm]hi - [Bb]gh   in [Ab]praise
-And it's [Eb]You we a - [Fm]dore
-Singing [Cm]al -  [Bb]le -  [Cm]lu   [Bb]-    [Ab]ia
+Waiting here for [D]You with our [Em]hands
+Lifted [Bm]hi - [A]gh   in [G]praise
+And it's [D]You we a - [Em]dore
+Singing [Bm]al -  [A]le -  [Bm]lu   [A]-    [G]ia
 
-Waiting here for [Eb]You with our [Fm]hands
-Lifted [Cm]hi - [Bb]gh   in [Ab]praise
-And it's [Eb]You we a - [Fm]dore
-Singing [Cm]al -  [Bb]le -  [Cm]lu   [Bb]-  ia
-We're singing [Cm]al - [Bb]le - [Cm]lu   [Bb]-   [Ab]ia
+Waiting here for [D]You with our [Em]hands
+Lifted [Bm]hi - [A]gh   in [G]praise
+And it's [D]You we a - [Em]dore
+Singing [Bm]al -  [A]le -  [Bm]lu   [A]-  ia
+We're singing [Bm]al - [A]le - [Bm]lu   [A]-   [G]ia
 
-Waiting here for [Eb]You with our [Fm]hands
-Lifted [Cm]hi - [Bb]gh   in [Ab]praise
-And it's [Eb]You we a - [Fm]dore
-Singing [Cm]al -  [Bb]le -  [Cm]lu   [Bb]-  ia
-Singing [Cm]al -  [Bb]le -  [Cm]lu   [Bb]-    [Ab]ia
+Waiting here for [D]You with our [Em]hands
+Lifted [Bm]hi - [A]gh   in [G]praise
+And it's [D]You we a - [Em]dore
+Singing [Bm]al -  [A]le -  [Bm]lu   [A]-  ia
+Singing [Bm]al -  [A]le -  [Bm]lu   [A]-    [G]ia
 {eoc}

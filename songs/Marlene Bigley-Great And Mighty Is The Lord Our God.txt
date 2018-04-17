@@ -18,7 +18,6 @@ Prais-es to our Ki[F]ng
 G[F]reat and might - y is the L[C]ord our God
 G[G]reat and might - y is [C]He
 {eoc}
-{c:Repeat}
 
 {soc}
 G[D]reat and might - y is the Lord our God
@@ -30,7 +29,6 @@ Prais-es to our Ki[G]ng
 G[G]reat and might - y is the L[D]ord our God
 G[A]reat and might - y is [D]He
 {eoc}
-{c:Repeat}
 
 {soc}
 G[E]reat and might - y is the Lord our God
@@ -42,7 +40,6 @@ Prais-es to our Ki[A]ng
 G[A]reat and might - y is the L[E]ord our God
 G[B]reat and might - y is [E]He
 {eoc}
-{c:Repeat}
 
 {c:Ending}
 G[A]reat and might - y is the L[E]ord our God

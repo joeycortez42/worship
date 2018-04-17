@@ -1,0 +1,36 @@
+{title:Sanctuary}
+{subtitle:John W. Thompson}
+{original_key:D}
+{key:D}
+{tempo:46}
+{time:4/4}
+{as:10}
+
+{c:Intro}
+Sanctu - [G]ary   [Em7]     [F#m]for     [A]    [D]You
+
+{soc}
+[D]Lord    [Em]pre -   [D]pare me to be a sanctu - [A]ary
+Pure and [G]holy   [Em7]  tried and [D]true   [A]
+[F#m]With     [Em]thanks - [D]giving I’ll be a [A]living
+Sanctu - [G]ary   [Em7]     [F#m]for     [A]    [D]You
+{eoc}
+
+{soc}
+[D]Lord    [Em]pre -   [D]pare me to be a sanctu - [A]ary
+Pure and [G]holy   [Em7]  tried and [D]true   [A]
+[F#m]With     [Em]thanks - [D]giving I’ll be a [A]living
+Sanctu - [G]ary   [Em7]     [F#m]for     [A]    [D]You
+{eoc}
+
+{soc}
+[D]Lord    [Em]pre -   [D]pare me to be a sanctu - [A]ary
+Pure and [G]holy   [Em7]  tried and [D]true   [A]
+[F#m]With     [Em]thanks - [D]giving I’ll be a [A]living
+{c:Retard}
+Sanctu - [G]ary   [Em7]     [F#m]for     [A]    [D]You
+{eoc}
+
+{c:Ending}
+Sanctu - [G]ary   [Em7]     [F#m]for     [A]    [D]You
+Sanctu - [G]ary   [Em7]     [F#m]for     [A]    [D]You
