@@ -10,27 +10,27 @@
 Sanctu - [G]ary   [Em7]     [F#m]for     [A]    [D]You
 
 {soc}
-[D]Lord    [Em]pre -   [D]pare me to be a sanctu - [A]ary
-Pure and [G]holy   [Em7]  tried and [D]true   [A]
-[F#m]With     [Em]thanks - [D]giving I’ll be a [A]living
-Sanctu - [G]ary   [Em7]     [F#m]for     [A]    [D]You
+[D]Lord    pre -   [D]pare me to be a sanctu - [A]ary
+Pure and [G]holy    tried and [D]true   [A]
+With     thanks - [D]giving I’ll be a [A]living
+Sanctu - [G]ary        [A]for   [D]You
 {eoc}
 
 {soc}
-[D]Lord    [Em]pre -   [D]pare me to be a sanctu - [A]ary
-Pure and [G]holy   [Em7]  tried and [D]true   [A]
-[F#m]With     [Em]thanks - [D]giving I’ll be a [A]living
-Sanctu - [G]ary   [Em7]     [F#m]for     [A]    [D]You
+[D]Lord    pre -   [D]pare me to be a sanctu - [A]ary
+Pure and [G]holy    tried and [D]true   [A]
+With     thanks - [D]giving I’ll be a [A]living
+Sanctu - [G]ary        [A]for   [D]You
 {eoc}
 
 {soc}
-[D]Lord    [Em]pre -   [D]pare me to be a sanctu - [A]ary
-Pure and [G]holy   [Em7]  tried and [D]true   [A]
-[F#m]With     [Em]thanks - [D]giving I’ll be a [A]living
+[D]Lord    pre -   [D]pare me to be a sanctu - [A]ary
+Pure and [G]holy    tried and [D]true   [A]
+With     thanks - [D]giving I’ll be a [A]living
 {c:Retard}
-Sanctu - [G]ary   [Em7]     [F#m]for     [A]    [D]You
+Sanctu - [G]ary        [A]for   [D]You
 {eoc}
 
 {c:Ending}
-Sanctu - [G]ary   [Em7]     [F#m]for     [A]    [D]You
-Sanctu - [G]ary   [Em7]     [F#m]for     [A]    [D]You
+Sanctu - [G]ary        [A]for     [D]You
+Sanctu - [G]ary        [A]for       [D]You
