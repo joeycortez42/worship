@@ -1,53 +1,56 @@
 {title:Blessed Assurance}
 {subtitle:Fanny Jane Crosby}
 {original_key:D}
-{key:G}
+{key:C}
 {tempo:65}
 {time:9/8}
 {as:10}
 
 {c:Intro}
-[G]Prais - ing my [Am]Savior [D]all the day [G]long
+[C]Prais - ing my [Dm]Savior [G]all the day [C]long
 
 #Verse 1
-Bless - ed a[G]ssurance [C]Je - sus is [G]mine
-O what a [Em]fore - taste of [A]glo - ry di - v[D]ine
-Heir of sal[G]vation [C]pur - chase of [G]God
-Born of His [Am]Spirit [D]washed in His [G]blood
+Bless - ed a[C]ssurance [F]Je - sus is [C]mine
+O what a [Am]fore - taste of [D]glo - ry di - v[G]ine
+Heir of sal[C]vation [F]pur - chase of [C]God
+Born of His [Dm]Spirit [G]washed in His [C]blood
 
 {soc}
-This is my [G]story [C]this is my [G]song
-Praising my [Em]Sav - ior [A]all the day [D]long
-This is my [G]story [C]this is my [G]song
-Prais - ing my [Am]Savior [D]all the day [G]long
+This is my [C]story [F]this is my [C]song
+Praising my [Am]Sav - ior [D]all the day [G]long
+This is my [C]story [F]this is my [C]song
+Prais - ing my [Dm]Savior [G]all the day [C]long
 {eoc}
 
 #Verse2
-Per - fect sub[G]mission [C]per - fect de - [G]light
-Visions of [Em]rap - ture now [A]burst on my [D]sight
-An - gels des[G]cending [C]bring from a - [G]bove
-Ech - oes of [Am]mercy [D]whis - pers of [G]love
+Per - fect sub[C]mission [F]per - fect de - [C]light
+Visions of [Am]rap - ture now [D]burst on my [G]sight
+An - gels des[C]cending [F]bring from a - [C]bove
+Ech - oes of [Dm]mercy [G]whis - pers of [C]love
 
 {soc}
-This is my [G]story [C]this is my [G]song
-Praising my [Em]Sav - ior [A]all the day [D]long
-This is my [G]story [C]this is my [G]song
-Prais - ing my [Am]Savior [D]all the day [G]long
+This is my [C]story [F]this is my [C]song
+Praising my [Am]Sav - ior [D]all the day [G]long
+This is my [C]story [F]this is my [C]song
+Prais - ing my [Dm]Savior [G]all the day [C]long
 {eoc}
 
 #Verse 3
-Per - fect sub[G]mission [C]all is at [G]rest
-I in my [Em]Sav - ior am [A]hap - py and [D]blest
-Watch - ing and [G]waiting [C]look - ing a - [G]bove
-Filled with His [Am]goodness [D]lost in His [G]love
+Per - fect sub[C]mission [F]all is at [C]rest
+I in my [Am]Sav - ior am [D]hap - py and [G]blest
+Watch - ing and [C]waiting [F]look - ing a - [C]bove
+Filled with His [Dm]goodness [G]lost in His [C]love
 
 {soc}
-This is my [G]story [C]this is my [G]song
-Praising my [Em]Sav - ior [A]all the day [D]long
-This is my [G]story [C]this is my [G]song
-Prais - ing my [Am]Savior [D]all the day [G]long
+This is my [C]story [F]this is my [C]song
+Praising my [Am]Sav - ior [D]all the day [G]long
+This is my [C]story [F]this is my [C]song
+Prais - ing my [Dm]Savior [G]all the day [C]long
 {eoc}
 
 {c:Ending}
-This is my [G]story [C]this is my [G]song
-Prais - ing my [Am]Savior [D]all the day [G]long [C] [G]
+This is my [C]story [F]this is my [C]song
+Praising my [Am]Sav - ior [D]all the day [G]long
+This is my [C]story [F]this is my [C]song
+Prais - ing my [Dm]Savior [G]all the day [C]long
+Prais - ing my [Dm]Savior--    [G]all the day [C]long-- [F] [C]

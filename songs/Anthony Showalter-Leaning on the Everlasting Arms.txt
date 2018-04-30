@@ -2,6 +2,7 @@
 {subtitle:Anthony Showalter}
 {original_key:G}
 {key:G}
+{tempo:108}
 {time:4/4}
 {as:12.0}
 

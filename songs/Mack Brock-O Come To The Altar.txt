@@ -1,10 +1,10 @@
 {title: O Come To The Altar}
 {subtitle:Mack Brock}
 {original_key:B}
-{key:A}
+{key:G}
 {tempo:140}
 {time:6/8}
-{as:10.9}
+{as:11.5}
 
 {c:Intro}
 [G] [C] [G] [C]
@@ -39,9 +39,8 @@ Jesus is [C]calling
 [Em]  The Father's arms are [C]open [G]wide
 [G]  Forgiveness  [Am]  was bought with
 [Em]  The precious blood of [C]Jesus [G]Christ
-
 [G]  O come to  [Am]  the altar
-[Em]  The Father's arms are [C]open wide
+[Em]  The Father's arms are [C]open [G]wide
 [G]  Forgiveness  [Am]  was bought with
 [Em]  The precious blood of [C]Jesus [G]Christ
 {eoc}
@@ -69,7 +68,6 @@ Sing alle-[C]luia Christ is risen [G]
 [Em]  The Father's arms are [C]open [G]wide
 [G]  Forgiveness  [Am]  was bought with
 [Em]  The precious blood of [C]Jesus [G]Christ
-
 [G]  O come to  [Am]  the altar
 [Em]  The Father's arms are [C]open [G]wide
 [G]  Forgiveness  [Am]  was bought with
