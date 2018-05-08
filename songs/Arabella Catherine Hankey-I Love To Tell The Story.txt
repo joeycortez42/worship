@@ -2,6 +2,7 @@
 {subtitle:Arabella Catherine Hankey}
 {original_key:G}
 {key:G}
+{tempo:92}
 {time:4/4}
 {as:5.9}
 

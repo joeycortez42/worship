@@ -2,6 +2,7 @@
 {subtitle:Lewis Ellis Jones}
 {original_key:Ab}
 {key:G}
+{tempo:110}
 {time:4/4}
 {as:12}
 
