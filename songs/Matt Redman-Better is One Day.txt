@@ -1,7 +1,7 @@
 {title:Better is One Day}
 {subtitle:Matt Redman}
 {original_key:E}
-{key:E}
+{key:G}
 {tempo:77}
 {time:4/4}
 {as:9}

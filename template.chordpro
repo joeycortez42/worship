@@ -1,0 +1,42 @@
+{title:Song Title}
+{subtitle:Song Artist}
+{original_key:G}
+{key:G}
+{tempo:120}
+{time:4/4}
+{as:10}
+
+{c:Intro}
+
+|--------------------------------------|
+|--------------------------------------|
+|--------------------------------------|
+|--------------------------------------|
+|--------------------------------------|
+|--------------------------------------|
+
+#Verse 1
+
+{c:Pre-Chorus}
+
+{soc}
+
+{eoc}
+
+#Verse 2
+
+{sob}
+
+{c:A cappella} //Comments should be inside wrapping sections.
+
+{c:Full Band}
+
+{eob}
+
+{c:Repeat} // Should not user. Just duplicate the sections.
+
+{c:Softly}
+
+{c:Retard}
+
+{c:Ending}

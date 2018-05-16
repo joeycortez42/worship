@@ -1,63 +1,63 @@
 {title:The Name Of The Lord}
 {subtitle:Clinton Utterbach}
 {original_key:G}
-{key:G}
+{key:F}
 {tempo:120}
 {time:4/4}
 {as:10}
 
 {c:Intro}
-
+[F]
 
 {soc}
-[G]Blessed be the name of the Lord
-[C]Blessed be the name of the Lord   [D]
-[G]Blessed be the [G]name of the [C]Lord [Am7]most  [D]high [Dsus]    [D]    [G]
+[F]Blessed be the name of the Lord
+[Bb]Blessed be the name of the Lord   [C]
+[F]Blessed be the name of the [Bb]Lord [Gm7]most  [C]high [Csus]
 
-[G]Blessed be the name of the Lord
-[C]Blessed be the name of the Lord   [D]
-[G]Blessed be the [G]name of the [C]Lord [Am]most    [G]high   [C]
+[F]Blessed be the name of the Lord
+[Bb]Blessed be the name of the Lord   [C]
+[F]Blessed be the name of the [Bb]Lord [Gm]most    [F]high   [Bb]
 {eoc}
 
 {soc}
-[G]Glory to the name of the Lord
-[C]Glory to the name of the Lord   [D]
-[G]Glory to the [G]name of the [C]Lord [Am7]most   [D]high [Dsus]    [D]    [G]
+[F]Glory to the name of the Lord
+[Bb]Glory to the name of the Lord   [C]
+[F]Glory to the name of the [Bb]Lord [Gm7]most   [C]high [Csus]
 
-[G]Glory to the name of the Lord   [G]
-[C]Glory to the name of the Lord   [D]
-[G]Glory to the [G]name of the [C]Lord [Am]most    [G]high
+[F]Glory to the name of the Lord   [F]
+[Bb]Glory to the name of the Lord   [C]
+[F]Glory to the name of the [Bb]Lord [Gm]most    [F]high
 {eoc}
 
 {soc}
 [G]Holy is the name of the Lord
 [C]Holy is the name of the Lord   [D]
-[G]Holy is the [G]name of the [C]Lord [Am7]most  [D]high [Dsus]    [D]    [G]
+[G]Holy is the name of the [C]Lord [Am7]most  [D]high [Dsus]
 
-[G]Holy is the name of the Lord   [G]
+[G]Holy is the name of the Lord
 [C]Holy is the name of the Lord   [D]
-[G]Holy is the [G]name of the [C]Lord [Am]most    [G]high
+[G]Holy is the name of the [C]Lord [Am]most    [G]high
 {eoc}
 
 #Verse
-The name of the [G]Lord is [C]     [Am]a strong [G]tower [Am]     [G]
-The righteous run [D]into it and [C]they are [G]safe [Am]     [G]
+The name of the [G]Lord is a strong [G]tower
+The righteous run [D]into it and [C]they are [G]safe
 
-The name of the Lord is [C]     [Am]a strong [G]tower [Am]     [G]
-The righteous run [D]into it and [Am]they    [G]     [D]are  [G]safe
+The name of the Lord is a strong [G]tower
+The righteous run [D]into it and [Am]they   are  [G]safe
 
-The name of the [G]Lord is [C]     [Am]a strong [G]tower [Am]     [G]
-The righteous run [D]into it and [C]they are [G]safe [Am]     [G]
+The name of the [G]Lord is a strong [G]tower
+The righteous run [D]into it and [C]they are [G]safe
 
-The name of the Lord is [C]     [Am]a strong [G]tower [Am]     [G]
-The righteous run [D]into it and [Am]they    [G]     [D]are  [G]safe
+The name of the Lord is a strong [G]tower
+The righteous run [D]into it and [Am]they   are  [G]safe
 
 {soc}
 [G]Blessed be the name of the Lord
 [C]Blessed be the name of the Lord   [D]
-[G]Blessed be the [G]name of the [C]Lord [Am7]most  [D]high [Dsus]    [D]    [Gsus/D]
+[G]Blessed be the name of the [C]Lord [Am7]most  [D]high [Dsus]
 
 [G]Blessed be the name of the Lord
 [C]Blessed be the name of the Lord   [D]
-[G]Blessed be the [G]name of the [C]Lord [Am]most    [G]high   [C]
+[G]Blessed be the name of the [C]Lord [Am]most    [G]high   [G]
 {eoc}

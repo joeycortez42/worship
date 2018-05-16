@@ -2,7 +2,7 @@
 {subtitle:Reuben Morgan}
 {original_key:C}
 {key:A}
-{tempo:83}
+{tempo:78}
 {time:4/4}
 {as:9.0}
 
