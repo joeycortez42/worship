@@ -1,7 +1,7 @@
 {title:He Shall Reign Forevermore}
 {subtitle:Chris Tomlin}
 {original_key:Bb}
-{key:A}
+{key:G}
 {tempo:122}
 {time:4/4}
 {as:9.0}

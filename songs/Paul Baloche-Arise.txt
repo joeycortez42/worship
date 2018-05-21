@@ -1,7 +1,7 @@
 {title:Arise}
 {subtitle:Paul Baloche}
 {original_key:E}
-{key:E}
+{key:D}
 {tempo:117}
 {time:4/4}
 {as:12}

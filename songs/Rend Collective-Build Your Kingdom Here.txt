@@ -1,7 +1,7 @@
 {title:Build Your Kingdom Here}
 {subtitle:Rend Collective}
 {original_key:D}
-{key:E}
+{key:D}
 {tempo:137}
 {time:4/4}
 {as:11.9}

@@ -1,7 +1,7 @@
 {title:My Country 'Tis Of Thee}
 {subtitle:Henry Carey}
 {original_key:F}
-{key:F}
+{key:D}
 {time:3/4}
 {as:10}
 

@@ -1,7 +1,7 @@
 {title:Open Up The Heavens}
 {subtitle:Andi Rozier}
 {original_key:Bb}
-{key:G}
+{key:D}
 {tempo:100}
 {time:4/4}
 {as:13.0}

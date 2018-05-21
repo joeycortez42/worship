@@ -1,7 +1,7 @@
 {title:I Have Decided To Follow Jesus}
 {subtitle:William J. Reynolds}
 {original_key:C}
-{key:C}
+{key:A}
 {time:4/4}
 {as:10}
 

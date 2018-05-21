@@ -1,46 +1,46 @@
 {title:I Love To Tell The Story}
 {subtitle:Arabella Catherine Hankey}
 {original_key:G}
-{key:G}
+{key:E}
 {tempo:92}
 {time:4/4}
 {as:5.9}
 
 {c:Intro}
-To [G]tell the old old [C]sto - ry of [G]Jesus [D]and His [G]love
+To [E]tell the old old [A]sto - ry of [E]Jesus [B]and His [E]love
 
 #Verse 1
-I [G]love to tell the sto - ry of [C]un - seen things a - [G]bove
-Of [D]Je-sus and His [G]glo - ry of Je - sus and His [D]love
-I [D]love to tell the [G]sto - ry be - [Em]cause I know 'tis [B]true
-It [C]sat - is - fies my [G]longings as [D]noth-ing else can [G]do
+I [E]love to tell the sto - ry of [A]un - seen things a - [E]bove
+Of [B]Je-sus and His [E]glo - ry of Je - sus and His [B]love
+I [B]love to tell the [E]sto - ry be - [C#m]cause I know 'tis [G#]true
+It [A]sat - is - fies my [E]longings as [B]noth-ing else can [E]do
 
 {soc}
-I [D]love to tell the [G]sto - ry 'Twill [C]be my theme in [G]glo - ry
-To [G]tell the old old [C]sto - ry of [G]Jesus [D]and His [G]love
+I [B]love to tell the [E]sto - ry 'Twill [A]be my theme in [E]glo - ry
+To [E]tell the old old [A]sto - ry of [E]Jesus [B]and His [E]love
 {eoc}
 
 #Verse 2
-I [G]love to tell the sto - ry 'tis p[C]leas-ant to re - [G]peat
-What [D]seems each time I [G]tell it more won-der-ful-ly [D]sweet
-I [D]love to tell the [G]sto - ry for [Em]some have nev - er [B]heard
-The [C]mess-age of sal-[G]vation from [D]God's own ho-ly [G]Word
+I [E]love to tell the sto - ry 'tis p[A]leas-ant to re - [E]peat
+What [B]seems each time I [E]tell it more won-der-ful-ly [B]sweet
+I [B]love to tell the [E]sto - ry for [C#m]some have nev - er [G#]heard
+The [A]mess-age of sal-[E]vation from [B]God's own ho-ly [E]Word
 
 {soc}
-I [D]love to tell the [G]sto - ry 'Twill [C]be my theme in [G]glo - ry
-To [G]tell the old old [C]sto - ry of [G]Jesus [D]and His [G]love
+I [B]love to tell the [E]sto - ry 'Twill [A]be my theme in [E]glo - ry
+To [E]tell the old old [A]sto - ry of [E]Jesus [B]and His [E]love
 {eoc}
 
 #Verse 3
-I [G]love to tell the sto - ry for t[C]hose who know it [G]best
-Seem [D]hun-gering and [G]thirsting to hear it like the [D]rest
-And [D]when in scenes of [G]glo - ry I [Em]sing the new new [B]song
-'Twill [C]be the old old [G]sto-ry that [D]I have loved so [G]long
+I [E]love to tell the sto - ry for t[A]hose who know it [E]best
+Seem [B]hun-gering and [E]thirsting to hear it like the [B]rest
+And [B]when in scenes of [E]glo - ry I [C#m]sing the new new [G#]song
+'Twill [A]be the old old [E]sto-ry that [B]I have loved so [E]long
 
 {soc}
-I [D]love to tell the [G]sto - ry 'Twill [C]be my theme in [G]glo - ry
-To [G]tell the old old [C]sto - ry of [G]Jesus [D]and His [G]love
+I [B]love to tell the [E]sto - ry 'Twill [A]be my theme in [E]glo - ry
+To [E]tell the old old [A]sto - ry of [E]Jesus [B]and His [E]love
 {eoc}
 
 {c:Ending}
-To [G]tell the old old [C]sto - ry of [G]Jesus [D]and His [G]love
+To [E]tell the old old [A]sto - ry of [E]Jesus [B]and His [E]love

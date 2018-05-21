@@ -1,7 +1,7 @@
 {title:Waiting Here For You}
 {subtitle:Chris Tomlin}
 {original_key:Eb}
-{key:Eb}
+{key:D}
 {tempo:66}
 {time:4/4}
 {as:7.5}

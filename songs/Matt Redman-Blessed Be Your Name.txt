@@ -1,7 +1,7 @@
 {title:Blessed Be Your Name}
 {subtitle:Matt Redman}
 {original_key:B}
-{key:D}
+{key:C}
 {tempo:116}
 {time:4/4}
 {as:12.0}

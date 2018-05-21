@@ -1,7 +1,7 @@
 {title:Step By Step}
 {subtitle:David Strasser}
 {original_key:G}
-{key:G}
+{key:D}
 {tempo:104}
 {time:4/4}
 {as:10}
