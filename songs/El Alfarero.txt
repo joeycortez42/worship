@@ -1,0 +1,21 @@
+{title:El Alfarero}
+{subtitle:Spanish}
+{original_key:D}
+{key:D}
+{tempo:120}
+{time:4/4}
+{as:10}
+
+{c:Intro}
+[D]
+
+#Verse
+Señor Yo [D]quiero aban[A]donarme
+Como el b[G]arro en las manos
+[A]Del alfa[D]rero
+Toma mi [D]vi-da
+Y hazla de [G]nuevo[Gm]
+Yo quiero [D]ser
+Yo quiero [A]ser-
+Un vaso [D]nuevo
+
