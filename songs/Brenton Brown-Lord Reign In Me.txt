@@ -4,12 +4,11 @@
 {key:G}
 {tempo:94}
 {time:4/4}
-{as:10}
+{as:11.1}
 
 {c:Intro}
 [G]  [D]  [C]  [D]  [G]
-[D]  [C]  [D]  [Em]
-[D]  [C]  [D]  [Am] [C]  [D]  [G]
+[D] [C]  [D]  [G]
 
 #VERSE 1
 [G]Over [D]all the [C]earth   You [D]reign on [G]high
@@ -25,8 +24,7 @@ So won't You [C]reign in [D]me a[G]gain
 {eoc}
 
 [G]  [D]  [C]  [D]  [G]
-[D]  [C]  [D]  [Em]
-[D]  [C]  [D]  [Am] [C]  [D]  [G]
+[D] [C]  [D]  [G]
 
 #VERSE 2
 [G]Over [D]every t[C]hought   over [D]every [G]word
@@ -42,8 +40,7 @@ So won't You [C]reign in [D]me a[G]gain
 {eoc}
 
 [G]  [D]  [C]  [D]  [G]
-[D]  [C]  [D]  [Em]
-[D]  [C]  [D]  [Am] [C]  [D]  [G]
+[D] [C]  [D]  [G]
 
 #VERSE 1
 {c:A cappella}
@@ -62,11 +59,12 @@ So won't You [C]reign in [D]me a[G]gain
 {eoc}
 
 [G]  [D]  [C]  [D]  [G]
-[D]  [C]  [D]  [Em]
-[D]  [C]  [D]  [Am] [C]  [D]  [G]
+[D] [C]  [D]  [G]
 
 {c:Ending}
 Lord [D]reign in [C]me   reign [D]in Your [G]pow'r
 Over [D]all my d[C]reams   in my [D]darkest [Em]hour
 You [D]are the [C]Lord   of [D]all I [Am]am
 So won't You [C]reign in [D]me a[G]gain
+
+[G]  [D]  [C]  [D]  [G]

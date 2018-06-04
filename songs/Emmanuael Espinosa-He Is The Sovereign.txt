@@ -4,7 +4,7 @@
 {key:Em}
 {tempo:120}
 {time:4/4}
-{as:10}
+{as:13.0}
 
 {c:Intro}
 [Em] [C] [G] [D]
@@ -16,7 +16,7 @@
 For my [G]life He bought with His l-[D]ove
 
 #Verse 2
-[Em] I will proclaim that He r[C]eigns on high
+[Em] Proclaim that He r[C]eigns on high
 [Em] He is the King of the a[C]ges
 [Em] I place my [C]life at His feet
 For He [G]reigns over my [D]heart
@@ -54,19 +54,20 @@ Pues mi [G]vida compró con Su a-[D]mor
 Re[G]ina con autori-d[D]ad
 Su re[C]ino eterno [D]es
 Su t[Em]rono el cielo [C]es
-[C]Él es el Rey que vi[D]ene a Su pueblo a llevar[Em]
+[C]Él es el Rey que vi[D]ene a
+Su pueblo a llevar[Em]
 {eoc}
 
 {soc}
-[Em]He is the King
-[C]He is the King
-[G]He is the King for - [D]ever
+[Em]Él es el Rey
+[C]Él es el Rey
+[G]Él es el Rey de mi v[D]ida
 [Em]He is the King
 [C]He is the King
 [G]Great and mighty is [D]He
 He [C]reigns eter[D]nal - ly
 He [Em]reigns in ma-[C]je-sty
-[C]He is the King who [D]comes for His chosen [Em]ones
+[C]He is the King who [D]comes for His chosen
 {eoc}
 
 {soc}
@@ -78,5 +79,6 @@ He [Em]reigns in ma-[C]je-sty
 Re[G]ina con autori-d[D]ad
 Su re[C]ino eterno [D]es
 Su t[Em]rono el cielo [C]es
-[C]Él es el Rey que vi[D]ene a Su pueblo a llevar[Em]
+[C]Él es el Rey que vi[D]ene a
+Su pueblo a llevar[Em]
 {eoc}
