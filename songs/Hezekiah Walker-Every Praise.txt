@@ -1,0 +1,72 @@
+{title:Every Praise}
+{subtitle:Hezekiah Walker}
+{original_key:Db}
+{key:F}
+{tempo:103}
+{time:4/4}
+{as:10}
+
+{c:Intro}
+[F]  [Dm7]  [Bb]  [C]
+
+{soc}
+[F]  Every praise is to our God
+[Dm7]Every word of worship with one accord
+[Bb]  Every praise  [C]  every praise is [F]to our God
+
+[F]  Sing hallelujah to our God
+[Dm7]Glory hallelujah is due our God
+[Bb]  Every praise  [C]  every praise is [F]to our God
+
+[F]  Every praise is to our God
+[Dm7]Every word of worship with one accord
+[Bb]  Every praise  [C]  every praise is [F]to our God
+
+[F]  Sing hallelujah to our God
+[Dm7]Glory hallelujah is due our God
+[Bb]  Every praise  [C]  every praise is [F]to our God
+{eoc}
+
+{soc}
+[F#]  Every praise is to our God
+[D#m7]Every word of worship with one accord
+[B]  Every praise  [C#]  every praise is [F#]to our God
+
+[F#]  Sing hallelujah to our God
+[D#m7]Glory hallelujah is due our God
+[B]  Every praise  [C#]  every praise is [F#]to our God
+{eoc}
+
+{soc}
+[G]  Every praise is to our God
+[Em7]Every word of worship with one accord
+[C]  Every praise  [D]  every praise is [G]to our God
+
+[G]  Sing hallelujah to our God
+[Em7]Glory hallelujah is due our God
+[C]  Every praise  [D]  every praise is [G]to our God
+{eoc}
+
+{sob}
+[G]   God my Savior    [Em7]   God my Healer    [C]   God my Deliverer
+[Am7]  Yes He is   [F]  Yes He is
+
+[G]   God my Savior    [Em7]   God my Healer    [C]   God my Deliverer
+[Am7]  Yes He is   [F]  Yes He is
+
+[G]   God my Savior    [Em7]   God my Healer    [C]   God my Deliverer
+[Am7]  Yes He is   [F]  Yes He is
+{eob}
+
+{c:Ending}
+[G]  Every praise is to our God
+[Em7]Every word of worship with one accord
+[C]  Every praise  [D]  every praise
+[C]  Every praise  [D/F#]  every praise
+[C]  Every praise  [D]  every praise
+
+[G]  [Em7]  [C]  [D]
+
+[G]  Every praise is to our God
+[Em7]Every word of worship with one accord
+[C]  Every praise  [D]  every praise is [G]to our God
