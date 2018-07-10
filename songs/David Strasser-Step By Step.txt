@@ -1,31 +1,31 @@
 {title:Step By Step}
 {subtitle:David Strasser}
 {original_key:G}
-{key:D}
+{key:G}
 {tempo:104}
 {time:4/4}
 {as:10}
 
 {c:Intro}
-And [D]step by step You'll [A]lead me
-And I will [G]follow You a[A]ll of my [D]days
+And [G]step by step You'll [D]lead me
+And I will [C]follow You a[D]ll of my [G]days
 
 {soc}
-O [D]God You are my [A]God
-And [G]I will [A]ever praise [D]You
-O [D]God You are my [A]God
-And [G]I will [A]ever praise [D]You
+O [G]God You are my [D]God
+And [C]I will [D]ever praise [G]You
+O [G]God You are my [D]God
+And [C]I will [D]ever praise [G]You
 
-I will [Bm]seek You in the [A]morning
-And I will [G]learn to walk in Your [Em]ways
-And [D]step by step You'll [A]lead me
-And I will [G]follow You a[A]ll of my [D]days
+I will [Em]seek You in the [D]morning
+And I will [C]learn to walk in Your [Am]ways
+And [G]step by step You'll [D]lead me
+And I will [C]follow You a[D]ll of my [G]days
 {eoc}
 {c:Repeat x3}
 
 {c:Ending}
-And I will [Bm]follow You all of my [A]days
-And [Em]I will follow You all of my [G]days
-And [D]step by step You'll [A]lead me
+And I will [Em]follow You all of my [D]days
+And [Am]I will follow You all of my [C]days
+And [G]step by step You'll [D]lead me
 {c:Retard}
-And I will [G]follow You a[A]ll of my [D]days
+And I will [C]follow You a[D]ll of my [G]days

@@ -4,11 +4,11 @@
 {key:G}
 {tempo:94}
 {time:4/4}
-{as:11.1}
+{as:12.1}
 
 {c:Intro}
 [G]  [D]  [C]  [D]  [G]
-[D] [C]  [D]  [G]
+[D] [C]  [D]
 
 #VERSE 1
 [G]Over [D]all the [C]earth   You [D]reign on [G]high
@@ -24,7 +24,7 @@ So won't You [C]reign in [D]me a[G]gain
 {eoc}
 
 [G]  [D]  [C]  [D]  [G]
-[D] [C]  [D]  [G]
+[D] [C]  [D]
 
 #VERSE 2
 [G]Over [D]every t[C]hought   over [D]every [G]word
@@ -40,7 +40,7 @@ So won't You [C]reign in [D]me a[G]gain
 {eoc}
 
 [G]  [D]  [C]  [D]  [G]
-[D] [C]  [D]  [G]
+[D] [C]  [D]
 
 #VERSE 1
 {c:A cappella}

@@ -1,48 +1,48 @@
 {title:Lord I Lift Your Name on High}
 {subtitle:Rick Founds}
 {original_key:G}
-{key:G}
+{key:A}
 {tempo:86}
 {time:4/4}
 {as:10}
 
 {c:Intro}
-Lord I l[D]ift Your name on h[G]igh [C] [D] [C]
+Lord I l[E]ift Your name on h[A]igh [D] [E] [D]
 
 #Verse
-[G] Lord I [C]lift Your name on [D]high [C]
-[G] Lord I l[C]ove to sing Your pr[D]aises [C]
-[G] I'm so g[C]lad You're in my l[D]ife [C]
-[G] I'm so g[C]lad You came to s[D]ave us [C]
+[A] Lord I [D]lift Your name on [E]high [D]
+[A] Lord I l[D]ove to sing Your pr[E]aises [D]
+[A] I'm so g[D]lad You're in my l[E]ife [D]
+[A] I'm so g[D]lad You came to s[E]ave us [D]
 
 {soc}
-[G]You came from he[C]aven to e[D]arth to s[C]how the[G] way
-From the ea[C]rth to the cr[D]oss my d[C]ebt t[G]o pay
-From the cr[C]oss to the gr[D]ave
-From the g[Em7]rave to the [Am7]sky
-Lord I l[D]ift Your name on h[G]igh [C] [D] [C]
+[A]You came from he[D]aven to e[E]arth to s[D]how the[A] way
+From the ea[D]rth to the cr[E]oss my d[D]ebt t[A]o pay
+From the cr[D]oss to the gr[E]ave
+From the g[F#m7]rave to the [Bm7]sky
+Lord I l[E]ift Your name on h[A]igh [D] [E] [D]
 {eoc}
 
 #Verse
-[G] Lord I [C]lift Your name on [D]high [C]
-[G] Lord I l[C]ove to sing Your pr[D]aises [C]
-[G] I'm so g[C]lad You're in my l[D]ife [C]
-[G] I'm so g[C]lad You came to s[D]ave us [C]
+[A] Lord I [D]lift Your name on [E]high [D]
+[A] Lord I l[D]ove to sing Your pr[E]aises [D]
+[A] I'm so g[D]lad You're in my l[E]ife [D]
+[A] I'm so g[D]lad You came to s[E]ave us [D]
 
 {soc}
-[G]You came from he[C]aven to e[D]arth to s[C]how the[G] way
-From the ea[C]rth to the cr[D]oss my d[C]ebt t[G]o pay
-From the cr[C]oss to the gr[D]ave
-From the g[Em7]rave to the [Am7]sky
-Lord I l[D]ift Your name on h[G]igh [A ]
+[A]You came from he[D]aven to e[E]arth to s[D]how the[A] way
+From the ea[D]rth to the cr[E]oss my d[D]ebt t[A]o pay
+From the cr[D]oss to the gr[E]ave
+From the g[F#m7]rave to the [Bm7]sky
+Lord I l[E]ift Your name on h[A]igh [A ]
 
-[G]You came from he[C]aven to e[D]arth to s[C]how the[G] way
-From the ea[C]rth to the cr[D]oss my d[C]ebt t[G]o pay
-From the cr[C]oss to the gr[D]ave
-From the g[Em7]rave to the [Am7]sky
-Lord I l[D]ift Your name on h[G]igh [C] [D]
+[A]You came from he[D]aven to e[E]arth to s[D]how the[A] way
+From the ea[D]rth to the cr[E]oss my d[D]ebt t[A]o pay
+From the cr[D]oss to the gr[E]ave
+From the g[F#m7]rave to the [Bm7]sky
+Lord I l[E]ift Your name on h[A]igh [D] [E]
 {eoc}
 
 {c:Ending}
-Lord I l[D]ift Your name on h[G]igh [C] [D]
-Lord I l[D]ift Your name on h[G]igh [C] [D] [C] [G]
+Lord I l[E]ift Your name on h[A]igh [D] [E]
+Lord I l[E]ift Your name on h[A]igh [D] [E] [D] [A]

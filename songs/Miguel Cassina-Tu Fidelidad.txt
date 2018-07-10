@@ -1,0 +1,45 @@
+{title:Tu Fidelidad}
+{subtitle:Miguel Cassina}
+{original_key:D}
+{key:D}
+{tempo:120}
+{time:4/4}
+{as:10}
+
+{c:Intro}
+[G]Grande es [A]Tu fideli[D]dad
+
+{soc}
+[D]Tu fidelidad es g[G]rande
+[Em]Tu fidelidad [G]incomparable [D]es
+[Bm]Nadie como Tu [Em]bendito Dios
+[G]Grande es [A]Tu fideli[D]dad
+
+[D]Your faithfulness is a[G]wesome
+[Em]Your faithfulness is [G]incompara[D]ble
+[Bm]None compares with you [Em]O Blessed One
+[G]Great is [A]Your faith[D]fulness
+{eoc}
+
+{soc}
+[E]Tu fidelidad es g[A]rande
+[F#m]Tu fidelidad [A]incomparable [E]es
+[C#m]Nadie como Tu [F#m]bendito Dios
+[A]Grande es [B]Tu fideli[E]dad
+
+[E]Your faithfulness is a[A]wesome
+[F#m]Your faithfulness is [A]incompara[E]ble
+[C#m]None compares with you [F#m]O Blessed One
+[A]Great is [B]Your faith[E]fulness
+{eoc}
+
+{soc}
+[E]Tu fidelidad es g[A]rande
+[F#m]Tu fidelidad [A]incomparable [E]es
+[C#m]Nadie como Tu [F#m]bendito Dios
+[A]Grande es [B]Tu fideli[E]dad
+{eoc}
+
+{c:Ending}
+[A]Grande es [B]Tu fideli[E]dad
+[A]Grande es [B]Tu fideli[E]dad

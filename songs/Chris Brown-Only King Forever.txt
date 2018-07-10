@@ -1,94 +1,94 @@
 {title:Only King Forever}
 {subtitle:Chris Brown}
 {original_key:C}
-{key:G}
+{key:Bb}
 {tempo:140}
 {time:4/4}
 {as:12}
 
 {c:Intro}
-[G] [G] [G] [G] [Em] [C] [G]
-[G] [G] [G] [G] [Em] [C] [G]
+[Bb] [Bb] [Bb] [Bb] [Gm] [Eb] [Bb]
+[Bb] [Bb] [Bb] [Bb] [Gm] [Eb] [Bb]
 
 #Verse 1
-[G]Our God and firm foundation
-[G]Our Rock the only solid gr[Em]ound
-The na[C]tions rise and f[G]all
+[Bb]Our God and firm foundation
+[Bb]Our Rock the only solid gr[Gm]ound
+The na[Eb]tions rise and f[Bb]all
 
-[G]Kingdoms once strong now shaken
-[G]But we trust forever in Your n[Em]ame
-The n[C]ame of Jes[G]us
-[Em]  We trust in the n[C]ame of [G]Je - [D]sus
+[Bb]Kingdoms once strong now shaken
+[Bb]But we trust forever in Your n[Gm]ame
+The n[Eb]ame of Jes[Bb]us
+[Gm]  We trust in the n[Eb]ame of [Bb]Je - [F]sus
 
 {soc}
-[G]You are the only King forev - er
-[C]Almighty God we lift You higher
-[G]You are the only King forever
-[C]Forevermore You are victorious
+[Bb]You are the only King forev - er
+[Eb]Almighty God we lift You higher
+[Bb]You are the only King forever
+[Eb]Forevermore You are victorious
 
-[G]You are the only King forever
-[C]Almighty God we lift You higher
-[G]You are the only King forever
-[C]Forevermore You are victori[G]ous
+[Bb]You are the only King forever
+[Eb]Almighty God we lift You higher
+[Bb]You are the only King forever
+[Eb]Forevermore You are victori[Bb]ous
 {eoc}
 
-[G] [G] [G] [G] [Em] [C] [G]
+[Bb] [Bb] [Bb] [Bb] [Gm] [Eb] [Bb]
 
 #Verse 2
-[G]Unmatched in all Your wisdom
-[G]In love and justice You will r[Em]eign
-And e[C]very knee will b[G]ow
+[Bb]Unmatched in all Your wisdom
+[Bb]In love and justice You will r[Gm]eign
+And e[Eb]very knee will b[Bb]ow
 
-[G]We bring our expectations
-[G]Our hope is anchored in Your n[Em]ame
-The n[C]ame of Jes[G]us
-[Em]  We trust in the n[C]ame of [G]Je - [D]sus
+[Bb]We bring our expectations
+[Bb]Our hope is anchored in Your n[Gm]ame
+The n[Eb]ame of Jes[Bb]us
+[Gm]  We trust in the n[Eb]ame of [Bb]Je - [F]sus
 
 {soc}
-[G]You are the only King forev - er
-[C]Almighty God we lift You higher
-[G]You are the only King forever
-[C]Forevermore You are victorious
+[Bb]You are the only King forev - er
+[Eb]Almighty God we lift You higher
+[Bb]You are the only King forever
+[Eb]Forevermore You are victorious
 
-[G]You are the only King forever
-[C]Almighty God we lift You higher
-[G]You are the only King forever
-[C]Forevermore You are victori[Am]ous
+[Bb]You are the only King forever
+[Eb]Almighty God we lift You higher
+[Bb]You are the only King forever
+[Eb]Forevermore You are victori[Cm]ous
 {eoc}
 
-[G] [D] [D]   [Am] [G] [D] [D]
+[Bb] [F] [F]   [Cm] [Bb] [F] [F]
 
 {c:Double time, down strum only}
-[Am] [G] [D] [D]   [Am] [G] [D] [D]
+[Cm] [Bb] [F] [F]   [Cm] [Bb] [F] [F]
 
 {sob}
-[Am]We lift our [G]banner high
-[D]We lift the name of Jesus
-[Am]From age to [G]age You reign
-[D]Your kingdom has no end
+[Cm]We lift our [Bb]banner high
+[F]We lift the name of Jesus
+[Cm]From age to [Bb]age You reign
+[F]Your kingdom has no end
 
-[Am]We lift our [G]banner high
-[D]We lift the name of Jesus
-[Am]From age to [G]age You reign
-[D]Your kingdom has no end
+[Cm]We lift our [Bb]banner high
+[F]We lift the name of Jesus
+[Cm]From age to [Bb]age You reign
+[F]Your kingdom has no end
 {eob}
 
 {soc}
-[G]You are the only King forev - er
-[C]Almighty God we lift You higher
-[G]You are the only King forever
-[C]Forevermore You are victorious
+[Bb]You are the only King forev - er
+[Eb]Almighty God we lift You higher
+[Bb]You are the only King forever
+[Eb]Forevermore You are victorious
 
-[G]You are the only King forever
-[C]Almighty God we lift You higher
-[G]You are the only King forever
-[C]Forevermore You are victorious
+[Bb]You are the only King forever
+[Eb]Almighty God we lift You higher
+[Bb]You are the only King forever
+[Eb]Forevermore You are victorious
 
-[G]You are the only King forever
-[C]Almighty God we lift You higher
-[G]You are the only King forever
-[C]Forevermore You are victorious
+[Bb]You are the only King forever
+[Eb]Almighty God we lift You higher
+[Bb]You are the only King forever
+[Eb]Forevermore You are victorious
 {eoc}
 
 {c:Ending}
-[G] [G] [G] [G] [Em] [C] [G]
+[Bb] [Bb] [Bb] [Bb] [Gm] [Eb] [Bb]

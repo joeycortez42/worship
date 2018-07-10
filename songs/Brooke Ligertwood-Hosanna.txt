@@ -69,7 +69,7 @@ Ho - [G]sanna in the [A]high - [D]est
 
 {c:Full Band}
 Ho - [D/F#]sanna  [G]   ho - [A]sanna  [Bm]
-Ho - [G]sanna in the [Bm]highest  [A]
+Ho - [G]sanna in the [Bm]highest  [A]-
 Ho - [D/F#]sanna  [G]   ho - [A]sanna  [Bm]
 Ho - [G]sanna in the [A]high - [Bm]est
 {eoc}

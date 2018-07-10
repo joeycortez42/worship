@@ -4,7 +4,7 @@
 {key:C}
 {tempo:86}
 {time:4/4}
-{as:10}
+{as:11}
 
 {c:Intro}
 Oh [C]Lord our Lord how ma[F]jestic is

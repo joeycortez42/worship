@@ -6,11 +6,6 @@
 {time:4/4}
 {as:14.4}
 
-{c:Intro}
-When the sa[G]ved of earth shall gath - er over
-[C]on the other sh[G]ore
-[G]And the roll is called up yo[D]nder I'll be th[G]ere
-
 #Verse 1
 When the tru[G]mpet of the Lord shall sound
 And ti[C]me shall be no m[G]ore
@@ -57,4 +52,4 @@ When the r[G]oll is called up yo[D]nder I'll be th[G]ere
 {eoc}
 
 {c:Ending}
-When the r[G]oll is called up yo[D]nder I'll be th[G]ere
+When the r[G]oll is called up yo[D]nder I'll be th[G]ere [C]  [G]
