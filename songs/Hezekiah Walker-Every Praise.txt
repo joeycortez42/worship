@@ -1,72 +1,73 @@
 {title:Every Praise}
 {subtitle:Hezekiah Walker}
 {original_key:Db}
-{key:F}
+{key:D}
 {tempo:103}
 {time:4/4}
 {as:10}
 
 {c:Intro}
-[F]  [Dm7]  [Bb]  [C]
+[D]  [Bm7]  [G]  [A]
 
 {soc}
-[F]  Every praise is to our God
-[Dm7]Every word of worship with one accord
-[Bb]  Every praise  [C]  every praise is [F]to our God
+[D]  Every praise is to our God
+[Bm7]Every word of worship with one accord
+[G]  Every praise  [A]  every praise is [D]to our God
 
-[F]  Sing hallelujah to our God
-[Dm7]Glory hallelujah is due our God
-[Bb]  Every praise  [C]  every praise is [F]to our God
+[D]  Sing hallelujah to our God
+[Bm7]Glory hallelujah is due our God
+[G]  Every praise  [A]  every praise is [D]to our God
 
-[F]  Every praise is to our God
-[Dm7]Every word of worship with one accord
-[Bb]  Every praise  [C]  every praise is [F]to our God
+[D]  Every praise is to our God
+[Bm7]Every word of worship with one accord
+[G]  Every praise  [A]  every praise is [D]to our God
 
-[F]  Sing hallelujah to our God
-[Dm7]Glory hallelujah is due our God
-[Bb]  Every praise  [C]  every praise is [F]to our God
+[D]  Sing hallelujah to our God
+[Bm7]Glory hallelujah is due our God
+[G]  Every praise  [A]  every praise is [D]to our God
 {eoc}
 
 {soc}
-[F#]  Every praise is to our God
-[D#m7]Every word of worship with one accord
-[B]  Every praise  [C#]  every praise is [F#]to our God
+[Eb]  Every praise is to our God
+[Cm7]Every word of worship with one accord
+[Ab]  Every praise  [Bb]  every praise is [Eb]to our God
 
-[F#]  Sing hallelujah to our God
-[D#m7]Glory hallelujah is due our God
-[B]  Every praise  [C#]  every praise is [F#]to our God
+[Eb]  Sing hallelujah to our God
+[Cm7]Glory hallelujah is due our God
+[Ab]  Every praise  [Bb]  every praise is [Eb]to our God
 {eoc}
 
 {soc}
-[G]  Every praise is to our God
-[Em7]Every word of worship with one accord
-[C]  Every praise  [D]  every praise is [G]to our God
+[E]  Every praise is to our God
+[Dbm7]Every word of worship with one accord
+[A]  Every praise  [B]  every praise is [E]to our God
 
-[G]  Sing hallelujah to our God
-[Em7]Glory hallelujah is due our God
-[C]  Every praise  [D]  every praise is [G]to our God
+[E]  Sing hallelujah to our God
+[Dbm7]Glory hallelujah is due our God
+[A]  Every praise  [B]  every praise is [E]to our God
 {eoc}
 
 {sob}
-[G]   God my Savior    [Em7]   God my Healer    [C]   God my Deliverer
-[Am7]  Yes He is   [F]  Yes He is
+[E]   God my Savior    [Dbm7]   God my Healer    [A]   God my Deliverer
+[Gbm7]  Yes He is   [D]  Yes He is
 
-[G]   God my Savior    [Em7]   God my Healer    [C]   God my Deliverer
-[Am7]  Yes He is   [F]  Yes He is
+[E]   God my Savior    [Dbm7]   God my Healer    [A]   God my Deliverer
+[Gbm7]  Yes He is   [D]  Yes He is
 
-[G]   God my Savior    [Em7]   God my Healer    [C]   God my Deliverer
-[Am7]  Yes He is   [F]  Yes He is
+[E]   God my Savior    [Dbm7]   God my Healer    [A]   God my Deliverer
+[Gbm7]  Yes He is   [D]  Yes He is
 {eob}
 
 {c:Ending}
-[G]  Every praise is to our God
-[Em7]Every word of worship with one accord
-[C]  Every praise  [D]  every praise
-[C]  Every praise  [D/F#]  every praise
-[C]  Every praise  [D]  every praise
+[E]  Every praise is to our God
+[Dbm7]Every word of worship with one accord
+[A]  Every praise  [B]  every praise
+[A]  Every praise  [B/Eb]  every praise
+[A]  Every praise  [B]  every praise
+[E]to our God
 
-[G]  [Em7]  [C]  [D]
+[E]  [Dbm7]  [A]  [B]
 
-[G]  Every praise is to our God
-[Em7]Every word of worship with one accord
-[C]  Every praise  [D]  every praise is [G]to our God
+[E]  Every praise is to our God
+[Dbm7]Every word of worship with one accord
+[A]  Every praise  [B]  every praise is [E]to our God

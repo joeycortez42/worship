@@ -4,7 +4,7 @@
 {key:D}
 {tempo:75}
 {time:4/4}
-{as:8.6}
+{as:9.0}
 
 {c:Intro}
 [Bm]  [F#m]  [G]  [D]  [A]

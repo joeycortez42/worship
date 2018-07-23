@@ -1,0 +1,86 @@
+{title:Abre Mis Ojos}
+{subtitle:Paul Baloche}
+{original_key:E}
+{key:D}
+{tempo:116}
+{time:4/4}
+{as:12.5}
+
+{c:Intro}
+[D]
+
+{soc}
+[D]Abre mis ojos oh Cristo
+[A]Abre mis ojos Te pido
+Yo quiero [G]verte Yo quiero [D]verte
+
+[D]Abre mis ojos oh Cristo
+[A]Abre mis ojos Te pido
+Yo quiero [G]verte Yo quiero [D]verte
+{eoc}
+
+#Verse
+Y contem[A]plar Tu Majes[Bm]tad
+[G]Y el resplandor de Tu [A]Gloria
+[A]Derrama Tu amor y p[Bm]oder
+Cuando cantamos [G]Santo [A]Santo
+
+{soc}
+[D]Open the eyes of my heart Lord
+[A]Open the eyes of my heart
+I want to [G]see You I want to [D]see You
+
+[D]Open the eyes of my heart Lord
+[A]Open the eyes of my heart
+I want to [G]see You I want to [D]see You
+{eoc}
+
+#Verse
+To see You h[A]igh and lifted [Bm]up
+[G]Shining in the light of Your [A]glory
+[A]Pour out Your power and l[Bm]ove
+As we sing [G]holy holy [A]holy
+
+#Verse
+H[A]igh and lifted [Bm]up
+[G]Shining in the light of Your [A]glory
+[A]Pour out Your power and l[Bm]ove
+As we sing [G]holy holy [A]holy
+
+{sob}
+H[D]oly holy holy
+H[A]oly holy holy
+H[G]oly holy holy I want to [D]see You
+
+H[D]oly holy holy
+H[A]oly holy holy
+H[G]oly holy holy I want to [D]see You
+{eob}
+
+{soc}
+[D]Abre mis ojos oh Cristo
+[A]Abre mis ojos Te pido
+Yo quiero [G]verte Yo quiero [D]verte
+{eoc}
+
+#Verse
+Y contem[A]plar Tu Majes[Bm]tad
+[G]Y el resplandor de Tu [A]Gloria
+[A]Derrama Tu amor y p[Bm]oder
+Cuando cantamos [G]Santo [A]Santo
+
+#Verse
+Y contem[A]plar Tu Majes[Bm]tad
+[G]Y el resplandor de Tu [A]Gloria
+[A]Derrama Tu amor y p[Bm]oder
+Cuando cantamos [G]Santo [A]Santo
+
+{sob}
+S[D]anto santo santo
+S[A]anto santo santo
+S[G]anto santo santo Yo quiero [D]verte
+
+S[D]anto santo santo
+S[A]anto santo santo
+S[G]anto santo santo Yo quiero [D]verte
+{eob}
