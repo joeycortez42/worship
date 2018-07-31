@@ -1,0 +1,66 @@
+{title:Soul On Fire}
+{subtitle:Mac Powell}
+{original_key:Db}
+{key:A}
+{tempo:104}
+{time:4/4}
+{as:10}
+
+{c:Intro}
+[A]  [A]  [E]  [D]  [A]
+
+{soc}
+[A]God I'm running for Your heart
+I'm running for Your [E]heart 'til I am a [D]soul on [A]fire
+
+[A]Lord I'm longing for Your ways
+I'm waiting for the [E]day when I am a [D]soul on [A]fire
+[E]    'Til I am a [D]soul on [A]fire
+{eoc}
+
+[A]  [A]  [E]  [D]  [A]
+
+{soc}
+[A]God I'm running for Your heart
+I'm running for Your [E]heart 'til I am a [D]soul on [A]fire
+
+[A]Lord I'm longing for Your ways
+I'm waiting for the [E]day when I am a [D]soul on [A]fire
+[E]    'Til I am a [D]soul on [A]fire
+{eoc}
+
+#Verse
+[E]Lord restore the [D]joy I  [A]had
+[E]I have wandered [D]bring me [A]back
+[E]In this darkness [D]lead me [A]through
+[F#m]Until all I [E]see   is    You
+
+{soc}
+[A]God I'm running for Your heart
+I'm running for Your [E]heart 'til I am a [D]soul on [A]fire
+
+[A]Lord I'm longing for Your ways
+I'm waiting for the [E]day when I am a [D]soul on [A]fire
+[E]    'Til I am a [D]soul on [A]fire
+{eoc}
+
+{sob}
+[F#m]  Lord let me [D]burn for You a - [E]gain
+[F#m]  Let me re - [D]turn to You a - [E]gain
+[F#m]  And Lord let me [D]burn for You a - [E]gain
+[F#m]  And let me re - [D]turn to You a - [E]gain
+{eob}
+
+{soc}
+[A]God I'm running for Your heart
+I'm running for Your [E]heart 'til I am a [D]soul on [A]fire
+
+[A]Lord I'm longing for Your ways
+I'm waiting for the [E]day when I am a [D]soul on [A]fire
+{eoc}
+
+{c:Ending}
+[A]God I'm running for Your heart
+I'm running for Your [E]heart 'til I am a [D]soul on [A]fire
+[E]     'Til I am a [D]soul on [A]fire
+[E]     'Til I am a [D]soul on [A]fire

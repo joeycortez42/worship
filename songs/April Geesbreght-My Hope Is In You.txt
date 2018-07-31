@@ -1,7 +1,7 @@
 {title:My Hope Is In You}
 {subtitle:April Geesbreght}
 {original_key:D}
-{key:A}
+{key:D}
 {as:10}
 {tempo:75}
 {time:4/4}
