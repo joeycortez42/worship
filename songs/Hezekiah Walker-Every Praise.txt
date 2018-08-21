@@ -17,7 +17,9 @@
 [D]  Sing hallelujah to our God
 [Bm7]Glory hallelujah is due our God
 [G]  Every praise  [A]  every praise is [D]to our God
+{eoc}
 
+{soc}
 [D]  Every praise is to our God
 [Bm7]Every word of worship with one accord
 [G]  Every praise  [A]  every praise is [D]to our God
@@ -28,20 +30,11 @@
 {eoc}
 
 {soc}
-[Eb]  Every praise is to our God
-[Cm7]Every word of worship with one accord
-[Ab]  Every praise  [Bb]  every praise is [Eb]to our God
-
-[Eb]  Sing hallelujah to our God
-[Cm7]Glory hallelujah is due our God
-[Ab]  Every praise  [Bb]  every praise is [Eb]to our God
-{eoc}
-
-{soc}
 [E]  Every praise is to our God
 [Dbm7]Every word of worship with one accord
 [A]  Every praise  [B]  every praise is [E]to our God
 
+{c:Up vocal octive}
 [E]  Sing hallelujah to our God
 [Dbm7]Glory hallelujah is due our God
 [A]  Every praise  [B]  every praise is [E]to our God
@@ -56,6 +49,7 @@
 
 [E]   God my Savior    [Dbm7]   God my Healer    [A]   God my Deliverer
 [Gbm7]  Yes He is   [D]  Yes He is
+[Gbm7]  Yes He is   [D]  Yes He is
 {eob}
 
 {c:Ending}
@@ -65,9 +59,3 @@
 [A]  Every praise  [B/Eb]  every praise
 [A]  Every praise  [B]  every praise
 [E]to our God
-
-[E]  [Dbm7]  [A]  [B]
-
-[E]  Every praise is to our God
-[Dbm7]Every word of worship with one accord
-[A]  Every praise  [B]  every praise is [E]to our God

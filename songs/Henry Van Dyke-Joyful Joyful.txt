@@ -1,0 +1,70 @@
+{title:Joyful Joyful}
+{subtitle:Henry Van Dyke}
+{original_key:D}
+{key:D}
+{tempo:120}
+{time:4/4}
+{as:10}
+
+{c:Intro}
+[D] [G] [D] [A] [Bm7] [G] [D] [A]
+[D] [G] [D] [A] [Bm7] [G] [D] [A]
+
+#Verse 1
+[D]Joyful, joyful, [A]we adore Thee
+[G]God of glory, [A]Lord of love
+[D]Hearts unfold like [A]flowers before Thee
+[G]Hail Thee as the [A]sun a[D]bove
+
+[A]Melt the [D]clouds of [A]sin and [D]sadness
+[A]Drive the [D]dark of [E7]doubt away[A]
+[D]Giver of im[A]mortal gladness
+[G]Fill us with the [A]light of [D]day
+[G] [D] [A] [Bm7] [G] [D] [A]
+
+{soc}
+[A]You bring us [D]joy, [G]joy, [D]joy [A]
+We a[Bm]dore Thee[G] [D] [A]
+[A]You bring us [D]joy, [G]joy, [D]joy [A]
+We a[Bm]dore Thee[G] [D] [A]
+{eoc}
+
+#Verse 3
+[E]Thou art giving [B]and forgiving
+[A]Ever blessing, [B]ever blest
+[E]Wellspring of the [B]joy of living
+[A]Ocean depth of [B]happy [E]rest
+
+[B]Thou our [E]Father, [B]Christ our [E]Brother
+[B]All who [E]live in [F#7]love are Thine[B]
+[E]Teach us how to [B]love each other
+[A]Lift us to the [B]joy di[E]vine
+
+#Verse 4
+[E]Mortals, join the [B]mighty chorus
+[A]Which the morning [B]stars began
+[E]Father love is [B]reigning o'er us
+[A]Brother love binds [B]man to [E]man
+
+[B]Ever [E]singing, [B]march we [E]onward
+[B]Victors in[E] the [F#m7]midst of strife [B]
+[E]Joyful music [B]leads us sunward
+[A]In the triumph [B]song of l[E]if - [A]e
+[E] [B] [C#m] [A] [E] [B]
+
+{soc}
+[B]You bring us [E]joy, [A]joy, [E]joy [B]
+We a[C#m]dore Thee[A] [E] [B]
+[B]You bring us [E]joy, [A]joy, [E]joy [B]
+We a[C#m]dore Thee[A] [E] [B]
+[B]You bring us [E]joy, [A]joy, [E]joy [B]
+We a[C#m]dore Thee[A] [E] [B]
+
+[B]You bring us [E]joy, [A]joy, [E]joy [B]
+We a[C#m]dore Thee[A] [E] [B]
+We a[C#m]dore Thee[A] [E] [B]
+We a[C#m]dore Thee[A] [E] [B]
+We a[C#m]dore Thee[A] [E] [B]
+{eoc}
+
+[E]

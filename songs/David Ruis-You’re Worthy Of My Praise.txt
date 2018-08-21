@@ -27,27 +27,7 @@ All   [D]of   Your    ways [Em7](all Your [A]ways)
 [G]   You alone are [Em7]worthy [A]of my [D]praise
 {eoc}
 
-#Verse 2
-[D]I will bow down (I will bow down)
-And [C]hail You as King (and hail You as King)
-[G]I will serve You (I will serve You)
-Give You   [D]ev - 'ry -  thing [Em7](ev - 'ry - [A]thing)
-[D]I will lift up (I will lift up)
-My [C]eyes to Your throne (my eyes to Your throne)
-[G]I will trust You (I will trust You)
-Trust   [D]You  a -  lone [Em7](You a - [A]lone)
-
-{soc}
-[D]   I will give You [A]all my worship
-[G]   I will give You [Em7]all my [A]praise
-[D]   You alone I [A]long to worship
-[G]   You alone are [Em7]worthy [A]of my [D]praise
-
-[D]   I will give You [A]all my worship
-[G]   I will give You [Em7]all my [A]praise
-[D]   You alone I [A]long to worship
-[G]   You alone are [Em7]worthy [A]of my [D]praise
-{eoc}
+[D] [A] [G] [Em7] [A]
 
 #Verse 2
 [D]I will bow down (I will bow down)
@@ -64,6 +44,8 @@ Trust   [D]You  a -  lone [Em7](You a - [A]lone)
 [G]   I will give You [Em7]all my [A]praise
 [D]   You alone I [A]long to worship
 [G]   You alone are [Em7]worthy [A]of my [D]praise
+
+[D] [A] [G] [Em7] [A]
 
 [D]   I will give You [A]all my worship
 [G]   I will give You [Em7]all my [A]praise
@@ -72,10 +54,10 @@ Trust   [D]You  a -  lone [Em7](You a - [A]lone)
 {eoc}
 
 {c:Ending}
-{c:A cappella}
 [D]   I will give You [A]all my worship
 [G]   I will give You [Em7]all my [A]praise
 [D]   You alone I [A]long to worship
+[G]   You alone are [Em7]worthy [A]of my [D]praise [A]
+[G]   You alone are [Em7]worthy [A]of my [D]praise [A]
 {c:Retard}
 [G]   You alone are [Em7]worthy [A]of my [D]praise
-[D]   You alone are [Em7]worthy [A]of my [D]praise
