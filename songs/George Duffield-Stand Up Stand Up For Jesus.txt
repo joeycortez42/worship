@@ -2,7 +2,7 @@
 {subtitle:George Duffield}
 {original_key:A}
 {key:G}
-{tempo:114}
+{tempo:112}
 {time:4/4}
 {as:13}
 

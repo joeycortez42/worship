@@ -2,7 +2,7 @@
 {subtitle:Chris Tomlin}
 {original_key:G}
 {key:D}
-{tempo:120}
+{tempo:182}
 {time:4/4}
 {as:11.0}
 

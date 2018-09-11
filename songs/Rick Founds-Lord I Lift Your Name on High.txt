@@ -2,7 +2,7 @@
 {subtitle:Rick Founds}
 {original_key:G}
 {key:A}
-{tempo:86}
+{tempo:94}
 {time:4/4}
 {as:10}
 
