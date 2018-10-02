@@ -2,7 +2,7 @@
 {subtitle:Les Garrett}
 {original_key:Eb}
 {key:D}
-{tempo:120}
+{tempo:116}
 {time:4/4}
 {as:10}
 

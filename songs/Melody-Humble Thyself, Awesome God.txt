@@ -1,0 +1,65 @@
+{title:Humble Thyself, Awesome God}
+{subtitle:Melody}
+{original_key:Em}
+{key:Em}
+{tempo:72}
+{time:3/4}
+{as:11.0}
+
+{c:Intro}
+[Em] [D] [Em]
+
+{soc}
+H[Em]umble thyself in the s[D]ight of the L[Em]ord [D]
+H[Em]umble thyself in the s[D]ight of the L[Em]ord [D]
+And [C]He shall l[D]ift you [Em]up higher and high [D]- er
+And [C]He shall l[D]ift you [Em]up [D] [Em]
+
+H[Em]umble thyself in the s[D]ight of the L[Em]ord [D]
+H[Em]umble thyself in the s[D]ight of the L[Em]ord [D]
+And [C]He shall l[D]ift you [Em]up higher and high [D]- er
+And [C]He shall l[D]ift you [Em]up
+{eoc}
+
+{soc}
+Our [C]God is an [G]awesome God
+He [D]reigns from [Em]heaven above
+With [C]wisdom [G]pow'r and love
+Our [Am]God is an [Bm]awe - some [Em]God
+
+Our [C]God is an [G]awesome God
+He [D]reigns from [Em]heaven above
+With [C]wisdom [G]pow'r and love
+Our [Am]God is an [Bm]awe - some [Em]God
+{eoc}
+
+Our [Am]God is an [Bm]awe - some [Em]God
+Our [Am]God is an [Bm]awe - some [Em]God
+
+{soc}
+H[Em]umble thyself in the s[D]ight of the L[Em]ord [D]
+H[Em]umble thyself in the s[D]ight of the L[Em]ord [D]
+And [C]He shall l[D]ift you [Em]up higher and high [D]- er
+And [C]He shall l[D]ift you [Em]up [D] [Em]
+
+H[Em]umble thyself in the s[D]ight of the L[Em]ord [D]
+H[Em]umble thyself in the s[D]ight of the L[Em]ord [D]
+And [C]He shall l[D]ift you [Em]up higher and high [D]- er
+And [C]He shall l[D]ift you [Em]up
+{eoc}
+
+{soc}
+Our [C]God is an [G]awesome God
+He [D]reigns from [Em]heaven above
+With [C]wisdom [G]pow'r and love
+Our [Am]God is an [Bm]awe - some [Em]God
+
+Our [C]God is an [G]awesome God
+He [D]reigns from [Em]heaven above
+With [C]wisdom [G]pow'r and love
+Our [Am]God is an [Bm]awe - some [Em]God
+{eoc}
+
+{c:Ending}
+Our [Am]God is an [Bm]awe - some [Em]God
+Our [Am]God is an [Bm]awe - some [Em]God

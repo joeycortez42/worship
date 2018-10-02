@@ -1,44 +1,44 @@
 {title:Joyful Joyful}
 {subtitle:Henry Van Dyke}
 {original_key:D}
-{key:D}
+{key:C}
 {tempo:120}
 {time:4/4}
 {as:10}
 
 {c:Intro}
-[D] [G] [D] [A] [Bm7] [G] [D] [A]
-[D] [G] [D] [A] [Bm7] [G] [D] [A]
+[C] [F] [C] [G] [Am7] [F] [C] [G]
+[C] [F] [C] [G] [Am7] [F] [C] [G]
 
 #Verse 1
-[D]Joyful, joyful, [A]we adore Thee
-[G]God of glory, [A]Lord of love
-[D]Hearts unfold like [A]flowers before Thee
-[G]Hail Thee as the [A]sun a[D]bove
+[C]Joyful, joyful, [G]we adore Thee
+[F]God of glory, [G]Lord of love
+[C]Hearts unfold like [G]flowers before Thee
+[F]Hail Thee as the [G]sun a[C]bove
 
-[A]Melt the [D]clouds of [A]sin and [D]sadness
-[A]Drive the [D]dark of [E7]doubt away[A]
-[D]Giver of im[A]mortal gladness
-[G]Fill us with the [A]light of [D]day
-[G] [D] [A] [Bm7] [G] [D] [A]
+[G]Melt the [C]clouds of [G]sin and [C]sadness
+[G]Drive the [C]dark of [D7]doubt away[G]
+[C]Giver of im[G]mortal gladness
+[F]Fill us with the [G]light of [C]day
+[F] [C] [G] [Am7] [F] [C] [G]
 
 {soc}
-[A]You bring us [D]joy, [G]joy, [D]joy [A]
-We a[Bm]dore Thee[G] [D] [A]
-[A]You bring us [D]joy, [G]joy, [D]joy [A]
-We a[Bm]dore Thee[G] [D] [A]
+[G]You bring us [C]joy, [F]joy, [C]joy [G]
+We a[Am]dore Thee[F] [C] [G]
+[G]You bring us [C]joy, [F]joy, [C]joy [G]
+We a[Am]dore Thee[F] [C] [G]
 {eoc}
 
 #Verse 3
-[E]Thou art giving [B]and forgiving
-[A]Ever blessing, [B]ever blest
-[E]Wellspring of the [B]joy of living
-[A]Ocean depth of [B]happy [E]rest
+[D]Thou art giving [A]and forgiving
+[G]Ever blessing, [A]ever blest
+[D]Wellspring of the [A]joy of living
+[G]Ocean depth of [A]happy [D]rest
 
-[B]Thou our [E]Father, [B]Christ our [E]Brother
-[B]All who [E]live in [F#7]love are Thine[B]
-[E]Teach us how to [B]love each other
-[A]Lift us to the [B]joy di[E]vine
+[A]Thou our [D]Father, [A]Christ our [D]Brother
+[A]All who [D]live in [E7]love are Thine[A]
+[D]Teach us how to [A]love each other
+[G]Lift us to the [A]joy di[D]vine
 
 #Verse 4
 [E]Mortals, join the [B]mighty chorus
