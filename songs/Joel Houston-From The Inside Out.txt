@@ -7,80 +7,80 @@
 {as:10}
 
 {c:Intro}
-[D]    [A]  [E]    [D]    [A]  [E]
-[D]    [A]  [E]    [D]    [A]  [E]
+[F]    [C]  [G]    [F]    [C]  [G]
+[F]    [C]  [G]    [F]    [C]  [G]
 
 #Verse 1
-A thousand [D]times I've failed still Your [A]mercy re - [E]mains
-And should I [D]stumble again still I'm [A]caught in Your [E]grace
-Ever - [F#m]lasting Your [D]light will shine when [A]all else [E]fades
-Never - [F#m]ending Your [D]glory goes be - [A]yond all [E]fame
+A thousand [F]times I've failed still Your [C]mercy re - [G]mains
+And should I [F]stumble again still I'm [C]caught in Your [G]grace
+Ever - [Am]lasting Your [F]light will shine when [C]all else [G]fades
+Never - [Am]ending Your [F]glory goes be - [C]yond all [G]fame
 
-[D]    [A]  [E]
-[D]    [A]  [E]
+[F]    [C]  [G]
+[F]    [C]  [G]
 
 #Verse 2
-Your will a - [D]bove all else my [A]purpose re - [E]mains
-The art of [D]losing myself in [A]bringing You [E]praise
-Ever - [F#m]lasting Your [D]light will shine when [A]all else [E]fades
-Never - [F#m]ending Your [D]glory goes be - [A]yond all [E]fame (Ye-ah)
+Your will a - [F]bove all else my [C]purpose re - [G]mains
+The art of [F]losing myself in [C]bringing You [G]praise
+Ever - [Am]lasting Your [F]light will shine when [C]all else [G]fades
+Never - [Am]ending Your [F]glory goes be - [C]yond all [G]fame (Ye-ah)
 
 {soc}
-[D]  In my heart in my [A]soul Lord I give You con - [F#m]trol
-Consume me from the [E]inside out Lord
-[D]  Let justice and [F#m]praise become my em - [E]brace
-To love You from the [Bm]inside out
+[F]  In my heart in my [C]soul Lord I give You con - [Am]trol
+Consume me from the [G]inside out Lord
+[F]  Let justice and [Am]praise become my em - [G]brace
+To love You from the [Dm]inside out
 {eoc}
 
 {c:1... 2... 3... 4...}
-[D]    [A]  [E]    [D]    [A]  [E]
+[F]    [C]  [G]    [F]    [C]  [G]
 
 #Verse 2
-Your will a - [D]bove all else my [A]purpose re - [E]mains
-The art of [D]losing myself in [A]bringing You [E]praise
-Ever - [F#m]lasting Your [D]light will shine when [A]all else [E]fades
-Never - [F#m]ending Your [D]glory goes be - [A]yond all [E]fame (Ye-ah)
+Your will a - [F]bove all else my [C]purpose re - [G]mains
+The art of [F]losing myself in [C]bringing You [G]praise
+Ever - [Am]lasting Your [F]light will shine when [C]all else [G]fades
+Never - [Am]ending Your [F]glory goes be - [C]yond all [G]fame (Ye-ah)
 
 {soc}
-[D]  In my heart in my [A]soul Lord I give You con - [F#m]trol
-Consume me from the [E]inside out Lord
-[D]  Let justice and [F#m]praise become my em - [E]brace
-To love You from the [Bm]inside out
+[F]  In my heart in my [C]soul Lord I give You con - [Am]trol
+Consume me from the [G]inside out Lord
+[F]  Let justice and [Am]praise become my em - [G]brace
+To love You from the [Dm]inside out
 {eoc}
 
 {c:Sing Higher}
 {sob}
-Ever - [F#m]lasting Your [D]light will shine when [A]all else [E]fades
-Never - [F#m]ending Your [D]glory goes be - [A]yond all [E]fame
-And the [A]cry of my [D]heart is to [E]bring You [F#m]praise
-From the [D]inside [E]out Lord my [D]soul cries [E]out
+Ever - [Am]lasting Your [F]light will shine when [C]all else [G]fades
+Never - [Am]ending Your [F]glory goes be - [C]yond all [G]fame
+And the [C]cry of my [F]heart is to [G]bring You [Am]praise
+From the [F]inside [G]out Lord my [F]soul cries [G]out
 {eob}
 
 
-[D]          |  [A]          |  [F#m]         |  [E]          |
-[D]          |  [F#m]        |  [E]           |  [Bm]         |
+[F]          |  [C]          |  [Am]         |  [G]          |
+[F]          |  [Am]        |  [G]           |  [Dm]         |
 
 {soc}
-[D]  In my heart in my [A]soul Lord I give You con - [F#m]trol
-Consume me from the [E]inside out Lord
+[F]  In my heart in my [C]soul Lord I give You con - [Am]trol
+Consume me from the [G]inside out Lord
 {c:Down strokes}
-[D]  Let justice and [F#m]praise become my em - [E]brace
-To love You from the [Bm]inside out
+[F]  Let justice and [Am]praise become my em - [G]brace
+To love You from the [Dm]inside out
 {eoc}
 
 {c:Sing Higher}
 {sob}
-Ever - [F#m]lasting Your [D]light will shine when [A]all else [E]fades
-Never - [F#m]ending Your [D]glory goes be - [A]yond all [E]fame
-And the [A]cry of my [D]heart is to [E]bring You [F#m]praise
-From the [D]inside [E]out Lord my [D]soul cries [E]out
+Ever - [Am]lasting Your [F]light will shine when [C]all else [G]fades
+Never - [Am]ending Your [F]glory goes be - [C]yond all [G]fame
+And the [C]cry of my [F]heart is to [G]bring You [Am]praise
+From the [F]inside [G]out Lord my [F]soul cries [G]out
 
-Ever - [F#m]lasting Your [D]light will shine when [A]all else [E]fades
-Never - [F#m]ending Your [D]glory goes be - [A]yond all [E]fame
-And the [A]cry of my [D]heart is to [E]bring You [F#m]praise
-From the [D]inside [E]out Lord my [D]soul cries [E]out
+Ever - [Am]lasting Your [F]light will shine when [C]all else [G]fades
+Never - [Am]ending Your [F]glory goes be - [C]yond all [G]fame
+And the [C]cry of my [F]heart is to [G]bring You [Am]praise
+From the [F]inside [G]out Lord my [F]soul cries [G]out
 {eob}
 
 {c:Ending}
-From the [D]inside [E]out Lord my [D]soul cries [E]out
-[D]
+From the [F]inside [G]out Lord my [F]soul cries [G]out
+[F]
