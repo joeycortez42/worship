@@ -1,7 +1,7 @@
 {title:Awesome is the Lord Most High}
 {subtitle:Chis Tomlin}
 {original_key:Ab}
-{key:E}
+{key:G}
 {tempo:132}
 {time:4/4}
 {as:11}

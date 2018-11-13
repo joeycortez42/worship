@@ -1,7 +1,7 @@
 {title:King Of My Heart}
 {subtitle:John Mark McMillan}
 {original_key:B}
-{key:D}
+{key:A}
 {tempo:68}
 {time:4/4}
 {as:10}
@@ -69,6 +69,10 @@ You are [F#m]good [E]good [D]oh    [A]
 [F#m]   You're [E]never gonna let [D]never gonna let me [A]down
 {eob}
 
+[A]
+
 {c:Ending}
+You are [F#m]good [E]good [D]oh    [A]
+You are [F#m]good [E]good [D]oh    [A]
 You are [F#m]good [E]good [D]oh    [A]
 You are [F#m]good [E]good [D]oh    [A]

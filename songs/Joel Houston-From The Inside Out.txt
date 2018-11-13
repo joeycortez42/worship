@@ -1,10 +1,10 @@
 {title:From The Inside Out}
 {subtitle:Joel Houston}
 {original_key:C}
-{key:A}
-{tempo:76}
+{key:C}
+{tempo:69}
 {time:4/4}
-{as:10}
+{as:11.0}
 
 {c:Intro}
 [F]    [C]  [G]    [F]    [C]  [G]
@@ -57,8 +57,8 @@ From the [F]inside [G]out Lord my [F]soul cries [G]out
 {eob}
 
 
-[F]          |  [C]          |  [Am]         |  [G]          |
-[F]          |  [Am]        |  [G]           |  [Dm]         |
+[F]          [C]          [Am]         [G]
+[F]          [Am]        [G]           [Dm]
 
 {soc}
 [F]  In my heart in my [C]soul Lord I give You con - [Am]trol
@@ -84,3 +84,4 @@ From the [F]inside [G]out Lord my [F]soul cries [G]out
 {c:Ending}
 From the [F]inside [G]out Lord my [F]soul cries [G]out
 [F]
+Lord
