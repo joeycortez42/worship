@@ -1,0 +1,58 @@
+{title:My Help}
+{subtitle:Brooklyn Tabernacle Choir}
+{original_key:F}
+{key:F}
+{tempo:100}
+{time:4/4}
+{as:10}
+
+{c:Intro}
+[F]
+
+#Verse
+I will li[F]ft up mine eyes to the hills
+from whence cometh my [Am]help
+my [F]help cometh [F/A]from the L[Bb]ord
+the L[Gm]ord which made Heaven and E[Csus4]arth [C]
+
+He said H[F]e would not suffer thy foot
+thy foot to be [Fmaj7]moved
+the [F]Lord which[F7] keepeth t[Bb]hee
+[Gm]He will not slumber nor s[Csus4]leep
+
+[Asus4]Oh the [A]Lord i[Dm]s thy keeper
+the [Bbm]Lord is thy s[Dm]hade
+upon[G] thy right [C]hand
+[C]upon thy right [Bb]hand
+
+N[Asus4]o the[A] su[Dm]n shall not smite thee by [Gm]day
+nor the moon by ni[Dm]ght
+He[G] shall preserve thy so[C]ul
+e[A]ven [F]forever m[Bb]ore [Gm]
+
+{soc}
+[F]My help [Dm]my he[Bbm]lp m[F]y he[Dm]lp
+all of my h[Gm]elp c[C]ometh fr[G]om the Lor[F]d
+{eoc}
+
+[F] [Fmaj7] [Bb] [Gm] [F]
+
+#Verse
+[Asus4]Oh the [A]Lord i[Dm]s thy keeper
+the [Bbm]Lord is thy s[Dm]hade
+upon[G] thy right [C]hand
+[C]upon thy right [Bb]hand
+
+N[Asus4]o the[A] su[Dm]n shall not smite thee by [Gm]day
+nor the moon by ni[Dm]ght
+He[G] shall preserve thy so[C]ul
+e[A]ven [F]forever m[Bb]ore [Gm]
+
+
+{soc}
+[F]My help [Dm]my he[Bbm]lp m[F]y he[Dm]lp
+all of my h[Gm]elp c[C]ometh fr[G]om the Lor[F]d
+
+[F]My help [Dm]my he[Bbm]lp m[F]y he[Dm]lp
+all of my h[Gm]elp c[C]ometh fr[G]om the Lor[F]d
+{eoc}
