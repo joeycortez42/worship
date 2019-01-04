@@ -1,0 +1,73 @@
+{title:I Am Free}
+{subtitle:Jon Egan}
+{original_key:D}
+{key:D}
+{tempo:136}
+{time:4/4}
+{as:10}
+
+{c:Intro}
+[D]         [D]               [D]               [D]
+
+#Verse
+[D]  Through You the blind will see    through You the mute will sing
+[G]  Through You the dead will rise    through You all hearts will praise
+[Bm7]  Through You the darkness flees  [Asus]  through You my heart screams
+I am [D]free         [D]               [D]               [D]
+
+{soc}
+{c:Softly}
+I am [D]free to run (I am free to run)
+I am [G]free to dance (I am free to dance)
+I am [Bm7]free to live for You (I am [Asus]free to live for You)
+I am [D]free (I am free) [D]               [D]              [D]
+
+{c:Higher}
+I am [D]free to run (I am free to run)
+I am [G]free to dance (I am free to dance)
+I am [Bm7]free to live for You (I am [Asus]free to live for You)
+I am [D]free (I am free) [D]               [D]              [D]
+{eoc}
+
+#Verse
+[D]  Through You the blind will see    through You the mute will sing
+[G]  Through You the dead will rise    through You all hearts will praise
+[Bm7]  Through You the darkness flees  [Asus]  through You my heart screams
+I am [D]free         [D]               [D]               [D]
+
+{soc}
+I am [D]free to run (I am free to run)
+I am [G]free to dance (I am free to dance)
+I am [Bm7]free to live for You (I am [Asus]free to live for You)
+I am [D]free (I am free) [D]               [D]              [D]
+
+I am [D]free to run (I am free to run)
+I am [G]free to dance (I am free to dance)
+I am [Bm7]free to live for You (I am [Asus]free to live for You)
+I am [D]free (I am free) [D]               [D]              [D]
+{eoc}
+
+[D]         [D]               [D]               [D]
+[D]         [D]               [D]               [D]
+
+Jesus said He who the Son sets free is free indeed.
+You have no obligation to the sinful nature anymore.
+You are free. You are free in the name of Jesus.
+
+{soc}
+{c:Softly}
+I am [D]free to run (I am free to run)
+I am [G]free to dance (I am free to dance)
+I am [Bm7]free to live for You (I am [Asus]free to live for You)
+I am [D]free (I am free) [D]               [D]              [D]
+
+{c:Higher}
+I am [D]free to run (I am free to run)
+I am [G]free to dance (I am free to dance)
+I am [Bm7]free to live for You (I am [Asus]free to live for You)
+I am [D]free (I am free) [D]   I am [D]free (I am free) [D]
+{eoc}
+
+{c:Ending}
+[D]         [D]               [D]               [D]
+[D]

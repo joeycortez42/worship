@@ -4,15 +4,15 @@
 {key:C}
 {tempo:120}
 {time:4/4}
-{as:10}
+{as:11.0}
 
 {c:Intro}
 [C] [F] [C] [G] [Am7] [F] [C] [G]
 [C] [F] [C] [G] [Am7] [F] [C] [G]
 
 #Verse 1
-[C]Joyful, joyful, [G]we adore Thee
-[F]God of glory, [G]Lord of love
+[C]Joyful joyful [G]we adore Thee
+[F]God of glory [G]Lord of love
 [C]Hearts unfold like [G]flowers before Thee
 [F]Hail Thee as the [G]sun a[C]bove
 
@@ -23,44 +23,44 @@
 [F] [C] [G] [Am7] [F] [C] [G]
 
 {soc}
-[G]You bring us [C]joy, [F]joy, [C]joy [G]
+You will bring us [C]joy [F]joy [C]joy [G]
 We a[Am]dore Thee[F] [C] [G]
-[G]You bring us [C]joy, [F]joy, [C]joy [G]
+You will bring us [C]joy [F]joy [C]joy [G]
 We a[Am]dore Thee[F] [C] [G]
 {eoc}
 
 #Verse 3
 [D]Thou art giving [A]and forgiving
-[G]Ever blessing, [A]ever blest
+[G]Ever blessing [A]ever blest
 [D]Wellspring of the [A]joy of living
 [G]Ocean depth of [A]happy [D]rest
 
-[A]Thou our [D]Father, [A]Christ our [D]Brother
+[A]Thou our [D]Father [A]Christ our [D]Brother
 [A]All who [D]live in [E7]love are Thine[A]
 [D]Teach us how to [A]love each other
 [G]Lift us to the [A]joy di[D]vine
 
 #Verse 4
-[E]Mortals, join the [B]mighty chorus
+[E]Mortals join the [B]mighty chorus
 [A]Which the morning [B]stars began
 [E]Father love is [B]reigning o'er us
 [A]Brother love binds [B]man to [E]man
 
-[B]Ever [E]singing, [B]march we [E]onward
+[B]Ever [E]singing [B]march we [E]onward
 [B]Victors in[E] the [F#m7]midst of strife [B]
 [E]Joyful music [B]leads us sunward
 [A]In the triumph [B]song of l[E]if - [A]e
 [E] [B] [C#m] [A] [E] [B]
 
 {soc}
-[B]You bring us [E]joy, [A]joy, [E]joy [B]
+You will bring us [E]joy [A]joy [E]joy [B]
 We a[C#m]dore Thee[A] [E] [B]
-[B]You bring us [E]joy, [A]joy, [E]joy [B]
-We a[C#m]dore Thee[A] [E] [B]
-[B]You bring us [E]joy, [A]joy, [E]joy [B]
+You will bring us [E]joy [A]joy [E]joy [B]
 We a[C#m]dore Thee[A] [E] [B]
 
-[B]You bring us [E]joy, [A]joy, [E]joy [B]
+You will bring us [E]joy [A]joy [E]joy [B]
+We a[C#m]dore Thee[A] [E] [B]
+You will bring us [E]joy [A]joy [E]joy [B]
 We a[C#m]dore Thee[A] [E] [B]
 We a[C#m]dore Thee[A] [E] [B]
 We a[C#m]dore Thee[A] [E] [B]

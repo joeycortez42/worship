@@ -7,55 +7,55 @@
 {as:10}
 
 {c:Intro}
-[D]  [Bm7]  [G]  [A]
+[C]  [Am7]  [F]  [G]
 
 {soc}
-[D]  Every praise is to our God
-[Bm7]Every word of worship with one accord
-[G]  Every praise  [A]  every praise is [D]to our God
+[C]  Every praise is to our God
+[Am7]Every word of worship with one accord
+[F]  Every praise  [G]  every praise is [C]to our God
 
-[D]  Sing hallelujah to our God
-[Bm7]Glory hallelujah is due our God
-[G]  Every praise  [A]  every praise is [D]to our God
+[C]  Sing hallelujah to our God
+[Am7]Glory hallelujah is due our God
+[F]  Every praise  [G]  every praise is [C]to our God
+{eoc}
+
+{soc}
+[C]  Every praise is to our God
+[Am7]Every word of worship with one accord
+[F]  Every praise  [G]  every praise is [C]to our God
+
+[C]  Sing hallelujah to our God
+[Am7]Glory hallelujah is due our God
+[F]  Every praise  [G]  every praise is [C]to our God
 {eoc}
 
 {soc}
 [D]  Every praise is to our God
 [Bm7]Every word of worship with one accord
 [G]  Every praise  [A]  every praise is [D]to our God
-
-[D]  Sing hallelujah to our God
-[Bm7]Glory hallelujah is due our God
-[G]  Every praise  [A]  every praise is [D]to our God
-{eoc}
-
-{soc}
-[E]  Every praise is to our God
-[Dbm7]Every word of worship with one accord
-[A]  Every praise  [B]  every praise is [E]to our God
 
 {c:Up vocal octive}
-[E]  Sing hallelujah to our God
-[Dbm7]Glory hallelujah is due our God
-[A]  Every praise  [B]  every praise is [E]to our God
+[D]  Sing hallelujah to our God
+[Bm7]Glory hallelujah is due our God
+[G]  Every praise  [A]  every praise is [D]to our God
 {eoc}
 
 {sob}
-[E]   God my Savior    [Dbm7]   God my Healer    [A]   God my Deliverer
-[Gbm7]  Yes He is   [D]  Yes He is
+[D]   God my Savior    [Bm7]   God my Healer    [G]   God my Deliverer
+[Em7]  Yes He is   [C]  Yes He is
 
-[E]   God my Savior    [Dbm7]   God my Healer    [A]   God my Deliverer
-[Gbm7]  Yes He is   [D]  Yes He is
+[D]   God my Savior    [Bm7]   God my Healer    [G]   God my Deliverer
+[Em7]  Yes He is   [C]  Yes He is
 
-[E]   God my Savior    [Dbm7]   God my Healer    [A]   God my Deliverer
-[Gbm7]  Yes He is   [D]  Yes He is
-[Gbm7]  Yes He is   [D]  Yes He is
+[D]   God my Savior    [Bm7]   God my Healer    [G]   God my Deliverer
+[Em7]  Yes He is   [C]  Yes He is
+[Em7]  Yes He is   [C]  Yes He is
 {eob}
 
 {c:Ending}
-[E]  Every praise is to our God
-[Dbm7]Every word of worship with one accord
-[A]  Every praise  [B]  every praise
-[A]  Every praise  [B/Eb]  every praise
-[A]  Every praise  [B]  every praise
-[E]to our God
+[D]  Every praise is to our God
+[Bm7]Every word of worship with one accord
+[G]  Every praise  [A]  every praise
+[G]  Every praise  [A/C#]  every praise
+[G]  Every praise  [A]  every praise
+[D]to our God
