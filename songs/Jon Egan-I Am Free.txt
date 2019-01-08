@@ -9,10 +9,13 @@
 {c:Intro}
 [D]         [D]               [D]               [D]
 
-#Verse
-[D]  Through You the blind will see    through You the mute will sing
-[G]  Through You the dead will rise    through You all hearts will praise
-[Bm7]  Through You the darkness flees  [Asus]  through You my heart screams
+#Verse 1
+[D]  Through You the blind will see
+[D]  Through You the mute will sing
+[G]  Through You the dead will rise
+[G]  Through You all hearts will praise
+[Bm7]  Through You the darkness flees
+[Asus]  Through You my heart screams
 I am [D]free         [D]               [D]               [D]
 
 {soc}
@@ -29,10 +32,13 @@ I am [Bm7]free to live for You (I am [Asus]free to live for You)
 I am [D]free (I am free) [D]               [D]              [D]
 {eoc}
 
-#Verse
-[D]  Through You the blind will see    through You the mute will sing
-[G]  Through You the dead will rise    through You all hearts will praise
-[Bm7]  Through You the darkness flees  [Asus]  through You my heart screams
+#Verse 2
+[D]  Through You the kingdom come
+[D]  Through You the battles won
+[G]  Through You I'm not afaird
+[G]  Through You the price is paid
+[Bm7]  Through You there's vicotry
+[Asus]  Because of You my heart sings
 I am [D]free         [D]               [D]               [D]
 
 {soc}
@@ -48,11 +54,7 @@ I am [D]free (I am free) [D]               [D]              [D]
 {eoc}
 
 [D]         [D]               [D]               [D]
-[D]         [D]               [D]               [D]
-
-Jesus said He who the Son sets free is free indeed.
-You have no obligation to the sinful nature anymore.
-You are free. You are free in the name of Jesus.
+Who the Son sets free is free indeed.
 
 {soc}
 {c:Softly}
