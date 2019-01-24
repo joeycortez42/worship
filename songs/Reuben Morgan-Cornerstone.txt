@@ -1,0 +1,68 @@
+{title:Cornerstone}
+{subtitle:Reuben Morgan}
+{original_key:C}
+{key:C}
+{tempo:71}
+{time:4/4}
+{as:10}
+
+{c:Intro}
+[C]     [C]     [Am]     [Am]     [F]     [G]
+
+#Verse 1
+[C]   My hope is built on nothing less
+[F]   Than Jesus’ blood and [G]righteousness
+[Am]  I dare not trust the [Am]sweetest frame
+[F]   But wholly [G]trust in Je - [C]  sus’ Name
+
+{soc}
+[C]Christ a - [F]lone [Am]Corner - [G]stone
+[C]Weak made [F]strong in the [Am]Saviour’s [G]love
+[C]Through the [F]storm [Am]He is [G]Lord
+Lord of [C]all
+{eoc}
+
+[C]     [C]
+
+#Verse 2
+[C]  When darkness seems to hide His face
+[F]  I rest on His un - [G]changing grace
+[Am]  In ev’ry high and [Am]stormy gale
+[F]  My anchor [G]holds within [C]  the veil
+{c:Higher}
+[F]  My anchor [G]holds within [C]  the veil
+
+{soc}
+[C]Christ a - [F]lone [Am]Corner - [G]stone
+[C]Weak made [F]strong in the [Am]Saviour’s [G]love
+[C]Through the [F]storm [Am]He is [G]Lord
+Lord of [C]all
+
+[C]Christ a - [F]lone [Am]Corner - [G]stone
+[C]Weak made [F]strong in the [Am]Saviour’s [G]love
+[C]Through the [F]storm [Am]He is [G]Lord
+Lord of [C]all
+{eoc}
+
+[C]     [C]
+He is [Am]Lord     [Am]     Lord of [F]all--    [G]
+
+#Verse 3
+{c:Lower}
+[C]   When He shall come with trumpet sound
+[F]   Oh may I then in [G]Him be found
+[Am]  Dressed in His righteous - [Am]ness alone
+[F]   Faultless [G]stand before [C]  the throne
+{c:Higher}
+[F]   Faultless [G]stand before [C]  the throne
+
+{soc}
+[C]Christ a - [F]lone [Am]Corner - [G]stone
+[C]Weak made [F]strong in the [Am]Saviour’s [G]love
+[C]Through the [F]storm [Am]He is [G]Lord
+Lord of [C]all
+{eoc}
+
+{c:Ending}
+[C]     [C]
+Lord of [Am]all--     [Am]

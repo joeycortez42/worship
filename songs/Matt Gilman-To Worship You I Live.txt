@@ -2,7 +2,6 @@
 {subtitle:Matt Gilman}
 {original_key:F}
 {key:F}
-{tempo:120}
 {time:4/4}
 {as:10}
 
