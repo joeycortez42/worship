@@ -1,90 +1,91 @@
 {title:To Worship You I Live}
 {subtitle:Matt Gilman}
-{original_key:F}
-{key:F}
+{original_key:C}
+{key:G}
+{tempo:120}
 {time:4/4}
 {as:10}
 
 {c:Intro}
-[C]
+[G]
 
 #Verse
-I just want to bl[F]ess Your name
-I just want to m[C]ake You glad
-I just want to m[F]ove Your heart God
-To give You all I a[C]m
+I just want to bl[C]ess Your name
+I just want to m[G]ake You glad
+I just want to m[C]ove Your heart God
+To give You all I a[G]m
 
 #Verse
-I just want to bl[F]ess Your name
-I just want to m[C]ake You glad
-I just want to m[F]ove Your heart God
-To give You all I a[C]m
+I just want to bl[C]ess Your name
+I just want to m[G]ake You glad
+I just want to m[C]ove Your heart God
+To give You all I a[G]m
 
 {soc}
-By Your [F]will
-For Your gl[C]ory I exist
-You are w[F]orthy Lord
-You are wort[C]hy Lord
+By Your [C]will
+For Your gl[G]ory I exist
+You are w[C]orthy Lord
+You are wort[G]hy Lord
 
-By Your [F]will
-For Your gl[C]ory I exist
-You are w[F]orthy Lord
-You are wort[C]hy Lord
+By Your [C]will
+For Your gl[G]ory I exist
+You are w[C]orthy Lord
+You are wort[G]hy Lord
 {eoc}
 
 {sob}
-To w[F]orship You I live
+To w[C]orship You I live
 To worship You I live
-I live to wor[C]ship You
+I live to wor[G]ship You
 
-To w[F]orship You I live
+To w[C]orship You I live
 To worship You I live
-I live to wor[C]ship You
+I live to wor[G]ship You
 
-To w[F]orship You I live
+To w[C]orship You I live
 To worship You I live
-I live to wor[C]ship You
+I live to wor[G]ship You
 {eob}
 
-[G]Whoa..[F]. Who[C]a...
-[G]Whoa..[F]. Who[C]a...
+[D]Whoa..[C]. Who[G]a...
+[D]Whoa..[C]. Who[G]a...
 
 {sob}
-To w[F]orship You I live
+To w[C]orship You I live
 To worship You I live
-I live to wor[C]ship You
+I live to wor[G]ship You
 
-To w[F]orship You I live
+To w[C]orship You I live
 To worship You I live
-I live to wor[C]ship You
+I live to wor[G]ship You
 
-To w[F]orship You I live
+To w[C]orship You I live
 To worship You I live
-I live to wor[C]ship You
+I live to wor[G]ship You
 {eob}
 
-[G]Whoa..[F]. Who[C]a...
-[G]Whoa..[F]. Who[C]a...
+[D]Whoa..[C]. Who[G]a...
+[D]Whoa..[C]. Who[G]a...
 
 #Verse
-I just want to bl[F]ess Your name
-I just want to m[C]ake You glad
-I just want to m[F]ove Your heart God
-To give You all I a[C]m
+I just want to bl[C]ess Your name
+I just want to m[G]ake You glad
+I just want to m[C]ove Your heart God
+To give You all I a[G]m
 
 #Verse
-I just want to bl[F]ess Your name
-I just want to m[C]ake You glad
-I just want to m[F]ove Your heart God
-To give You all I a[C]m
+I just want to bl[C]ess Your name
+I just want to m[G]ake You glad
+I just want to m[C]ove Your heart God
+To give You all I a[G]m
 
 {c:Ending}
-By Your [F]will
-For Your gl[C]ory I exist
-You are w[F]orthy Lord
-You are wort[C]hy Lord
+By Your [C]will
+For Your gl[G]ory I exist
+You are w[C]orthy Lord
+You are wort[G]hy Lord
 
-By Your [F]will
-For Your gl[C]ory I exist
-You are w[F]orthy Lord
-You are wort[C]hy Lord
+By Your [C]will
+For Your gl[G]ory I exist
+You are w[C]orthy Lord
+You are wort[G]hy Lord

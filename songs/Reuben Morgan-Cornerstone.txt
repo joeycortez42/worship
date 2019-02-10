@@ -1,13 +1,26 @@
 {title:Cornerstone}
 {subtitle:Reuben Morgan}
 {original_key:C}
-{key:C}
+{key:D}
 {tempo:71}
 {time:4/4}
 {as:10}
 
 {c:Intro}
+|--------------------------------------|
+|--------------------------------------|
+|-10-10--9-9--7-7--5-------------------|
+|--------------------------------------|
+|--------------------------------------|
+|--------------------------------------|
+
 [C]     [C]     [Am]     [Am]     [F]     [G]
+
+#Verse 1
+[C]   My hope is built on nothing less
+[F]   Than Jesus’ blood and [G]righteousness
+[Am]  I dare not trust the [Am]sweetest frame
+[F]   But wholly [G]trust in Je - [C]  sus’ Name
 
 #Verse 1
 [C]   My hope is built on nothing less
@@ -36,6 +49,12 @@ Lord of [C]all
 [C]Christ a - [F]lone [Am]Corner - [G]stone
 [C]Weak made [F]strong in the [Am]Saviour’s [G]love
 [C]Through the [F]storm [Am]He is [G]Lord
+Lord of [C]all      [C]
+He is [Am]Lord     [Am]     Lord of [F]all--
+
+[C]Christ a - [F]lone [Am]Corner - [G]stone
+[C]Weak made [F]strong in the [Am]Saviour’s [G]love
+[C]Through the [F]storm [Am]He is [G]Lord
 Lord of [C]all
 
 [C]Christ a - [F]lone [Am]Corner - [G]stone
@@ -45,7 +64,6 @@ Lord of [C]all
 {eoc}
 
 [C]     [C]
-He is [Am]Lord     [Am]     Lord of [F]all--    [G]
 
 #Verse 3
 {c:Lower}
@@ -53,10 +71,17 @@ He is [Am]Lord     [Am]     Lord of [F]all--    [G]
 [F]   Oh may I then in [G]Him be found
 [Am]  Dressed in His righteous - [Am]ness alone
 [F]   Faultless [G]stand before [C]  the throne
-{c:Higher}
-[F]   Faultless [G]stand before [C]  the throne
+
+[F]   [Am]   [G]     [F]   [Am]   [G]
+[F]   [Am]   [G]     [F]   [Am]   [G]
+[C]
 
 {soc}
+[C]Christ a - [F]lone [Am]Corner - [G]stone
+[C]Weak made [F]strong in the [Am]Saviour’s [G]love
+[C]Through the [F]storm [Am]He is [G]Lord
+Lord of [C]all
+
 [C]Christ a - [F]lone [Am]Corner - [G]stone
 [C]Weak made [F]strong in the [Am]Saviour’s [G]love
 [C]Through the [F]storm [Am]He is [G]Lord

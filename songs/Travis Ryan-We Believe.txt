@@ -1,81 +1,81 @@
 {title:We Believe}
 {subtitle:Travis Ryan}
 {original_key:D}
-{key:E}
+{key:D}
 {tempo:66}
 {time:4/4}
 {as:8.4}
 
 {c:Intro}
-[E] [A] [E] [A]
+[D] [G] [D] [G]
 
 #Verse 1
-[E] In this time of desper - [A]ation
-[E] When all we know is doubt [A]and fear
-[C#m] There is only one foun - da[A]tion
-We be - li[E]eve we be - l[A]ieve
+[D] In this time of desper - [G]ation
+[D] When all we know is doubt [G]and fear
+[Bm] There is only one foun - da[G]tion
+We be - li[D]eve we be - l[G]ieve
 
-[E] In this broken gener - a[A]tion
-[E] When all is dark You help [A]us see
-[C#m] There is only one sal - va[A]tion
-We beli[E]eve we bel[A]ieve
+[D] In this broken gener - a[G]tion
+[D] When all is dark You help [G]us see
+[Bm] There is only one sal - va[G]tion
+We beli[D]eve we bel[G]ieve
 
 {soc}
-We be - li[E]eve in God the Father
-We be - li[B]eve in Jesus Christ
-We be - li[C#m]eve in the Holy Spirit
-And He's gi[A]ven us new life
+We be - li[D]eve in God the Father
+We be - li[A]eve in Jesus Christ
+We be - li[Bm]eve in the Holy Spirit
+And He's gi[G]ven us new life
 
-We be - li[E]eve in the crucifixion
-We be - li[B]eve that He conquered death
-We be - li[C#m]eve in the resurrection
-And He's co[A]ming back again
-We li[E]eve [A]
+We be - li[D]eve in the crucifixion
+We be - li[A]eve that He conquered death
+We be - li[Bm]eve in the resurrection
+And He's co[G]ming back again
+We li[D]eve [G]
 {eoc}
 
 {as:11.9}
 #Verse 2
-So[E] let our faith be more than ant[A]hems
-[E] Greater than the songs [A]we sing
-[C#m] In our weakness and temp - tat[A]ions
-We be - li[E]eve we be - li[A]eve
+So[D] let our faith be more than ant[G]hems
+[D] Greater than the songs [G]we sing
+[Bm] In our weakness and temp - tat[G]ions
+We be - li[D]eve we be - li[G]eve
 
 {soc}
-We be - li[E]eve in God the Father
-We be - li[B]eve in Jesus Christ
-We be - li[C#m]eve in the Holy Spirit
-And He's gi[A]ven us new life
+We be - li[D]eve in God the Father
+We be - li[A]eve in Jesus Christ
+We be - li[Bm]eve in the Holy Spirit
+And He's gi[G]ven us new life
 
-We be - li[E]eve in the crucifixion
-We be - li[B]eve that He conquered death
-We be - li[C#m]eve in the resurrection
-And He's co[A]ming back again
+We be - li[D]eve in the crucifixion
+We be - li[A]eve that He conquered death
+We be - li[Bm]eve in the resurrection
+And He's co[G]ming back again
 {eoc}
 
 {sob}
-Let the [A]lost be found and the [B]dead be raised
-In the [C#m]here and now let [E]love invade
-Let the ch[A]urch live loud our [B]God will save
-We be - [C#m]lieve we be - li[E]eve
-And the g[A]ates of hell will [B]not prevail
-For the p[C#m]ow'r of God has t[E]orn the veil
-Now we k[A]now Your love will ne[B]ver fail
-We be - [C#m]lieve we be - li[E]eve
+Let the [G]lost be found and the [A]dead be raised
+In the [Bm]here and now let [D]love invade
+Let the ch[G]urch live loud our [A]God will save
+We be - [Bm]lieve we be - li[D]eve
+And the g[G]ates of hell will [A]not prevail
+For the p[Bm]ow'r of God has t[D]orn the veil
+Now we k[G]now Your love will ne[A]ver fail
+We be - [Bm]lieve we be - li[D]eve
 {eob}
 
 {soc}
-We be - li[E]eve in God the Father
-We be - li[B]eve in Jesus Christ
-We be - li[C#m]eve in the Holy Spirit
-And He's gi[A]ven us new life
+We be - li[D]eve in God the Father
+We be - li[A]eve in Jesus Christ
+We be - li[Bm]eve in the Holy Spirit
+And He's gi[G]ven us new life
 
-We be - li[E]eve in the crucifixion
-We be - li[B]eve that He conquered death
-We be - li[C#m]eve in the resurrection
-And He's co[A]ming back
+We be - li[D]eve in the crucifixion
+We be - li[A]eve that He conquered death
+We be - li[Bm]eve in the resurrection
+And He's co[G]ming back
 {eoc}
 
 {c:Ending}
-He's coming back a - g[E]ain [B]
-He's coming back a - g[C#m]ain
-We be - li[A]eve we believe [E]
+He's coming back a - g[D]ain [A]
+He's coming back a - g[Bm]ain
+We be - li[G]eve we believe [D]

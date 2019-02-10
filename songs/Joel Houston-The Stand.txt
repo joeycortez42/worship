@@ -1,0 +1,82 @@
+{title:The Stand}
+{subtitle:Joel Houston}
+{original_key:A}
+{key:A}
+{tempo:77}
+{time:4/4}
+{as:10}
+
+{c:Intro}
+[A] [E] [B] [C#m]
+[A] [E] [B] [C#m]
+[A] [E] [B] [C#m]
+[A] [E] [B] [C#m]
+
+{c:Softly Deep}
+{soc}
+[A]  So I’ll [E]stand with [B]arms high and [C#m]heart abandoned
+[A]  In [E]awe of the [B]One who [C#m]gave it all
+[A]  I’ll [E]stand my [B]soul Lord to [C#m]You surrendered
+[A]All I [E]am is [B]Yours  [C#m]
+
+[A]  So I’ll [E]stand with [B]arms high and [C#m]heart abandoned
+[A]  In [E]awe of the [B]One who [C#m]gave it all
+[A]  I’ll [E]stand my [B]soul Lord to [C#m]You surrendered
+[A]All I [E]am is [B]Yours  [C#m]
+{eoc}
+
+{c:Higher Stronger}
+{soc}
+[A]  So I’ll [E]stand with [B]arms high and [C#m]heart abandoned
+[A]  In [E]awe of the [B]One who [C#m]gave it all
+[A]  I’ll [E]stand my [B]soul Lord to [C#m]You surrendered
+[A]All I [E]am is [B]Yours  [C#m]
+
+[A]  So I’ll [E]stand with [B]arms high and [C#m]heart abandoned
+[A]  In [E]awe of the [B]One who [C#m]gave it all
+[A]  I’ll [E]stand my [B]soul Lord to [C#m]You surrendered
+[A]All I [E]am is [B]Yours  [C#m]
+{eoc}
+
+{c:Heavy Drums}
+{soc}
+[A]  So I’ll [E]stand with [B]arms high and [C#m]heart abandoned
+[A]  In [E]awe of the [B]One who [C#m]gave it all
+[A]  I’ll [E]stand my [B]soul Lord to [C#m]You surrendered
+[A]All I [E]am is [B]Yours  [C#m]
+
+[A]  So I’ll [E]stand with [B]arms high and [C#m]heart abandoned
+[A]  In [E]awe of the [B]One who [C#m]gave it all
+[A]  I’ll [E]stand my [B]soul Lord to [C#m]You surrendered
+[A]All I [E]am is [B]Yours  [C#m]
+{eoc}
+
+{c:A cappella}
+{soc}
+[A]  So I’ll [E]stand with [B]arms high and [C#m]heart abandoned
+[A]  In [E]awe of the [B]One who [C#m]gave it all
+[A]  I’ll [E]stand my [B]soul Lord to [C#m]You surrendered
+[A]All I [E]am is [B]Yours  [C#m]
+
+[A]  So I’ll [E]stand with [B]arms high and [C#m]heart abandoned
+[A]  In [E]awe of the [B]One who [C#m]gave it all
+[A]  I’ll [E]stand my [B]soul Lord to [C#m]You surrendered
+[A]All I [E]am is [B]Yours  [C#m]
+{eoc}
+
+{soc}
+[A]  So I’ll [E]stand with [B]arms high and [C#m]heart abandoned
+[A]  In [E]awe of the [B]One who [C#m]gave it all
+[A]  I’ll [E]stand my [B]soul Lord to [C#m]You surrendered
+[A]All I [E]am is [B]Yours  [C#m]
+
+[A]  So I’ll [E]stand with [B]arms high and [C#m]heart abandoned
+[A]  In [E]awe of the [B]One who [C#m]gave it all
+[A]  I’ll [E]stand my [B]soul Lord to [C#m]You surrendered
+[A]All I [E]am is [B]Yours  [C#m]
+{eoc}
+
+{c:Ending}
+[A]All I [E]am is [B]Yours  [C#m]
+[A]All I [E]am is [B]Yours  [C#m]
+[A]All I [E]am is [B]Yours  [C#m]
