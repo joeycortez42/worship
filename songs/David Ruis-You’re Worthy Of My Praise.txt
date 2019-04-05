@@ -7,57 +7,57 @@
 {as:11.0}
 
 {c:Intro}
-[D]   You alone I [A]long to worship
-[G]   You alone are [Em7]worthy [A]of my [D]praise
+[G]   You alone I [D]long to worship
+[C]   You alone are [Am7]worthy [D]of my [G]praise
 
 #Verse 1
-[D]I will worship (I will worship)
-With [C]all of my heart (with all of my heart)
-[G]I will praise You (I will praise You)
-With all   [D]of   my    strength [Em7](all my [A]strength)
-[D]I will seek You (I will seek You)
-[C]All of my days (all of my days)
-[G]I will follow (I will follow)
-All   [D]of   Your    ways [Em7](all Your [A]ways)
+[G]I will worship (I will worship)
+With [F]all of my heart (with all of my heart)
+[C]I will praise You (I will praise You)
+With all   [G]of   my    strength [Am7](all my [D]strength)
+[G]I will seek You (I will seek You)
+[F]All of my days (all of my days)
+[C]I will follow (I will follow)
+Follow all [G]of   Your    ways [Am7](all Your [D]ways)
 
 {soc}
-[D]   I will give You [A]all my worship
-[G]   I will give You [Em7]all my [A]praise
-[D]   You alone I [A]long to worship
-[G]   You alone are [Em7]worthy [A]of my [D]praise
+[G]   I will give You [D]all my worship
+[C]   I will give You [Am7]all my [D]praise
+[G]   You alone I [D]long to worship
+[C]   You alone are [Am7]worthy [D]of my [G]praise
 {eoc}
 
-[D] [A] [G] [Em7] [A]
+[G] [D] [C] [Am7] [D]
 
 #Verse 2
-[D]I will bow down (I will bow down)
-And [C]hail You as King (and hail You as King)
-[G]I will serve You (I will serve You)
-Give You   [D]ev - 'ry -  thing [Em7](ev - 'ry - [A]thing)
-[D]I will lift up (I will lift up)
-My [C]eyes to Your throne (my eyes to Your throne)
-[G]I will trust You (I will trust You)
-Trust   [D]You  a -  lone [Em7](You a - [A]lone)
+[G]I will bow down (I will bow down)
+And [F]hail You as King (and hail You as King)
+[C]I will serve You (I will serve You)
+I'll give You [G]ev - 'ry -  thing [Am7](Give you ev'ry[D]thing)
+[G]I will lift up (I will lift up)
+My [F]eyes to Your throne (my eyes to Your throne)
+[C]I will trust You (I will trust You)
+Trust   [G]You  a -  lone [Am7](You a - [D]lone)
 
 {soc}
-[D]   I will give You [A]all my worship
-[G]   I will give You [Em7]all my [A]praise
-[D]   You alone I [A]long to worship
-[G]   You alone are [Em7]worthy [A]of my [D]praise
+[G]   I will give You [D]all my worship
+[C]   I will give You [Am7]all my [D]praise
+[G]   You alone I [D]long to worship
+[C]   You alone are [Am7]worthy [D]of my [G]praise
 
-[D] [A] [G] [Em7] [A]
+[G] [D] [C] [Am7] [D]
 
-[D]   I will give You [A]all my worship
-[G]   I will give You [Em7]all my [A]praise
-[D]   You alone I [A]long to worship
-[G]   You alone are [Em7]worthy [A]of my [D]praise
+[G]   I will give You [D]all my worship
+[C]   I will give You [Am7]all my [D]praise
+[G]   You alone I [D]long to worship
+[C]   You alone are [Am7]worthy [D]of my [G]praise
 {eoc}
 
 {c:Ending}
-[D]   I will give You [A]all my worship
-[G]   I will give You [Em7]all my [A]praise
-[D]   You alone I [A]long to worship
-[G]   You alone are [Em7]worthy [A]of my [D]praise [A]
-[G]   You alone are [Em7]worthy [A]of my [D]praise [A]
+[G]   I will give You [D]all my worship
+[C]   I will give You [Am7]all my [D]praise
+[G]   You alone I [D]long to worship
+[C]   You alone are [Am7]worthy [D]of my [G]praise
+[C]   You alone are [Am7]worthy [D]of my [G]praise
 {c:Retard}
-[G]   You alone are [Em7]worthy [A]of my [D]praise
+[Am7]worthy [D]of my [G]praise

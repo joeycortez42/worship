@@ -2,7 +2,7 @@
 {subtitle:David Ruis}
 {original_key:D}
 {key:D}
-{tempo:49}
+{tempo:56}
 {time:4/4}
 {as:10}
 

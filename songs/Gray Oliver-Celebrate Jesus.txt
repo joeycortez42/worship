@@ -1,0 +1,74 @@
+{title:Celebrate Jesus}
+{subtitle:Gray Oliver}
+{original_key:F}
+{key:D}
+{tempo:152}
+{time:4/4}
+{as:10}
+
+{c:Intro}
+[D] [G] [A] [D] [G] [A]
+
+#Verse
+[D]Cele[G]brate [A]Jesus cel[D]ebrate [G] [A] [D]
+[D]Cele[G]brate [A]Jesus cel[D]ebrate [A] [B]
+
+[D]Cele[G]brate [A]Jesus cel[D]ebrate [G] [A] [D]
+[D]Cele[G]brate [A]Jesus cel[D]ebrate
+
+{soc}
+[D]He is [A]risen He is [Bm]risen
+And He [A]lives forever-[Bm]more
+
+He is [A]risen He is [Bm]risen
+Come on and cel[A]ebrate
+the resur[G]rection of our [D]Lord [G] [A] [D]
+{eoc}
+
+#Verse
+[D]Cele[G]brate [A]Jesus cel[D]ebrate [G] [A] [D]
+[D]Cele[G]brate [A]Jesus cel[D]ebrate [A] [B]
+
+[D]Cele[G]brate [A]Jesus cel[D]ebrate [G] [A] [D]
+[D]Cele[G]brate [A]Jesus cel[D]ebrate
+
+{soc}
+[D]He is [A]risen He is [Bm]risen
+And He [A]lives forever-[Bm]more
+
+He is [A]risen He is [Bm]risen
+Come on and cel[A]ebrate
+the resur[G]rection of our [D]Lord [G] [A] [D]
+{eoc}
+
+#Verse
+[D]Cele[G]brate [A]Jesus cel[D]ebrate [G] [A] [D]
+[D]Cele[G]brate [A]Jesus cel[D]ebrate [A] [B]
+
+[D]Cele[G]brate [A]Jesus cel[D]ebrate [G] [A] [D]
+[D]Cele[G]brate [A]Jesus cel[D]ebrate
+
+{soc}
+[D]He is [A]risen He is [Bm]risen
+And He [A]lives forever-[Bm]more
+
+He is [A]risen He is [Bm]risen
+Come on and cel[A]ebrate
+Come on and cel[A]ebrate
+Come on and cel[A]ebrate
+the resur[G]rection of our [D]Lord
+{eoc}
+
+{soc}
+[D]He is [A]risen He is [Bm]risen
+And He [A]lives forever-[Bm]more
+
+He is [A]risen He is [Bm]risen
+Come on and cel[A]ebrate
+Come on and cel[A]ebrate
+Come on and cel[A]ebrate
+the resur[G]rection of our [D]Lord
+{eoc}
+
+{c:Ending}
+[G] [A] [D]
