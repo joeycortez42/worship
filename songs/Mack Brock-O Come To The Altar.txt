@@ -75,9 +75,9 @@ Sing alle-[C]luia Christ is risen [G]
 {eoc}
 
 [G] [Am] [Em] [C]
+[G] [Am] [Em] [C] [G]
 
 #Verse 3
 [G]  Bear your [C]cross as you wait for the [G]crown
 Tell the [F]world of the t[C]reasure you've [G]found
-Jesus is [C]calling
-[G]
+Jesus is [C]calling [G]

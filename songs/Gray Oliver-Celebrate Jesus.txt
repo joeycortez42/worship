@@ -11,48 +11,64 @@
 
 #Verse
 [D]Cele[G]brate [A]Jesus cel[D]ebrate [G] [A] [D]
-[D]Cele[G]brate [A]Jesus cel[D]ebrate [A] [B]
+[D]Cele[G]brate [A]Jesus cel[D]ebrate [G] [A] [D]
 
 [D]Cele[G]brate [A]Jesus cel[D]ebrate [G] [A] [D]
 [D]Cele[G]brate [A]Jesus cel[D]ebrate
 
 {soc}
-[D]He is [A]risen He is [Bm]risen
+[D]He is [A]risen     He is [Bm]risen
 And He [A]lives forever-[Bm]more
 
-He is [A]risen He is [Bm]risen
+He is [A]risen     He is [Bm]risen
+Come on and cel[A]ebrate
+the resur[G]rection of our [D]Lord [G] [A] [D]
+{eoc}
+
+#Spanish
+[D]Cele[G]brad [A]a Cristo cel[D]ebrad [G] [A] [D]
+[D]Cele[G]brad [A]a Cristo cel[D]ebrad [G] [A] [D]
+
+[D]Cele[G]brad [A]a Cristo cel[D]ebrad [G] [A] [D]
+[D]Cele[G]brad [A]a Cristo cel[D]ebrad
+
+{soc}
+[D]El [A]resucitó     El [Bm]resucitó
+Y por [A]siempre El [Bm]vivirá
+
+El [A]resucitó     El [Bm]resucitó
+Vamos y [A]celebrad
+Que el  Se[G]ñor resu[D]citó [G] [A] [D]
+{eoc}
+
+#Verse
+[D]Cele[G]brate [A]Jesus cel[D]ebrate [G] [A] [D]
+[D]Cele[G]brate [A]Jesus cel[D]ebrate [G] [A] [D]
+
+[D]Cele[G]brate [A]Jesus cel[D]ebrate [G] [A] [D]
+[D]Cele[G]brate [A]Jesus cel[D]ebrate
+
+{soc}
+[D]He is [A]risen     He is [Bm]risen
+And He [A]lives forever-[Bm]more
+
+He is [A]risen     He is [Bm]risen
 Come on and cel[A]ebrate
 the resur[G]rection of our [D]Lord [G] [A] [D]
 {eoc}
 
 #Verse
 [D]Cele[G]brate [A]Jesus cel[D]ebrate [G] [A] [D]
-[D]Cele[G]brate [A]Jesus cel[D]ebrate [A] [B]
+[D]Cele[G]brate [A]Jesus cel[D]ebrate [G] [A] [D]
 
 [D]Cele[G]brate [A]Jesus cel[D]ebrate [G] [A] [D]
 [D]Cele[G]brate [A]Jesus cel[D]ebrate
 
 {soc}
-[D]He is [A]risen He is [Bm]risen
+[D]He is [A]risen     He is [Bm]risen
 And He [A]lives forever-[Bm]more
 
-He is [A]risen He is [Bm]risen
-Come on and cel[A]ebrate
-the resur[G]rection of our [D]Lord [G] [A] [D]
-{eoc}
-
-#Verse
-[D]Cele[G]brate [A]Jesus cel[D]ebrate [G] [A] [D]
-[D]Cele[G]brate [A]Jesus cel[D]ebrate [A] [B]
-
-[D]Cele[G]brate [A]Jesus cel[D]ebrate [G] [A] [D]
-[D]Cele[G]brate [A]Jesus cel[D]ebrate
-
-{soc}
-[D]He is [A]risen He is [Bm]risen
-And He [A]lives forever-[Bm]more
-
-He is [A]risen He is [Bm]risen
+He is [A]risen     He is [Bm]risen
 Come on and cel[A]ebrate
 Come on and cel[A]ebrate
 Come on and cel[A]ebrate
@@ -60,10 +76,10 @@ the resur[G]rection of our [D]Lord
 {eoc}
 
 {soc}
-[D]He is [A]risen He is [Bm]risen
+[D]He is [A]risen     He is [Bm]risen
 And He [A]lives forever-[Bm]more
 
-He is [A]risen He is [Bm]risen
+He is [A]risen     He is [Bm]risen
 Come on and cel[A]ebrate
 Come on and cel[A]ebrate
 Come on and cel[A]ebrate

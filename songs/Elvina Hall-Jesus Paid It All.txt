@@ -4,76 +4,84 @@
 {key:A}
 {tempo:80}
 {time:3/4}
-{as:10}
+{as:10.0}
 
 {c:Intro}
-He [A]washed it [E]white as [A]snow
+[G/B] [C/B] [A/B] [C/B]
 
 #Verse 1
-[A]I hear the Saviour say
-Thy [E]strength in - deed is [A]small
-[A]Child of weak - ness watch and pray
-Find in [E]Me thine all in [A]all
+[G]I hear the Saviour say
+Thy [D]strength in - deed is [G]small
+[Em]Child of weak - ness watch and [C]Pray
+Find in [G]Me thine [D]all in [G]all
 
 {soc}
-[A]Je - sus paid it all
-[A]All to Him I [E]owe
-[A]Sin had left a crim - son [D]stain
-He [A]washed it [E]white as [A]snow
+[G]Je - sus paid it [Em]all
+[G]All to Him I [D]owe
+[G]Sin had left a [C]crim - son stain
+He [G]washed it [D]white as [G]snow
 {eoc}
+
+[G][C] [G][C] [G][C] [G][C]
 
 #Verse 2
-[A]Lord now in - deed I find
-Thy [E]power and Thine a - [A]lone
-[A]Can change the leper's spots
-And [E]melt the heart of [A]stone
+[G]Lord now in - deed I find
+Thy [D]power and Thine a - [G]lone
+[Em]Can change the leper's [C]spots
+And [G]melt the [D]heart of [G]stone
 
 {soc}
-[A]Je - sus paid it all
-[A]All to Him I [E]owe
-[A]Sin had left a crim - son [D]stain
-He [A]washed it [E]white as [A]snow
+[G]Je - sus paid it [Em]all
+[G]All to Him I [D]owe
+[G]Sin had left a [C]crim - son stain
+He [G]washed it [D]white as [G]snow
 {eoc}
-#
-#Verse 3
-#[A]For noth - ing good have I
-#Where - [E]by Thy grace to [A]claim
-#[A]I'll wash my garments white
-#In the [E]blood of Cal - vary's [A]Lamb
-#{soc}
-#[A]Je - sus paid it all
-#[A]All to Him I [E]owe
-#[A]Sin had left a crim - son [D]stain
-#He [A]washed it [E]white as [A]snow
-#{eoc}
+
+[G][C] [G][C] [G][C] [G][C]
 
 #Verse 4
-[A]And when be - fore the throne
-I [E]stand in Him com - [A]plete
-[A]Jesus died my soul to save
-My [E]lips shall still re - [A]peat
+[G]And when be - fore the throne
+I [D]stand in Him com - [G]plete
+[Em]Jesus died my soul to [C]save
+My [G]lips shall [D]still re - [G]peat
 
 {soc}
-[A]Je - sus paid it all
-[A]All to Him I [E]owe
-[A]Sin had left a crim - son [D]stain
-He [A]washed it [E]white as [A]snow
-
-[A]Sin had left a crim - son [D]stain
-He [A]washed it [E]white as [A]snow
-
-He [A]washed it [E]white as [A]snow
+[G]Je - sus paid it [Em]all
+[G]All to Him I [D]owe
+[G]Sin had left a [C]crim - son stain
+He [G]washed it [D]white as [G]snow
 {eoc}
-#
-# {c:Ending}
-# Oh [A]praise the One Who paid my debt
-# And [Bm]raised this life up [D]from the dead
-#
-# Oh [A]praise the One Who paid my debt
-# And [Bm]raised this life up [D]from the dead
-#
-# Oh [A]praise the One Who paid my debt
-# And [Bm]raised this life up [D]from the dead
-#
-# Oh [A]praise the One Who paid my debt
-# And [Bm]raised this life up [D]from the dead
+
+[G]Sin had left a [C]crim - son stain
+He [G]washed it [D]white as [G]snow
+He [G]washed it [D]white as [G]snow
+He [G]washed it [D]white as [G]snow
+
+[G]
+
+{sob}
+Oh [G]praise the One Who paid my debt
+And [Am]raised this life up [C]from the dead
+
+Oh [G]praise the One Who paid my debt
+And [Am]raised this life up [C]from the dead
+
+
+Oh [G]praise the One Who paid my debt
+And [Am]raised this life up [C]from the dead
+
+Oh [G]praise the One Who paid my debt
+And [Am]raised this life up [C]from the dead
+
+
+Oh [G]praise the One Who paid my debt
+And [Am]raised this life up [C]from the dead
+
+Oh [G]praise the One Who paid my debt
+And [Am]raised this life up [C]from the dead
+{eob}
+
+{c:Ending}
+[G]Jesus [Am]Jesus [C]Jesus [G]
+
+[G] [Am] [C] [G]

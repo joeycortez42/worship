@@ -1,54 +1,54 @@
 {title:God's Not Dead}
 {subtitle:Daniel Bashta}
 {original_key:B}
-{key:G}
+{key:A}
 {tempo:128}
 {time:4/4}
 {as:10}
 
 {c:Intro}
-
-|------------------------------------------|
-|-/3-3-3---------3-3-3---------------------|
-|--------4-4-4-----------------------------|
-|----------------------4-4-4---5-5-5-5-5-5-|
-|------------------------------------------|
-|------------------------------------------|
-
+#|------------------------------------------|
+#|-/3-3-3---------3-3-3---------------------|
+#|--------4-4-4-----------------------------|
+#|----------------------4-4-4---5-5-5-5-5-5-|
+#|------------------------------------------|
+#|------------------------------------------|
 [F#m] [E] [A] [A]
 [F#m] [E] [A] [A]
 [F#m] [E] [A] [A]
 
 [F#m] Let love ex-p[E]lode and bring the [A]dead to life
-[Bm] A love so [A]bold to see a revo-[D]lution somehow
+[Bm] A love so [F#m]bold to see a revo-[D]lution somehow
 [F#m] [E] [A] [A]
 
 [F#m] Let love ex-p[E]lode and bring the [A]dead to life
-[Bm] A love so [A]bold to see a revo-[D]lution somehow
+[Bm] A love so [F#m]bold to see a revo-[D]lution somehow
 
 [E] Now I'm lost in your [F#m]freedom
 [E] and this world I'll [D]overcome
 
 {soc}
-My [E]God is not dead He's surely alive
+My [E]God's not dead He's surely alive
 He's [F#m]living on the inside roaring like a lion
-[E]God is not dead He's surely alive
-He's [F#m]living on the inside roaring like a [E]lion
+[E]God's not dead He's surely alive
+He's [F#m]living on the inside [E]roaring like a lion
 He's [F#m]roaring He's [E]roaring He's [A]roaring like a lion [A]
 {eoc}
 
-[F#m] Let hope a-[E]rise and make the [A]darkness hide
-[Bm] My faith is [A]dead I need a resur-[D]rection somehow
+[A]
+
+Let hope a-rise and make the [A]darkness hide
+[Bm] My faith is [F#m]dead I need a resur-[D]rection somehow
 
 [E] Now I'm lost in your [F#m]freedom
 [E] and this world I'll [D]overcome
 
 {soc}
-My [E]God is not dead He's surely alive
+My [E]God's not dead He's surely alive
 He's [F#m]living on the inside roaring like a lion
-[E]God is not dead He's surely alive
+[E]God's not dead He's surely alive
 He's [F#m]living on the inside roaring like a [E]lion
-He's [F#m]roaring He's [E]roaring He's [A]roaring like a lion [A]
+He's roaring He's [E]roaring He's [A]roaring like a lion [A]
 {eoc}
 He's [F#m]roaring He's [E]roaring
 
@@ -62,24 +62,25 @@ Come shake the [F#m]ground with the sound of [Bm7]re-vival
 Let heaven [A]roar and fire [E]fall
 Come shake the [F#m]ground with the sound of [Bm7]re-vival
 
-My [E]God is not dead He's surely alive
+My [E]God's not dead He's surely alive
 He's [F#m]living on the inside roaring like a lion
-[E]God is not dead He's surely alive
+[E]God's not dead He's surely alive
 He's [F#m]living on the inside roaring like a [E]lion
 
-[E]God is not dead He's surely alive
+[E]God's not dead He's surely alive
 He's [F#m]living on the inside roaring like a lion
-[E]God is not dead He's surely alive
-He's [F#m]living on the inside roaring like a [E]lion
+[E]God's not dead He's surely alive
+He's [F#m]living on the inside roaring like a lion
 
 He's [F#m]roaring He's [E]roaring He's [A]roaring like a lion [A]
 He's [F#m]roaring He's [E]roaring He's [A]roaring like a lion [A]
 
-|------------------------------------------|
-|-/3-------3-------------------------------|
-|-----4------------------------------------|
-|-------------4----5-----------------------|
-|------------------------------------------|
-|------------------------------------------|
+#|------------------------------------------|
+#|-/3-------3-------------------------------|
+#|-----4------------------------------------|
+#|-------------4----5-----------------------|
+#|------------------------------------------|
+#|------------------------------------------|
 
-[F#m] [E] [A]
+[F#m] [E] [A] [A]
+[F#m] [E] [A] [A]

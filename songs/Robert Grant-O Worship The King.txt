@@ -1,60 +1,57 @@
 {title:O Worship The King}
 {subtitle:Robert Grant}
 {original_key:G}
-{key:D}
+{key:G}
 {tempo:120}
-{time:4/4}
+{time:6/8}
 {as:11.0}
 
 {c:Intro}
-Pa - [D]vil - ioned in splendor [G]and gird - ed [A]with [D]praise
+[G] [C] [Em] [D]
+[G] [C] [Em] [D]
 
 #Verse 1
-O [D]wor - ship the King all [G]glo - rious a - [A]bove
-And [D]grate - ful - ly sing [G]His wonder[A]ful [D]love
-[A]Our Shield and De - fender the Ancient of Days
-Pa - [D]vil - ioned in splendor [G]and gird - ed [A]with [D]praise
+O [G]wor - ship the King all [C]glo - rious a - [D]bove
+And [G]grate - ful - ly sing [C]His wonder[D]ful [G]love
+[D]Our Shield and De - fender the Ancient of Days
+Pa - [Em]vil - ioned in [C]splendor and [Am]gird - ed [D]with [G]praise [C] [Em] [D]
 
 #Verse 2
-O [D]tell of His might O [G]sing of His [A]grace
-Whose [D]robe is the light [G]whose can - o - [A]py [D]space
-[A]His chariots of wrath the deep thunder - clouds form
-And [D]dark is His path on [G]the wings of [A]the [D]storm
+O [G]tell of His might O [C]sing of His [D]grace
+Whose [G]robe is the light [C]whose can - o - [D]py [G]space
+[D]His chariots of wrath the deep thunder - clouds form
+And [Em]dark is His [C]path on the [Am]wings of [D]the [G]storm [C] [Em] [D]
 
 {soc}
-O [D]Worship the [G]Lord God On [A]High
-[D]Praise Him all [G]Creatures Draw [A]Nigh
-[D]Sing ‘Round [G]His Glorious [A]Throne
-[Bm]Our True Adoration [A]Forever Make [D]Known
+O [G]Worshi[C]p the [Em]Lord God On [D]High
+[G]Praise [C]Him all [Em]Creatures Draw [D]Nigh
+[G]Sing [C]‘Round His [Em]Glorious [D]Throne
+[B]Our True [C]Adoration--
+Forev[D]er Make [G]Known [C] [Em] [D]
+[G] [C] [Em] [D]
 {eoc}
-#
-#Verse 3
-#Thy [D]boun - ti - ful care what [G]tongue can re - [A]cite
-#It [D]breathes in the air [G]it shines in [A]the [D]light
-#[A]It streams from the hills it de - scends to the plain
-#And [D]sweet - ly dis - tills in [G]the dew and [A]the [D]rain
 
 #Verse 4
-Frail [D]chil - dren of dust and [G]fee - ble as [A]frail
-In [D]Thee do we trust [G]nor find Thee [A]to [D]fail
-[A]Thy mercies how tender how firm to the end
-Our [D]Mak - er De - fender [G]Re - deem - er [A]and [D]Friend
+Frail [G]chil - dren of dust and [C]fee - ble as [D]frail
+In [G]Thee do we trust [C]nor find Thee [D]to [G]fail
+[D]Thy mercies how tender how firm to the end
+Our [Em]Mak - er De - [C]fender Re - [Am]deem - er [D]and [G]Friend [C] [Em] [D]
 
 {soc}
-O [D]Worship the [G]Lord God On [A]High
-[D]Praise Him all [G]Creatures Draw [A]Nigh
-[D]Sing ‘Round [G]His Glorious [A]Throne
-[Bm]Our True Adoration [A]Forever Make [D]Known
+O [G]Worshi[C]p the [Em]Lord God On [D]High
+[G]Praise [C]Him all [Em]Creatures Draw [D]Nigh
+[G]Sing [C]‘Round His [Em]Glorious [D]Throne
+[B]Our True [C]Adoration--
+Forev[D]er Make [G]Known [C] [Em] [D]
 
-O [D]Worship the [G]Lord God On [A]High
-[D]Praise Him all [G]Creatures Draw [A]Nigh
-[D]Sing ‘Round [G]His Glorious [A]Throne
-[Bm]Our True Adoration
+O [G]Worshi[C]p the [Em]Lord God On [D]High
+[G]Praise [C]Him all [Em]Creatures Draw [D]Nigh
+[G]Sing [C]‘Round His [Em]Glorious [D]Throne
+[B]Our True [C]Adoration
 {eoc}
 
 {c:Ending}
-[Bm]Our True Adoration
-[Bm]Our True Adoration
-[A]Forever Make [D]Known
-
-[G] [A] [D]
+[B]Our True [C]Adoration
+[B]Our True [C]Adoration
+Forev[D]er Make [G]Known [C] [Em] [D]
+[G] [C] [Em] [D] [G]
