@@ -14,80 +14,80 @@
 |--------------------------------------|
 |--------------------------------------|
 
-[C]     [C]     [Am]     [Am]     [F]     [G]
+[D]     [D]     [Bm]     [Bm]     [G]     [A]
 
 #Verse 1
-[C]   My hope is built on nothing less
-[F]   Than Jesus’ blood and [G]righteousness
-[Am]  I dare not trust the [Am]sweetest frame
-[F]   But wholly [G]trust in Je - [C]  sus’ Name
+[D]   My hope is built on nothing less
+[G]   Than Jesus’ blood and [A]righteousness
+[Bm]  I dare not trust the [Bm]sweetest frame
+[G]   But wholly [A]trust in Je - [D]  sus’ Name
 
 #Verse 1
-[C]   My hope is built on nothing less
-[F]   Than Jesus’ blood and [G]righteousness
-[Am]  I dare not trust the [Am]sweetest frame
-[F]   But wholly [G]trust in Je - [C]  sus’ Name
+[D]   My hope is built on nothing less
+[G]   Than Jesus’ blood and [A]righteousness
+[Bm]  I dare not trust the [Bm]sweetest frame
+[G]   But wholly [A]trust in Je - [D]  sus’ Name
 
 {soc}
-[C]Christ a - [F]lone [Am]Corner - [G]stone
-[C]Weak made [F]strong in the [Am]Saviour’s [G]love
-[C]Through the [F]storm [Am]He is [G]Lord
-Lord of [C]all
+[D]Christ a - [G]lone [Bm]Corner - [A]stone
+[D]Weak made [G]strong in the [Bm]Saviour’s [A]love
+[D]Through the [G]storm [Bm]He is [A]Lord
+Lord of [D]all
 {eoc}
 
-[C]     [C]
+[D]     [D]
 
 #Verse 2
-[C]  When darkness seems to hide His face
-[F]  I rest on His un - [G]changing grace
-[Am]  In ev’ry high and [Am]stormy gale
-[F]  My anchor [G]holds within [C]  the veil
+[D]  When darkness seems to hide His face
+[G]  I rest on His un - [A]changing grace
+[Bm]  In ev’ry high and [Bm]stormy gale
+[G]  My anchor [A]holds within [D]  the veil
 {c:Higher}
-[F]  My anchor [G]holds within [C]  the veil
+[G]  My anchor [A]holds within [D]  the veil
 
 {soc}
-[C]Christ a - [F]lone [Am]Corner - [G]stone
-[C]Weak made [F]strong in the [Am]Saviour’s [G]love
-[C]Through the [F]storm [Am]He is [G]Lord
-Lord of [C]all      [C]
-He is [Am]Lord     [Am]     Lord of [F]all--
+[D]Christ a - [G]lone [Bm]Corner - [A]stone
+[D]Weak made [G]strong in the [Bm]Saviour’s [A]love
+[D]Through the [G]storm [Bm]He is [A]Lord
+Lord of [D]all      [D]
+He is [Bm]Lord     [Bm]     Lord of [G]all--
 
-[C]Christ a - [F]lone [Am]Corner - [G]stone
-[C]Weak made [F]strong in the [Am]Saviour’s [G]love
-[C]Through the [F]storm [Am]He is [G]Lord
-Lord of [C]all
+[D]Christ a - [G]lone [Bm]Corner - [A]stone
+[D]Weak made [G]strong in the [Bm]Saviour’s [A]love
+[D]Through the [G]storm [Bm]He is [A]Lord
+Lord of [D]all
 
-[C]Christ a - [F]lone [Am]Corner - [G]stone
-[C]Weak made [F]strong in the [Am]Saviour’s [G]love
-[C]Through the [F]storm [Am]He is [G]Lord
-Lord of [C]all
+[D]Christ a - [G]lone [Bm]Corner - [A]stone
+[D]Weak made [G]strong in the [Bm]Saviour’s [A]love
+[D]Through the [G]storm [Bm]He is [A]Lord
+Lord of [D]all
 {eoc}
 
-[C]     [C]
+[D]     [D]
 
 #Verse 3
 {c:Lower}
-[C]   When He shall come with trumpet sound
-[F]   Oh may I then in [G]Him be found
-[Am]  Dressed in His righteous - [Am]ness alone
-[F]   Faultless [G]stand before [C]  the throne
+[D]   When He shall come with trumpet sound
+[G]   Oh may I then in [A]Him be found
+[Bm]  Dressed in His righteous - [Bm]ness alone
+[G]   Faultless [A]stand before [D]  the throne
 
-[F]   [Am]   [G]     [F]   [Am]   [G]
-[F]   [Am]   [G]     [F]   [Am]   [G]
-[C]
+[G]   [Bm]   [A]     [G]   [Bm]   [A]
+[G]   [Bm]   [A]     [G]   [Bm]   [A]
+[D]
 
 {soc}
-[C]Christ a - [F]lone [Am]Corner - [G]stone
-[C]Weak made [F]strong in the [Am]Saviour’s [G]love
-[C]Through the [F]storm [Am]He is [G]Lord
-Lord of [C]all
+[D]Christ a - [G]lone [Bm]Corner - [A]stone
+[D]Weak made [G]strong in the [Bm]Saviour’s [A]love
+[D]Through the [G]storm [Bm]He is [A]Lord
+Lord of [D]all
 
-[C]Christ a - [F]lone [Am]Corner - [G]stone
-[C]Weak made [F]strong in the [Am]Saviour’s [G]love
-[C]Through the [F]storm [Am]He is [G]Lord
-Lord of [C]all
+[D]Christ a - [G]lone [Bm]Corner - [A]stone
+[D]Weak made [G]strong in the [Bm]Saviour’s [A]love
+[D]Through the [G]storm [Bm]He is [A]Lord
 {eoc}
 
 {c:Ending}
-[C]     [C]
-Lord of [Am]all--     [Am]
+Lord of [D]all      [D]
+He is [Bm]Lord     [Bm]     Lord of [G]all--
+Lord of [D]all

@@ -4,79 +4,64 @@
 {key:D}
 {tempo:130}
 {time:4/4}
-{as:11.7}
+{as:10.5}
 
 {c:Intro}
-[D]
+[D] [A] [Bm] [G]
 
 {soc}
-[D] You lived Y[A]ou died
-[Bm] You said in t[G]hree days You would rise
-[D] You [A]did You're a - [Bm]live  [G]
-[D] You rule [A] You reign
-[Bm]You said You're c[G]oming back again
-[D] I know [A] that You will
-And[Bm] all the earth will [G]sing Your praises
-[D] [A] [Bm] [G]
-And[Bm] all the earth will [G]sing Your praises
+[D] You lived Y[A]ou died [Bm] You said in t[G]hree days You would rise
+[D] You did [A]You're a - [Bm]live  [G]
+[D] You rule [A] You reign [Bm]You said You're c[G]oming back again
+[D] I know [A]  You will [Bm] all the earth will [G]sing Your praises
+[D]. [A]. [Bm].. [G]. all the [E]earth will [G]sing Your praises
 {eoc}
-
-[D] [A] [Bm] [G]
+[D] [A] [Bm] [G] [E] [G] [D]
 
 #Verse
 [D] You took [A] You take our [Bm]sins away O God
 [D] You give [A] You gave Your [Bm]life away for us
-[G] You came down You saved us th[Bm]rough the cross
+[G] You came down You saved us th[A]rough [Bm]the cross
 [G] Our hearts are changed because of [A]Your great love
 
 {soc}
-[D] You lived Y[A]ou died
-[Bm] You said in t[G]hree days You would rise
-[D] You [A]did You're a - [Bm]live  [G]
-[D] You rule [A] You reign
-[Bm]You said You're c[G]oming back again
-[D] I know [A] that You will
-And[Bm] all the earth will [G]sing Your praises
-[D] [A] [Bm] [G]
-And[Bm] all the earth will [G]sing Your praises
+[D] You lived Y[A]ou died [Bm] You said in t[G]hree days You would rise
+[D] You did [A]You're a - [Bm]live  [G]
+[D] You rule [A] You reign [Bm]You said You're c[G]oming back again
+[D] I know [A]  You will [Bm] all the earth will [G]sing Your praises
+[D]. [A]. [Bm].. [G]. all the [E]earth will [G]sing Your praises
 {eoc}
-
-[D] [A] [Bm] [G]
+[D] [A] [Bm] [G] [E] [G] [D]
 
 #Verse
 [D] You took [A] You take our [Bm]sins away O God
 [D] You give [A] You gave Your [Bm]life away for us
-[G] You came down You saved us th[Bm]rough the cross
-[G] Our hearts are changed because of [A]Your great love
+[G] You came down You saved us th[A]rough [Bm]the cross
+[G] Our hearts are changed because of [A]Your great[Asus] love
 
 {soc}
-[D] You lived Y[A]ou died
-[Bm] You said in t[G]hree days You would rise
-[D] You [A]did You're a - [Bm]live  [G]
-[D] You rule [A] You reign
-[Bm]You said You're c[G]oming back again
-[D] I know [A] that You will
-And[Bm] all the earth will [G]sing Your praises
+[D] You lived Y[A]ou died [Bm] You said in t[G]hree days You would rise
+[D] You did [A]You're a - [Bm]live  [G]
+[D] You rule [A] You reign [Bm]You said You're c[G]oming back again
+[D] I know [A]  You will [Bm] all the earth will [G]sing Your praises
 {eoc}
-
-[D] [A] [Bm] [G]
+[D] [A] [Bm] [G] [Bm] [E] [G]
+[D] [A] [Bm] [G] [Bm] [E] [G]
 
 {soc}
-[D] You lived Y[A]ou died
-[Bm] You said in t[G]hree days You would rise
-[D] You [A]did You're a - [Bm]live  [G]
-[D] You rule [A] You reign
-[Bm]You said You're c[G]oming back again
-[D] I know [A] that You will
-And[Bm] all the earth will [G]sing Your praises
+[D] You lived Y[A]ou died [Bm] You said in t[G]hree days You would rise
+[D] You did [A]You're a - [Bm]live  [G]
+[D] You rule [A] You reign [Bm]You said You're c[G]oming back again
+[D] I know [A]  You will  [Bm]all the earth will [G]sing Your praises
+
+[D] You lived Y[A]ou died [Bm] You said in t[G]hree days You would rise
+[D] You did [A]You're a - [Bm]live  [G]
+[D] You rule [A] You reign [Bm]You said You're c[G]oming back again
+[D] I know [A]  You will  [Bm]all the earth will [G]sing Your praises
 {eoc}
 
 {c:Ending}
-[D] [A] [Bm] [G]
-[Bm] All the earth will [G]sing Your praises
-[D] [A] [Bm] [G]
-[Bm] All the earth will [G]sing Your praises
-[D] [A] [Bm] [G]
-[Bm] All the earth will [G]sing Your praises
-[D] [A] [Bm] [G]
-[Bm] All the earth will [G]sing Your prai - ses  [D]
+[D]. [A]. [Bm].. [G].  All the [E]earth will [G]sing Your praises
+[D]. [A]. [Bm].. [G].  All the [E]earth will [G]sing Your praises
+[D]. [A]. [Bm].. [G].  All the [E]earth will [G]sing Your praises
+[D]. [A]. [Bm].. [G].  All the [E]earth will [G]sing Your prai - ses  [D]

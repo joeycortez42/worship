@@ -4,10 +4,10 @@
 {key:A}
 {tempo:140}
 {time:4/4}
-{as:14.6}
+{as:14.0}
 
 {c:Intro}
-[F#m]
+[F#m] [D] [F#m] [D] [F#m] [D] [F#m] [D]
 
 #Verse 1
 [F#m]   Don't wanna stand here and shout Your praise
@@ -17,8 +17,7 @@
 
 {c:Pre-Chorus}
 'Cause [F#m]all I want in this [D]lifetime is [F#m]You   [D]
-And [F#m]all I want in this [D]whole world is
-[F#m]You  You  You  [Bm7][D]
+And [F#m]all I want in this [D]whole world is [F#m]You  You  You  [Bm7][D]
 
 {soc}
 [A]     Tell the world that Je[E]sus lives
@@ -26,6 +25,8 @@ And [F#m]all I want in this [D]whole world is
 [A]     Tell the world that He d[E]ied for them
 [F#m]     Tell the world that He li[D]ves again
 {eoc}
+
+[F#m] [D] [F#m] [D] [F#m] [D] [F#m] [D]
 
 #Verse 2
 [F#m]   No longer I but Christ in me
@@ -35,8 +36,7 @@ And [F#m]all I want in this [D]whole world is
 
 {c:Pre-Chorus}
 'Cause [F#m]all I want in this [D]lifetime is [F#m]You   [D]
-And [F#m]all I want in this [D]whole world is
-[F#m]You  You  You  [Bm7][D]
+And [F#m]all I want in this [D]whole world is [F#m]You  You  You  [Bm7][D]
 
 {soc}
 [A]     Tell the world that Je[E]sus lives
@@ -50,15 +50,16 @@ And [F#m]all I want in this [D]whole world is
 [F#m]     Tell the world that He li[D]ves again
 {eoc}
 
+{c:A cappella with clapping 2 measures}
 {sob}
-Come [A]on come on
-We'll [E]tell the world about [F#m]You   [D]
-Come [A]on come on
-We'll [E]tell the world about [F#m]You   [D]
-Come [A]on come on
-We'll [E]tell the world about [F#m]You   [D]
-Come [A]on come on
-We'll [E]tell the world about [F#m]You   [D]
+Come [A]on come on We'll [Bm]tell the world about [F#m]You   [D]
+Come [A]on come on We'll [Bm]tell the world about [F#m]You   [D]
+{c:Bass enters}
+Come [A]on come on We'll [Bm]tell the world about [F#m]You   [D]
+Come [A]on come on We'll [Bm]tell the world about [F#m]You   [D]
+{c:Full band}
+Come [A]on come on We'll [Bm]tell the world about [F#m]You   [D]
+Come [A]on come on We'll [Bm]tell the world about [F#m]You   [D]
 {eob}
 
 {soc}
@@ -74,19 +75,19 @@ We'll [E]tell the world about [F#m]You   [D]
 {eoc}
 
 {sob}
-Come [A]on come on
-We'll [E]tell the world about [F#m]You
+Come [A]on come on We'll [Bm]tell the world about [F#m]You
 (Tell the world that [D] tell the world)
 
-Come [A]on come on
-We'll [E]tell the world about [F#m]You
+Come [A]on come on We'll [Bm]tell the world about [F#m]You
 (Tell the world that [D] tell the world)
 
-Come [A]on come on
-We'll [E]tell the world about [F#m]You
+Come [A]on come on We'll [E]tell the world about [F#m]You
 (Tell the world that [D] tell the world)
 
-Come [A]on come on
-We'll [E]tell the world about [F#m]You
+Come [A]on come on We'll [E]tell the world about [F#m]You
 Tell the world that [D] tell the about [A]you
 {eob}
+
+{c:Full band}
+Come [A]on come on We'll [E]tell the world about [F#m]You
+Tell the world [D]tell the about [A]you

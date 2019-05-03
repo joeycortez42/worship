@@ -7,57 +7,63 @@
 {as:9.0}
 
 {c:Intro}
-[G]
+[D] [G] [D] [A]
+[D] [G] [D] [A]
 
 #Verse
-[G]  I'm for - gi[C]ven [G]be - cause You were for - s[D]aken
-[G]  I'm ac - [C]cepted [G]You were con - de[D]mned
-[G]  I'm a - [C]live and well [G]Your Spirit is with - [D]in me
-Be - c[C]ause You di[D]ed and rose a - g[G]ain
+[D/F#]  I'm for - g[G]iven be - c[Asus]ause You were fo[A]r - saken
+[D/F#]  I'm ac - ce[G]pted [Asus]You were con - demne[A]d
+[D/F#]  I'm a - liv[G]e and well Your s[Asus]pirit is with - in[A] me
+Be - c[G]ause You die[A]d and rose a - gain[D]
 
 #Verse
-[G]  I'm for - gi[C]ven [G]be - cause You were for - s[D]aken
-[G]  I'm ac - [C]cepted [G]You were con - de[D]mned
-[G]  I'm a - [C]live and well [G]Your Spirit is with - [D]in me
-Be - c[C]ause You di[D]ed and rose a - g[G]ain
+[D/F#]  I'm for - g[G]iven be - c[Asus]ause You were fo[A]r - saken
+[D/F#]  I'm ac - ce[G]pted [Asus]You were con - demne[A]d
+[D/F#]  I'm a - liv[G]e and well Your s[Asus]pirit is with - in[A] me
+Be - c[G]ause You die[A]d and rose a - gain[D]
 
 {soc}
-[G] Amazing love h[C]ow can it be
-[G] That You my King would die for [D]me
-[G] Amazing love [C]I know it's true
-[G] It's my joy to honor [D]You
-[D] In all [C]I do[D] I honor Yo[G]u
+[D] Amazing love how[G] can it be
+[D] That You my King would die for [Asus]me  [A]
+[D] Amazing love I[G] know it's true
+[D] It's my joy to honor [Asus]You [A]
+In all I[G] do[A] I honor Yo[D]u
 {eoc}
 
 #Verse
-[G]  I'm for - gi[C]ven [G]be - cause You were for - s[D]aken
-[G]  I'm ac - [C]cepted [G]You were con - de[D]mned
-[G]  I'm a - [C]live and well [G]Your Spirit is with - [D]in me
-Be - c[C]ause You di[D]ed and rose a - g[G]ain
+[D/F#]  I'm for - g[G]iven be - c[Asus]ause You were fo[A]r - saken
+[D/F#]  I'm ac - ce[G]pted [Asus]You were con - demne[A]d
+[D/F#]  I'm a - liv[G]e and well Your s[Asus]pirit is with - in[A] me
+Be - c[G]ause You die[A]d and rose a - gain[D]
 
 {soc}
-[G] Amazing love h[C]ow can it be
-[G] That You my King would die for [D]me
-[G] Amazing love [C]I know it's true
-[G] It's my joy to honor [D]You
-[D] In all [C]I do[D] I honor Yo[G]u
+[D] Amazing love how[G] can it be
+[D] That You my King would die for [Asus]me  [A]
+[D] Amazing love I[G] know it's true
+[D] It's my joy to honor [Asus]You [A]
+In all I[G] do[A] I honor Yo[D]u
+In all [G]I do[A] I honor Yo[D]u
 {eoc}
 
 {sob}
-Y[G]ou are my King
-Y[G]ou are my King
-J[G]esus You are my King
-J[G]esus You are my King
+You are m[D]y King
+You are m[D]y King
+Jesus You [D]are my King
+Jesus You [D]are my King
 {eob}
 
 {soc}
-[G] Amazing love h[C]ow can it be
-[G] That You my King would die for [D]me
-[G] Amazing love [C]I know it's true
-[G] It's my joy to honor [D]You
-[D] In all [C]I do[D] I honor Yo[G]u
+[D] Amazing love how[G] can it be
+[D] That You my King would die for [Asus]me  [A]
+[D] Amazing love I[G] know it's true
+[D] It's my joy to honor [Asus]You [A]
+
+[D] Amazing love how[G] can it be
+[D] That You my King would die for [Asus]me  [A]
+[D] Amazing love I[G] know it's true
+[D] It's my joy to honor [Asus]You [A]
 {eoc}
 
 {c:Ending}
-In all [C]I do[D] I honor Yo[G]u
-In all [C]I do[D] I honor Yo[G]u
+[A]In all I[G] do[A] I honor You[D]
+In all I[G] do[A] Let me honor You[D]

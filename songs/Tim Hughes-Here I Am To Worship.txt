@@ -6,8 +6,6 @@
 {time:4/4}
 {as:11.0}
 
-{c:Capo 2 D}
-
 #Verse 1
 [D]Light of the [Asus]world
 You stepped [Em]down into [G]darkness

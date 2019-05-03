@@ -7,8 +7,8 @@
 {as:10}
 
 {c:Intro}
-And [G]step by step You'll [D]lead me
-And I will [C]follow You a[D]ll of my [G]days
+[G] [C] [F] [C]
+[G] [C] [F] [C]
 
 {soc}
 O [G]God You are my [D]God
@@ -21,7 +21,32 @@ And I will [C]learn to walk in Your [Am]ways
 And [G]step by step You'll [D]lead me
 And I will [C]follow You a[D]ll of my [G]days
 {eoc}
-{c:Repeat x3}
+[G] [C] [F] [C]
+
+{soc}
+O [G]God You are my [D]God
+And [C]I will [D]ever praise [G]You
+O [G]God You are my [D]God
+And [C]I will [D]ever praise [G]You
+
+I will [Em]seek You in the [D]morning
+And I will [C]learn to walk in Your [Am]ways
+And [G]step by step You'll [D]lead me
+And I will [C]follow You a[D]ll of my [G]days
+{eoc}
+[G] [C] [F] [C]
+
+{soc}
+O [G]God You are my [D]God
+And [C]I will [D]ever praise [G]You
+O [G]God You are my [D]God
+And [C]I will [D]ever praise [G]You
+
+I will [Em]seek You in the [D]morning
+And I will [C]learn to walk in Your [Am]ways
+And [G]step by step You'll [D]lead me
+And I will [C]follow You a[D]ll of my [G]days
+{eoc}
 
 {c:Ending}
 And I will [Em]follow You all of my [D]days
