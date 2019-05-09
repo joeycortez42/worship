@@ -7,63 +7,59 @@
 {as:10}
 
 {c:Intro}
-[G] [Em] [C] [G]
+[C] [Am] [F] [C]
 
 #Verse 1
-The [G]splendor of the King
-[Em]Clothed in majesty
-Let all the earth [C]rejoice
-All the earth re - joice
-He [G]wraps Himself in light
-And [Em]darkness tries to hide
-And trembles at His [C]voice
-And trembles at His voice
+The [C]splendor of the King
+[Am]Clothed in majesty
+Let all the earth [F]rejoice All the earth re - joice
+He [C]wraps Himself in light
+And [Am]darkness tries to hide
+And trembles at His [F]voice And trembles at His voice
 
 {soc}
-How [G]great is our God... Sing with me
-How [Em]great is our God
-And all will see
-How [C]great How [D]great is our [G]God
+How [C]great is our God... Sing with me
+How [Am]great is our God... And all will see
+How [F]great How [G]great is our [C]God
 {eoc}
 
 #Verse 2
-And [G]age to age He stands
-And [Em]time is in His hands
-Beginning and the [C]End
-Beginning and the End
-The [G]Godhead three in one
-[Em]Father Spirit Son
-The Lion and the [C]Lamb
-The Lion and the Lamb
+And [C]age to age He stands
+And [Am]time is in His hands
+Beginning and the [F]End Beginning and the End
+The [C]Godhead three in one
+[Am]Father Spirit Son
+The Lion and the [F]Lamb The Lion and the Lamb
 
 {soc}
-How [G]great is our God... Sing with me
-How [Em]great is our God
-And all will see
-How [C]great How [D]great is our [G]God
+How [C]great is our God... Sing with me
+How [Am]great is our God... And all will see
+How [F]great How [G]great is our [C]God
 {eoc}
 
 {sob}
-[G]Name above all names
-[Em]Worthy of all praise
-My [C]heart will sing
-How [D]great is our [G]God
-
-[G]Name above all names
-[Em]Worthy of all praise
-My [C]heart will sing
-How [D]great is our [G]God
+{c:Single strum}
+[C]Name above all names
+[Am]Worthy of all praise
+My [F]heart will sing
+How [G]great is our [C]God [C]
+You're the [C]Name above all names
+You are [Am]Worthy of all praise
+And my [F]heart will sing
+How [G]great is our [C]God
 {eob}
 
+[C]
+
 {soc}
-How [G]great is our God... Sing with me
-How [Em]great is our God
-And all will see
-How [C]great How [D]great is our [G]God
+{c:Softly}
+How [C]great is our God... Sing with me
+How [Am]great is our God... And all will see
+How [F]great How [G]great is our [C]God
 {eoc}
 
-{c:Ending - A cappella}
-How [G]great is our God... Sing with me
-How [Em]great is our God
-And all will see
-How [C]great How [D]great is our [G]God
+{c:Ending}
+{c:A cappella}
+How [C]great is our God... Sing with me
+How [Am]great is our God... And all will see
+How [F]great How [G]great is our [C]God

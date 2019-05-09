@@ -8,11 +8,10 @@
 
 {c:Intro}
 [A]
-
 #Verse 1
 Even though I [A]walk through the valley
 Of the shadow of death
-Your [D]perfect love is casting out fear
+Your [F#]perfect love is casting out fear
 And even when I'm [A]caught in the middle
 Of the storms of this life
 I [D]won't turn back I know You are near
@@ -36,7 +35,7 @@ In ev'ry high and ev'ry low
 #Verse 2
 And I can see a [A]light that is coming
 For the heart that holds on
-A [D]glorious light beyond all compare
+A [F#]glorious light beyond all compare
 And there will be an [A]end to these troubles
 But until that day comes
 We'll [D]live to know You here on the earth
@@ -91,7 +90,6 @@ In ev'ry high and ev'ry low
 [D]Lord You never let go of me
 {c:Full Band}
 [A] So strong So wise [E]So loving  [D]
-
 [A]Oh no You never let go
 Through the calm and through the storm
 [F#m]Oh no You never let go

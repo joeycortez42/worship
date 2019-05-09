@@ -7,12 +7,12 @@
 {as:14.0}
 
 {c:Intro & Main Riff}
-|--------------------------------------------|
-|--------------------------------------------|
-|---12-11----12-11----12-11----------12------|
-|---------12-------12-------12-12h14----14---|
-|--------------------------------------------|
-|--------------------------------------------|
+#|--------------------------------------------|
+#|--------------------------------------------|
+#|---12-11----12-11----12-11----------12------|
+#|---------12-------12-------12-12h14----14---|
+#|--------------------------------------------|
+#|--------------------------------------------|
 
 #Verse
 [G] We want to see Je[D]sus lifted hi[Em]gh
@@ -26,12 +26,11 @@ Then all men might s[D]ee the truth and k[Em]now
 He is the w[C]ay to heaven
 
 {soc}
-{c:Palm muting}
-[G] We want to see   [D] We want to see
-[Em] We want to see Je[C]sus lifted hi[G]gh
+[G] We want to see   [Am] We want to see
+[Bm] We want to see Je[C]sus lifted hi[G]gh
 
-We want to see   [D] We want to see
-[Em] We want to see Je[C]sus lifted hi[G]gh
+We want to see   [Am] We want to see
+[Bm] We want to see Je[C]sus lifted hi[G]gh
 {eoc}
 
 {c:Riff over verse}
@@ -42,17 +41,16 @@ Then all men might s[D]ee the truth and k[Em]now
 He is the w[C]ay to heaven
 
 {soc}
-{c:Palm muting}
-[G] We want to see   [D] We want to see
-[Em] We want to see Je[C]sus lifted hi[G]gh
+[G] We want to see   [Am] We want to see
+[Bm] We want to see Je[C]sus lifted hi[G]gh
 
-We want to see   [D] We want to see
-[Em] We want to see Je[C]sus lifted hi[G]gh
+We want to see   [Am] We want to see
+[Bm] We want to see Je[C]sus lifted hi[G]gh
 {eoc}
 
 {sob}
-{c:Single strum}
-[G]Step by s[D]tep we're moving fo[Em]ward
+{c:Rest}
+Step by s[D]tep we're moving fo[Em]ward
 Little by lit[D]tle taking gro[Em]und
 Every pr[D]ayer a powerful we[Em]apon
 Strongholds c[C]ome tumblin' do[D]wn and down and down and down

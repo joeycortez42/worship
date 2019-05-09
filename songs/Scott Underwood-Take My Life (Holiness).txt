@@ -5,47 +5,46 @@
 {tempo:63}
 {time:4/4}
 {as:10}
-
 {c:Intro}
-[D]  Holi - [G]ness holi - [A]ness
-Is what You [G]want from [D]me  [G]  [A]
+[D] [G] [A] [G] [D] [G] [A]
 
 #Verse 1
 [D]  Holi - [G]ness holi - [A]ness is what I [G]long for
 [D]  Holi - [G]ness is what I [A]need  [G]
 [D]  Holi - [G]ness holi - [A]ness
-Is what You [G]want from [D]me  [G]  [A]
+Is what You [G]want from [D]me  [G]  [A]  [G]
 
 #Verse 2
 [D]  Faithful - [G]ness faithful - [A]ness is what I [G]long for
 [D]  Faithful - [G]ness is what I [A]need  [G]
 [D]  Faithful - [G]ness faithful - [A]ness
-Is what You [G]want from [D]me  [G]  [A]
+Is what You [G]want from [D]me  [G]  [A]  [G]
 
 {soc}
 So take my [D]heart  [G]  and [A]form it  [G]
 Take my [D]mind  [G]  trans - [A]form it  [G]
 Take my [D]will  [G]  con - [A]form it  [G]
-To [D]Yours to [G]Yours oh [A]Lord
+To [D]Yours to [G]Yours oh [A]Lord  [G]
+To [D]Yours to [G]Yours oh [A]Lord  [G]
 {eoc}
 
 #Verse 3
 [D]  Righteous - [G]ness righteous - [A]ness is what I [G]long for
 [D]  Righteous - [G]ness is what I [A]need  [G]
 [D]  Righteous - [G]ness righteous - [A]ness
-Is what You [G]want from [D]me  [G]  [A]
+Is what You [G]want from [D]me  [G]  [A]  [G]
 
 {soc}
 So take my [D]heart  [G]  and [A]form it  [G]
 Take my [D]mind  [G]  trans - [A]form it  [G]
 Take my [D]will  [G]  con - [A]form it  [G]
-To [D]Yours to [G]Yours oh [A]Lord
+To [D]Yours to [G]Yours oh [A]Lord  [G]
 
 So take my [D]heart  [G]  and [A]form it  [G]
 Take my [D]mind  [G]  trans - [A]form it  [G]
 Take my [D]will  [G]  con - [A]form it  [G]
-To [D]Yours to [G]Yours oh [A]Lord
+To [D]Yours to [G]Yours oh [A]Lord  [G]
 {eoc}
 
 {c:Ending}
-To [D]Yours to [G]Yours oh [A]Lord [G] [D]
+To [D]Yours to [G]Yours oh [A]Lord   [G].   [D].

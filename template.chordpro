@@ -5,7 +5,6 @@
 {tempo:120}
 {time:4/4}
 {as:10}
-
 {c:Intro}
 
 |--------------------------------------|
@@ -33,7 +32,7 @@
 
 {eob}
 
-{c:Repeat} // Should not user. Just duplicate the sections.
+{c:Repeat} // Should not use. Just duplicate the sections.
 
 {c:Softly}
 
