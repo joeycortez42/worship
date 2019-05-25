@@ -5,7 +5,6 @@
 {tempo:78}
 {time:4/4}
 {as:9.0}
-
 {c:Intro}
 [A]
 
@@ -23,9 +22,9 @@ You are [E]life You are life in You death has lost its sting  [A]
 
 {soc}
 [A]   I’m running to Your [E]arms I’m running to Your [F#m]arms
-The riches of Your [F#m]love will [E]always be e - [D]nough
+The riches of Your [G#]love will [E]always be e - [D]nough
 Nothing com - [F#m]pares to [E]Your em - [D]brace
-Light of the [F#m]world for - [E]ever [D]reign
+Light of the [F#m]world for - [E]ever [D]reign [D]
 {eoc}
 
 #Verse 3
@@ -35,31 +34,40 @@ You are [A]here You are here in Your presence I’m made whole
 You are [E]God You are God of all else I’m letting go  [A]
 
 {soc}
+{c:Softly}
+[A]   I’m running to Your [E]arms I’m running to Your [F#m]arms
+The riches of Your [G#]love will [E]always be e - [D]nough
+Nothing com - [F#m]pares to [E]Your em - [D]brace
+Light of the [F#m]world for - [E]ever [D]reign
+
 [A]   I’m running to Your [E]arms I’m running to Your [F#m]arms
 The riches of Your [F#m]love will [E]always be e - [D]nough
 Nothing com - [F#m]pares to [E]Your em - [D]brace
-Light of the [F#m]world for - [E]ever [A]reign
+Light of the [F#m]world for - [E]ever [D]reign [D]
 {eoc}
 
 {sob}
+{c:Softly}
 [F#m]  My heart will sing [D]  no other Name
 [A]  Jesus [E]  Jesus
 [F#m]  My heart will sing [D]  no other Name
 [A]  Jesus [E]  Jesus
+
 [F#m]  My heart will sing [D]  no other Name
 [A]  Jesus [E]  Jesus
+[F#m]  My heart will sing [D]  no other Name
+[A]  Jesus [E]  Jesus [D]
 {eob}
 
 {soc}
+{c:Softly}
 [A]   I’m running to Your [E]arms I’m running to Your [F#m]arms
-The riches of Your [F#m]love will [E]always be e - [D]nough
+The riches of Your [G#]love will [E]always be e - [D]nough
 Nothing com - [F#m]pares to [E]Your em - [D]brace
-Light of the [F#m]world for - [E]ever [A]reign
+Light of the [F#m]world for - [E]ever [D]reign
 
 [A]   I’m running to Your [E]arms I’m running to Your [F#m]arms
 The riches of Your [F#m]love will [E]always be e - [D]nough
 Nothing com - [F#m]pares to [E]Your em - [D]brace
-Light of the [F#m]world for - [E]ever [A]reign
+Light of the [F#m]world for - [E]ever [D]reign [D]
 {eoc}
-
-[A]

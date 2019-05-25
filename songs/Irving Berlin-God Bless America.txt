@@ -4,9 +4,8 @@
 {key:G}
 {time:4/4}
 {as:10}
-
 {c:Intro}
-My [G]home [D]sweet [G]home
+[G] [D] [G]
 
 {soc}
 [G]God bless A[D]-mer-i-ca
@@ -23,7 +22,7 @@ To the [D]oceans white with [G]foam
 [C]My [G]home [D]sweet [G]home
 {eoc}
 
-It’s our prayer today Lord that you would bless this nation.
+It’s our prayer today Lord, that you would bless this nation.
 
 {soc}
 [G]God bless A[D]-mer-i-ca

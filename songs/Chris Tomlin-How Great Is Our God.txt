@@ -5,9 +5,8 @@
 {tempo:76}
 {time:4/4}
 {as:10}
-
 {c:Intro}
-[C] [Am] [F] [C]
+[C] [Am] [F] [G]  [C]
 
 #Verse 1
 The [C]splendor of the King

@@ -5,7 +5,6 @@
 {tempo:98}
 {time:4/4}
 {as:10}
-
 {c:Intro}
 [D]
 
@@ -27,7 +26,7 @@
 [G]One day every tongue will con - [D]fess You are God
 [G]One day every knee will [D]bow
 [G]Still the greatest treasure re - [Bm]mains for those
-Who [G]gladly choose You [A]now
+[G]Who gladly choose You [A]now
 
 {soc}
 [D]Come now is the time to [Dsus]wor - [D]ship
@@ -41,13 +40,22 @@ Who [G]gladly choose You [A]now
 [G]One day every tongue will con - [D]fess You are God
 [G]One day every knee will [D]bow
 [G]Still the greatest treasure re - [Bm]mains for those
-Who [G]gladly choose You [A]now
+[G]Who gladly choose You [A]now
+
+[D]      [D]   [A] [Em] [G]
+[D]      [D]   [A] [Em] [G] [E]
 
 #Verse
 [G]One day every tongue will con - [D]fess You are God
 [G]One day every knee will [D]bow
 [G]Still the greatest treasure re - [Bm]mains for those
-Who [G]gladly choose You [A]now
+[G]Who gladly choose You [A]now
+
+#Verse
+[G]One day every tongue will con - [D]fess You are God
+[G]One day every knee will [D]bow
+[G]Still the greatest treasure re - [Bm]mains for those
+[G]Who gladly choose You [A]now
 
 {soc}
 [D]Come now is the time to [Dsus]wor - [D]ship
