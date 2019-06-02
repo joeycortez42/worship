@@ -5,6 +5,7 @@
 {tempo:102}
 {time:4/4}
 {as:10}
+
 {c:Intro}
 Not[E]hing but the blood of [B]Je - s[E]us
 
@@ -48,7 +49,6 @@ Not[E]hing but the blood of [B]Je - s[E]us
 #{eoc}
 
 #Verse 4
-{c:A cappella}
 T[E]his is all my hope and peace
 Not[E]hing but the blood of [B]Je - s[E]us
 T[E]his is all my righteousness

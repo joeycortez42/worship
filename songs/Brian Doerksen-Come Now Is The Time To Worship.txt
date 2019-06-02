@@ -4,7 +4,7 @@
 {key:D}
 {tempo:98}
 {time:4/4}
-{as:10}
+{as:9.5}
 {c:Intro}
 [D]
 
@@ -42,29 +42,37 @@
 [G]Still the greatest treasure re - [Bm]mains for those
 [G]Who gladly choose You [A]now
 
-[D]      [D]   [A] [Em] [G]
-[D]      [D]   [A] [Em] [G] [E]
-
 #Verse
 [G]One day every tongue will con - [D]fess You are God
 [G]One day every knee will [D]bow
 [G]Still the greatest treasure re - [Bm]mains for those
 [G]Who gladly choose You [A]now
 
+[E].......[A]..[E]
+[B].....[F#m]..[A]
+[E].......[A]..[E]
+[B].....[F#m]..[A]..[E]
+
 #Verse
-[G]One day every tongue will con - [D]fess You are God
-[G]One day every knee will [D]bow
-[G]Still the greatest treasure re - [Bm]mains for those
-[G]Who gladly choose You [A]now
+[A]One day every tongue will con - [E]fess You are God
+[A]One day every knee will [E]bow
+[A]Still the greatest treasure re - [C#m]mains for those
+[A]Who gladly choose You [B]now
+
+#Verse
+[A]One day every tongue will con - [E]fess You are God
+[A]One day every knee will [E]bow
+[A]Still the greatest treasure re - [C#m]mains for those
+[A]Who gladly choose You [B]now
 
 {soc}
-[D]Come now is the time to [Dsus]wor - [D]ship
-[A]Come now is the time to [Em]give your [G]heart
-[D]Come just as you are to [Dsus]wor - [D]ship
-[A]Come just as you are be - [Em]fore your [G]God
-[D]Come
+[E]Come now is the time to [Esus]wor - [E]ship
+[B]Come now is the time to [F#m]give your [A]heart
+[E]Come just as you are to [Esus]wor - [E]ship
+[B]Come just as you are be - [F#m]fore your [A]God
+[E]Come
 {eoc}
 
 {c:Ending}
-[D]Come
-[D]Come
+[E]Come
+[E]Come

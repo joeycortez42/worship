@@ -1,43 +1,37 @@
 {title:Let The Redeemed}
-{subtitle:Melody}
+{subtitle:Medley}
 {key:C}
 {tempo:125}
 {time:4/4}
-{as:13.5}
-
+{as:16.0}
 {c:Intro}
-[C] [F] [C] [G]
+[C] [F] [C]
 
 {soc}
 L[C]et the redeemed of the L[F]ord say [C]so
 Let the redeemed of the Lord say [G]so
 L[C]et the redeemed of the Lord say [F]So
-I'm re - de[C]emed I'm re - de[G]emed
-Praise the L[C]ord
+I'm re - de[C]emed I'm re - de[G]emed     Praise the L[C]ord [C]
 {eoc}
 
 {soc}
 L[C]et the redeemed of the L[F]ord say [C]so
 Let the redeemed of the Lord say [G]so
 L[C]et the redeemed of the Lord say [F]So
-I'm re - de[C]emed I'm re - de[G]emed
-Praise the L[C]ord
+I'm re - de[C]emed I'm re - de[G]emed     Praise the L[C]ord
 {eoc}
 
 {soc}
 L[C]et the redeemed of the L[F]ord say [C]so
 Let the redeemed of the Lord say [G]so
 L[C]et the redeemed of the Lord say [F]So
-I'm re - de[C]emed I'm re - de[G]emed
-Praise the L[C]ord
+I'm re - de[C]emed I'm re - de[G]emed     Praise the L[C]ord [C]
 {eoc}
 
 #Verse
-[C]Ah Lord God
-T[F]hou hast made the hea[C]vens
+[C]Ah Lord God T[F]hou hast made the hea[C]vens
 And the [C]earth by Thy great po[G]wer
-[C]Ah Lord God
-T[F]hou hast made the hea[C]vens
+[C]Ah Lord God T[F]hou hast made the hea[C]vens
 And the [C]earth by Thine [G]out - stretched a[C]rm
 
 {soc}
@@ -46,15 +40,13 @@ Not[G]hing is too difficult for T[C]hee
 G[C]reat and mighty God [F]
 Great in coun - sel and m[C]ight - y in deed [C]
 Not[C]hing [Am]nothing [Dm7]absolutely [G]nothing
-Not[C]hing is too [G]diffi - cult for T[C]hee
+Not[C]hing is too [G]diffi - cult for T[C]hee [C]
 {eoc}
 
 #Verse
-[C]Ah Lord God
-T[F]hou hast made the hea[C]vens
+[C]Ah Lord God T[F]hou hast made the hea[C]vens
 And the [C]earth by Thy great po[G]wer
-[C]Ah Lord God
-T[F]hou hast made the hea[C]vens
+[C]Ah Lord God T[F]hou hast made the hea[C]vens
 And the [C]earth by Thine [G]out - stretched a[C]rm
 
 {soc}
@@ -63,24 +55,20 @@ Not[G]hing is too difficult for T[C]hee
 G[C]reat and mighty God [F]
 Great in coun - sel and m[C]ight - y in deed [C]
 Not[C]hing [Am]nothing [Dm7]absolutely [G]nothing
-Not[C]hing is too [G]diffi - cult for T[C]hee
+Not[C]hing is too [G]diffi - cult for T[C]hee [C]
 {eoc}
 
 {soc}
 W[C]hat a mighty God [F]we se[C]rve
 W[C]hat a mighty [Am]God we s[G]erve
-[C]Angels bow before Him
-[C]Heaven and earth a - dore Him
-[C]What a mighty G[G]od we se[C]rve
-{eoc}
+[C]Angels bow before Him   [C]Heaven and earth a - dore Him
+[C]What a mighty G[G]od we se[C]rve [C]
 
-{soc}
 W[C]hat a mighty God [F]we se[C]rve
 W[C]hat a mighty [Am]God we s[G]erve
-[C]Angels bow before Him
-[C]Heaven and earth a - dore Him
-[C]What a mighty G[G]od we se[C]rve
+[C]Angels bow before Him   [C]Heaven and earth a - dore Him
+[C]What a mighty G[G]od we se[C]rve [C]
 {eoc}
 
-{c:Ending}
+{c:Ending - Retard}
 [C]What a mighty G[G]od we se[C]rve

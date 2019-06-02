@@ -4,10 +4,10 @@
 {key:A}
 {tempo:94}
 {time:4/4}
-{as:10}
-
+{as:11.0}
 {c:Intro}
-Lord I l[E]ift Your name on h[A]igh [D] [E] [D]
+[A]  [D]  [E]  [D]
+[A]  [D]  [E]  [D]
 
 #Verse
 [A] Lord I [D]lift Your name on [E]high [D]
@@ -34,7 +34,7 @@ Lord I l[E]ift Your name on h[A]igh [D] [E] [D]
 From the ea[D]rth to the cr[E]oss my d[D]ebt t[A]o pay
 From the cr[D]oss to the gr[E]ave
 From the g[F#m7]rave to the [Bm7]sky
-Lord I l[E]ift Your name on h[A]igh [A ]
+Lord I l[E]ift Your name on h[A]igh
 
 [A]You came from he[D]aven to e[E]arth to s[D]how the[A] way
 From the ea[D]rth to the cr[E]oss my d[D]ebt t[A]o pay

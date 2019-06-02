@@ -4,7 +4,7 @@
 {key:G}
 {tempo:105}
 {time:4/4}
-{as:13.0}
+{as:13.5}
 
 {c:Intro}
 #|--------------------------------------|
@@ -98,8 +98,8 @@
 [C]Then who could ever stop us
 [G]And if our God is with us
 [D]Then what could stand a[Em]gain[C]st [G]
-[D/F#]Then what could stand a[Em]gain[C]st [G]
+[D/F#]Then what could stand a[Em]gain[C]st [G] [D]
 {eob}
 
 {c:Ending}
-[F#]
+[D]

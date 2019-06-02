@@ -7,8 +7,7 @@
 {as:8.9}
 
 {c:Intro}
-[C] [D] [Bm] [Em]
-[C] [D] [Bm] [D]
+Lord [C]have Your [D/F#]way in [C]me [C] [C]
 
 #Verse
 [G]This is my de -  [Em7]sire to [C]hon -  [G]our  [D/F#]You
@@ -18,12 +17,12 @@ All[Em] that I [D/F#]a - [G]dore is in [F]You    [C]     [D]
 
 {soc}
 Lo[G]rd I give You my hea[D/F#]rt I give You my [Am7]soul
-I li[C]ve for You [D]alone
+I [C]live for [D/F#]You [G]alone
 Ev[G]ery breath that I take[D/F#] ev'ry moment I'm a - wa[Am7]ke
-Lord h[C]ave Your [D]way in me
+Lord h[C]ave Your [D]way in me [C]
 {eoc}
 
-[C] [C] [C] [D]
+[C]
 
 #Verse
 [G]This is my de -  [Em7]sire to [C]hon -  [G]our  [D/F#]You
@@ -33,15 +32,15 @@ All[Em] that I [D/F#]a - [G]dore is in [F]You    [C]     [D]
 
 {soc}
 Lo[G]rd I give You my hea[D/F#]rt I give You my [Am7]soul
-I li[C]ve for You [D]alone
+I [C]live for [D/F#]You [G]alone
 Ev[G]ery breath that I take[D/F#] ev'ry moment I'm a - wa[Am7]ke
-Lord h[C]ave Your [D]way in me
+Lord h[C]ave Your [D]way in me [G]
 
 Lo[G]rd I give You my hea[D/F#]rt I give You my [Am7]soul
-I li[C]ve for You [D]alone
+I [C]live for [D/F#]You [G]alone
 Ev[G]ery breath that I take[D/F#] ev'ry moment I'm a - wa[Am7]ke
-Lord h[C]ave Your [D]way in me
+Lord h[C]ave Your [D]way in me [C]
 {eoc}
 
 {c:Ending}
-[C]  [C]  [G]
+[C]  [G]
