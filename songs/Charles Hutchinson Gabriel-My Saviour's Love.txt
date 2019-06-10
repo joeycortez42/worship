@@ -4,68 +4,73 @@
 {key:G}
 {time:4/4}
 {as:11.0}
-
-{c:Intro}
+{c:Intro - A cappella}
 [G]How marvelous [G]how wonderful
-[C]Is my [G]Sav - iour's [D]love for [G]me
+[D]And my song shall [C]ev - er [D]be
+[G]How marvelous [G]how wonderful
+[D]Is my [Em]Sav - iour's [C]love [D]for [G]me
+[G]   [G]
 
-#Verse 1
-[D]I [G]stand amazed in the presence
+{c:Verse 1}
+I [G]stand amazed in the presence
 Of [D]Jesus the Naz - a - [G]rene
 And [C]wonder how He could [G]love me
-A [G]sinner con - [D]demned un - [G]clean
+A [D]sinner con - [D]demned un - [G]clean
 
 {soc}
 [G]How marvelous [G]how wonderful
-[D]And my song shall ev - er be
+[D]And my song shall [C]ev - er [D]be
 [G]How marvelous [G]how wonderful
-[C]Is my [G]Sav - iour's [D]love for [G]me
+[D]Is my [Em]Sav - iour's [C]love [D]for [G]me
 {eoc}
 
-#Verse 2
+{c:Verse 2}
 For [G]me it was in the garden
 He [D]prayed not My will but [G]Thine
 He [C]had no tears for His [G]own griefs
-But [G]sweat drops of [D]blood for [G]mine
+But [D]sweat drops of [D]blood for [G]mine
 
 {soc}
 [G]How marvelous [G]how wonderful
-[D]And my song shall ev - er be
+[D]And my song shall [C]ev - er [D]be
 [G]How marvelous [G]how wonderful
-[C]Is my [G]Sav - iour's [D]love for [G]me
+[D]Is my [Em]Sav - iour's [C]love [D]for [G]me
 {eoc}
 
-#Verse 3
+{c:Verse 3}
 He [G]took my sins and my sorrows
 He [D]made them His ve - ry [G]own
 He [C]bore the bur - den to [G]Cal - vary
-And [G]suffered and [D]died a - [G]lone
+And [D]suffered and [D]died a - [G]lone
 
 {soc}
 [G]How marvelous [G]how wonderful
-[D]And my song shall ev - er be
+[D]And my song shall [C]ev - er [D]be
 [G]How marvelous [G]how wonderful
-[C]Is my [G]Sav - iour's [D]love for [G]me
+[D]Is my [Em]Sav - iour's [C]love [D]for [G]me
 {eoc}
 
-#Verse 4
+{c:Verse 4}
+{c:Down strum}
 When [G]with the ransomed in glory
 His [D]face I at last shall [G]see
 'Twill [C]be my joy through the [G]a - ges
-To [G]sing of His [D]love for[G] me
+To [D]sing of His [D]love for[G] me
 
 {soc}
-{c:Acappela}
-[G ]How marvelous [G]how wonderful
-[D]And my song shall ev - er be
+{c:A cappella}
 [G]How marvelous [G]how wonderful
-[C]Is my [G]Sav - iour's [D]love for [G]me
+[D]And my song shall [C]ev - er [D]be
+[G]How marvelous [G]how wonderful
+[D]Is my [Em]Sav - iour's [C]love [D]for [G]me
 
+{c:Full Band}
 [G]How marvelous [G]how wonderful
-[D]And my song shall ev - er be
+[D]And my song shall [C]ev - er [D]be
 [G]How marvelous [G]how wonderful
-[C]Is my [G]Sav - iour's [D]love for [G]me
+[D]Is my [Em]Sav - iour's [C]love [D]for [G]me
 {eoc}
 
-{c:Ending}
-[C]Is my [G]Sav - iour's [D]love for [G]me
+{c:Ending - Retard}
+[D]Is my [Em]Sav - iour's [C]love [D]for [G]me
+[D]Is my [Em]Sav - iour's [C]love [D]for [G]me

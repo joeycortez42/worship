@@ -4,13 +4,10 @@
 {key:G}
 {tempo:116}
 {time:4/4}
-{as:14}
-
+{as:15.0}
 {c:Intro}
-[G] [C] [Em] [D]
-[G] [C] [Em] [D]
-[G] [C] [Em] [D]
-[G] [C] [Em] [D]
+[G] [C] [Em] [D] .  .  .  [G] [C] [Em] [D]
+[G] [C] [Em] [D] .  .  .  [G] [C] [Em] [D]
 
 {soc}
 [G] I'm [C] trading my [Em] sor - [D]rows
@@ -24,13 +21,12 @@
 [G]Lord [C] [Em] [D]
 {eoc}
 
-#Vamp
+{c:Vamp}
 [G]Yes Lord [C] yes Lord [Em]yes yes [D] Lord
 [G]Yes Lord [C] yes Lord [Em]yes yes [D] Lord
-[G]Yes Lord [C] yes Lord [Em]yes yes [D] Lord
-A - [G]men [C] [Em] [D]
+[G]Yes Lord [C] yes Lord [Em]yes yes [D] Lord   A - [G]men [C] [Em] [D]
 
-#Verse
+{c:Verse}
 I am [G]pressed but not [C] crushed
 Perse - [Em]cuted not [D]abandoned
 [G] Struck [C]down but not de - [Em]stroyed [D]
@@ -52,13 +48,12 @@ His [F]joy comes with the morn - [C]ing
 [G]Lord [C] [Em] [D]
 {eoc}
 
-#Vamp
+{c:Vamp}
 [G]Yes Lord [C] yes Lord [Em]yes yes [D] Lord
 [G]Yes Lord [C] yes Lord [Em]yes yes [D] Lord
-[G]Yes Lord [C] yes Lord [Em]yes yes [D] Lord
-A - [G]men [C] [Em] [D]
+[G]Yes Lord [C] yes Lord [Em]yes yes [D] Lord   A - [G]men [C] [Em] [D]
 
-#Verse
+{c:Verse}
 I am [G]pressed but not [C] crushed
 Perse - [Em]cuted not [D]abandoned
 [G] Struck [C]down but not de - [Em]stroyed [D]
@@ -80,8 +75,7 @@ His [F]joy comes with the morn - [C]ing
 [G]Lord [C] [Em] [D]
 {eoc}
 
-#Vamp
+{c:Vamp}
 [G]Yes Lord [C] yes Lord [Em]yes yes [D] Lord
 [G]Yes Lord [C] yes Lord [Em]yes yes [D] Lord
-[G]Yes Lord [C] yes Lord [Em]yes yes [D] Lord
-A - [G]men [C] [Em] [D] [G]
+[G]Yes Lord [C] yes Lord [Em]yes yes [D] Lord   A - [G]men [C] [Em] [D] [G]

@@ -5,86 +5,65 @@
 {tempo:116}
 {time:4/4}
 {as:12.0}
-
 {c:Intro}
 [C] [G] [Am7] [F]
 
-#Verse 1
-[C] Blessed [G]be Your name
-In the [Am7]land that is [F]plentiful
-Where Your [C]streams of a - [G]bundance flow
-Bless - [F]ed be Your name
+{c:Verse 1}
+[C] Blessed [G]be Your name   In the [Am7]land that is [F]plentiful
+Where Your [C]streams of a - [G]bundance flow   Bless - [F]ed be Your name
 
-#Verse 2
-[C] Blessed [G]be Your name
-When I'm [Am7]found in the [F]desert place
-Though I [C]walk through the [G]wilderness
-Bless - [F]ed be Your name
+{c:Verse 2}
+[C] Blessed [G]be Your name   When I'm [Am7]found in the [F]desert place
+Though I [C]walk through the [G]wilderness   Bless - [F]ed be Your name
 
 {c:Pre-Chorus}
 [C] Every blessing [G]You pour out I’ll [Am7] Turn back to [F]praise
 [C] When the darkness [G]closes in Lord [Am7] Still I will [F]say
 
 {soc}
-Blessed be the [C]name of the [G]Lord
-Blessed be Your [Am7]name     [F]
-Blessed be the [C]name of the [G]Lord
-Blessed be Your [Am7]glo - rious [F]name
+Blessed be the [C]name of the [G]Lord   Blessed be Your [Am7]name     [F]
+Blessed be the [C]name of the [G]Lord   Blessed be Your [Am7]glo - rious [F]name
 {eoc}
 
-#Verse 3
-[C] Blessed [G]be Your name
-When the [Am7]sun's shining [F]down on me
-When the [C]world's all as [G]it should be
-Bless - [F]ed be Your name
+{c:Verse 3}
+[C] Blessed [G]be Your name   When the [Am7]sun's shining [F]down on me
+When the [C]world's all as [G]it should be   Bless - [F]ed be Your name
 
-#Verse 4
-[C] Blessed [G]be Your name
-On the [Am7]road marked with [F]suffering
-Though there's [C]pain in the [G]offering
-Bless - [F]ed be Your name
+{c:Verse 4}
+[C] Blessed [G]be Your name   On the [Am7]road marked with [F]suffering
+Though there's [C]pain in the [G]offering   Bless - [F]ed be Your name
 
 {c:Pre-Chorus}
 [C] Every blessing [G]You pour out I’ll [Am7] Turn back to [F]praise
 [C] When the darkness [G]closes in Lord [Am7] Still I will [F]say
 
 {soc}
-Blessed be the [C]name of the [G]Lord
-Blessed be Your [Am7]name     [F]
-Blessed be the [C]name of the [G]Lord
-Blessed be Your [Am7]glo - rious [F]name
+Blessed be the [C]name of the [G]Lord   Blessed be Your [Am7]name     [F]
+Blessed be the [C]name of the [G]Lord   Blessed be Your [Am7]glo - rious [F]name
 {eoc}
 
 {sob}
-You [C]give and take a - [G]way
-You [Am7]give and take a - [F]way
-My [C]heart will choose to [G]say
-Lord [Am7]blessed be Your [F]name
+You [C]give and take a - [G]way   You [Am7]give and take a - [F]way
+My [C]heart will choose to [G]say   Lord [Am7]blessed be Your [F]name
 {eob}
 
-{c:Pre-Chorus}
-{c:Softly}
+{c:Pre-Chorus - Softly}
 [C] Every blessing [G]You pour out I’ll [Am7] Turn back to [F]praise
 [C] When the darkness [G]closes in Lord [Am7] Still I will [F]say
 
 {soc}
-Blessed be the [C]name of the [G]Lord
-Blessed be Your [Am7]name     [F]
-Blessed be the [C]name of the [G]Lord
-Blessed be Your [Am7]glo - rious [F]name
+{c:Pre-Chorus - Softly}
+Blessed be the [C]name of the [G]Lord   Blessed be Your [Am7]name     [F]
+Blessed be the [C]name of the [G]Lord   Blessed be Your [Am7]glo - rious [F]name
 
-Blessed be the [C]name of the [G]Lord
-Blessed be Your [Am7]name     [F]
-Blessed be the [C]name of the [G]Lord
-Blessed be Your [Am7]glo - rious [F]name
+Blessed be the [C]name of the [G]Lord   Blessed be Your [Am7]name     [F]
+Blessed be the [C]name of the [G]Lord   Blessed be Your [Am7]glo - rious [F]name
 {eoc}
 
 {sob}
-You [C]give and take a - [G]way
-You [Am7]give and take a - [F]way
-My [C]heart will choose to [G]say
-Lord [Am7]blessed be Your [F]name
+You [C]give and take a - [G]way   You [Am7]give and take a - [F]way
+My [C]heart will choose to [G]say   Lord [Am7]blessed be Your [F]name
 {eob}
 
 {c:Ending}
-[C]
+[F]  [C]
