@@ -5,12 +5,11 @@
 {tempo:140}
 {time:4/4}
 {as:12}
-
 {c:Intro}
 [Bb] [Bb] [Bb] [Bb] [Gm] [Eb] [Bb]
 [Bb] [Bb] [Bb] [Bb] [Gm] [Eb] [Bb]
 
-#Verse 1
+{c:Verse 1}
 [Bb]Our God and firm foundation
 [Bb]Our Rock the only solid gr[Gm]ound
 The na[Eb]tions rise and f[Bb]all
@@ -34,7 +33,7 @@ The n[Eb]ame of Jes[Bb]us
 
 [Bb] [Bb] [Bb] [Bb] [Gm] [Eb] [Bb]
 
-#Verse 2
+{c:Verse 2}
 [Bb]Unmatched in all Your wisdom
 [Bb]In love and justice You will r[Gm]eign
 And e[Eb]very knee will b[Bb]ow

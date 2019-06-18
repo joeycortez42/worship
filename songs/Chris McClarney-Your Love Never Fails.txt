@@ -5,7 +5,6 @@
 {tempo:116}
 {time:4/4}
 {as:11}
-
 {c:Intro}
 [Em] [C] [G] [D]
 [Em] [C] [G] [D]
@@ -13,7 +12,7 @@
 [C] [Em] [D]
 [C] [Em] [D]
 
-#Verse 1
+{c:Verse 1}
 [Em]  Nothing [C]can separate [G] even if I [D]ran away
 [Em]Your love never [C]fails   [G]   [D]
 [Em]  I know I [C]still make mistakes but
@@ -33,7 +32,7 @@ Because I [G]know that You love me [D]
 
 [C] [Em] [D]
 
-#Verse 2
+{c:Verse 2}
 [Em] The wind is strong and the [C] water’s deep but
 [G] I’m not alone here in these [D]open seas
 Cause [Em]Your love never [C]fails   [G]   [D]

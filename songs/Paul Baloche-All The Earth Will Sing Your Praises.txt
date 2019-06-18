@@ -5,7 +5,6 @@
 {tempo:130}
 {time:4/4}
 {as:10.5}
-
 {c:Intro}
 [D] [A] [Bm] [G]
 
@@ -18,7 +17,7 @@
 {eoc}
 [D] [A] [Bm] [G] [E] [G] [D]
 
-#Verse
+{c:Verse}
 [D] You took [A] You take our [Bm]sins away O God
 [D] You give [A] You gave Your [Bm]life away for us
 [G] You came down You saved us th[A]rough [Bm]the cross
@@ -33,7 +32,7 @@
 {eoc}
 [D] [A] [Bm] [G] [E] [G] [D]
 
-#Verse
+{c:Verse}
 [D] You took [A] You take our [Bm]sins away O God
 [D] You give [A] You gave Your [Bm]life away for us
 [G] You came down You saved us th[A]rough [Bm]the cross

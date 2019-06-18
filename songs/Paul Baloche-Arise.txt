@@ -5,13 +5,12 @@
 {tempo:117}
 {time:4/4}
 {as:13.0}
-
 {c:Intro}
 [D] [A] [C] [G]
 [D] [A] [C] [G]
 [D] [A] [C] [G]
 
-#Verse
+{c:Verse}
 [D]  One thing we [A]ask of You
 [C]  One thing that [G]we desire
 [D]  That as we wor[A]ship You
@@ -28,7 +27,7 @@ A - ri[D]se [A] [Bm7] [G]
 A - ri[D]se [A] [Bm7] [G]
 {eoc}
 
-#Verse
+{c:Verse}
 [D]  One thing we [A]ask of You
 [C]  One thing that [G]we desire
 [D]  That as we wor[A]ship You
@@ -78,5 +77,4 @@ Holy G[Bm7]od as we si[G]ng
 A - ri[D]se [A] [Bm7] [G]
 A - ri[D]se [A] [Bm7] [G]
 A - ri[D]se [A] [Bm7] [G]
-A - ri[D]se [A] [Bm7] [G]
-[D]
+A - ri[D]se [A] [Bm7] [G] [D]

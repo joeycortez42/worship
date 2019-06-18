@@ -5,12 +5,11 @@
 {tempo:152}
 {time:4/4}
 {as:10}
-
 {c:Intro}
 [D] [G] [A] [D] [G] [A] [D]
 [D] [G] [A] [D] [G] [A] [D]
 
-#Verse
+{c:Verse}
 [D]Cele[G]brate [A]Jesus cel[D]ebrate [G] [A] [D]
 [D]Cele[G]brate [A]Jesus cel[D]ebrate [G] [A] [D]
 
@@ -26,7 +25,7 @@ Come on and cel[A]ebrate
 the resur[G]rection of our [D]Lord [G] [A] [D]
 {eoc}
 
-#Spanish
+{c:Verse - Spanish}
 [D]Cele[G]brad [A]a Cristo cel[D]ebrad [G] [A] [D]
 [D]Cele[G]brad [A]a Cristo cel[D]ebrad [G] [A] [D]
 
@@ -42,7 +41,7 @@ Vamos y [A]celebrad
 Que el  Se[G]ñor resu[D]citó [G] [A] [D]
 {eoc}
 
-#Verse
+{c:Verse}
 [D]Cele[G]brate [A]Jesus cel[D]ebrate [G] [A] [D]
 [D]Cele[G]brate [A]Jesus cel[D]ebrate [G] [A] [D]
 

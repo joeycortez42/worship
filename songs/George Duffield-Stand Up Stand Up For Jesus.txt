@@ -9,7 +9,7 @@
 [F] [C] [G] [F] [C] [G]
 [F] [C] [G] [F] [C] [G] [D]
 
-#Verse 1
+{c:Verse 1}
 Stand [G]up stand up for [C]Je - sus
 Ye [G]soldiers of the [D]cross
 Lift [G]high His royal [C]ban - ner
@@ -21,7 +21,6 @@ Till [G]ev'ry foe is [C]van - quished
 And [G]Christ is [D]Lord in - [G]deed
 
 {c:Verse 2}
-#Verse 2
 Stand [G]up stand up for [C]Je - sus
 The [G]trumpet call o - [D]bey
 Forth [G]to the mighty [C]con - flict
@@ -35,8 +34,7 @@ And [G]strength to [D]strength op - [F]pose [C] [G]
 [F] [C] [G]
 [F] [C] [G] [F] [C] [G] [D]
 
-{c:Verse 4}
-#Verse 4
+{c:Verse 3}
 Stand [G]up stand up for [C]Je - sus
 The [G]strife will not be [D]long
 This [G]day the noise of [C]bat - tle
@@ -47,5 +45,6 @@ A [C]crown of life [G]shall [D]be
 He [G]with the King of [C]Glo - ry
 Shall [G]reign e - [D]ter - nal - [F]ly [C] [G]
 
+{c:Ending}
 [F] [C] [G]
 [F] [C] [G] [F] [C] [G]

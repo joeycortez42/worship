@@ -5,7 +5,6 @@
 {tempo:78}
 {time:4/4}
 {as:10}
-
 {c:Intro}
 [Em] [C] [G] [D]
 
@@ -22,7 +21,7 @@ Your [Em]love [C] [G] [D]
 [Em] [C] [G] [D]
 [Em] [C] [G] [D]
 
-#Verse 1
+{c:Verse 1}
 [C]It’s higher than the mou[G]ntains that I fa[D]ce
 And s[C]tronger than the po[G]wer of the gr[D]ave
 And c[C]onstant in the tr[G]ial and the ch[D]ange
@@ -44,7 +43,7 @@ Ne[G]ver runs out on [D]me
 Your [Em]love [C] [G] [D]
 {eoc}
 
-#Verse 2
+{c:Verse 2}
 [C] On and on and [G]on and on it g[D]oes
 It [C]overwhelms and s[G]atisfies my [D]soul
 And I [C]never ever h[G]ave to be afr[D]aid
@@ -81,7 +80,7 @@ Ne[G]ver runs out on [D]me
 Your [Em]love [C] [G] [D]
 {eoc}
 
-#Verse 2
+{c:Verse 2}
 [C] On and on and [G]on and on it g[D]oes
 It [C]overwhelms and s[G]atisfies my [D]soul
 And I [C]never ever h[G]ave to be afr[D]aid

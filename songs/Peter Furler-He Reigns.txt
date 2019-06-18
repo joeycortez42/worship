@@ -8,7 +8,7 @@
 {c:Intro}
 [C] [G] [D] [D] . . . [C] [G] [D] [D]
 
-#Verse 1
+{c:Verse 1}
 It's the [C]song of the redeemed [G]rising from the African [D]plain
 It's the [C]song of the forgiven [G]drowning out the Amazon [D]rain
 The song of [C]Asian believers [G]filled with God's holy [D]fire
@@ -22,7 +22,7 @@ It's all God's children singing [C]glory glory
 [G]Hallelujah He [D]reigns     He reigns
 {eoc}
 
-#Verse 2
+{c:Verse 2}
 Let it [C]rise above the four winds [G]caught up in the heavenly [D]sound
 Let praises echo from the [C]towers of cathedrals
 To the [G]faithful gathered under-[D]ground

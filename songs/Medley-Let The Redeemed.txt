@@ -28,7 +28,7 @@ L[C]et the redeemed of the Lord say [F]So
 I'm re - de[C]emed I'm re - de[G]emed     Praise the L[C]ord [C]
 {eoc}
 
-#Verse
+{c:Verse}
 [C]Ah Lord God T[F]hou hast made the hea[C]vens
 And the [C]earth by Thy great po[G]wer
 [C]Ah Lord God T[F]hou hast made the hea[C]vens
@@ -43,7 +43,7 @@ Not[C]hing [Am]nothing [Dm7]absolutely [G]nothing
 Not[C]hing is too [G]diffi - cult for T[C]hee [C]
 {eoc}
 
-#Verse
+{c:Verse}
 [C]Ah Lord God T[F]hou hast made the hea[C]vens
 And the [C]earth by Thy great po[G]wer
 [C]Ah Lord God T[F]hou hast made the hea[C]vens

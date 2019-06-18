@@ -5,11 +5,10 @@
 {tempo:102}
 {time:4/4}
 {as:10}
-
 {c:Intro}
 Not[E]hing but the blood of [B]Je - s[E]us
 
-#Verse 1
+{c:Verse 1}
 W[E]hat can wash a - way my sin
 Not[E]hing but the blood of [B]Je - s[E]us
 W[E]hat can make me whole again
@@ -22,7 +21,7 @@ T[B]hat makes me white as sn[E]ow
 Not[E]hing but the blood of [B]Je - s[E]us
 {eoc}
 
-#Verse 2
+{c:Verse 2}
 F[E]or my par - don this I see
 Not[E]hing but the blood of [B]Je - s[E]us
 F[E]or my cleans - ing this my plea
@@ -34,21 +33,8 @@ T[B]hat makes me white as sn[E]ow
 [E]No other fount I know
 Not[E]hing but the blood of [B]Je - s[E]us
 {eoc}
-#
-#Verse 3
-#Not[E]hing can for sin atone
-#Not[E]hing but the blood of [B]Je - s[E]us
-#Na[E]ught of good that I have done
-#Not[E]hing but the blood of [B]Je - s[E]us
-#
-#{soc}
-#[E]O precious is the flow
-#T[B]hat makes me white as sn[E]ow
-#[E]No other fount I know
-#Not[E]hing but the blood of [B]Je - s[E]us
-#{eoc}
 
-#Verse 4
+{c:Verse 4}
 T[E]his is all my hope and peace
 Not[E]hing but the blood of [B]Je - s[E]us
 T[E]his is all my righteousness

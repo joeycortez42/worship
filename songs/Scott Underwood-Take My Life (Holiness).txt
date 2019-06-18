@@ -8,13 +8,13 @@
 {c:Intro}
 [D] [G] [A] [G] [D] [G] [A]
 
-#Verse 1
+{c:Verse 1}
 [D]  Holi - [G]ness holi - [A]ness is what I [G]long for
 [D]  Holi - [G]ness is what I [A]need  [G]
 [D]  Holi - [G]ness holi - [A]ness
 Is what You [G]want from [D]me  [G]  [A]  [G]
 
-#Verse 2
+{c:Verse 2}
 [D]  Faithful - [G]ness faithful - [A]ness is what I [G]long for
 [D]  Faithful - [G]ness is what I [A]need  [G]
 [D]  Faithful - [G]ness faithful - [A]ness
@@ -28,7 +28,7 @@ To [D]Yours to [G]Yours oh [A]Lord  [G]
 To [D]Yours to [G]Yours oh [A]Lord  [G]
 {eoc}
 
-#Verse 3
+{c:Verse 3}
 [D]  Righteous - [G]ness righteous - [A]ness is what I [G]long for
 [D]  Righteous - [G]ness is what I [A]need  [G]
 [D]  Righteous - [G]ness righteous - [A]ness

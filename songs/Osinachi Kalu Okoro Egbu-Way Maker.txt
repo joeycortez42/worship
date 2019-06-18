@@ -15,10 +15,10 @@
 {eoc}
 
 {c:Intro}
-[E]     [B]     [F#]     [G#m]
-[E]     [B]     [F#]     [G#m]
+[E]. . .[B]. . .[F#]. . .[G#m]
+[E]. . .[B]. . .[F#]. . .[G#m]
 
-#Verse
+{c:Verse}
 You are [E]here and you're moving in our [B]midst
 I worship [F#]You I worship [G#m]You
 You are [E]here and you're working in this [B]place
@@ -75,7 +75,6 @@ I worship [F#]You I worship [G#m]You
 [F#] My God that is who You [G#m]are
 {eoc}
 
-{c:verona first}
 That is who You [E]are (That is who You [B]are)
 That is who You [F#]are (That is who You [G#m]are)
 That is who You [E]are (That is who You [B]are)
@@ -93,4 +92,4 @@ That is who You [F#]are (That is who You [G#m]are)
 {eoc}
 
 {c:Ending}
-[E]     [B]     [F#]     [G#m]     [E]
+[E]. . .[B]. . .[F#]. . .[G#m]. . .[E]

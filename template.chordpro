@@ -14,7 +14,7 @@
 |--------------------------------------|
 |--------------------------------------|
 
-#Verse 1
+{c:Verse 1}
 
 {c:Pre-Chorus}
 
@@ -22,7 +22,7 @@
 
 {eoc}
 
-#Verse 2
+{c:Verse 2}
 
 {sob}
 
@@ -35,6 +35,8 @@
 {c:Repeat} // Should not use. Just duplicate the sections.
 
 {c:Softly}
+
+{c:Instrumental}
 
 {c:Retard}
 

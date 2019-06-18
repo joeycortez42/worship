@@ -5,11 +5,10 @@
 {tempo:78}
 {time:4/4}
 {as:8.9}
-
 {c:Intro}
 Lord [C]have Your [D/F#]way in [C]me [C] [C]
 
-#Verse
+{c:Verse}
 [G]This is my de -  [Em7]sire to [C]hon -  [G]our  [D/F#]You
 [Em]Lord with [D/F#]all my [G]heart I worship [F]You    [C]     [D]
 [G]All I have with - [Em7]in me I [C]give    [G]You  [D/F#]praise
@@ -24,7 +23,7 @@ Lord h[C]ave Your [D]way in me [C]
 
 [C]
 
-#Verse
+{c:Verse}
 [G]This is my de -  [Em7]sire to [C]hon -  [G]our  [D/F#]You
 [Em]Lord with [D/F#]all my [G]heart I worship [F]You    [C]     [D]
 [G]All I have with - [Em7]in me I [C]give    [G]You  [D/F#]praise

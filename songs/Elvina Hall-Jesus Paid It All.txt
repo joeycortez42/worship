@@ -1,15 +1,14 @@
 {title:Jesus Paid It All}
 {subtitle:Elvina Hall}
 {original_key:Db}
-{key:A}
+{key:G}
 {tempo:80}
 {time:3/4}
 {as:10.0}
-
 {c:Intro}
 [G/B] [C/B] [A/B] [C/B]
 
-#Verse 1
+{c:Verse 1}
 [G]I hear the Saviour say
 Thy [D]strength in - deed is [G]small
 [Em]Child of weak - ness watch and [C]Pray
@@ -24,7 +23,7 @@ He [G]washed it [D]white as [G]snow
 
 [G][C] [G][C] [G][C] [G][C]
 
-#Verse 2
+{c:Verse 2}
 [G]Lord now in - deed I find
 Thy [D]power and Thine a - [G]lone
 [Em]Can change the leper's [C]spots
@@ -39,7 +38,7 @@ He [G]washed it [D]white as [G]snow
 
 [G][C] [G][C] [G][C] [G][C]
 
-#Verse 4
+{c:Verse 3}
 [G]And when be - fore the throne
 I [D]stand in Him com - [G]plete
 [Em]Jesus died my soul to [C]save

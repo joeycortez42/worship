@@ -7,7 +7,8 @@
 {as:14.0}
 {c:Intro}
 [A]
-#Verse 1
+
+{c:Verse 1}
 Even though I [A]walk through the valley
 Of the shadow of death
 Your [D]perfect love is casting out fear
@@ -31,7 +32,7 @@ In ev'ry high and ev'ry low
 [D]Lord You never let go of me [A] [E] [D]
 {eoc}
 
-#Verse 2
+{c:Verse 2}
 And I can see a [A]light that is coming
 For the heart that holds on
 A [D]glorious light beyond all compare

@@ -9,7 +9,7 @@
 [C] Be ex-alted oh L[G]ord [D/F#]my   [Em]God
 Gl[C]ory to the K[D]ing- of k[G]ings—
 
-#Verse 1
+{c:Verse 1}
 Ho - s[G]anna ho - [D]sanna
 Ho - [Em]sanna in the h[C]igh - [D]est
 Ho - s[G]anna ho - [D]sanna
@@ -24,7 +24,7 @@ Ho - s[C]anna in the h[D]igh - [G]est
 
 {c:Now we sing Glory to Him}
 
-#Verse 2
+{c:Verse 2}
 Gl[G] - o - ry  gl[D] - o - ry
 G[Em]lory to the K[C]ing of ki[D]ngs—
 Gl[G] - o - ry  gl[D] - o - ry
@@ -42,7 +42,7 @@ Gl[C]ory to the K[D]ing- of k[G]ings—
 Gl[C]ory to the K[D]ing- of k[G]ings—
 {eoc}
 
-#Verse 1
+{c:Verse 1}
 Ho - s[G]anna ho - [D]sanna
 Ho - [Em]sanna in the h[C]igh - [D]est
 Ho - s[G]anna ho - [D]sanna

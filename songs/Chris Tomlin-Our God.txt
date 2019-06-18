@@ -5,7 +5,6 @@
 {tempo:105}
 {time:4/4}
 {as:13.5}
-
 {c:Intro}
 #|--------------------------------------|
 #|-8 x 8----5 x 8----12 x 8----10 x 8---|
@@ -22,12 +21,12 @@
 #|--------------------------------------|
 [Em] [C] [G] [D]
 
-#Verse 1
+{c:Verse 1}
 [Em]Water You t[C]urned into [G]wine
 [Em]Opened the [C]eyes of the [G]blind
 [Am7]There's no one like You [Dsus]None like You
 
-#Verse 2
+{c:Verse 2}
 [Em]Into the [C]darkness You [G]shine
 [Em]Out of the [C]ashes we [G]rise
 [Am7]There's no one like You  [Dsus]None like You
@@ -42,7 +41,7 @@
 {c:Down strums}
 [Em] [C] [G] [D]
 
-#Verse 2
+{c:Verse 2}
 [Em]Into the [C]darkness You [G]shine
 [Em]Out of the [C]ashes we [G]rise
 [Am7]There's no one like You  [Dsus]None like You

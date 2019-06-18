@@ -6,7 +6,7 @@
 {time:4/4}
 {as:11.0}
 
-#Verse 1
+{c:Verse 1}
 [D]Light of the [Asus]world
 You stepped [Em]down into [G]darkness
 [D]Opened my [Asus]eyes let me [G]see
@@ -23,7 +23,7 @@ Altogether [A/C#]worthy
 Altogether [D]wonderful to [G]me
 {eoc}
 
-#Verse 2
+{c:Verse 2}
 [D]King of all [Asus]days
 Oh so [Em]highly [G]exalted
 [D]Glorious in [Asus]heaven a [G]- bove

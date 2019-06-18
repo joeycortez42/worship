@@ -22,7 +22,7 @@
 [D]Come
 {eoc}
 
-#Verse
+{c:Verse}
 [G]One day every tongue will con - [D]fess You are God
 [G]One day every knee will [D]bow
 [G]Still the greatest treasure re - [Bm]mains for those
@@ -36,13 +36,13 @@
 [D]Come
 {eoc}
 
-#Verse
+{c:Verse}
 [G]One day every tongue will con - [D]fess You are God
 [G]One day every knee will [D]bow
 [G]Still the greatest treasure re - [Bm]mains for those
 [G]Who gladly choose You [A]now
 
-#Verse
+{c:Verse}
 [G]One day every tongue will con - [D]fess You are God
 [G]One day every knee will [D]bow
 [G]Still the greatest treasure re - [Bm]mains for those
@@ -53,13 +53,13 @@
 [E].......[A]..[E]
 [B].....[F#m]..[A]..[E]
 
-#Verse
+{c:Verse}
 [A]One day every tongue will con - [E]fess You are God
 [A]One day every knee will [E]bow
 [A]Still the greatest treasure re - [C#m]mains for those
 [A]Who gladly choose You [B]now
 
-#Verse
+{c:Verse}
 [A]One day every tongue will con - [E]fess You are God
 [A]One day every knee will [E]bow
 [A]Still the greatest treasure re - [C#m]mains for those

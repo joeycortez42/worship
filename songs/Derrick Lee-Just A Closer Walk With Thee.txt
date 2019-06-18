@@ -8,7 +8,7 @@
 Da[A]i - ly walk - ing close to [D]Thee
 Let it [A] be dear [E]Lord let it b[A]e
 
-#Verse 1
+{c:Verse 1}
 I  [A] am weak Thou art s[E]trong
 Je[E] - sus keep me from all wro[A]ng
 I'll[A] be sat - is - fied just as l[D]ong
@@ -21,7 +21,7 @@ Da[A]i - ly walk - ing close to T[D]hee
 Let it [A] be dear [E]Lord let it b[A]e
 {eoc}
 
-#Verse 2
+{c:Verse 2}
 Th[A]rough this world of toil and s[E]nares
 If[E] I fal - ter Lord who car[A]es
 Wh[A]o with me by bur - dens sh[D]ares
@@ -34,7 +34,7 @@ Da[A]i - ly walk - ing close to T[D]hee
 Let it [A] be dear [E]Lord let it b[A]e
 {eoc}
 
-#Verse 3
+{c:Verse 3}
 Wh[A]en my feeble life is [E]over
 T[E]ime for me will be no mor[A]e
 Gu[A]ide me gently safely o[D]ver

@@ -5,11 +5,10 @@
 {tempo:75}
 {time:4/4}
 {as:9.0}
-
 {c:Intro}
 [Bm]  [F#m]  [G]  [D]  [A]
 
-#Verse 1
+{c:Verse 1}
 [Bm]   Saviour I [F#m]come quiet my [G]soul re - [D]mem - [A]ber
 [Bm]   Redemption’s [F#m]hill where Your blood was [G]spilled for my [D]ran - [A]som
 
@@ -26,7 +25,7 @@ Oh lead me [Em]
 
 [Bm]  [F#m]  [G]  [D]  [A]
 
-#Verse 2
+{c:Verse 2}
 [Bm]  You were as [F#m]I tempted and [G]tried [D]hu - [A]man
 [Bm]  The word became [F#m]flesh bore my sin in [G]death now You’re [D]ris - [A]en
 
@@ -40,6 +39,8 @@ Rid me of my - [G]self I be - [D]long to [A]You
 Oh lead me [Em]
 [G]Lead me [A]to the [Bm]cross
 {eoc}
+
+[Bm] [Bm] [Bm] [Bm]
 
 {sob}
 To Your [D]heart   [G]   [A]

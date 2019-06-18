@@ -5,7 +5,6 @@
 {tempo:104}
 {time:4/4}
 {as:10}
-
 {c:Intro}
 [G] [C] [F] [C]
 [G] [C] [F] [C]
@@ -21,6 +20,7 @@ And I will [C]learn to walk in Your [Am]ways
 And [G]step by step You'll [D]lead me
 And I will [C]follow You a[D]ll of my [G]days
 {eoc}
+
 [G] [C] [F] [C]
 
 {soc}
@@ -34,6 +34,7 @@ And I will [C]learn to walk in Your [Am]ways
 And [G]step by step You'll [D]lead me
 And I will [C]follow You a[D]ll of my [G]days
 {eoc}
+
 [G] [C] [F] [C]
 
 {soc}

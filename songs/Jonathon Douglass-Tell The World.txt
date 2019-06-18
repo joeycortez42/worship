@@ -5,11 +5,10 @@
 {tempo:140}
 {time:4/4}
 {as:14.0}
-
 {c:Intro}
 [F#m] [D] [F#m] [D] [F#m] [D] [F#m] [D]
 
-#Verse 1
+{c:Verse 1}
 [F#m]   Don't wanna stand here and shout Your praise
 [F#m]And walk away and forget Your name
 [F#m]I stand for You if that's all I do
@@ -28,7 +27,7 @@ And [F#m]all I want in this [D]whole world is [F#m]You  You  You  [Bm7][D]
 
 [F#m] [D] [F#m] [D] [F#m] [D] [F#m] [D]
 
-#Verse 2
+{c:Verse 2}
 [F#m]   No longer I but Christ in me
 [F#m]'Cause it's the truth that set me free
 [F#m]How could this world be a better place

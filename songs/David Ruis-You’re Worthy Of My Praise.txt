@@ -15,7 +15,7 @@
 [C]   You alone are [Am7]worthy [D]of my [G]praise
 {eoc}
 
-#Verse 1
+{c:Verse 1}
 [G]I will worship (I will worship)
 With [F]all of my heart (with all of my heart)
 [C]I will praise You (I will praise You)
@@ -34,7 +34,7 @@ Follow all [G]of   Your    ways [Am7](all Your [D]ways)
 
 [G]   [G]   [G]   [G]
 
-#Verse 2
+{c:Verse 2}
 [G]I will bow down (I will bow down)
 And [F]hail You as King (and hail You as King)
 [C]I will serve You (I will serve You)
@@ -58,7 +58,7 @@ Trust   [G]You  a -  lone [Am7](You a - [D]lone)
 [G] [D] [C] [Am7] [D]
 [G] [D] [C] [Am7] [D]
 
-#Verse 2
+{c:Verse 2}
 [G]I will bow down (I will bow down)
 And [F]hail You as King (and hail You as King)
 [C]I will serve You (I will serve You)

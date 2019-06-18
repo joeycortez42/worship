@@ -8,12 +8,12 @@
 {c:Intro}
 [D] [Am7] [C] [G]
 
-#Verse 1
+{c:Verse 1}
 [D]  Worthy is the  [Am7]  Lamb Who was slain [C]  Ho-ly ho - ly is [G]He
 [D]  Sing a new song  [Am7]  to Him Who sits on
 [C]  Heaven's mer - cy [G]seat
 
-#Verse 1
+{c:Verse 1}
 [D]  Worthy is the  [Am7]  Lamb Who was slain [C]  Ho-ly ho - ly is [G]He
 [D]  Sing a new song  [Am7]  to Him Who sits on
 [C]  Heaven's mer - cy [G]seat
@@ -27,7 +27,7 @@
 
 [D] [Am7] [C] [G]
 
-#Verse 2
+{c:Verse 2}
 [D]  Clothed in rainbows  [Am7]  of living color
 [C]  Flashes of lightning rolls of [G]thunder
 [D]  Blessing and hon - or strength and [Am7]  glory and power be
@@ -40,10 +40,9 @@
 [C]  You are my ev'rything And [G]I will adore You
 {eoc}
 
-[D] [Am7] [C] [G]
-[D] [Am7] [C] [G]
+[D]. [Am7]. [C]. [G].  .  .[D] [Am7] [C] [G]
 
-#Verse 3
+{c:Verse 3}
 [D]  Filled with wonder  [Am7]  awestruck wonder
 [C]  At the mention of Your [G]name
 [D]  Jesus Your name is power [Am7]  Breath and living water

@@ -18,13 +18,13 @@ I want to [G]see You I want to [D]see You
 I want to [G]see You I want to [D]see You
 {eoc}
 
-#Verse
+{c:Verse}
 To see You h[A]igh and lifted [Bm]up
 [G]Shining in the light of Your [A]glory
 [A]Pour out Your power and l[Bm]ove
 As we sing [G]holy holy [A]holy
 
-#Verse
+{c:Verse}
 H[A]igh and lifted [Bm]up
 [G]Shining in the light of Your [A]glory
 [A]Pour out Your power and l[Bm]ove
@@ -50,13 +50,13 @@ Yo quiero [G]verte Yo quiero [D]verte
 Yo quiero [G]verte Yo quiero [D]verte
 {eoc}
 
-#Verse
+{c:Verse}
 Y contem[A]plar Tu Majes[Bm]tad
 [G]Y el resplandor de Tu [A]Gloria
 [A]Derrama Tu amor y p[Bm]oder
 Cuando can[G]tamos Santo [A]Santo
 
-#Verse
+{c:Verse}
 Y contem[A]plar Tu Majes[Bm]tad
 [G]Y el resplandor de Tu [A]Gloria
 [A]Derrama Tu amor y p[Bm]oder
@@ -82,13 +82,13 @@ I want to [G]see You I want to [D]see You
 I want to [G]see You I want to [D]see You
 {eoc}
 
-#Verse
+{c:Verse}
 To see You h[A]igh and lifted [Bm]up
 [G]Shining in the light of Your [A]glory
 [A]Pour out Your power and l[Bm]ove
 As we sing [G]holy holy [A]holy
 
-#Verse
+{c:Verse}
 H[A]igh and lifted [Bm]up
 [G]Shining in the light of Your [A]glory
 [A]Pour out Your power and l[Bm]ove

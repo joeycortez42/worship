@@ -1,11 +1,10 @@
 {title:Friend of God}
 {subtitle:Israel Houghton}
 {original_key:E}
-{key:A}
+{key:C}
 {tempo:126}
 {time:4/4}
 {as:9.2}
-
 {c:Intro}
 [C] [Am] [Dm7] [C]
 

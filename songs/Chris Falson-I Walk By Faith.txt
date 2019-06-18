@@ -1,0 +1,56 @@
+{title:I Walk By Faith}
+{subtitle:Chris Falson}
+{original_key:C}
+{key:A}
+{tempo:120}
+{time:4/4}
+{as:10}
+{c:Intro}
+[A]. [Asus]. . . [G]. [Gsus]. . . [D]. [Dsus]. . . [A]. [Asus].
+
+{soc}
+I w[A]alk by faith each s[G]tep by faith
+To li[D]ve by faith I put my tr[A]ust in You
+I w[A]alk by faith each s[G]tep by faith
+To li[D]ve by faith I put my tr[A]ust in You
+{eoc}
+
+{c:Verse}
+E[Bm]v'ry step I t[C#]ake [D]is a step of f[E]aith
+No w[Bm]eapon formed a-ga[C#]inst me shall pro[D]sper  [E]
+And [Bm]ev'ry prayer I m[C#]ake [D]is a prayer of fa[E]ith
+[Bm]If my God is f[C#]or me w[G]ho can be a-ga[E]inst me
+
+{soc}
+I w[A]alk by faith each s[G]tep by faith
+To li[D]ve by faith I put my tr[A]ust in You
+I w[A]alk by faith each s[G]tep by faith
+To li[D]ve by faith I put my tr[A]ust in You
+{eoc}
+
+{c:Verse}
+E[Bm]v'ry step I t[C#]ake [D]is a step of f[E]aith
+No w[Bm]eapon formed a-ga[C#]inst me shall pro[D]sper  [E]
+And [Bm]ev'ry prayer I m[C#]ake [D]is a prayer of fa[E]ith
+[Bm]If my God is f[C#]or me w[G]ho can be a-ga[E]inst me
+
+{c:Only Electric Guitar and Drums}
+I w[A]alk by faith each s[G]tep by faith
+To li[D]ve by faith I put my tr[A]ust in You
+
+{c:Instrumental}
+[A]. [Asus]. . . [G]. [Gsus]. . . [D]. [Dsus]. . . [A]. [Asus].
+
+{c:Vamp}
+I w[A]alk (I walk) By faith (By faith)
+Each s[G]tep (Each step) by faith (By faith)
+To li[D]ve (To live) by faith (By faith)
+I put my tr[A]ust in You
+
+I w[A]alk (I walk) By faith (By faith)
+Each s[G]tep (Each step) by faith (By faith)
+To li[D]ve (To live) by faith (By faith)
+I put my tr[A]ust in You
+
+{c:Ending}
+[A]. [Asus]. . . [G]. [Gsus]. . . [D]. [Dsus]. . . [A]. [Asus].

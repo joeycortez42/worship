@@ -8,13 +8,13 @@
 {c:Intro}
 [A]
 
-#Verse 1
+{c:Verse 1}
 You are [A]good You are good when there’s nothing good in me
 You are [E]love You are love on display for all to see
 You are [A]light You are light when the darkness closes in
 You are [E]hope You are hope You have covered all my sin  [A]
 
-#Verse 2
+{c:Verse 2}
 You are [A]peace You are peace when my fear is crippling
 You are [E]true You are true even in my wandering
 You are [A]joy You are joy You’re the reason that I sing
@@ -27,7 +27,7 @@ Nothing com - [F#m]pares to [E]Your em - [D]brace
 Light of the [F#m]world for - [E]ever [D]reign [D]
 {eoc}
 
-#Verse 3
+{c:Verse 3}
 You are [A]more You are more than my words will ever say
 You are [E]Lord You are Lord all creation will proclaim
 You are [A]here You are here in Your presence I’m made whole

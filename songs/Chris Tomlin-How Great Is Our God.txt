@@ -1,14 +1,14 @@
 {title:How Great Is Our God}
 {subtitle:Chris Tomlin}
 {original_key:C}
-{key:G}
+{key:C}
 {tempo:76}
 {time:4/4}
 {as:10}
 {c:Intro}
 [C] [Am] [F] [G]  [C]
 
-#Verse 1
+{c:Verse 1}
 The [C]splendor of the King
 [Am]Clothed in majesty
 Let all the earth [F]rejoice All the earth re - joice
@@ -22,7 +22,7 @@ How [Am]great is our God... And all will see
 How [F]great How [G]great is our [C]God
 {eoc}
 
-#Verse 2
+{c:Verse 2}
 And [C]age to age He stands
 And [Am]time is in His hands
 Beginning and the [F]End Beginning and the End
@@ -57,8 +57,7 @@ How [Am]great is our God... And all will see
 How [F]great How [G]great is our [C]God
 {eoc}
 
-{c:Ending}
-{c:A cappella}
+{c:Ending - A cappella}
 How [C]great is our God... Sing with me
 How [Am]great is our God... And all will see
 How [F]great How [G]great is our [C]God

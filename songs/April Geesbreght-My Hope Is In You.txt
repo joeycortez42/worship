@@ -1,72 +1,62 @@
 {title:My Hope Is In You}
 {subtitle:April Geesbreght}
 {original_key:D}
-{key:D}
+{key:G}
 {as:10}
 {tempo:75}
 {time:4/4}
-
 {c:Intro}
-[D] [A] [E] [F#m]
-[D] [A] [E]
+[G]. [D]. [A]. [Bm]. . . [G] [D] [A] [Bm]
+[G]. [D]. [A]. [Bm]. . . [G] [D] [A] [A]
 
-#Verse 1
-[F#m]  I meet with Y[A]ou and my s[D]oul sings o[A]ut
-As Your w[D]ord throws [F#m7]doubt far away  [E]
-[F#m]  I sing to Y[A]ou and my h[D]eart cries h[A]oly
-Halle - lu[D]jah F[F#m7]ather You're [E]near
-
-{soc}
-[D]  My hope is [A] in You Lord [E] all the day l[F#m]ong
-[D]  I won't be[A] shaken by [E] drought or s[F#m]torm
-[D]  A peace that pa[A]sses understa[E]nding is my song
-[F#m] And I sing
-[D]  My hope is [A] in You L[E]ord
-{eoc}
-
-#Verse 2
-[F#m]  I wait for Y[A]ou and my s[D]oul finds r[A]est
-In my sel[D]fish - [F#m7]ness You show me [E]grace
-[F#m]  I worship Y[A]ou and my h[D]eart cries gl[A]ory
-Halle - lu[D]jah F[F#m7]ather You're [E]here
+{c:Verse 1}
+[Bm]  I meet with [D]You and my [G]soul sings [D]out
+As Your [G]word throws [Bm7]doubt far a - [A]way
+[Bm]  I sing to [D]You and my [G]heart cries [D]holy
+Halle - [G]lujah [Bm7]Father You're [A]near
 
 {soc}
-[D]  My hope is [A] in You Lord [E] all the day l[F#m]ong
-[D]  I won't be[A] shaken by [E] drought or s[F#m]torm
-[D]  A peace that pa[A]sses understa[E]nding is my song
-[F#m] And I sing
-[D]  My hope is [A] in You L[E]ord
+[G]  My hope is [D] in You Lord [A] all the day [Bm]long
+[G]  I won't be [D] shaken by [A] drought or [Bm]storm
+[G]  A peace that [D]passes under - [A]standing is my [Bm]song and I sing
+[G]  My hope is [D] in You [A]Lord
 {eoc}
 
-[D] [F#m] [E]  [D] [F#m] [E]
+{c:Verse 2}
+[Bm]  I wait for [D]You and my [G]soul finds [D]rest
+In my [G]selfish - [Bm7]ness You show me [A]grace
+[Bm]  I worship [D]You and my [G]heart cries [D]glory
+Halle - [G]lujah [Bm7]Father You're [A]here
+
+{soc}
+[G]  My hope is [D] in You Lord [A] all the day [Bm]long
+[G]  I won't be [D] shaken by [A] drought or [Bm]storm
+[G]  A peace that [D]passes under - [A]standing is my [Bm]song and I sing
+[G]  My hope is [D] in You [A]Lord
+{eoc}
+
+{c:Instrumental}
+[G]. [Bm]. [A]. [A]. . . [G] [Bm] [A] [A]
 
 {sob}
-I will w[D]ait [F#m]on Y[E]ou
-You are [D]my [F#m]ref - u[E]ge
+I will [G]wait [Bm]on [A]You [A]. . . You are [G]my [Bm]ref - [A]uge [A]
+I will [G]wait [Bm]on [A]You [A]. . . You are [G]my [Bm]ref - [A]uge [A]
 
-I will w[D]ait [F#m]on Y[E]ou
-You are [D]my [F#m]ref - u[E]ge
-
-I will w[D]ait [F#m]on Y[E]ou
-You are [D]my [F#m]ref - u[E]ge
-
-I will w[D]ait [F#m]on Y[E]ou
-You are [D]my [F#m]ref - u[E]ge
+I will [G]wait [Bm]on [A]You [A]. . . You are [G]my [Bm]ref - [A]uge [A]
+I will [G]wait [Bm]on [A]You [A]. . . You are [G]my [D]ref - [A]uge [A]
 {eob}
 
 {soc}
-[D]  My hope is [A] in You Lord [E] all the day l[F#m]ong
-[D]  I won't be [A] shaken by [E] drought or s[F#m]torm
+[G]  My hope is [D] in You Lord [A] all the day [Bm]long
+[G]  I won't be [D/F#] shak - [D]en by [A] drought or [Bm]storm
 
-[D]  My hope is [A] in You Lord [E] all the day l[F#m]ong
-[D]  I won't be[A] shaken by [E] drought or s[F#m]torm
-[D]  A peace that pa[A]sses understa[E]nding is my song
-[F#m] And I sing
-[D]  My hope is [A/C#] in Y[A]ou L[E]ord
+[G]  My hope is [D] in You Lord [A] all the day [Bm]long
+[G]  I won't be [D] shaken by [A] drought or [Bm]storm
+
+[G]  The peace that pa[D]sses under - [A]standing is my [Bm]song and I sing
+[G]  My hope is [D/F#] in [D]You [A]Lord
 {eoc}
 
-[D]  My hope is [A/C#] in Y[A]ou L[E]ord
-[D]  My hope is [A/C#] in Y[A]ou L[E]ord
-
-[D] [A] [E] [F#m]
-[D] [A] [E]
+{c:Ending}
+[G]  My hope is [D/F#] in [D]You [A]Lord
+[G]  My hope is [D/F#] in [D]You [A]Lord  [A]  [G]

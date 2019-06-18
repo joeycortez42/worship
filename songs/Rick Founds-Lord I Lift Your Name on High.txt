@@ -9,7 +9,7 @@
 [A]  [D]  [E]  [D]
 [A]  [D]  [E]  [D]
 
-#Verse
+{c:Verse}
 [A] Lord I [D]lift Your name on [E]high [D]
 [A] Lord I l[D]ove to sing Your pr[E]aises [D]
 [A] I'm so g[D]lad You're in my l[E]ife [D]
@@ -23,7 +23,7 @@ From the g[F#m7]rave to the [Bm7]sky
 Lord I l[E]ift Your name on h[A]igh [D] [E] [D]
 {eoc}
 
-#Verse
+{c:Verse}
 [A] Lord I [D]lift Your name on [E]high [D]
 [A] Lord I l[D]ove to sing Your pr[E]aises [D]
 [A] I'm so g[D]lad You're in my l[E]ife [D]

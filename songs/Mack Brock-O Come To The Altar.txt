@@ -5,11 +5,10 @@
 {tempo:140}
 {time:6/8}
 {as:11.5}
-
 {c:Intro}
 [G] [C] [G] [C]
 
-#Verse 1
+{c:Verse 1}
 [G]  Are you [C]hurting and broken with-[G]in
 Over-[C]whelmed by the weight of your [Em]sin
 Jesus is [C]calling
@@ -26,7 +25,7 @@ Jesus is [C]calling
 
 [G] [C] [G] [C]
 
-#Verse 2
+{c:Verse 2}
 [G]  Leave be-[C]hind your regrets and mis-[G]takes
 Come to-[C]day there's no reason to w[Em]ait
 Jesus is [C]calling
@@ -77,7 +76,7 @@ Sing alle-[C]luia Christ is risen [G]
 [G] [Am] [Em] [C]
 [G] [Am] [Em] [C] [G]
 
-#Verse 3
+{c:Verse 3}
 [G]  Bear your [C]cross as you wait for the [G]crown
 Tell the [F]world of the t[C]reasure you've [G]found
 Jesus is [C]calling [G]

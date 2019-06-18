@@ -8,7 +8,7 @@
 {c:Intro}
 [D]      [D]      [D]      [D]
 
-#Verse 1
+{c:Verse 1}
 [D]  Through You the blind will see
 [D]  Through You the mute will sing
 [G]  Through You the dead will rise
@@ -30,7 +30,7 @@ I am [Bm7]free to live for You (I am [Asus]free to live for You)
 I am [D]free (I am free) [D]
 {eoc}
 
-#Verse 2
+{c:Verse 2}
 [D]  Through You the kingdom come
 [D]  Through You the battles won
 [G]  Through You I'm not afraid

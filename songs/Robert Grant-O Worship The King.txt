@@ -5,18 +5,17 @@
 {tempo:120}
 {time:6/8}
 {as:11.0}
-
 {c:Intro}
 [G] [C] [Em] [D]
 [G] [C] [Em] [D]
 
-#Verse 1
+{c:Verse 1}
 O [G]wor - ship the King all [C]glo - rious a - [D]bove
 And [G]grate - ful - ly sing [C]His wonder[D]ful [G]love
 [D]Our Shield and De - fender the Ancient of Days
 Pa - [Em]vil - ioned in [C]splendor and [Am]gird - ed [D]with [G]praise [C] [Em] [D]
 
-#Verse 2
+{c:Verse 2}
 O [G]tell of His might O [C]sing of His [D]grace
 Whose [G]robe is the light [C]whose can - o - [D]py [G]space
 [D]His chariots of wrath the deep thunder - clouds form
@@ -31,7 +30,7 @@ Forev[D]er Make [G]Known [C] [Em] [D]
 [G] [C] [Em] [D]
 {eoc}
 
-#Verse 4
+{c:Verse 3}
 Frail [G]chil - dren of dust and [C]fee - ble as [D]frail
 In [G]Thee do we trust [C]nor find Thee [D]to [G]fail
 [D]Thy mercies how tender how firm to the end
