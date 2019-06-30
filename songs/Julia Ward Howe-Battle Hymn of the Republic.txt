@@ -1,76 +1,88 @@
 {title:Battle Hymn of the Republic}
 {subtitle:Julia Ward Howe}
 {original_key:Bb}
-{key:G}
+{key:A}
+{tempo:90}
 {time:4/4}
 {as:11.0}
-
 {c:Intro}
-His [C]truth is m[D]arching [G]on
+[A]
 
-#Verse 1
-Mine [G]eyes have seen the glory
+{c:Verse 1}
+Mine [A]eyes have seen the glory
 Of the coming of the Lord
-He is [C]trampling out the vintage
-Where the [G]grapes of wrath are stored
-He hath loosed the fateful lightning
-Of His terri - ble swift sword
-His [C]truth is m[D]arch - ing [G]on
+He is [D]trampling out the vintage
+Where the [A]grapes of wrath are stored
+He hath [A]loosed the fateful lightning
+Of His terri-ble swift sword
+His [D]truth is m[E]arch-ing [A]on
 
 {soc}
-[G]Glory glory hal - le - lu - jah
-[C]Glory glory halle - [G]lujah
-[G]Glory glory hal - le - lu - jah
-His [C]truth is m[D]arch - ing [G]on
+[A]Glory Glory Hal-le-lu-[C#]jah
+[D]Glory Glory Halle-[A]lujah
+[A]Glory Glory Hal-le-lu-[C#]jah
+His [D]truth is m[E]arch-ing [A]on
 {eoc}
 
-#Verse 2
-I have [G]seen Him in the watchfires
-Of a hundred cir - cling camps
-They have [C]builded Him an altar
-In the [G]evening dews and damps
-I can read His righteous sentence
-By the dim and flar - ing lamps
-His [C]day is m[D]arch - ing [G]on
+[A]
+
+{c:Verse 2}
+I have [A]seen Him in the watchfires
+Of a hundred cir-cling camps
+They have [D]builded Him an altar
+In the [A]evening dews and damps
+I can [A]read His righteous sentence
+By the dim and flar-ing lamps
+His [D]day is m[E]arch-ing [A]on [D] [C#] [B]
 
 {soc}
-[G]Glory glory hal - le - lu - jah
-[C]Glory glory halle - [G]lujah
-[G]Glory glory hal - le - lu - jah
-His [C]truth is m[D]arch - ing [G]on
+[A]Glory Glory Hal-le-lu-[C#]jah
+[D]Glory Glory Halle-[A]lujah
+[A]Glory Glory Hal-le-lu-[C#]jah
+His [D]truth is m[E]arch-ing [A]on
 {eoc}
 
-#Verse 3
-He has [G]sounded forth the trumpet
-That shall never call re - treat
-He is [C]sifting out the hearts of men
-Be - [G]fore His judgment seat
-O be swift my soul to answer Him
-Be jubi - lant my feet
-Our [C]God is m[D]arch - ing [G]on
+[A]
+
+{c:Verse 3}
+He has [A]sounded forth the trumpet
+That shall never call re-treat
+He is [D]sifting out the hearts of men
+Be-[A]fore His judgment seat
+O be [A]swift my soul to answer Him
+Be jubi-lant my feet
+Our [D]God is m[E]arch-ing [A]on
 
 {soc}
-[G]Glory glory hal - le - lu - jah
-[C]Glory glory halle - [G]lujah
-[G]Glory glory hal - le - lu - jah
-His [C]truth is m[D]arch - ing [G]on
+[A]Glory Glory Hal-le-lu-[C#]jah
+[D]Glory Glory Halle-[A]lujah
+[A]Glory Glory Hal-le-lu-[C#]jah
+His [D]truth is m[E]arch-ing [A]on
 {eoc}
 
-#Verse 4
-In the [G]beauty of the lilies
-Christ was born a - cross the sea
-With a [C]glory in His bosom
-That trans - [G]figures you and me
-As He died to make men holy
+[A]
+
+{c:Verse 4 - Softly}
+In the [A]beauty of the lilies
+Christ was born a-cross the sea
+With a [D]glory in His bosom
+That trans-[A]figures you and me
+As He [A]died to make men holy
 Let us live to make men free
-While [C]God is m[D]arch - ing [G]on
+While [D]God is m[E]arch-ing [A]on
 
 {soc}
-[G]Glory glory hal - le - lu - jah
-[C]Glory glory halle - [G]lujah
-[G]Glory glory hal - le - lu - jah
-His [C]truth is m[D]arch - ing [G]on
+[A]Glory Glory Hal-le-lu-[C#]jah
+[D]Glory Glory Halle-[A]lujah
+[A]Glory Glory Hal-le-lu-[C#]jah
+His [D]truth is m[E]arch-ing [A]on
+
+
+[A]Glory Glory Hal-le-lu-[C#]jah
+[D]Glory Glory Halle-[A]lujah
+[A]Glory Glory Hal-le-lu-[C#]jah
+His [D]truth is m[E]arch-ing [A]on
 {eoc}
 
 {c:Ending w/ Retard}
-His [C]truth is m[D]arch - ing [G]on
+His [D]truth is m[E]arch-ing [A]on

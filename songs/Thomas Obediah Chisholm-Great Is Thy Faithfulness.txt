@@ -5,50 +5,44 @@
 {tempo:75}
 {time:3/4}
 {as:10}
-
 {c:Intro}
-[C]Lord [G]unto [C]me
+[C] [C] [C/Em] [Dm]
 
-#Verse 1
-[C]Great is Thy [F]faith - fulness [G]O God my [F]Fa - [C]ther
-[F]There is no [C]shad - ow of [D]turn - ing with [G]Thee
-[G]Thou changest [C]not Thy com - pas - sions they [Dm7]fail not
-[F]As Thou hast [C]been Thou forev - [G]er wilt [C]be
-
-{soc}
-[G]Great is Thy [C]faith - fulness [A]great is Thy [D]faith - fulness
-[G]Morning by [C]morning new [D]mer - cies I [G]see
-[G]All I have [C]need - ed Thy hand hath pro - [F]vi - ded
-[F]Great is Thy [C]faithfulness Lord [G]unto [C]me
-{eoc}
-
-#Verse 2
-[C]Summer and [F]win - ter and [G]spring - time and [F]har - [C]vest
-[F]Sun moon and [C]stars in their [D]cours - es a - [G]bove
-[G]Join with all [C]na - ture in man - i - fold [Dm7]wit - ness
-[F]To Thy great [C]faithfulness mer - cy [G]and [C]love
+{c:Verse 1}
+Gr[C]eat is Thy f[F]aith - fulness [G7]O God my [F/C]Fa-the[C]r
+T[F]here is no [C]shad-ow of tu[D]rn-ing with [G]Thee
+T[G7]hou changest n[C]ot Thy com-p[G/C]as-sio[C]ns [Dm7]they [C/E]fail [F]not
+[F]As Thou hast b[C/G]een Thou for[G]ev-er wilt [C]be
 
 {soc}
-[G]Great is Thy [C]faith - fulness [A]great is Thy [D]faith - fulness
-[G]Morning by [C]morning new [D]mer - cies I [G]see
-[G]All I have [C]need - ed Thy hand hath pro - [F]vi - ded
-[F]Great is Thy [C]faithfulness Lord [G]unto [C]me
+G[G]reat is Thy f[F/C]aith-ful[C]ness
+[A]Great is Thy f[Dm]aith-fulness
+M[G7]orning by m[C]orning new m[G/D]er-cies[D] I see[G]
+[G7]All I have [C]need-ed [G/C]Thy h[C]and [Dm]hath [C/E]pro-vi-d[F]ed
+[F]Great is Thy [C]faithfulness [G]Lord u[G7]nto [C]me
 {eoc}
 
-#Verse 3
-[C]Pardon for [F]sin and a [G]peace that en - [F]dur - [C]eth
-[F]Thy own dear [C]pres - ence to [D]cheer and to [G]guide
-[G]Strength for to - [C]day and bright hope for to - [Dm]mor - row
-[F]Bless - ings all [C]mine with ten thou - sand [G]be - [C]side
+{c:Instrumental - Same as verse}
+[C]. . .[F]. . .[G7]. . .[F/C]. . .[C]
+[F]. . .[C]. . .[D7]. . .[G]
+[G7]. . .[C]. . .[G/C]. . .[C]. . .[Dm]. . .[C/E]. . .[F]
+[F]. . .[C/G]. . .[G]. . .[C]
+
+{c:Verse 3}
+Pa[C]rdon for s[F]in and a [G7]peace that e[F/C]n-dur-e[C]th
+[F]Thy own dear p[C]res-ence to c[D7]heer and to g[G]uide
+S[G7]trength for to-[C]day and brig[G/C]ht ho[C]pe [Dm]for t[C/E]o-mor-r[F]ow
+[F]Bless - ings all [C/G]mine with ten [G]thou-sand be-[C]side
 
 {soc}
-[G]Great is Thy [C]faith - fulness [A]great is Thy [D]faith - fulness
-[G]Morning by [C]morning new [D]mer - cies I [G]see
-[G]All I have [C]need - ed Thy hand hath pro - [F]vi - ded
-[F]Great is Thy [C]faithfulness Lord [G]unto [C]me
-{eoc}
+G[G]reat is Thy f[F/C]aith-ful[C]ness
+[A]Great is Thy f[Dm]aith-fulness
+M[G7]orning by m[C]orning new m[G/D]er-cies[D] I see[G]
+[G7]All I have [C]need-ed [G/C]Thy h[C]and [Dm]hath [C/E]pro-vi-d[F]ed
+[F]Great is Thy [C]faithfulness
 
 {c:Ending}
 [F]Great is Thy [C]faithfulness
 [F]Great is Thy [C]faithfulness
-Lord [G]unto [C]me
+{c:Pause - 1,2}
+[G]Lord u[G7]nto [C]me

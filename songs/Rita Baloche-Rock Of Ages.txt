@@ -4,24 +4,23 @@
 {key:A}
 {tempo:136}
 {time:4/4}
-{as:10}
-
+{as:11.5}
 {c:Intro}
 [A]
 
-#Verse 1
+{c:Verse}
 [A]There is no rock    [A]there is no god like  [A]our God
 [D]No other name    [D]worthy of all our  [A]praise
 The [E]Rock of sal - vation that [E]cannot be moved
 He’s [F#m]proven Himself to be [D]faithful and true
-[B]There is no rock [D]there is no god like [A]ours
+[Bm]There is no rock [D]there is no god like [A]ours
 
-#Verse 1
+{c:Verse}
 [A]There is no rock    [A]there is no god like  [A]our God
 [D]No other name    [D]worthy of all our  [A]praise
 The [E]Rock of sal - vation that [E]cannot be moved
 He’s [F#m]proven Himself to be [D]faithful and true
-[B]There is no rock [D]there is no god like [A]ours
+[Bm]There is no rock [D]there is no god like [A]ours
 
 {soc}
 Rock of [F#m]Ag - [D]es   [A]Je - sus is the [E]Rock
@@ -30,12 +29,14 @@ Rock of [F#m]Ag - [D]es   [A]Je - sus is the [E]Rock
 [G]There is no rock [D]there is no god like [A]ours
 {eoc}
 
-#Verse 1
+[A]
+
+{c:Verse}
 [A]There is no rock    [A]there is no god like  [A]our God
 [D]No other name    [D]worthy of all our  [A]praise
 The [E]Rock of sal - vation that [E]cannot be moved
 He’s [F#m]proven Himself to be [D]faithful and true
-[B]There is no rock [D]there is no god like [A]ours
+[Bm]There is no rock [D]there is no god like [A]ours
 
 {soc}
 Rock of [F#m]Ag - [D]es   [A]Je - sus is the [E]Rock
@@ -43,12 +44,15 @@ Rock of [F#m]Ag - [D]es   [A]Je - sus is the [E]Rock
 Rock of [F#m]Ag - [D]es   [A]Je - sus is the [E]Rock
 [G]There is no rock [D]there is no god like [A]ours
 
+{c:Instrumental}
+[F#m]   [D]   [A]   [E]   [G]   [D]   [A]
+
 Rock of [F#m]Ag - [D]es   [A]Je - sus is the [E]Rock
 Rock of [F#m]Ag - [D]es   [A]Je - sus is the [E]Rock
 Rock of [F#m]Ag - [D]es   [A]Je - sus is the [E]Rock
-[G]There is no rock [D]there is no god like [A]ours
+[G]There is no rock [D]there is no god like [A]ours [A]
 {eoc}
 
 {c:Ending}
-[G]There is no rock [D]there is no god like [A]ours
-[G]There is no rock [D]there is no god like [A]ours
+[G]There is no rock [D]there is no god like [A]ours [A]
+[G]There is no rock [D]there is no god like [A]ours [A]

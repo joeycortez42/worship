@@ -5,81 +5,74 @@
 {tempo:80}
 {time:4/4}
 {as:12.1}
-
 {c:Intro}
 [D]
 
-#Verse
-[Bm]  As we [G]lift up our [A]hands will You meet us [Bm]here
-[Bm]  As we [G]call on Your [A]name will You meet us [Bm]here
-[Bm]  We have [G]come to this [A]place to worship [Bm]You
-[Bm]  God of [G]mercy and [A]grace
+{c:Verse}
+[Bm]  As we l[G]ift up our h[A]ands will You meet us here[Bm]
+As we c[G]all on Your n[A]ame will You meet us here[Bm]
+We have c[G]ome to this pl[A]ace to worship You[Bm]
+God of m[G]ercy and gr[A]ace
 
 {c:Pre-Chorus}
-It is [D]You    we a - [G]dore
-It is [D]You    praises are [G]for
-Only [D]You    the heavens de - [G]clare
-It is [D]You    It is [G]You
+It is You[D]    we a-dore[G]
+It is You[D]    praises are for[G]
+Only You[D]    the heavens de-cla[G]re
+It is You[D]    It is You[G]
 
-{start_of_chorus}
-[A]  And holy holy is [G]our God al - [D]mighty
-[A]  And holy holy is [G]His name a - [D]lone
-[A]  And holy holy is [G]our God al - [D]mighty
-[A]  And holy holy is [G]His name a - [D]lone
+{soc}
+[A]  And holy holy is our[G] God al-[D]mighty
+[A]  And holy holy is His[G] name a-l[D]one   Yeah
+[A]  And holy holy is our[G] God al-[D]mighty
+[A]  And holy holy is His[G] name a-l[D]one
 
-It is [D]You    we a - [G]dore
-It is [D]You    only [G]You
-{end_of_chorus}
+It is You[D]    we a-dore[G]
+It is You[D]    It is You[G]
+{eoc}
 
-#Verse
-[Bm]  As we [G]lift up our [A]hands will You meet us [Bm]here
-[Bm]  As we [G]call on Your [A]name will You meet us [Bm]here
-[Bm]  We have [G]come to this [A]place to worship [Bm]You
-[Bm]  God of [G]mercy and [A]grace
+{c:Verse}
+[Bm]  As we l[G]ift up our h[A]ands will You meet us here[Bm]
+As we c[G]all on Your n[A]ame will You meet us here[Bm]
+We have c[G]ome to this pl[A]ace to worship You[Bm]
+God of m[G]ercy and gr[A]ace
 
 {c:Pre-Chorus}
-It is [D]You    we a - [G]dore
-It is [D]You    praises are [G]for
-Only [D]You    the heavens de - [G]clare
-It is [D]You    It is [G]You
+It is You[D]    we a-dore[G]
+It is You[D]    praises are for[G]
+Only You[D]    the heavens de-cla[G]re
+It is You[D]    It is You[G]
 
-{start_of_chorus}
-[A]  And holy holy is [G]our God al - [D]mighty
-[A]  And holy holy is [G]His name a - [D]lone
-[A]  And holy holy is [G]our God al - [D]mighty
-[A]  And holy holy is [G]His name a - [D]lone
-{end_of_chorus}
+{soc}
+[A]  And holy holy is our[G] God al-[D]mighty
+[A]  And holy holy is His[G] name a-l[D]one   Yeah
+[A]  And holy holy is our[G] God al-[D]mighty
+[A]  And holy holy is His[G] name a-l[D]one
+{eoc}
 
-{sob}
-{c:Distortion}
-As we [A]lift up our hands
-As we [G]call on Your [D]name
-Will You [A]visit this place
-By Your [G]mercy and [D]grace
+{c:Bridge - Distorted Electic Guitar & Chorus of Ahs}
+As we lift[A] up our hands    as we call[G] on Your n[D]ame
+Will You visit[A] this place    by Your mer[G]cy and gr[D]ace
 
-As we [A]lift up our hands
-As we [G]call on Your [D]name
-Will You [A]visit this place
-By Your [G]mercy and [D]grace
+As we lift[A] up our hands    as we call[G] on Your n[D]ame
+Will You visit[A] this place    by Your mer[G]cy and gr[D]ace
 
-{c:Clean}
-It is [D]You    we a - [G]dore
-It is [D]You    It is [G]You
-{eob}
+{c:Clean Guitar}
+It is You[D]    we a-dore[G]
+It is You[D]    It is You[G]
 
-{start_of_chorus}
-{c:Distortion}
-[A]  And holy holy is [G]our God al - [D]mighty
-[A]  And holy holy is [G]His name a - [D]lone
-[A]  And holy holy is [G]our God al - [D]mighty
-[A]  And holy holy is [G]His name a - [D]lone
+{c:Distorted Electic Guitar with Drums & Vocal Vamp}
+[A]  And holy holy is our[G] God al-[D]mighty
+[A]  And holy holy is His[G] name a-l[D]one
+{c:Full Band}
+[A]  And holy holy is our[G] God al-[D]mighty
+[A]  And holy holy is His[G] name a-l[D]one
 
-[A]  And holy holy is [G]our God al - [D]mighty
-[A]  And holy holy is [G]His name a - [D]lone
-[A]  And holy holy is [G]our God al - [D]mighty
-[A]  And holy holy is [G]His name a - [D]lone
-{end_of_chorus}
+[A]  And holy holy is our[G] God al-[D]mighty
+[A]  And holy holy is His[G] name a-l[D]one
+[A]  And holy holy is our[G] God al-[D]mighty
+[A]  And holy holy is His[G] name a-l[D]one
 
-{c:Ending - Clean}
-It is [D]You    we a - [G]dore
-It is [D]You    only [G]You
+{c:Ending - Acoustic Guitar & Drums}
+It is You[D]    we a-dore[G]
+{c:Only Acoustic Guitar}
+It is You[D]    It is You[G]

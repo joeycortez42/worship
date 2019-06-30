@@ -4,64 +4,63 @@
 {key:E}
 {tempo:82}
 {time:2/2}
-{as:16.0}
-
+{as:14.0}
 {c:Intro}
-Halle - [G#m]lu - [A]jah halle - [E]lu - [A]jah
-We're [B]going to see the [E]King
+[E]
 
-#Verse 1
-[E]Soon and very soon
-[F#m]We are [E]going to see the King
-[B]Soon and very soon
-[F#m]We are [E]going to see the King
-[E]Soon and very soon
-[F#m]We are [E]going to see the King
+{c:Verse 1 - A cappella with light guitar}
+[E]Soon and very soon   [A]We are [E]going to see the King
+[B]Soon and very soon   [B]We are [E]going to see the King
+[E]Soon and very soon   [A]We are [E]going to see the King
 
 {soc}
-Halle - [G#m]lu - [A]jah halle - [E]lu - [A]jah
+Halle - [G#m]lu - [A]jah halle - [B]lu - [A]jah
 We're [B]going to see the [E]King
 {eoc}
 
-#Verse 2
-[E]No more crying there
-[F#m]We are [E]going to see the King
-[B]No more crying there
-[F#m]We are [E]going to see the King
-[E]No more crying there
-[F#m]We are [E]going to see the King
+[E]
+
+{c:Verse 1}
+[E]Soon and very soon   [A]We are [E]going to see the King
+[B]Soon and very soon   [B]We are [E]going to see the King
+[E]Soon and very soon   [A]We are [E]going to see the King
 
 {soc}
-Halle - [G#m]lu - [A]jah halle - [E]lu - [A]jah
+Halle - [G#m]lu - [A]jah halle - [B]lu - [A]jah
 We're [B]going to see the [E]King
 {eoc}
 
-#Verse 3
-[E]No more dying there
-[F#m]We are [E]going to see the King
-[B]No more dying there
-[F#m]We are [E]going to see the King
-[E]No more dying there
-[F#m]We are [E]going to see the King
+
+{c:Verse 2}
+[E]No more crying there   [A]We are [E]going to see the King
+[B]No more crying there   [B]We are [E]going to see the King
+[E]No more crying there   [A]We are [E]going to see the King
 
 {soc}
-Halle - [G#m]lu - [A]jah halle - [E]lu - [A]jah
+Halle - [G#m]lu - [A]jah halle - [B]lu - [A]jah
 We're [B]going to see the [E]King
 {eoc}
 
-#Verse 1
-[E]Soon and very soon
-[F#m]We are [E]going to see the King
-[B]Soon and very soon
-[F#m]We are [E]going to see the King
-[E]Soon and very soon
-[F#m]We are [E]going to see the King
+{c:Verse 3}
+[E]No more dying there   [A]We are [E]going to see the King
+[B]No more dying there   [B]We are [E]going to see the King
+[E]No more dying there   [A]We are [E]going to see the King
 
 {soc}
-Halle - [G#m]lu - [A]jah halle - [E]lu - [A]jah
+Halle - [G#m]lu - [A]jah halle - [B]lu - [A]jah
 We're [B]going to see the [E]King
 {eoc}
 
-{c:Ending}
-Halle - [G#m]lu - [A]jah halle - [E]lu - [A]jah
+{c:Verse 1}
+[E]Soon and very soon   [A]We are [E]going to see the King
+[B]Soon and very soon   [B]We are [E]going to see the King
+[E]Soon and very soon   [A]We are [E]going to see the King
+
+{soc}
+Halle - [G#m]lu - [A]jah halle - [B]lu - [A]jah
+We're [B]going to see the [E]King
+{eoc}
+
+{c:Ending - Retard}
+Halle - [G#m]lu - [A]jah halle - [B]lu - [A]jah
 We're [B]going to see the [E]King
