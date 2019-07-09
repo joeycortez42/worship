@@ -10,50 +10,50 @@
 [A]  [E]  [D]  [E]  [A]  [E]  [D]  [E]
 
 {c:Verse 1}
-[A]  Over [E]all the earth [D]   You [E]reign on high
-[A]  Every [E]mountain stream [D]   every [E]sunset sky
-[A]  But my [E]one request [D]  Lord my [E]only aim
-[Bm7]  Is that You'd [D]reign in [E]me again
+[A]  Over [E]all the earth [D]   You [E]reign on [A]high
+Every [E]mountain stream [D]   every [E]sunset [A]sky
+But my [E]one request [D]  Lord my [E]only ai[Bm7]m
+Is that You'd [D]reign in [E]me again
 
 {soc}
-[A]  Lord [E]reign in [D]me   reign [E]in Your pow'r
-[A]  Over [E]all my [D]dreams   in my [E]darkest hour
-[A]  You [E]are the [D]Lord   of [E]all I am
-[Bm7]  So won't You [D]reign in [E]me again
+[A]  Lord [E]reign in [D]me   reign [E]in Your [A]pow'r
+Over [E]all my [D]dreams   in my [E]darkest [A]hour
+You [E]are the [D]Lord   of [E]all I a[Bm7]m
+So won't You [D]reign in [E]me again
 {eoc}
 
 [A]  [E]  [D]  [E]  [A]  [E]  [D]  [E]
 
 {c:Verse 2}
-[A]  Over [E]every thought [D]   over [E]every word
-[A]  May my [E]life reflect [D]   the beauty [E]of my Lord
-[A]  'Cause You mean [E]more to me [D]  than any [E]earthly thing
-[Bm7]  So won't You [D]reign in [E]me again
+[A]  Over [E]every thought [D]   over [E]every [A]word
+May my [E]life reflect [D]   the beauty [E]of my [A]Lord
+'Cause You mean [E]more to me [D]  than any [E]earthly [Bm7]thing
+So won't You [D]reign in [E]me again
 
 {soc}
-[A]  Lord [E]reign in [D]me   reign [E]in Your pow'r
-[A]  Over [E]all my [D]dreams   in my [E]darkest hour
-[A]  You [E]are the [D]Lord   of [E]all I am
-[Bm7]  So won't You [D]reign in [E]me again
+[A]  Lord [E]reign in [D]me   reign [E]in Your [A]pow'r
+Over [E]all my [D]dreams   in my [E]darkest [A]hour
+You [E]are the [D]Lord   of [E]all I a[Bm7]m
+So won't You [D]reign in [E]me again
 {eoc}
 
 [A]  [E]  [D]  [E]  [A]  [E]  [D]  [E]
 
 {c:Verse 1}
 {c:Softly - Only Bass and Drums}
-[A]  Over [E]all the earth [D]   You [E]reign on high
-[A]  Every [E]mountain stream [D]   every [E]sunset sky
-[A]  But my [E]one request [D]  Lord my [E]only aim
+[A]  Lord [E]reign in [D]me   reign [E]in Your [A]pow'r
+Over [E]all my [D]dreams   in my [E]darkest [A]hour
+You [E]are the [D]Lord   of [E]all I a[Bm7]m
 {c:Full Band}
-[Bm7]  Is that You'd [D]reign in [E]me again
+So won't You [D]reign in [E]me again
 
 {soc}
 {c:Only Electric Guitar and Drums}
-[A]  Lord [E]reign in [D]me   reign [E]in Your pow'r
+[A]  Lord [E]reign in [D]me   reign [E]in Your [A]pow'r
 {c:Full Band}
-[A]  Over [E]all my [D]dreams   in my [E]darkest hour
-[A]  You [E]are the [D]Lord   of [E]all I am
-[Bm7]  So won't You [D]reign in [E]me again
+Over [E]all my [D]dreams   in my [E]darkest [A]hour
+You [E]are the [D]Lord   of [E]all I a[Bm7]m
+So won't You [D]reign in [E]me again
 {eoc}
 
 {c:Instrumental}
@@ -62,7 +62,7 @@
 [Bm7]  [D]  [E]
 
 {c:Ending}
-[A]  Lord [E]reign in [D]me   reign [E]in Your pow'r
-[A]  Over [E]all my [D]dreams   in my [E]darkest hour
-[A]  You [E]are the [D]Lord   of [E]all I am
-[Bm]  So won't You [D]reign in [E]me again [A] [A]
+[A]  Lord [E]reign in [D]me   reign [E]in Your [A]pow'r
+Over [E]all my [D]dreams   in my [E]darkest [A]hour
+You [E]are the [D]Lord   of [E]all I a[Bm7]m
+So won't You [D]reign in [E]me again [A] [A]

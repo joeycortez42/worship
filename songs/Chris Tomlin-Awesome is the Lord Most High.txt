@@ -1,65 +1,62 @@
 {title:Awesome is the Lord Most High}
 {subtitle:Chis Tomlin}
-{original_key:Ab}
-{key:Ab}
+{original_key:A}
+{key:G}
 {tempo:132}
 {time:4/4}
 {as:11}
-
 {c:Intro}
-[Ab]
+[G]
 
-#Verse 1
-[Ab] Great are You Lord mighty in stre[Eb]ngth
-[Db] You are faithful and You will ever [Ab]be
-[Ab]We will praise You all of our d[Eb]ays
-[Db] It's for Your glory we offer ev'ry - t[Fm]hing
+{c:Verse 1}
+[G] Great are You Lord mighty in stre[D]ngth
+[C] You are faithful and You will ever [G]be
+[G]We will praise You all of our [D]days
+[C] It's for Your glory we offer ev'ry - [Em7]thing
 
 {soc}
-Raise your ha[Ab]nds all you nations
-Shout to [Eb]God all creation
-How aw[Fm]esome is the Lord most high [Db]
+Raise your [G]hands all you nations   Shout to [C]God all creation
+How [Em7]awesome is the Lord most high [C]
 {eoc}
 
-#Verse 2
-[Ab] Where You send us God we will[Eb] go
-[Db] You're the answer we want the world to kn[Ab]ow
-[Ab]We will trust You When You call our na[Eb]me
-[Db] Where You lead us we'll follow all the [Fm]way
+{c:Verse 2}
+[G] Where You send us God we will [D]go
+[C] You're the answer we want the world to kn[G]ow
+[G]We will trust You When You call our [D]name
+[C] Where You lead us we'll follow all the [Em7]way
 
 {soc}
-Raise your ha[Ab]nds all you nations
-Shout to [Eb]God all creation
-How aw[Fm]esome is the Lord most high [Db]
+Raise your [G]hands all you nations   Shout to [C]God all creation
+How [Em7]awesome is the Lord most high [C]
 
-We will pr[Ab]aise You together for [Eb]now and forever
-How aw[Fm]esome is the Lord most high [Db]
-{eoc}
-
-[Ab] [Eb] [Fm] [Db]
-
-{sob}
-H[Ab]allelujah, h[Eb]allelujah
-How aw[Fm]esome is the Lord most high [Db]
-H[Ab]allelujah, h[Eb]allelujah
-How aw[Fm]esome is the Lord most high [Db]
-{eob}
-
-{soc}
-Raise your ha[Ab]nds all you nations
-Shout to [Eb]God all creation
-How aw[Fm]esome is the Lord most high [Db]
-
-We will pr[Ab]aise You together for [Eb]now and forever
-How aw[Fm]esome is the Lord most high [Db]
+We will [G]praise You together for [D/F#]now and forever
+How [Em7]awesome is the Lord most high [C]
 {eoc}
 
 {sob}
-H[Ab]allelujah, h[Eb]allelujah
-How aw[Fm]esome is the Lord most high [Db]
-H[Ab]allelujah, h[Eb]allelujah
-How aw[Fm]esome is the Lord most high [Db]
+{c:Acoustic Guitar / Bass Only}
+[G]Hallelujah   [D]Hallelujah
+How [Em7]awesome is the Lord most high [C]
+
+{c:Full Band Building}
+[G]Hallelujah   [D]Hallelujah
+How [Em7]awesome is the Lord most high [C]
 {eob}
+
+{soc}
+Raise your [G]hands all you nations   Shout to [C]God all creation
+How [Em7]awesome is the Lord most high [C]
+
+We will [G]praise You together for [D/F#]now and forever
+How [Em7]awesome is the Lord most high [C]
+
+Raise your [G]hands all you nations   Shout to [C]God all creation
+How [Em7]awesome is the Lord most high [C]
+
+We will [G]praise You together for [D/F#]now and forever
+How [Em7]awesome is the Lord most high [C]   The Lord most high
+{eoc}
 
 {c:Ending}
-The Lord most high [Ab]
+[G]. . . [D/F#]. . .
+How [Em7]awesome is the Lord most high [C]   The Lord most high [G]

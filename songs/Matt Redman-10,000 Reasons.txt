@@ -1,71 +1,71 @@
 {title:10,000 Reasons}
 {subtitle:Matt Redman}
 {original_key:G}
-{key:A}
+{key:E}
 {tempo:73}
 {time:4/4}
 {as:10}
-
 {c:Intro}
-[A] [E] [B] [C#m]
-[A] [E] [B] [B]
-
-#Verse 1
-The [A]sun comes [E]up it's a [B]new day [C#m]dawn-ing
-[A] It's time to s[E]ing Your song [B] a-gain[C#m]
-What-[A]ev-er may p[E]ass and what-[B]ev-er lies be-[C#m]fore me
-{c:Rest}
-[A] let me be [E]sign-ing when the ev-'[B]ning [E]comes
-[E]
+[A] [E] [B/D#] [C#m]
+[A] [E] [Bsus] [B]
 
 {soc}
-Bless the [A]Lord O my [E]soul [B]O my [C#m]soul
-[A]wors-hip His ho[E] - ly name[B]
-Sing like [A]nev-er be-[C#m]fore
-[A]O [B]my [C#m]soul I'll [A]wor-ship Your ho[B] - ly name[E]
+Bless the L[A]ord O my s[E]oul   [B/D#]O my s[C#m]oul
+W[A]ors-hip His ho [E]- ly name [Bsus] [B]
+Sing like [A]nev-er be-f[C#m]ore   [A]O [B]my s[C#m]oul
+I'll w[A]or-ship Your ho [B]- ly name  [A] [E] [A] [E]
 {eoc}
 
-#Verse 2
-You're [A]rich in l[E]ove and You're sl[B]ow to [C#m]an-ger
-Your [A]name is gr[E]eat and Your he[B]art is ki[C#m]nd
-For [A]all You g[E]ood-ness I will k[B]eep on [C#m]sign-ing
+{c:Verse 1}
+The s[A]un comes [E]up it's a n[B]ew day d[C#m]awn-ing
+[A] It's time to s[E]ing Your song[B] a-gain [C#m]
+What-[A]ev-er may p[E]ass and what-[B/D#]ev-er lies be-f[C#m]ore me
 {c:Rest}
-[A] ten thou-sand r[E]ea-sons for my heart [B]to f[E]ind
-[E]
+[A] let me be s[E]ign-ing when the [Bsus] ev-'[B]ning co[E]mes   [A/E]   [E]
 
 {soc}
-Bless the [A]Lord O my [E]soul [B]O my [C#m]soul
-[A]wors-hip His ho[E] - ly name[B]
-Sing like [A]nev-er be-[C#m]fore
-[A]O [B]my [C#m]soul I'll [A]wor-ship Your ho[B] - ly name[E]
+Bless the L[A]ord O my s[E]oul   [B/D#]O my s[C#m]oul
+W[A]ors-hip His ho [E]- ly name [Bsus] [B]
+Sing like [A]nev-er be-f[C#m7]ore   [A]O [B]my s[C#m]oul
+I'll w[A]or-ship Your ho [B]- ly name  [A] [E] [A] [E]
 {eoc}
 
-[A] [E] [B] [C#m]
-[A] [E] [B] [B]
+{c:Verse 2}
+You're r[A]ich in l[E]ove and You're sl[B]ow to [C#m7]an-ger
+Your n[A]ame is gr[E]eat and Your he[B]art is kind [C#m7]
+For [A]all You g[E]ood-ness I will k[B/D#]eep on s[C#m7]ign-ing
+{c:Rest}
+[A] ten thou-sand r[E]ea-sons for my h[Bsus]eart [B]to f[E]ind   [A/E]   [E]
 
-#Verse 3
-{c:No Bass, Guitars Empty Strum}
-And [A]on that [E]day when my str[B]ength is [C#m]fail-ing
-the [A]end draws n[E]ear and my t[B]ime has co[C#m]me
-S[A]till my [C#m]soul sings Your [A]priase un - [C#m]ending
+{soc}
+Bless the L[A]ord O my s[E]oul   [B/D#]O my s[C#m]oul
+W[A]ors-hip His ho [E]- ly name [Bsus] [B]
+Sing like [A]nev-er be-f[C#m7]ore   [A]O [B]my s[C#m]oul
+I'll w[A]or-ship Your ho [B]- ly name  [E]
+{eoc}
+
+{c:Instrumental like the chorus}
+[A]   [E]   [B]   [C#m]
+[A]   [E]   [Bsus] [B]
+[A]   [C#m7]
+[A] [B] [C#m7]   [A]   [B]   [E]
+
+{c:Verse 3}
+{c:Acoustic Guitar Only}
+And [A]on that d[E]ay when my str[B]ength is f[C#m7]ail-ing
+the [A]end draws n[E]ear and my t[B]ime has come [C#m7]
+S[A]till my s[E]oul sings Your pra[B/D#]ise un - e[C#m7]nding
 {c:Rest 2,3 Full Band}
-[A] ten thou-sand y[E]ears and then for - ev - [B]er - m[E]ore
+[A] ten thou-sand y[E]ears and then for - [Bsus]e - [B]ver - m[E]ore [A/E]
 
 {soc}
-Bless the [A]Lord O my [E]soul [B]O my [C#m]soul
-[A]wors-hip His ho[E] - ly name[B]
-Sing like [A]nev-er be-[C#m]fore
-[A]O [B]my [C#m]soul I'll [A]wor-ship Your ho[B] - ly name[C#m]
+Bless the L[A]ord O my s[E]oul   [B/D#]O my s[C#m]oul
+W[A]ors-hip His ho [E]- ly name [Bsus] [B]
+Sing like [A]nev-er be-f[C#m7]ore   [A]O [B]my s[C#m]oul
+I'll w[A]or-ship Your ho [B]- ly name [C#m]
 {eoc}
 
 {c:Ending}
-I'll [A]wor-ship Your ho[B] - ly name[C#m]
-Lord I'll [A]wor-ship Your ho[B] - ly name[E]
-{c:Rest}
-[A] [E] [B] [C#m]
-[A] [E] [B] [B]
-
-Sing like [A]nev-er be-[C#m]fore
-[A]O [B]my [C#m]soul I'll [A]wor-ship Your ho[B] - ly name[C#m]
-I'll [A]wor-ship Your ho[B] - ly name[C#m]
-I'll [A]wor-ship Your ho[B] - ly name[E]
+Yes I'll w[A]or-ship Your ho [B]- ly name [C#m]
+{c:Retard}
+Lord I'll w[A]or-ship Your ho [B]- ly name [E]
