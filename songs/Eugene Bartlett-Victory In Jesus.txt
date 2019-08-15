@@ -2,77 +2,54 @@
 {subtitle:Eugene Bartlett}
 {original_key:G}
 {key:D}
-{tempo:124}
+{tempo:144}
 {time:4/4}
 {as:13.0}
+{c:Intro-Light Guitar Only}
+O v[D]ictory in [D]Jesus   My S[G]av-ior for-[D]ev-er
+He [D]sought me and bo[D]ught me   With [E]His redeeming bl[A]ood
+He [D]loved me ere [D]I knew Him   And [G]all my love is [D]due Him
+He [D]plunged me to [D]victory   Be[G]neath the c[A]leansing fl[D]ood
 
-{c:Intro}
-[D]He plunged me to victory
-Be[G]neath the c[A]leansing fl[D]ood
-
-#Verse 1
-[D]I heard an old old sto - ry
-How a S[G]av - ior came from g[D]lo - ry
-How He gave His life on Cal - va - ry
-To s[E]ave a wretch like [A]me
-[D]I heard about His groan - ing
-Of His p[G]re - cious blood's a - [D]ton - ing
-Then I repent - ed of my sins
-And [G]won the [A]vic - to - [D]ry
+{c:Verse 1}
+[D]I heard an old old [D]sto-ry   How a S[G]av-ior came from g[D]lo-ry
+How [D]He gave His life on [D]Cal-va-ry   To s[E]ave a wretch like [A]me
+I [D]heard about His [D]groan-ing   Of His p[G]re-cious blood's a-[D]ton-ing
+Then [D]I repent-ed of my [D]sins   And [G]won the [A]vic-to-[D]ry
 
 {soc}
-O v[D]ictory in Jesus
-My S[G]av - ior for - [D]ev - er
-He sought me and bo[D]ught me
-With [E]His redeeming bl[A]ood
-[D]He loved me ere I knew Him
-And [G]all my love is [D]due Him
-He plunged me to victory
-Be[G]neath the c[A]leansing fl[D]ood
+O v[D]ictory in [D]Jesus   My S[G]av-ior for-[D]ev-er
+He [D]sought me and bo[D]ught me   With [E]His redeeming bl[A]ood
+He [D]loved me ere [D]I knew Him   And [G]all my love is [D]due Him
+He [D]plunged me to [D]victory   Be[G]neath the c[A]leansing fl[D]ood
 {eoc}
 
-#Verse 2
-[D]I heard about His heal - ing
-Of His c[G]leans - ing pow'r re - v[D]eal - ing
-How He made the lame to walk a - gain
-And ca[E]used the blind to s[A]ee
-A[D]nd then I cried dear Je - sus
-Come and h[G]eal my bro - ken s[D]pir - it
-And somehow Je - sus came and brought
-To [G]me the [A]vic - to - [D]ry
+{c:Verse 2}
+I [D]heard about His [D]heal-ing   Of His c[G]leans-ing pow'r re-v[D]eal-ing
+How [D]He made the lame to [D]walk a-gain   And ca[E]used the blind to s[A]ee
+And [D]then I cried dear [D]Je-sus   Come and h[G]eal my bro-ken s[D]pir-it
+And [D]somehow Je-sus [D]came and brought   To [G]me the [A]vic-to-[D]ry
 
 {soc}
-O v[D]ictory in Jesus
-My S[G]av - ior for - [D]ev - er
-He sought me and bo[D]ught me
-With [E]His redeeming bl[A]ood
-[D]He loved me ere I knew Him
-And [G]all my love is [D]due Him
-He plunged me to victory
-Be[G]neath the c[A]leansing fl[D]ood
+O v[D]ictory in [D]Jesus   My S[G]av-ior for-[D]ev-er
+He [D]sought me and bo[D]ught me   With [E]His redeeming bl[A]ood
+He [D]loved me ere [D]I knew Him   And [G]all my love is [D]due Him
+He [D]plunged me to [D]victory   Be[G]neath the c[A]leansing fl[D]ood
 {eoc}
 
-#Verse 3
-[D]I heard about a man - sion
-He has b[G]uilt for me in g[D]lo - ry
-And I heard about the streets of gold
-Be - y[E]ond the crys - tal s[A]ea
-A[D]bout the angels sing - ing
-And the o[G]ld redemp - tion s[D]to - ry
-And some sweet day I'll sing up there
-The s[G]ong of [A]vic - to - [D]ry
+{c:Verse 3}
+I [D]heard about a [D]man-sion   He has b[G]uilt for me in g[D]lo-ry
+And I [D]heard about the [D]streets of gold   Be-y[E]ond the crys-tal s[A]ea
+A[D]bout the angels [D]sing-ing   And the o[G]ld redemp-tion s[D]to-ry
+And [D]some sweet day I'll [D]sing up there   The s[G]ong of [A]vic-to-[D]ry
 
+{c:A cappella}
 {soc}
-O v[D]ictory in Jesus
-My S[G]av - ior for - [D]ev - er
-He sought me and bo[D]ught me
-With [E]His redeeming bl[A]ood
-[D]He loved me ere I knew Him
-And [G]all my love is [D]due Him
-He plunged me to victory
-Be[G]neath the c[A]leansing fl[D]ood
+O v[D]ictory in [D]Jesus   My S[G]av-ior for-[D]ev-er
+He [D]sought me and bo[D]ught me   With [E]His redeeming bl[A]ood
+He [D]loved me ere [D]I knew Him   And [G]all my love is [D]due Him
+He [D]plunged me to [D]victory   Be[G]neath the c[A]leansing fl[D]ood
 {eoc}
 
-{c:Ending}
-[D]He plunged me to victory
-Be[G]neath the c[A]leansing fl[D]ood
+{c:Ending - Retard}
+He [D]plunged me to [D]victory   Be[G]neath the c[A]leansing fl[D]ood

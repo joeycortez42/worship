@@ -1,0 +1,58 @@
+{title:Beautiful One}
+{subtitle:Tim Hughes}
+{original_key:C}
+{key:C}
+{tempo:130}
+{time:4/4}
+{as:11}
+{c:Intro}
+[F]. . [G]. . [Am7]. . [G]. . . [F]. . [G]. . [C]. .
+
+{c:Verse 1}
+[F]Wonderful so [G]wonderful is [C]Your unfailing love
+Your [F]cross has spoken [G]mercy over [Am7]me
+No [F]eye has seen No [G]ear has heard No [C]heart could fully know
+How [F]glorious how [G]beautiful You [C]are
+
+{soc}
+Beautiful [F]One I [G]love Beautiful [F]One I a-[G]dore
+Beautiful [F]One my [G]soul must  [C]  sing
+{eoc}
+
+{c:Verse 2}
+[F]Powerful so [G]powerful Your [C]glory fills the skies
+Your [F]mighty works dis-[G]played for all to [Am7]see
+The [F]beauty of Your [G]majesty a-[C]wakes my heart to sing
+How [F]marvelous how [G]wonderful You [C]are
+
+{soc}
+Beautiful [F]One I [G]love You beautiful [F]One I a-[G]dore
+Beautiful [F]One my [G]soul must  [C]  sing
+
+Beautiful [F]One I [G]love You beautiful [F]One I a-[G]dore
+Beautiful [F]One my [G]soul must  [C]  sing
+{eoc}
+
+{c:Bridge - Guitar Only}
+You [F]opened my eyes to Your [G]wonders anew
+You [F]captured my heart with this  [G]  love
+’Cause [F]nothing on earth is as [G]beautiful as [C]You
+
+{c:Full Band Build}
+And You [F]opened my eyes to Your [G]wonders anew
+You [F]captured my heart with this  [G]  love
+’Cause [F]nothing on earth is as [G]beautiful as [C]You
+
+{soc}
+Beautiful [F]One I [G]love You beautiful [F]One I a-[G]dore
+Beautiful [F]One my [G]soul must  [C]  sing
+
+Beautiful [F]One I [G]love You beautiful [F]One I a-[G]dore
+Beautiful [F]One my [G]soul must  [C]  sing
+
+Beautiful [F]One I [G]love You beautiful [F]One I a-[G]dore
+Beautiful [F]One my [G]soul must  [C]  sing
+{eoc}
+
+{c:Ending}
+[F]. . . [G]. . [F]. . . [G]. . [F]. . . [G]. . [C]

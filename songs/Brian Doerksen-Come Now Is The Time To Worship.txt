@@ -4,7 +4,7 @@
 {key:D}
 {tempo:98}
 {time:4/4}
-{as:9.5}
+{as:10.5}
 {c:Intro}
 [D]
 
@@ -48,10 +48,8 @@
 [G]Still the greatest treasure re - [Bm]mains for those
 [G]Who gladly choose You [A]now
 
-[E].......[A]..[E]
-[B].....[F#m]..[A]
-[E].......[A]..[E]
-[B].....[F#m]..[A]..[E]
+[E]. . . . [A]. . [E]. . .   [B]. . . . [F#m]. . [A]. . .
+[E]. . . . [A]. . [E]. . .   [B]. . . . [F#m]. . [A]. . .  [E]
 
 {c:Verse}
 [A]One day every tongue will con - [E]fess You are God
@@ -74,5 +72,4 @@
 {eoc}
 
 {c:Ending}
-[E]Come
-[E]Come
+[E]Come   [E]Come

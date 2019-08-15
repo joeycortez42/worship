@@ -5,52 +5,47 @@
 {tempo:65}
 {time:9/8}
 {as:10}
-
 {c:Intro}
-[C]Prais - ing my [Dm]Savior [G]all the day [C]long
+[C]. [C]. [Am]. [F]. [C]. . . [C]. [Am]. [F].
 
-#Verse 1
+{c:Verse 1}
 Bless - ed a[C]ssurance [F]Je - sus is [C]mine
-O what a [Am]fore - taste of [D]glo - ry di - v[G]ine
+O what a [Am]fore - taste of [F]glo - ry di - v[G]ine
 Heir of sal[C]vation [F]pur - chase of [C]God
 Born of His [Dm]Spirit [G]washed in His [C]blood
 
 {soc}
 This is my [C]story [F]this is my [C]song
-Praising my [Am]Sav - ior [D]all the day [G]long
-This is my [C]story [F]this is my [C]song
+Praising my [Am]Sav - ior[F] all the day [G]long
+This is my [F]story this is my [Am]song [G]
 Prais - ing my [Dm]Savior [G]all the day [C]long
 {eoc}
 
-#Verse2
+{c:Instrumental}
+[C]. [C]. [Am]. [F].
+
+{c:Verse 2}
 Per - fect sub[C]mission [F]per - fect de - [C]light
-Visions of [Am]rap - ture now [D]burst on my [G]sight
+Visions of [Am]rap - ture now [F]burst on my [G]sight
 An - gels des[C]cending [F]bring from a - [C]bove
-Ech - oes of [Dm]mercy [G]whis - pers of [C]love
+Ech - oes of [Dm]mercy [G]whis - pers of [C]love  [C]
 
-{soc}
-This is my [C]story [F]this is my [C]song
-Praising my [Am]Sav - ior [D]all the day [G]long
-This is my [C]story [F]this is my [C]song
-Prais - ing my [Dm]Savior [G]all the day [C]long
-{eoc}
-
-#Verse 3
+{c:Verse 3}
 Per - fect sub[C]mission [F]all is at [C]rest
-I in my [Am]Sav - ior am [D]hap - py and [G]blest
+I in my [Am]Sav - ior am [F]hap - py and [G]blest
 Watch - ing and [C]waiting [F]look - ing a - [C]bove
 Filled with His [Dm]goodness [G]lost in His [C]love
 
 {soc}
 This is my [C]story [F]this is my [C]song
-Praising my [Am]Sav - ior [D]all the day [G]long
-This is my [C]story [F]this is my [C]song
+Praising my [Am]Sav - ior[F] all the day [G]long
+This is my [F]story this is my [Am]song [G]
 Prais - ing my [Dm]Savior [G]all the day [C]long
 {eoc}
 
 {c:Ending}
 This is my [C]story [F]this is my [C]song
-Praising my [Am]Sav - ior [D]all the day [G]long
-This is my [C]story [F]this is my [C]song
+Praising my [Am]Sav - ior[F] all the day [G]long
+This is my [F]story this is my [Am]song [G]
 Prais - ing my [Dm]Savior [G]all the day [C]long
-Prais - ing my [Dm]Savior-- [G]all the day [C]long-- [F] [C]
+Prais - ing my [Dm]Savior-- [G]all the day [C]long

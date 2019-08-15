@@ -5,70 +5,58 @@
 {tempo:137}
 {time:4/4}
 {as:11.9}
-
 {c:Cold start}
 
-#Verse 1
-Come [G]set Your rule and [D]reign
-In [G]our hearts a - [D]gain
-In - [G]crease in us we [D]pray
-Un - [A]veil why we're made
+{c:Verse 1}
+Come [G]set Your rule and [D]reign   In [G]our hearts a - [D]gain
+In - [G]crease in us we [D]pray   Un - [A]veil why we're made
 Come [G]set our hearts a - [D]blaze with hope
 Like [G]wildfire in our [D]very souls
-[G]Holy Spirit [D]come invade us [A]now
-[G]We [D]are Your [A]church
-[G]We [D]need Your [A]pow'r in [D]us
+[G]Holy Spirit [D]come invade us [A]now [A]
+[G]We [D]are Your [A]church   [G]We [D]need Your [A]pow'r in [D]us [Dsus] [D] [Dsus]
 
-#Verse 2
-We [G]seek Your kingdom [D]first
-We [G]hunger and we [D]thirst
-Re - [G]fuse to waste our [D]lives
-For [A]You're our joy and prize
+{c:Verse 2 - Drums Enter}
+We [G]seek Your kingdom [D]first   We [G]hunger and we [D]thirst
+Re - [G]fuse to waste our [D]lives   For [A]You're our joy and prize
 To [G]see the captives' [D]hearts released
 The [G]hurt the sick the [D]poor at peace
-[G]We lay down our [D]lives for heaven's [A]cause
+[G]We lay down our [D]lives for heaven's [A]cause [A](Break on 3)
+{c:Drums Drop Out}
 [G]We [D]are Your [A]church
-[G]We [D]pray re - [A]vive this [D]earth
+[G]We [D]pray re - [A]vive this [D]earth [D][Dsus] [D][Dsus] [D][Dsus] [D]
 
 {soc}
-Build Your [A]kingdom [Bm7]here
-Let the [G]darkness [D]fear
-Show Your [A]mighty [Bm7]hand
-Heal our [G]streets and [A]land
-[D]Set Your [A]church on [Bm7]fire
-Win this [G]nation [D]back
-Change the [A]atmos - [Bm7]phere
-Build Your [G]kingdom [A]here we [D]pray
+B[D]uild Y[D]our [A]kingdom [Bm7]here   Let the [G]darkness [D]fear
+S[D]how Y[D]our [A]mighty [Bm7]hand   Heal our [G]streets and [A]land
+[D]Set [D]Your [A]church on [Bm7]fire   Win this [G]nation [D/F#]back [D]
+Ch[D]ange [D]the [A]atmos - [Bm7]phere
+Build Your [G]king[Bm]dom [A]here we [D]pray [D/A]. . [D] . [D/A] . . [D] . [D/A] . . [D] (Break)
 {eoc}
 
-#Verse 3
-Un - [G]leash Your kingdom's [D]pow'r
-Reach - [G]ing the near and [D]far
-No [G]force of hell can [D]stop
-Your [A]beauty changing hearts
+{c:Verse 3}
+Un - [G]leash Your kingdom's [D]pow'r   Reach - [G]ing the near and [D]far
+No [G]force of hell can [D]stop   Your [A]beauty changing [A]hearts
 You [G]made us for much [D]more than this
 A - [G]wake the kingdom [D]seed in us
-[G]Fill us with the [D]strength and love of [A]Christ
-[G]We [D]are Your [A]church
-[G]We [D]are the [A]hope on [D]earth
+[G]Fill us with the [D]strength and love of [A]Christ [A](Break on 3)
+{c:Drums Drop Out}
+[G]We [D]are Your [A]church   [G]We [D]are the [A]hope on [D]earth [Dsus] [D]
 
 {soc}
-Build Your [A]kingdom [Bm7]here
-Let the [G]darkness [D]fear
-Show Your [A]mighty [Bm7]hand
-Heal our [G]streets and [A]land
-[D]Set Your [A]church on [Bm7]fire
-Win this [G]nation [D]back
-Change the [A]atmos - [Bm7]phere
-Build Your [G]kingdom [A]here we [D]pray
-
-{c:Start empty}
-Build Your [A]kingdom [Bm7]here
-Let the [G]darkness [D]fear
-Show Your [A]mighty [Bm7]hand
-Heal our [G]streets and [A]land
-[D]Set Your [A]church on [Bm7]fire
-Win this [G]nation [D]back
-Change the [A]atmos - [Bm7]phere
-Build Your [G]kingdom [A]here we [D]pray
+B[D]uild Y[D]our [A]kingdom [Bm7]here   Let the [G]darkness [D]fear
+S[D]how Y[D]our [A]mighty [Bm7]hand   Heal our [G]streets and [A]land
+[D]Set [D]Your [A]church on [Bm7]fire   Win this [G]nation [D]back
+Ch[D]ange [D]the [A]atmos - [Bm7]phere   Build Your [G]kingdom [A]here  [D][Dsus]
 {eoc}
+
+{soc}
+{c:Single Strum}
+B[D]uild Y[D]our [A]kingdom [Bm7]here   Let the [G]dark[D/F#]ness [D]fear
+S[D]how Y[D]our [A]mighty [Bm7]hand   Heal our [G]streets [D]and [A]land
+{c:Build}
+[D]Set [D]Your [A]church on [Bm7]fire   Win this [G]nat[D/F#]ion [D]back
+Ch[D]ange [D]the [A]atmos - [Bm7]phere   Build Your [G]king[Bm]dom [A]here we [D]pray[D/A]
+{eoc}
+
+{c:Ending}
+[D][D/A] [D][D/A] [D]

@@ -6,97 +6,80 @@
 {time:4/4}
 {as:11}
 {c:Intro}
-[Em] [C] [G] [D]
-[Em] [C] [G] [D]
-[Em] [C] [G] [D]
-[C] [Em] [D]
-[C] [Em] [D]
+[Em]. . [C]. . [G]. . [D]. .
+[Em]. . [C]. . [G]. . [D]. .
+[Em]. . [C]. . [G]. . [D]. .
 
 {c:Verse 1}
 [Em]  Nothing [C]can separate [G] even if I [D]ran away
-[Em]Your love never [C]fails   [G]   [D]
-[Em]  I know I [C]still make mistakes but
-[G] You have new mercies for me [D]everyday
-[Em]Your love never [C]fails   [G]   [D]
+[Em]Your love never [C]fails   [G]. . [D]. .
+[Em]  I know I [C]still make mistakes but  [G]
+You have new mercies for me [D]everyday
+[Em]Your love never [C]fails   [G]. . [D]. .
 
 {soc}
-[C]  You stay the [G]same through the ages   [D]
+[C]  You stay the [G]same through the ages  [D]
 [Am7]Your love never [C]changes
-There may be [G]pain in the night
-But [D]joy comes in the [Am7]morning  [C]
-And [G]when the oceans [D]rage
-I don’t [Am7]have to be afraid  [C]
+There may be [G]pain in the night   But [D]joy comes in the [Am7]morning  [C]
+And [G]when the oceans [D]rage   I don’t [Am7]have to be afraid  [C]
 Because I [G]know that You love me [D]
-[Am7]Your love never [C]fails
+[D]Your love never [C]fails [Em]. . [D]. . [D]. .
 {eoc}
-
-[C] [Em] [D]
 
 {c:Verse 2}
 [Em] The wind is strong and the [C] water’s deep but
 [G] I’m not alone here in these [D]open seas
-Cause [Em]Your love never [C]fails   [G]   [D]
+Cause [Em]Your love never [C]fails  [G]. . [D]. .
 [Em] The chasm is [C] far too wide
 [G] I never thought I’d reach the [D]other side
-[[Em]Your love never [C]fails   [G]   [D]
+Cause [Em]Your love never [C]fails  [G]. . [D]. .
+
 
 {soc}
-[C]  You stay the [G]same through the ages   [D]
+[C]  You stay the [G]same through the ages  [D]
 [Am7]Your love never [C]changes
-There may be [G]pain in the night
-But [D]joy comes in the [Am7]morning  [C]
-And [G]when the oceans [D]rage
-I don’t [Am7]have to be afraid  [C]
+There may be [G]pain in the night   But [D]joy comes in the [Am7]morning  [C]
+And [G]when the oceans [D]rage   I don’t [Am7]have to be afraid  [C]
 Because I [G]know that You love me [D]
-[Am7]Your love never [C]fails
+[D]Your love never [C]fails [Em]. . [D]. . [D]. .
 {eoc}
-
-[C] [Em] [D]
-[C] [Em] [D]
+[C]. . [Em]. . [D]. . [D]. .
 
 {sob}
-You make [C] all things [Em]work together for my  [D]  good
-You make [C] all things [Em]work together for my  [D]  good
+You make [C] all things [Em]work together for my  [D]  good   [D]
+You make [C] all things [Em]work together for my  [D]  good   [D]
 
-You make [C] all things [Em]work together for my  [D]  good
-You make [C] all things [Em]work together for my  [D]  good
+You make [C] all things [Em]work together for my  [D]  good   [D]
+You make [C] all things [Em]work together for my  [D]  good   [D]
 
-You make [C] all things [Em]work together for my  [D]  good
-You make [C] all things [Em]work together for my  [D]  good
+You make [C] all things [Em]work together for my  [D]  good   [D]
+You make [C] all things [Em]work together for my  [D]  good   [D]
 {eob}
 
 {soc}
-[C]  You stay the [G]same through the ages   [D]
+[C]  You stay the [G]same through the ages  [D]
 [Am7]Your love never [C]changes
-There may be [G]pain in the night
-But [D]joy comes in the [Am7]morning  [C]
-And [G]when the oceans [D]rage
-I don’t [Am7]have to be afraid  [C]
+There may be [G]pain in the night   But [D]joy comes in the [Am7]morning  [C]
+And [G]when the oceans [D]rage   I don’t [Am7]have to be afraid  [C]
 Because I [G]know that You love me [D]
-[Am7]Your love never [C]fails [G] [D]
+[D]Your love never [C]fails [G]. . [D]. .
 {eoc}
 
 {sob}
-You make [C] all things [Em]work together for my  [D]  good
-You make [C] all things [Em]work together for my  [D]  good
+You make [C] all things [Em]work together for my  [D]  good   [D]
+You make [C] all things [Em]work together for my  [D]  good   [D]
 
-You make [C] all things [Em]work together for my  [D]  good
-You make [C] all things [Em]work together for my  [D]  good
+You make [C] all things [Em]work together for my  [D]  good   [D]
+You make [C] all things [Em]work together for my  [D]  good   [D]
 
-You make [C] all things [Em]work together for my  [D]  good
-You make [C] all things [Em]work together for my  [D]  good
+You make [C] all things [Em]work together for my  [D]  good   [D]
+You make [C] all things [Em]work together for my  [D]  good   [D]
 {eob}
 
 {soc}
-[C]  You stay the [G]same through the ages   [D]
-[Am7]Your love never [C]changes
-There may be [G]pain in the night
-But [D]joy comes in the [Am7]morning  [C]
-And [G]when the oceans [D]rage
-I don’t [Am7]have to be afraid  [C]
+[C]  You stay the [G]same through the ages  [D]   [Am7]Your love never [C]changes
+There may be [G]pain in the night   But [D]joy comes in the [Am7]morning  [C]
+And [G]when the oceans [D]rage   I don’t [Am7]have to be afraid  [C]
 Because I [G]know that You love me [D]
-[Am7]Your love never [C]fails
+[D]Your love never [C]. . [Em]. . [D]. . [D]. . [C]. . [Em]. . [D]. . [C]. .
 {eoc}
-
-{c:Ending}
-You make [C] all things [Em]work together for my  [D]  good [Em]

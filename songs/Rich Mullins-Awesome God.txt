@@ -5,40 +5,32 @@
 {tempo:120}
 {time:4/4}
 {as:11.0}
-
 {c:Intro}
 [Bm] [C#] [F#m]
 
-#Verse 1
-When He [F#m]rolls up His sleeves
-He ain't just puttin' on the ritz
+{c:Verse 1}
+When He [F#m]rolls up His sleeves He ain't just puttin' on the ritz
 Our [Bm]God is an [C#m]awesome [F#m]God
-There is [F#m]thunder in His footsteps
-And lightning in His fists
+There is [F#m]thunder in His footsteps and lightning in His fists
 Our [Bm]God is an [C#m]awesome [F#m]God
 
-And the [Bm]Lord wasn't joking
-When He kicked 'em out of Eden
+And the [Bm]Lord wasn't joking when He kicked 'em out of Eden
 It [C#m]wasn't for no reason that He shed His blood
-His re - [D]turn is very close
-And so you'd [Bm]better be believin'
+
+His re - [D]turn is very close and so you'd [Bm]better be believin'
 That our [Bm]God is an [C#m]awesome [F#m]God
 
 {soc}
-Our [D]God is an [A]awesome God
-He [E]reigns from [F#m]heaven above
-With [D]wisdom [A]pow'r and love
-Our [Bm]God is an [C#m]awe - some [F#m]God
+Our [D]God is an [A]awesome God   He [E]reigns from [F#m]heaven above
+With [D]wisdom [A]pow'r and love   Our [Bm]God is an [C#m]awe - some [F#m]God
 
-Our [D]God is an [A]awesome God
-He [E]reigns from [F#m]heaven above
-With [D]wisdom [A]pow'r and love
-Our [Bm]God is an [C#m]awe - some [F#m]God
+Our [D]God is an [A]awesome God   He [E]reigns from [F#m]heaven above
+With [D]wisdom [A]pow'r and love   Our [Bm]God is an [C#m]awe - some [F#m]God
 {eoc}
 
 [Bm] [C#] [F#m]
 
-#Verse 2
+{c:Verse 2}
 When the [F#m]sky was starless in the void of the night
 Our [Bm]God is an [C#m]awesome [F#m]God
 He spoke [F#m]into the darkness and created the light
@@ -50,25 +42,17 @@ I [D]hope that we have not too [Bm7]quickly forgotten
 That our [Bm]God is an [C#m]awesome [F#m]God
 
 {soc}
-Our [D]God is an [A]awesome God
-He [E]reigns from [F#m]heaven above
-With [D]wisdom [A]pow'r and love
-Our [Bm]God is an [C#m]awe - some [F#m]God
+Our [D]God is an [A]awesome God   He [E]reigns from [F#m]heaven above
+With [D]wisdom [A]pow'r and love   Our [Bm]God is an [C#m]awe - some [F#m]God
 
-Our [D]God is an [A]awesome God
-He [E]reigns from [F#m]heaven above
-With [D]wisdom [A]pow'r and love
-Our [Bm]God is an [C#m]awe - some [F#m]God
+Our [D]God is an [A]awesome God   He [E]reigns from [F#m]heaven above
+With [D]wisdom [A]pow'r and love   Our [Bm]God is an [C#m]awe - some [F#m]God
 
-Our [D]God is an [A]awesome God
-He [E]reigns from [F#m]heaven above
-With [D]wisdom [A]pow'r and love
-Our [Bm]God is an [C#m]awe - some [F#m]God
+Our [D]God is an [A]awesome God   He [E]reigns from [F#m]heaven above
+With [D]wisdom [A]pow'r and love   Our [Bm]God is an [C#m]awe - some [F#m]God
 
-Our [D]God is an [A]awesome God
-He [E]reigns from [F#m]heaven above
-With [D]wisdom [A]pow'r and love
-Our [Bm]God is an [C#m]awe - some [F#m]God
+Our [D]God is an [A]awesome God   He [E]reigns from [F#m]heaven above
+With [D]wisdom [A]pow'r and love   Our [Bm]God is an [C#m]awe - some [F#m]God
 {eoc}
 
 {c:Ending}

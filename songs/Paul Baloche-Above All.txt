@@ -1,0 +1,58 @@
+{title:Above All}
+{subtitle:Paul Baloche}
+{original_key:A}
+{key:G}
+{tempo:62}
+{time:4/4}
+{as:10.5}
+{c:Intro}
+[A]. . . [D]. . . [A]. . .
+
+{c:Verse 1}
+A - [A]bove all po[D]w - ers [Esus]   a - [E]bove all [A]kings
+A - [A]bove all na - [D]ture and [Esus]all cre - [E]ated [A]things
+A - [A]bove all [F#m]wisdom and [E]all the ways of [D]man [A]
+[Bm7]You were here be - [D]fore the world be - [E]gan    [A]
+
+{c:Verse 2}
+A - [A]bove all k[D]ing - doms [Esus]   a - [E]bove all [A]thrones
+A - [A]bove all w[D]on - ders the [Esus]world has [E]ever [A]known
+A - [A]bove all [F#m]wealth and [E]treasures of the [D]earth [A]
+[Bm7]There’s no way to [D]measure what You’re w[C#]orth
+
+{soc}
+[A]Cruci - [Bm7]fied l[E]aid behind the [A]stone
+You [A]lived to [Bm7]die re - [E]jected and a - [A]lone
+[A]Like a [F#m]rose [E]trampled on the [D]ground  [A]
+You took the [Bm7]fall [A] and thought of [D]me [Esus]   [E]Above  [A]all
+{eoc}
+
+[A]. . . [D]. . . [A]. . .
+
+{c:Verse 1}
+A - [A]bove all po[D]w - ers [Esus]   a - [E]bove all [A]kings
+A - [A]bove all na - [D]ture and [Esus]all cre - [E]ated [A]things
+A - [A]bove all [F#m]wisdom and [E]all the ways of [D]man [A]
+[Bm7]You were here be - [D]fore the world be - [E]gan    [A]
+
+{c:Verse 2}
+A - [A]bove all k[D]ing - doms [Esus]   a - [E]bove all [A]thrones
+A - [A]bove all w[D]on - ders the [Esus]world has [E]ever [A]known
+A - [A]bove all [F#m]wealth and [E]treasures of the [D]earth [A]
+[Bm7]There’s no way to [D]measure what You’re w[C#]orth
+
+{soc}
+[A]Cruci - [Bm7]fied l[E]aid behind the [A]stone
+You [A]lived to [Bm7]die re - [E]jected and a - [A]lone
+[A]Like a [F#m]rose [E]trampled on the [D]ground  [A]
+You took the [Bm7]fall [A] and thought of [D]me [Esus]   [E]Above  [A]all
+
+[A]Cruci - [Bm7]fied l[E]aid behind the [A]stone
+You [A]lived to [Bm7]die re - [E]jected and a - [A]lone
+[A]Like a [F#m]rose [E]trampled on the [D]ground  [A]
+You took the [Bm7]fall [A] and thought of [D]me [Esus]   [E]Above  [A]all
+{eoc}
+
+{c:Ending}
+[A]Like a [F#m]rose [E]trampled on the [D]ground  [A]
+You took the [Bm7]fall [A] and thought of [D]me [Esus]   [E]Above  [A]all

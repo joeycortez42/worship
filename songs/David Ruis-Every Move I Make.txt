@@ -2,31 +2,60 @@
 {subtitle:David Ruis}
 {original_key:D}
 {key:G}
-{tempo:76}
+{tempo:80}
 {time:2/2}
 {as:10}
+{c:Intro Electric Guitar & Drums}
+[G]. . [C]. . [D]. . [C]. . . [G]. . [C]. . [D]. . [C].
+{c:Full Band}
+[G]. . [C]. . [D]. . [C]. . . [G]. . [C]. . [D]. . [C].
 
-{c:Intro}
-[G] [C] [D] [C]
+{c:Verse}
+[G]Every move I m[C]ake I make in [Dsus]You   You make me m[C]ove Jesus
+[G]Every breath I t[C]ake I breathe in [Dsus]You   [C]
+[G]Every step I ta[C]ke I take in [Dsus]You   You are my w[C]ay Jesus
+[G]Every breath I t[C]ake I breathe in [Dsus]You   [C]
 
-#Verse 1
-Ev[G]ery move I m[C]ake I make in [D]You
-You make me m[C]ove Jesus
-Ev[G]ery breath I ta[C]ke I breathe in [D]You [C]
-Ev[G]ery step I ta[C]ke I take in [D]You
-You are my w[C]ay Jesus
-Ev[G]ery breath I ta[C]ke I breathe in [D]You [C]
+[G]. . [C]. . [D]. . [C]. . . [G]. . [C]. . [D]. . [C].
 
-{soc}
-Wa[G]ves of [Am7]mercy w[Bm7]aves of gr[C]ace
-Ev[G]ery - w[Am7]here I [Bm7]look I s[C]ee Your face
-[G] Your [Am7]love has ca[Bm7]ptured [C]me
-[G]Oh my [Am7]God this [Bm7]love how [C]can it be
-{eoc}
-{c:Repeat from top}
+{c:Verse}
+Ev[G]ery move I m[C]ake I make in [Dsus]You   You make me m[C]ove Jesus
+Ev[G]ery breath I t[C]ake I breathe in [Dsus]You   [C]
+Ev[G]ery step I ta[C]ke I take in [Dsus]You   You are my w[C]ay Jesus
+Ev[G]ery breath I t[C]ake I breathe in [Dsus]You   [C]
 
 {sob}
-[G]Na na na [C]na na na na
-[D]Na na na na na [C]na na na na
+[G]Na na na [C]na na na na   [D]Na na na na na [C]na na na na
+[G]Na na na [C]na na na na   [D]Na na na na na [C]na na na na
+
+[G]Na na na [C]na na na na   [D]Na na na na na [C]na na na na
+[G]Na na na [C]na na na na   [D]Na na na na na [C]na na na na
 {eob}
-{c:Repeat}
+
+{soc}
+[G]Waves of [Am7]mercy [Bm7]waves of g[C]race[D]
+[G]Everyw[Am7]here I lo[Bm7]ok I s[C]ee Your [D]face
+[G]Your [Am7]love has c[Bm7]aptured [C]me [D]
+[G]Oh my [Am7]God this love[Bm7] how [C]can [D]it be
+{eoc}
+
+[G]. . [C]. . [D]. . [C]. . . [G]. . [C]. . [D]. . [C].
+
+{c:Verse - Start in a cappella}
+Ev[G]ery move I m[C]ake I make in [Dsus]You   You make me m[C]ove Jesus
+Ev[G]ery breath I t[C]ake I breathe in [Dsus]You   [C]
+Ev[G]ery step I ta[C]ke I take in [Dsus]You   You are my w[C]ay Jesus
+Ev[G]ery breath I t[C]ake I breathe in [Dsus]You   [C]
+
+{soc}
+[G]Waves of [Am7]mercy [Bm7]waves of g[C]race[D]
+[G]Everyw[Am7]here I lo[Bm7]ok I s[C]ee Your [D]face
+[G]Your [Am7]love has c[Bm7]aptured [C]me [D]
+[G]Oh my [Am7]God this love[Bm7] how [C]can [D]it be
+{eoc}
+
+[G]. . [C]. . [D]. . [C]. . . [G]. . [C]. . [D]. . [C].
+
+{c:Ending}
+[G]Na na na [C]na na na na   [D]Na na na na na [C]na na na na
+[G]Na na na [C]na na na na   [D]Na na na na na [C]na na na na   [G]

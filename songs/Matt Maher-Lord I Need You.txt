@@ -1,59 +1,55 @@
 {title:Lord I Need You}
 {subtitle:Matt Maher}
-{original_key:B}
+{original_key:Bb}
 {key:G}
 {tempo:74}
 {time:4/4}
 {as:10}
-
 {c:Intro}
-[G] [C] [G]
-[G] [C] [G]
+[G]. [G]. [C2]. . . [G] [G] [C2]
 
-Lord I [G]come [C]I con [G]- fess
-Bowing [Em7]here I [D]find my[C] rest
-And without [G]You I [C]fall a [G]- part
-You're the [Dsus]one [D] that guides my[C] heart
+{c:Verse 1}
+Lord I [G]come [C2]I con [G]- fess   [D/F#]Bowing [Em7]here I [Dsus]find my[C2] rest
+And without [G]You I [C2]fall a [G]- part
+Y[G]ou're the one [D/F#]that guides my[C2] heart [C2]
 
 {soc}
-Lord I [G]need You [C]oh I [G]need [D/F#]You
-[Em7]Every [C]hour I [G]need [D]You
-My [G]one de - [C]fense my [G]righteous - [C]ness
-Oh [G]God how I [D]need [G]You
+Lord I [G]need You [C2]oh I [G]need [D/F#]You   [Em7]Every [C2]hour I [G]need [D/F#]You
+My [G]one de - [C2]fense my [G]righteous - [C2]ness
+Oh [G]God how I [D]need [G]You  [C2]
 {eoc}
 
-[G] [C] [G]
-
-Where sin runs [G]deep Your [C]grace is[G] more
-Where grace is [Em7]found is [D]where You [C]are
-And where You [G]are Lord [C]I am [G]free
-Holi - [Dsus]ness [D] is Christ in [G]me [C]
+{c:Verse 2}
+W[C2]here sin runs [G]deep Your [C2]grace is[G] more
+Where [D/F#]grace is [Em7]found is [D]where You [C2]are
+And where You [G]are Lord [C2]I am [G]free
+H[G]oli - [Dsus]ness [D] is Christ in [G]me [C2]
 
 {soc}
-Lord I [G]need You [C]oh I [G]need [D/F#]You
-[Em7]Every [C]hour I [G]need [D]You
-My [G]one de - [C]fense my [G]righteous - [C]ness
+Lord I [G]need You [C2]oh I [G]need [D/F#]You   [Em7]Every [C2]hour I [G]need [D/F#]You
+My [G]one de - [C2]fense my [G]righteous - [C2]ness
 Oh [G]God how I [D]need [G]You
 {eoc}
 
 {sob}
 {c:Single Strum}
-So [C]teach my [G]song to [D]rise to [Em7]You
-[Em7]When temptation [D]comes my [C]way
-And when I [C]cannot [G]stand I'll [D]fall on [Em7]You
-[Em]Jesus You're my [D]hope and [G]stay  [C]
+So [C2]teach my [G]song to [D]rise to [Em7]You   [Em7]When temptation [G]comes my [C2]way
+And when I [C2]cannot [G]stand I'll [D]fall on [Em7]You
+[C2]Jesus You're my [D]hope and [G]stay  [C2]
 {eob}
 
 {soc}
-Lord I [G]need You [C]oh I [G]need [D/F#]You
-[Em7]Every [C]hour I [G]need [D]You
-My [G]one de - [C]fense my [G]righteous - [C]ness
-Oh [G]God how I [D]need [G]You
+Lord I [G]need You [C2]oh I [G]need [D/F#]You   [Em7]Every [C2]hour I [G]need [D]You
+My [G]one de - [C2]fense my [G]righteous - [C2]ness
+Oh [G]God how I [D]need [G]You [G]
 {eoc}
 
-My [G]one de - [C]fense my [G]righteous - [C]ness
+{c:Ending}
+My [G]one de - [C2]fense my [G]righteous - [C2]ness
 Oh [G]God how I [D]need [G]You
 
 {c:Single Strum}
-My [G]one de - [C]fense my [G]righteous - [C]ness
+My [G]one de - [C2]fense my [G]righteous - [C2]ness
+
+{c:Retard}
 Oh [G]God how I [D]need [G]You

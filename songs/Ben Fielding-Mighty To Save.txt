@@ -2,82 +2,68 @@
 {subtitle:Ben Fielding}
 {original_key:A}
 {key:G}
-{tempo:74}
+{tempo:73}
 {time:4/4}
 {as:13.0}
+{c:Electric Guitar with riff then intro}
+[C]. . [G]. . [Em7]. . [D]. . . [C]. . [G]. . [Em7]. . [D]. .
 
-{c:Intro}
-[C] Shine your light and
-[G] let the whole world [D] see [Em]
-
-#Verse 1
-[C] Everyone needs com - [G]passion
-Love that's never [Em]failing
-Let [D]mercy fall on me
-[C] Ev’ryone needs for - [G]giveness
-The kindness of a [Em]Saviour
-The [D]hope of nations [C] [D] [C] [D]
+{c:Verse 1}
+[C] Everyone needs com-pa[G]ssion   Love that's never fa[Em7]iling
+Let m[D]ercy fall on me   [C] Ev’ryone needs for-give[G]ness
+The kindness of a Sa[Em7]viour   The h[D]ope of nations   [C]. [D]. . [C]. [D].
 
 {soc}
-[G]Saviour He can move the [D]mountains
-My God is [C]mighty to [G]save
-He is [Em]mighty to [D]save
-For - [G]ever Author of sal - [D]vation
-He rose and [C]conquered the [G]grave
-Jesus [Em]conquered the [D]grave
+Sa[G]viour He can move the mou[D]ntains   My God is mi[C]ghty to s[G]ave
+He is m[Em7]ighty to s[D]ave   For-e[G]ver Author of sal-va[D]tion
+He rose and conq[C]uered the gr[G]ave   Jesus conq[Em7]uered the gr[D]ave
 {eoc}
 
-[C] [G] [Em] [D]
+[C]. . [G]. . [Em7]. . [D]. .
 
-#Verse 2
-[C] So take me as You [G]find me
-All my fears and [Em]failures
-[D]Fill my life again
-[C] I give my life to [G]follow
-Ev’rything I be - [Em]lieve in
-Now [D]I surrender [C] [D] [C] [D]
+{c:Verse 2}
+[C] So take me as You f[G]ind me   All my fears and fa[Em7]ilures
+F[D]ill my life again   [C] I give my life to fol[G]low
+Ev’rything I be-l[Em7]ieve in   Now [D]I surrender   [C]. [D]. . [C]. [D].
 
 {soc}
-[G]Saviour He can move the [D]mountains
-My God is [C]mighty to [G]save
-He is [Em]mighty to [D]save
-For - [G]ever Author of sal - [D]vation
-He rose and [C]conquered the [G]grave
-Jesus [Em]conquered the [D]grave
+Sa[G]viour He can move the mou[D]ntains   My God is mi[C]ghty to s[G]ave
+He is m[Em7]ighty to s[D]ave   For-e[G]ver Author of sal-va[D]tion
+He rose and conq[C]uered the gr[G]ave   Jesus conq[Em7]uered the gr[D]ave
 
-[G]Saviour He can move the [D]mountains
-My God is [C]mighty to [G]save
-He is [Em]mighty to [D]save
-For - [G]ever Author of sal - [D]vation
-He rose and [C]conquered the [G]grave
-Jesus [Em]conquered the [D]grave
+Sa[G]viour He can move the mou[D]ntains   My God is mi[C]ghty to s[G]ave
+He is m[Em7]ighty to s[D]ave   For-e[G]ver Author of sal-va[D]tion
+He rose and conq[C]uered the gr[G]ave   Jesus conq[Em7]uered the gr[D]ave
 {eoc}
 
-[C] [G] [Em] [D]
+{c:Instrumental}
+[C]. . [G]. . [D]. . . [Em7]. [C]. . [G]. . [D]. . . [Em7].
 
 {sob}
-[C] Shine your light and
-[G] let the whole world [D] see
-We're [Em]singing
-[C] For the glory [G] of the risen [D] King
-[Em]Jesus
+[C] Shine your light a[G]nd let the whole w[D]orld see   We're si[Em7]nging
+[C] For the glo-[G]ry  of the ris-[D]en  King   J[Em7]esus
 
-[C] Shine your light and
-[G] let the whole world [D] see
-We're [Em]singing
-[C] For the glory [G] of the risen [D] King
-[Em]Jesus
+[C] Shine your light a[G]nd let the whole w[D]orld see   We're si[Em7]nging
+[C] For the glo-[G]ry  of the ris-[D]en  King   J[Em7]esus
+{eob}
 
 {c:A cappella}
-[C] Shine your light and
-[G] let the whole world [D] see
-We're [Em]singing
-[C] For the glory [G] of the risen [D] King
-[Em]Jesus
+Sa[G]viour He can move the mou[D]ntains   My God is mi[C]ghty to s[G]ave
+He is m[Em7]ighty to s[D]ave
 
-{c:Slowing down}
-[C] Shine your light and
-[G] let the whole world [D] see
-We're [Em]singing
-[C] For the glory [G] of the risen [D] King
-{eob}
+{c:Build}
+For-e[G]ver Author of sal-va[D]tion   He rose and conq[C]uered the gr[G]ave
+Jesus conq[Em7]uered the gr[D]ave
+
+Sa[G]viour He can move the mou[D]ntains   My God is mi[C]ghty to s[G]ave
+He is m[Em7]ighty to s[D]ave   For-e[G]ver Author of sal-va[D]tion
+He rose and conq[C]uered the gr[G]ave   Jesus conq[Em7]uered the gr[D]ave
+
+{c:Ending}
+[C] Shine your light a[G]nd let the whole w[D]orld see   We're si[Em7]nging
+[C] For the glo-[G]ry  of the ris-[D]en  King   J[Em7]esus
+
+[C] Shine your light a[G]nd let the whole w[D]orld see   We're si[Em7]nging
+
+{c:Retard}
+[C] For the glo-[G]ry  of the ris-[D]en  King  [D]   [C]
