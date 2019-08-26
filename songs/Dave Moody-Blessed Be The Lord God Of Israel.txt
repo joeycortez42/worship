@@ -4,26 +4,41 @@
 {key:G}
 {tempo:94}
 {time:4/4}
-{as:10}
+{as:12.0}
+{c:Intro}
+[G]. . . . [C]. . . . [D]. . [C]. .
 
 {soc}
 [G]Blessed be the [C]Lord the God of [D]Isr[C]ael
 From ever[G]lasting[C] to ever[D]last[C]ing
 [G]Blessed be the [C]Lord the God of [D]Isr[C]ael
-From ever[G]lasting[C] to ever[D]lasting
+From ever[G]lasting[C] to ever[D]lasting  [D]
 {eoc}
 
 Let [G]all the [C]people say [D]Amen
 Let [G]all the [C]people say [D]Amen
 Let [G]all the [C]people say [D]Amen
-And praise the L[G]ord [C] praise the L[D]o - [C]rd
-And praise the L[G]ord [C] praise the L[D]o - [C]rd
+And praise the L[G]ord  [C]  Praise the L[D]o - [C]rd
+And praise the L[G]ord  [C]  Praise the L[D]o - [C]rd
 
 {soc}
 [G]Blessed be the [C]Lord the God of [D]Isr[C]ael
 From ever[G]lasting[C] to ever[D]last[C]ing
 [G]Blessed be the [C]Lord the God of [D]Isr[C]ael
-From ever[G]lasting[C] to ever[D]lasting
+From ever[G]lasting[C] to ever[D]lasting  [D]
+{eoc}
+
+Let [G]all the [C]people say [D]Amen
+Let [G]all the [C]people say [D]Amen
+Let [G]all the [C]people say [D]Amen
+And praise the L[G]ord  [C]  Praise the L[D]o - [C]rd
+And praise the L[G]ord  [C]  Praise the L[D]o - [C]rd
+
+{soc}
+[G]Blessed be the [C]Lord the God of [D]Isr[C]ael
+From ever[G]lasting[C] to ever[D]last[C]ing
+[G]Blessed be the [C]Lord the God of [D]Isr[C]ael
+From ever[G]lasting[C] to ever[D]lasting  [D]
 {eoc}
 
 Let [G]all the [C]people say [D]Amen
@@ -34,4 +49,4 @@ And praise the L[G]ord [C] praise the L[D]o - [C]rd
 
 {c:Ending}
 And praise the L[G]ord [C] praise the L[D]o - [C]rd
-And praise the L[G]ord [C] praise the L[D]o - [C]rd [G]
+And praise the L[G]ord [C] praise the L[D]o - [C]rd   [G]

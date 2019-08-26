@@ -2,41 +2,52 @@
 {subtitle:Chris Tomlin}
 {original_key:E}
 {key:E}
+{tempo:80}
 {time:4/4}
-{as:10}
+{as:11.0}
+{c:Intro}
+[E]. . . . [B]. [C#m]. . . [A]. . . . [F#m]. . . .
 
-#Verse
-[E]We fall down we [B]lay our [C#m]crowns
-At the [A]feet of [F#m]Jesus
-The [E]greatness of [B]mercy and [C#m]love
-At the [A]feet of [B]Jesus
+{c:Verse}
+[E]We fall down we [B]lay our [C#m]crowns   At the [A]feet of [F#m]Jesus
+The [E]greatness of [B]mercy and [C#m]love   At the [A]feet of [B]Jesus
 
-[E]We fall down we [B]lay our [C#m]crowns
-At the [A]feet of [F#m]Jesus
-The [E]greatness of [B]mercy and [C#m]love
-At the [A]feet of [B]Jesus
+[E]We fall down we [B]lay our [C#m]crowns   At the [A]feet of [F#m]Jesus
+The [E]greatness of [B]mercy and [C#m]love   At the [A]feet of [B]Jesus
 
 {soc}
 And we cry [A]holy   [E]holy   [F#m]holy
 And we cry [A]holy   [E]holy   [F#m]holy
-And we cry [A]holy   [E]holy   [F#m]holy
-Is   the   [E]Lamb
+And we cry [A]holy   [E]holy   [F#m]holy   Is   the   [E]Lamb
 {eoc}
 
-#Verse
-[E]We fall down we [B]lay our [C#m]crowns
-At the [A]feet of [F#m]Jesus
-The [E]greatness of [B]mercy and [C#m]love
-At the [A]feet of [B]Jesus
+
+{c:Verse}
+[E]We fall down we [B]lay our [C#m]crowns   At the [A]feet of [F#m]Jesus
+The [E]greatness of [B]mercy and [C#m]love   At the [A]feet of [B]Jesus
 
 {soc}
 And we cry [A]holy   [E]holy   [F#m]holy
 And we cry [A]holy   [E]holy   [F#m]holy
+And we cry [A]holy   [E]holy   [F#m]holy   Is   the   [E]Lamb
+{eoc}
+
+
+{c:Instrumental}
+[E]. . . . [B]. [C#m]. . . [A]. . . . [F#m]. . . .
+[E]. . . . [B]. [C#m]. . . [A]. . . . [B]. . . .
+
+
+{c:Verse}
+[E]We fall down we [B]lay our [C#m]crowns   At the [A]feet of [F#m]Jesus
+The [E]greatness of [B]mercy and [C#m]love   At the [A]feet of [B]Jesus
+
+{soc}
 And we cry [A]holy   [E]holy   [F#m]holy
-Is   the   [E]Lamb
+And we cry [A]holy   [E]holy   [F#m]holy
+And we cry [A]holy   [E]holy   [F#m]holy   Is   the   [E]Lamb
 
 And we cry [A]holy   [E]holy   [F#m]holy
 And we cry [A]holy   [E]holy   [F#m]holy
-And we cry [A]holy   [E]holy   [F#m]holy
-Is   the   [E]Lamb
+And we cry [A]holy   [E]holy   [F#m]holy   Is   the   [E]Lamb
 {eoc}

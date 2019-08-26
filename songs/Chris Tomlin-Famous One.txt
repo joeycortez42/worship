@@ -2,58 +2,47 @@
 {subtitle:Chris Tomlin}
 {original_key:G}
 {key:D}
-{tempo:182}
-{time:4/4}
+{tempo:192}
+{time:6/4}
 {as:11.0}
-
 {c:Intro}
 [D]
 
 {soc}
-Y[D]ou are the Lord
-The fa[G]mous One famous One
+Y[D]ou are [D/F#]the Lord   The fa[G]mous One famous One
 G[Bm7]reat is Your n[A]ame in all  [G] the earth
-The hea[D]vens de - clare
-You're gl[G]orious glorious
+The hea[D]vens de-[D/F#]clare   You're gl[G]orious glorious
 G[Bm7]reat is Your fa[A]me beyond  [D] the earth
 {eoc}
 
-#Verse 1
-And for [Em7]all You've done and [D]yet to do
-With e[G]very breath I'm  [D] praising You
-De - [Em7]sire of nations a[D]nd ev'ry heart
-You a [G]- lone are God
-You a -[A]lone are God
+{c:Verse 1}
+And for [Em7]all You've [A/C#]done and [D/F#]yet to do
+With e[G]very [A/C#]breath I'm  [D] praising You
+De-[Em7]sire of n[A/C#]ations a[D/F#]nd ev'ry heart
+You a [G]- lone are God   You a-[A]lone are God
 
 {soc}
-Y[D]ou are the Lord
-The fa[G]mous One famous One
+Y[D]ou are [D/F#]the Lord   The fa[G]mous One famous One
 G[Bm7]reat is Your n[A]ame in all  [G] the earth
-The hea[D]vens de - clare
-You're gl[G]orious glorious
+The hea[D]vens de-[D/F#]clare   You're gl[G]orious glorious
 G[Bm7]reat is Your fa[A]me beyond  [D] the earth
 {eoc}
 
-#Verse 2
-The M[Em7]orning Star is sh[D]ining through
-And e[G]very eye is [D] watching You
-Re - v[Em7]ealed by nature [D]and miracles
-You are  [G]  beautiful
-You are b[A]eautiful
+{c:Verse 2}
+The M[Em7]orning [A/C#]Star is sh[D/F#]ining through
+And e[G]very [A/C#]eye is [D] watching You
+Re-v[Em7]ealed by [A/C#]nature [D/F#]and miracles
+You are  [G]  beautiful   You are b[A]eautiful
 
 {soc}
-Y[D]ou are the Lord
-The fa[G]mous One famous One
+Y[D]ou are [D/F#]the Lord   The fa[G]mous One famous One
 G[Bm7]reat is Your n[A]ame in all  [G] the earth
-The hea[D]vens de - clare
-You're gl[G]orious glorious
+The hea[D]vens de-[D/F#]clare   You're gl[G]orious glorious
 G[Bm7]reat is Your fa[A]me beyond  [D] the earth
 
-Y[D]ou are the Lord
-The fa[G]mous One famous One
+Y[D]ou are [D/F#]the Lord   The fa[G]mous One famous One
 G[Bm7]reat is Your n[A]ame in all  [G] the earth
-The hea[D]vens de - clare
-You're gl[G]orious glorious
+The hea[D]vens de-[D/F#]clare   You're gl[G]orious glorious
 G[Bm7]reat is Your fa[A]me beyond  [D] the earth
 {eoc}
 

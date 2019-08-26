@@ -4,17 +4,14 @@
 {key:D}
 {tempo:77}
 {time:4/4}
-{as:9}
-
+{as:10.5}
 {c:Intro}
 [D]
 
-#Verse
-How [D]lovely is Your dwelling place
-[G]  O Lord Al - [A]mighty
+{c:Verse}
+How [D]lovely is Your dwelling place   [G]  O Lord Al - [A]mighty
 For [D]my soul longs and even faints for [A]You
-For [D]here my heart is satisfied
-[G]  Within Your [A]presence
+For [D]here my heart is satisfied   [G]  Within Your [A]presence
 I [D]sing beneath the shadow of Your [A]wings
 
 {soc}
@@ -22,18 +19,16 @@ Better is [G]one day in Your courts
 Better is [A]one day in Your house
 Better is [G]one day in Your courts than thousands [A]elsewhere
 
-Better is [G]one day in Your courts
+[D/F#]Better is [G]one day in Your courts
 Better is [A]one day in Your house
 Better is [G]one day in Your courts than thousands [A]elsewhere
 Than thousands [D]elsewhere
 {eoc}
 
-#Verse
-How [D]lovely is Your dwelling place
-[G]  O Lord Al - [A]mighty
+{c:Verse}
+How [D]lovely is Your dwelling place   [G]  O Lord Al - [A]mighty
 For [D]my soul longs and even faints for [A]You
-For [D]here my heart is satisfied
-[G]  Within Your [A]presence
+For [D]here my heart is satisfied   [G]  Within Your [A]presence
 I [D]sing beneath the shadow of Your [A]wings
 
 {soc}
@@ -46,20 +41,15 @@ Better is [A]one day in Your house
 Better is [G]one day in Your courts than thousands [A]elsewhere
 {eoc}
 
-{as:12}
-
 {sob}
-[Bm] My heart and flesh cry [A]out
-[G] For you the living God
-[Bm] Your spirit’s water [A]to my [G]soul
-[Bm] I’ve tasted and I’ve [A]seen
-[G]Come once again to me
-[Bm]I will draw [A]near to You
-[Em]I will draw near to [A]You
+[Bm] My heart and flesh cry [A]out  [G]  For you the living [A]God
+[Bm] Your spirit’s water [A]to my [G]soul   [A]
+[Bm] I’ve tasted and I’ve [A]seen   [G]Come once again to me
+[D/F#]I will draw near to You [Em]  I will draw near to [A]You
 {eob}
 
-{soc}
 {c:Single Strum}
+{soc}
 Better is [G]one day in Your courts
 Better is [A]one day in Your house
 Better is [G]one day in Your courts than thousands [A]elsewhere
@@ -74,4 +64,4 @@ Better is [G]one day in Your courts than thousands [A]elsewhere
 {eoc}
 
 {c:Ending}
-Than thousands [D]elsewhere
+Than thousands [D]elsewhere   [D]

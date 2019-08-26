@@ -1,0 +1,66 @@
+{title:Desert Song}
+{subtitle:Brooke Ligertwood}
+{original_key:D}
+{key:E}
+{tempo:110}
+{time:4/4}
+{as:12.0}
+{c:Intro}
+[C#m]. . . [B]. [A]. [E]. . . [C#m]. . . [B]. [A]. [E].
+[C#m]. . . [B]. [A]. [E]. . . [C#m]. . . [B]. [A]. [E].
+
+{c:Verse 1 - Muted}
+T[C#m]his is my praye[B]r in the [A]desert   [E]
+When [C#m]all that's with-in [B] me feels [A]dry   [E]
+T[C#m]his is my praye[B]r in my h[A]unger and need [E]
+My G[C#m]od is the God [B] who pro-v[A]ides
+
+{c:Verse 2 - Muted}
+T[C#m]his is my praye[B]r in the f[A]ire   [E]
+In w[C#m]eakness or tri[B]-al or p[A]ain   [E]
+T[C#m]here is a faith [B] proved of m[A]ore worth than [E]gold
+So r[C#m]efine me [E/G#]Lord through the fl[A]ame   [A]
+
+{c:Chorus - Softly}
+I will bring pr[E]aise I will bring pr[B]aise
+No weapon formed [A] against me shall re-m[E]ain
+[B]I will re-joice I will de-cl[C#m]are
+God is my vic[A]tory and [E]He [B]is h[C#m]ere  [B]. [A]. [E]. . . [C#m]. . . [B]. [A]. [E].
+
+{c:Verse 3 - Muted}
+T[C#m]his is my praye[B]r in the b[A]attle   [E]
+When t[C#m]riumph is still [B] on its w[A]ay   [E]
+[C#m]I am a con[B]qu'ror and c[A]o-heir with [E]Christ
+So f[C#m]irm on His pr[E/G#]omise I'll st[A]and
+
+{soc}
+I will bring pr[E]aise I will bring pr[B]aise
+No weapon formed [A] against me shall re-m[E]ain
+[B]I will re-joice I will de-cl[C#m]are
+God is my vic[A]tory and [E]He [B]is h[C#m]ere   [C#m]
+{eoc}
+
+{c:Bridge - Softly}
+All [E] of my life in ev’ry season You [C#m] are still God
+I have a reason to sing [B]   I [A] have a reason to wor[E]ship   [E]
+{c:Build}
+All [E] of my life in ev’ry season You [C#m] are still God
+I have a reason to sing [B]   I [A] have a reason to wor[E]ship   [E]
+All [E] of my life in ev’ry season You [C#m] are still God
+I have a reason to sing [B]   I [A] have a reason to wor[E]ship   [E]
+All [E] of my life in ev’ry season You [C#m] are still God
+I have a reason to sing [B]   I [A] have a reason to wor[E]ship   [E]
+
+{c:Chorus - Softly}
+I will bring pr[E]aise I will bring pr[B]aise
+No weapon formed [A] against me shall re-m[E]ain
+
+{c:Build}
+[B]I will re-joice I will de-cl[C#m]are
+God is my vic[A]tory and [E]He [B]is h[C#m]ere [B]. [A]. [E]. . . [C#m]. . . [B]. [A]. [E].
+
+{c:Verse 4 - Soft Ending}
+T[C#m]his is my praye[B]r in the h[A]arvest
+When f[C#m]avour and p[B]rovidence fl[A]ow
+[C#m]I know I'm fi[B]lled to be e[A]mptied again
+The s[C#m]eed I've re-ce[B]ived I will s[E]ow
