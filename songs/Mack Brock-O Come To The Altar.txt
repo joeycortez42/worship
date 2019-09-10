@@ -6,77 +6,64 @@
 {time:6/8}
 {as:11.5}
 {c:Intro}
-[G] [C] [G] [C]
+[G]. . . [C]. . . [G]. . . [C]. . .
 
 {c:Verse 1}
 [G]  Are you [C]hurting and broken with-[G]in
-Over-[C]whelmed by the weight of your [Em]sin
-Jesus is [C]calling
+Over-[C]whelmed by the weight of your [Em]sin   Jesus is [C]calling
 [G]  Have you [C]come to the end of your-[G]self
-Do you [C]thirst for a drink from the w[Em]ell
-Jesus is [C]calling
+Do you [C]thirst for a drink from the w[Em]ell   Jesus is [C]calling   [C]
 
 {soc}
-[G]  O come to  [Am]  the altar
-[Em]  The Father's arms are [C]open [G]wide
+[G]  O come to  [Am]  the altar   [Em]  The Father's arms are [C]open [G]wide
 [G]  Forgiveness  [Am]  was bought with
-[Em]  The precious blood of [C]Jesus [G]Christ
+[Em]  The precious blood of [C]Jesus [G]Christ  [C]. . . [G]. . . [C]. . .
 {eoc}
-
-[G] [C] [G] [C]
 
 {c:Verse 2}
 [G]  Leave be-[C]hind your regrets and mis-[G]takes
-Come to-[C]day there's no reason to w[Em]ait
-Jesus is [C]calling
+Come to-[C]day there's no reason to w[Em]ait   Jesus is [C]calling
 [G]  Bring your [C]sorrows and trade them for [G]joy
-From the [C]ashes a new life is b[Em]orn
-Jesus is [C]calling
+From the [C]ashes a new life is b[Em]orn   Jesus is [C]calling
 
 {soc}
-[G]  O come to  [Am]  the altar
-[Em]  The Father's arms are [C]open [G]wide
+[G]  O come to  [Am]  the altar   [Em]  The Father's arms are [C]open [G]wide
 [G]  Forgiveness  [Am]  was bought with
 [Em]  The precious blood of [C]Jesus [G]Christ
-[G]  O come to  [Am]  the altar
-[Em]  The Father's arms are [C]open [G]wide
+
+[G]  O come to  [Am]  the altar   [Em]  The Father's arms are [C]open [G]wide
 [G]  Forgiveness  [Am]  was bought with
 [Em]  The precious blood of [C]Jesus [G]Christ
 {eoc}
 
-[G] [Em] [C]
+[G]. . . . . . [Em]. . . . . . [C]. . . . . .
 
 {sob}
-Oh what a [G]Savior
-Isn't he [Em]wonderful
-Sing alle-[C]luia Christ is risen [G]
-Bow down be-[G]fore him
-For he is L[Em]ord of all
-Sing alle-[C]luia Christ is risen [G]
+Oh what a [G]Savior   Isn't he [Em]wonderful
+Sing alle-[C]luia Christ is risen[G]
+Bow down be-[G]fore him   For he is L[Em]ord of all
+Sing alle-[C]luia Christ is risen[G]
 
-Oh what a [G]Savior
-Isn't he [Em]wonderful
-Sing alle-[C]luia Christ is risen [G]
-Bow down be-[G]fore him
-For he is L[Em]ord of all
-Sing alle-[C]luia Christ is risen [G]
+Oh what a [G]Savior   Isn't he [Em]wonderful
+Sing alle-[C]luia Christ is risen[G]
+Bow down be-[G]fore him   For he is L[Em]ord of all
+Sing alle-[C]luia Christ is risen[G]
 {eob}
 
 {soc}
-[G]  O come to  [Am]  the altar
-[Em]  The Father's arms are [C]open [G]wide
+{c:Softly}
+[G]  O come to  [Am]  the altar   [Em]  The Father's arms are [C]open [G]wide
 [G]  Forgiveness  [Am]  was bought with
 [Em]  The precious blood of [C]Jesus [G]Christ
-[G]  O come to  [Am]  the altar
-[Em]  The Father's arms are [C]open [G]wide
+
+[G]  O come to  [Am]  the altar   [Em]  The Father's arms are [C]open [G]wide
 [G]  Forgiveness  [Am]  was bought with
 [Em]  The precious blood of [C]Jesus [G]Christ
 {eoc}
 
-[G] [Am] [Em] [C]
-[G] [Am] [Em] [C] [G]
+[G]. . . [Am]. . . [Em]. . . [C]. . .
+[G]. . . [Am]. . . [Em]. . . [C]. . . [G]. . .
 
 {c:Verse 3}
 [G]  Bear your [C]cross as you wait for the [G]crown
-Tell the [F]world of the t[C]reasure you've [G]found
-Jesus is [C]calling [G]
+Tell the [F]world of the t[C]reasure you've [G]found   Jesus is [C]calling [G]

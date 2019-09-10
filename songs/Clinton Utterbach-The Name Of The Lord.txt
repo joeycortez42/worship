@@ -5,7 +5,6 @@
 {tempo:120}
 {time:4/4}
 {as:11}
-
 {c:Intro}
 [F]
 
@@ -36,10 +35,10 @@
 
 [G]Holy is the name of the Lord
 [C]Holy is the name of the Lord   [D]
-[G]Holy is the name of the [C]Lord [Am]most    [G]high
+[G]Holy is the name of the [C]Lord [Am]most    [G]high   [G]
 {eoc}
 
-#Verse
+{c:Verse}
 The name of the [G]Lord is a strong [G]tower
 The righteous run [D]into it and [C]they are [G]safe
 

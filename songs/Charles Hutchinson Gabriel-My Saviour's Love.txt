@@ -2,75 +2,57 @@
 {subtitle:Charles Hutchinson Gabriel}
 {original_key:Ab}
 {key:G}
+{tempo:102}
 {time:4/4}
 {as:11.0}
 {c:Intro - A cappella}
-[G]How marvelous [G]how wonderful
-[D]And my song shall [C]ev - er [D]be
-[G]How marvelous [G]how wonderful
-[D]Is my [Em]Sav - iour's [C]love [D]for [G]me
-[G]   [G]
+[G]How marvelous [G]how wonderful   [D]And my song shall [C]ev-er [D]be
+[G]How marvelous [G]how wonderful   [D]Is my [Em]Sav-iour's [C]love [D]for [G]me   [G]
 
 {c:Verse 1}
-I [G]stand amazed in the presence
-Of [D]Jesus the Naz - a - [G]rene
-And [C]wonder how He could [G]love me
-A [D]sinner con - [D]demned un - [G]clean
+I [G]stand amazed in the presence   Of [D]Jesus the Naz-a-[G]rene
+And [C]wonder how He could [G]love me   A [D]sinner con-[D]demned un-[G]clean
 
 {soc}
-[G]How marvelous [G]how wonderful
-[D]And my song shall [C]ev - er [D]be
-[G]How marvelous [G]how wonderful
-[D]Is my [Em]Sav - iour's [C]love [D]for [G]me
+[G]How marvelous [G]how wonderful   [D]And my song shall [C]ev-er [D]be
+[G]How marvelous [G]how wonderful   [D]Is my [Em]Sav-iour's [C]love [D]for [G]me   [G]
 {eoc}
 
 {c:Verse 2}
-For [G]me it was in the garden
-He [D]prayed not My will but [G]Thine
-He [C]had no tears for His [G]own griefs
-But [D]sweat drops of [D]blood for [G]mine
+For [G]me it was in the garden   He [D]prayed not My will but [G]Thine
+He [C]had no tears for His [G]own griefs   But [D]sweat drops of [D]blood for [G]mine
 
 {soc}
-[G]How marvelous [G]how wonderful
-[D]And my song shall [C]ev - er [D]be
-[G]How marvelous [G]how wonderful
-[D]Is my [Em]Sav - iour's [C]love [D]for [G]me
+[G]How marvelous [G]how wonderful   [D]And my song shall [C]ev-er [D]be
+[G]How marvelous [G]how wonderful   [D]Is my [Em]Sav-iour's [C]love [D]for [G]me   [G]
 {eoc}
 
 {c:Verse 3}
-He [G]took my sins and my sorrows
-He [D]made them His ve - ry [G]own
-He [C]bore the bur - den to [G]Cal - vary
-And [D]suffered and [D]died a - [G]lone
+He [G]took my sins and my sorrows   He [D]made them His ve-ry [G]own
+He [C]bore the bur-den to [G]Cal-vary   And [D]suffered and [D]died a-[G]lone
 
 {soc}
-[G]How marvelous [G]how wonderful
-[D]And my song shall [C]ev - er [D]be
-[G]How marvelous [G]how wonderful
-[D]Is my [Em]Sav - iour's [C]love [D]for [G]me
+[G]How marvelous [G]how wonderful   [D]And my song shall [C]ev-er [D]be
+[G]How marvelous [G]how wonderful   [D]Is my [Em]Sav-iour's [C]love [D]for [G]me   [G]
 {eoc}
 
-{c:Verse 4}
-{c:Down strum}
-When [G]with the ransomed in glory
-His [D]face I at last shall [G]see
-'Twill [C]be my joy through the [G]a - ges
-To [D]sing of His [D]love for[G] me
+
+
+
+{c:Verse 4 - Down strum}
+When [G]with the ransomed in glory   His [D]face I at last shall [G]see
+'Twill [C]be my joy through the [G]a-ges   To [D]sing of His [D]love for[G] me
 
 {soc}
 {c:A cappella}
-[G]How marvelous [G]how wonderful
-[D]And my song shall [C]ev - er [D]be
-[G]How marvelous [G]how wonderful
-[D]Is my [Em]Sav - iour's [C]love [D]for [G]me
+[G]How marvelous [G]how wonderful   [D]And my song shall [C]ev-er [D]be
+[G]How marvelous [G]how wonderful   [D]Is my [Em]Sav-iour's [C]love [D]for [G]me
 
 {c:Full Band}
-[G]How marvelous [G]how wonderful
-[D]And my song shall [C]ev - er [D]be
-[G]How marvelous [G]how wonderful
-[D]Is my [Em]Sav - iour's [C]love [D]for [G]me
+[G]How marvelous [G]how wonderful   [D]And my song shall [C]ev-er [D]be
+[G]How marvelous [G]how wonderful   [D]Is my [Em]Sav-iour's [C]love [D]for [G]me
 {eoc}
 
-{c:Ending - Retard}
-[D]Is my [Em]Sav - iour's [C]love [D]for [G]me
-[D]Is my [Em]Sav - iour's [C]love [D]for [G]me
+{c:Ending-Retard}
+[D]Is my [Em]Sav-iour's [C]love [D]for [G]me
+[D]Is my [Em]Sav-iour's [C]love [D]for [G]me

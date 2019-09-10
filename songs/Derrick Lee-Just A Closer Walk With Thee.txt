@@ -1,52 +1,38 @@
 {title:Just A Closer Walk With Thee}
 {subtitle:Derrick Lee}
 {key:A}
+{tempo:77}
 {time:4/4}
 {as:10}
-
 {c:Intro}
-Da[A]i - ly walk - ing close to [D]Thee
-Let it [A] be dear [E]Lord let it b[A]e
+Da[A]i - ly walk - ing close to [D]Thee   Let it [A] be dear [E]Lord let it b[A]e
 
 {c:Verse 1}
-I  [A] am weak Thou art s[E]trong
-Je[E] - sus keep me from all wro[A]ng
-I'll[A] be sat - is - fied just as l[D]ong
-As I w[A]alk let me wa[E]lk close to T[A]hee
+I  [A] am weak Thou art s[E]trong   Je[E] - sus keep me from all wro[A]ng
+I'll[A] be sat - is - fied just as l[D]ong   As I w[A]alk let me wa[E]lk close to T[A]hee
 
 {soc}
-Ju[A]st a clos - er walk with [E]Thee
-[E]Grant it  Je - sus is my pl[A]ea
-Da[A]i - ly walk - ing close to T[D]hee
-Let it [A] be dear [E]Lord let it b[A]e
+Ju[A]st a clos - er walk with [E]Thee   [E]Grant it  Je - sus is my pl[A]ea
+Da[A]i - ly walk - ing close to T[D]hee   Let it [A] be dear [E]Lord let it b[A]e
 {eoc}
 
 {c:Verse 2}
-Th[A]rough this world of toil and s[E]nares
-If[E] I fal - ter Lord who car[A]es
-Wh[A]o with me by bur - dens sh[D]ares
-None but T[A]hee dear Lo[E]rd none but T[A]hee
+Th[A]rough this world of toil and s[E]nares   If[E] I fal - ter Lord who car[A]es
+Wh[A]o with me by bur - dens sh[D]ares   None but T[A]hee dear Lo[E]rd none but T[A]hee
 
 {soc}
-Ju[A]st a clos - er walk with [E]Thee
-[E]Grant it  Je - sus is my pl[A]ea
-Da[A]i - ly walk - ing close to T[D]hee
-Let it [A] be dear [E]Lord let it b[A]e
+Ju[A]st a clos - er walk with [E]Thee   [E]Grant it  Je - sus is my pl[A]ea
+Da[A]i - ly walk - ing close to T[D]hee   Let it [A] be dear [E]Lord let it b[A]e
 {eoc}
 
 {c:Verse 3}
-Wh[A]en my feeble life is [E]over
-T[E]ime for me will be no mor[A]e
-Gu[A]ide me gently safely o[D]ver
-To Thy ki[A]ngdom sho[E]re to Thy sh[A]ore
+Wh[A]en my feeble life is [E]over   T[E]ime for me will be no mor[A]e
+Gu[A]ide me gently safely o[D]ver   To Thy ki[A]ngdom sho[E]re to Thy sh[A]ore
 
 {soc}
-Ju[A]st a clos - er walk with [E]Thee
-[E]Grant it  Je - sus is my pl[A]ea
-Da[A]i - ly walk - ing close to T[D]hee
-Let it [A] be dear [E]Lord let it b[A]e
+Ju[A]st a clos - er walk with [E]Thee   [E]Grant it  Je - sus is my pl[A]ea
+Da[A]i - ly walk - ing close to T[D]hee   Let it [A] be dear [E]Lord let it b[A]e
 {eoc}
 
-{c:Ending}
-Let it [A] be dear [E]Lord let it b[A]e
-Just a [D]closer walk with [A]Thee
+{c:Ending with Retard}
+Let it [A] be dear [E]Lord let it b[A]e   Just a [D]closer walk with [A]Thee

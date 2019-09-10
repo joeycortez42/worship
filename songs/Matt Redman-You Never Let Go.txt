@@ -4,99 +4,67 @@
 {key:A}
 {tempo:76}
 {time:4/4}
-{as:14.0}
+{as:12.0}
 {c:Intro}
 [A]
 
 {c:Verse 1}
-Even though I [A]walk through the valley
-Of the shadow of death
+Even though I [A]walk through the valley   Of the shadow of death
 Your [D]perfect love is casting out fear
-And even when I'm [A]caught in the middle
-Of the storms of this life
+And even when I'm [A]caught in the middle   Of the storms of this life
 I [D]won't turn back I know You are near
 
-{c:Pre-Chorus}
-And I will fear no [F#m]e [E]- [A]vil
-For my God is [F#m]wi[E]th [A]me
-And if my God is [F#m]wi[E]th [A]me
-Whom then shall I [E] fear
+#{c:Pre-Chorus}
+And I will fear no [F#m]e [E]- [A]vil   For my God is [F#m]wi[E]th [A]me
+And if my God is [F#m]wi[E]th [A]me   Whom then shall I [E] fear
 Whom then shall I [D] fear
 
 {soc}
-[A]Oh no You never let go
-Through the calm and through the storm
-[F#m]Oh no You never let go
-In ev'ry high and ev'ry low
-[E]Oh no You never let go
-[D]Lord You never let go of me [A] [E] [D]
+[A]Oh no You never let go   Through the calm and through the storm
+[F#m]Oh no You never let go   In ev'ry high and ev'ry low
+[E]Oh no You never let go   [D]Lord You never let go of me [A]. . . . [E]. . [D]. .
 {eoc}
 
 {c:Verse 2}
-And I can see a [A]light that is coming
-For the heart that holds on
+And I can see a [A]light that is coming   For the heart that holds on
 A [D]glorious light beyond all compare
-And there will be an [A]end to these troubles
-But until that day comes
+And there will be an [A]end to these troubles   But until that day comes
 We'll [D]live to know You here on the earth
 
-{c:Pre-Chorus}
-And I will fear no [F#m]e [E]- [A]vil
-For my God is [F#m]wi[E]th [A]me
-And if my God is [F#m]wi[E]th [A]me
-Whom then shall I [E] fear
+#{c:Pre-Chorus}
+And I will fear no [F#m]e [E]- [A]vil   For my God is [F#m]wi[E]th [A]me
+And if my God is [F#m]wi[E]th [A]me   Whom then shall I [E] fear
 Whom then shall I [D] fear
 
 {soc}
-[A]Oh no You never let go
-Through the calm and through the storm
-[F#m]Oh no You never let go
-In ev'ry high and ev'ry low
-[E]Oh no You never let go
-[D]Lord You never let go of me
-You [A]keep on runnin' and You never let go [E] [D]
+[A]Oh no You never let go   Through the calm and through the storm
+[F#m]Oh no You never let go   In ev'ry high and ev'ry low
+[E]Oh no You never let go   [D]Lord You never let go of me
+You [A]keep on runnin' and You never let go [E]. . [D]. .
 
-[A]Oh no You never let go
-Through the calm and through the storm
-[F#m]Oh no You never let go
-In ev'ry high and ev'ry low
-[E]Oh no You never let go
-[D]Lord You never let go of me [A] [E] [D]
+[A]Oh no You never let go   Through the calm and through the storm
+[F#m]Oh no You never let go   In ev'ry high and ev'ry low
+[E]Oh no You never let go   [D]Lord You never let go of me [A]. . . . [E]. . [D]. .
 {eoc}
 
 {sob}
-Yes I can see a [A]light
-That is coming for the heart that holds on
-And there will be an [F#m]end to these troubles
-But until that day comes
-[E]  Still I will praise You
-[D] Still I will praise You [A] [E] [D]
+Yes I can see a [A]light   That is coming for the heart that holds on
+And there will be an [F#m]end to these troubles   But until that day comes
+[E]  Still I will praise You   [D] Still I will praise You [A]. . . . [E]. . [D]. .
 
-Yes I can see a [A]light
-That is coming for the heart that holds on
-And there will be an [F#m]end to these troubles
-But until that day comes
-[E]  Still I will praise You
-[D] Still I will praise You [A] [E] [D]
+Yes I can see a [A]light   That is coming for the heart that holds on
+And there will be an [F#m]end to these troubles   But until that day comes
+[E]  Still I will praise You   [D] Still I will praise You [A]. . . . [E]. . [D]. .
 {eob}
 
-{soc}
 {c:A cappella}
-[A]Oh no You never let go
-Through the calm and through the storm
-[F#m]Oh no You never let go
-In ev'ry high and ev'ry low
-[E]Oh no You never let go
-[D]Lord You never let go of me
+[A]Oh no You never let go   Through the calm and through the storm
+[F#m]Oh no You never let go   In ev'ry high and ev'ry low
+[E]Oh no You never let go   [D]Lord You never let go of me
 {c:Full Band}
 [A] So strong So wise [E]So loving  [D]
-[A]Oh no You never let go
-Through the calm and through the storm
-[F#m]Oh no You never let go
-In ev'ry high and ev'ry low
-[E]Oh no You never let go
-[D]Lord You never let go of me [A]
-{eoc}
-
-{c:Ending}
+[A]Oh no You never let go   Through the calm and through the storm
+[F#m]Oh no You never let go   In ev'ry high and ev'ry low
+[E]Oh no You never let go   [D]Lord You never let go of me [A]
+#{c:Ending}
 [E]Lord You never let [D]go of me [A]

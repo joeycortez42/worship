@@ -2,72 +2,56 @@
 {subtitle:Chris Tomlin}
 {original_key:Eb}
 {key:D}
-{tempo:66}
+{tempo:63}
 {time:4/4}
 {as:7.5}
-
 {c:Intro}
-[D] [D] [Bm] [A]
-[D] [D] [Bm] [A]
+[D]. . . . [Bm]. . [A]. .
+[D]. . . . [Bm]. . [A]. .
 
-#Verse 1
+{c:Verse 1}
 If [D]faith can move the mountains [Bm]let the mountains [A]move
-We [D]come with expectation [Bm]waiting here for [A]You    [G]
-Waiting here for [D]You    [Bm]     [A]
+We [D]come with expectation [Bm]waiting here for [A]You   [G]   [G]
+Waiting here for [D]You . . . [Bm]. . [A]. .
 
-#Verse 2
+{c:Verse 2}
 You're [D]the Lord of all creation and [Bm]still You know my [A]heart
-The [D]Author of salvation You've [Bm]loved us from the [A]start     [G]
+The [D]Author of salvation You've [Bm]loved us from the [A]start   [G]   [G]
 
 {soc}
-Waiting here for [D]You with our [Em]hands
-Lifted [Bm]hi - [A]gh   in [G]praise
-And it's [D]You we a - [Em]dore
-Singing [Bm]al -  [A]le -  [Bm]lu   [A]-    [D]ia
+Waiting here for [D]You with our [Em7]hands    Lifted [Bm]hi - [A]gh   in [G]praise
+And it's [D]You we a - [Em7]dore    Singing [Bm]al -  [A]le -  [Bm]lu   [D]-  ia. . [Bm]. . [A]. .
+[D]. . . . [Bm]. . [A]. .
 {eoc}
 
-[D]   [Bm]   [A]   [D]   [Bm]   [A]
-
-#Verse 3
+{c:Verse 3}
 You are [D]everything You've promised Your [Bm]faithfulness is [A]true
-We're [D]desp'rate for Your presence [Bm]all we need is [A]You    [G]
-
-[G]
-All we need is you
+We're [D]desp'rate for Your presence [Bm]all we need is [A]You   [G]
+[G]All we need is you
 
 {soc}
-Waiting here for [D]You with our [Em]hands
-Lifted [Bm]hi - [A]gh   in [G]praise
-And it's [D]You we a - [Em]dore
-Singing [Bm]al -  [A]le -  [Bm]lu   [A]-    [G]ia
+Waiting here for [D]You . . with our [Em7]hands    Lifted [Bm]hi - [A]gh   in [G]praise
+And it's [D]You we a - [Em7]dore    Singing [Bm]al -  [A]le -  [Bm]lu   [A]-    [G]ia   [G]
 {eoc}
 
 [G]     We will [Bm]wait for You Lord  [A]
 In [G]step with You Lord  [Bm]  we sing alle - [A]luia
 
-{sob}
-Singing [G]alle - [Bm]lu - [A]ia
-[G]Alle - [Bm]lu - [A]ia
-Singing [G]alle - [Bm]lu - [A]ia
-[G]Alle - [Bm]lu - [A]ia
-{eob}
+{c:Bridge - Build}
+Singing [G]alle - [Bm]lu - [A]ia    [G]Alle - [Bm]lu - [A]ia
+Singing [G]alle - [Bm]lu - [A]ia    [G]Alle - [Bm]lu - [A]ia   [A]   [A]
 
 {soc}
-Waiting here for [D]You with our [Em]hands
-Lifted [Bm]hi - [A]gh   in [G]praise
-And it's [D]You we a - [Em]dore
-Singing [Bm]al -  [A]le -  [Bm]lu   [A]-    [G]ia
+Waiting here for [D]You with our [Em7]hands    Lifted [Bm]hi - [A]gh   in [G]praise
+And it's [D]You we a - [Em7]dore    Singing [Bm]al -  [A]le -  [Bm]lu   [A]-  ia
+Singing [Bm]al -  [A]le -  [Bm]lu   [A]-    [G]ia   [G]
 
-Waiting here for [D]You with our [Em]hands
-Lifted [Bm]hi - [A]gh   in [G]praise
-And it's [D]You we a - [Em]dore
-Singing [Bm]al -  [A]le -  [Bm]lu   [A]-  ia
-We're singing [Bm]al - [A]le - [Bm]lu   [A]-   [G]ia
-
-{c:Softly}
-Waiting here for [D]You with our [Em]hands
-Lifted [Bm]hi - [A]gh   in [G]praise
-And it's [D]You we a - [Em]dore
-Singing [Bm]al -  [A]le -  [Bm]lu   [A]-  ia
-Singing [Bm]al -  [A]le -  [Bm]lu   [A]-    [G]ia
+Waiting here for [D]You with our [Em7]hands    Lifted [Bm]hi - [A]gh   in [G]praise
+And it's [D]You we a - [Em7]dore    Singing [Bm]al -  [A]le -  [Bm]lu   [A]-  ia
+We're singing [Bm]al - [A]le - [Bm]lu   [A]-   [G]ia   [G]
 {eoc}
+
+{c:Ending - Softly with retard}
+Waiting here for [D]You with our [Em7]hands    Lifted [Bm]hi - [A]gh   in [G]praise
+And it's [D]You we a - [Em7]dore    Singing [Bm]al -  [A]le -  [Bm]lu   [A]-  ia
+Singing [Bm]al -  [A]le -  [Bm]lu   [A]-    [G]ia
