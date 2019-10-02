@@ -5,83 +5,57 @@
 {tempo:62}
 {time:6/8}
 {as:13.5}
-
 {c:Intro}
-You are [G]strong when [D]you feel [C]weak
-In your [G]broken - [D]ness com - [C]plete
+[G]. . . [D]. . . [C]. . .   [G]. . . [D]. . . [C]. . .
 
-#Verse 1
-Men of [G]faith rise [D]up and [C]sing
-Of the [G]great and [D]glorious [C]King
-You are [G]strong when [D]you feel [C]weak
-In your [G]broken - [D]ness com - [C]plete
+{c:Verse 1}
+Men of [G]faith rise [D]up and [C]sing   Of the [G]great and [D]glorious [C]King
+You are [G]strong when [D]you feel [C]weak   In your [G]broken-[D]ness com-[C]plete
 
 {soc}
-[G]Shout to the [C]north and the [D]south
-[G]Sing to the [C]east and the [D]west
-[Em]Jesus is [C]Savior to [D]all
-[C]Lord of [D]heaven and [G]earth
+[G]Shout to the [C]north and the [D]south   [G]Sing to the [C]east and the [D]west
+[Em]Jesus is [C]Savior to [D]all   [C]Lord of [D]heaven and [G]earth
 {eoc}
 
-#Verse 2
-Rise up [G]women [D]of the [C]truth
-Stand and [G]sing to [D]broken [C]hearts
-Who can [G]know the [D]healing [C]pow'r
-Of our [G]awesome [D]King of [C]love
+{c:Verse 2}
+Rise up [G]women [D]of the [C]truth   Stand and [G]sing to [D]broken [C]hearts
+Who can [G]know the [D]healing [C]pow'r   Of our [G]awesome [D]King of [C]love
 
 {soc}
-[G]Shout to the [C]north and the [D]south
-[G]Sing to the [C]east and the [D]west
-[Em]Jesus is [C]Savior to [D]all
-[C]Lord of [D]heaven and [G]earth
+[G]Shout to the [C]north and the [D]south   [G]Sing to the [C]east and the [D]west
+[Em]Jesus is [C]Savior to [D]all   [C]Lord of [D]heaven and [G]earth
 
-[G]Shout to the [C]north and the [D]south
-[G]Sing to the [C]east and the [D]west
-[Em]Jesus is [C]Savior to [D]all
-[C]Lord of [D]heaven and [G]earth
+[G]Shout to the [C]north and the [D]south   [G]Sing to the [C]east and the [D]west
+[Em]Jesus is [C]Savior to [D]all   [C]Lord of [D]heaven and [G]earth
 {eoc}
 
 {sob}
-[Em]We've been through fire
-[C]We've been through rain
-[Em]We've been refined
-By the [C]pow'r of His name
-[Em]We've fallen deeper
-[C]In love with You
+[Em]We've been through fire   [C]We've been through rain
+[Em]We've been refined   By the [C]pow'r of His name
+[Em]We've fallen deeper   [C]In love with You
 You've burned the truth on our [D]lips
 {eob}
 
 {soc}
-[G]Shout to the [C]north and the [D]south
-[G]Sing to the [C]east and the [D]west
-[Em]Jesus is [C]Savior to [D]all
-[C]Lord of [D]heaven and [G]earth
+[G]Shout to the [C]north and the [D]south   [G]Sing to the [C]east and the [D]west
+[Em]Jesus is [C]Savior to [D]all   [C]Lord of [D]heaven and [G]earth
 
-[G]Shout to the [C]north and the [D]south
-[G]Sing to the [C]east and the [D]west
-[Em]Jesus is [C]Savior to [D]all
-[C]Lord of [D]heaven and [G]earth
+[G]Shout to the [C]north and the [D]south   [G]Sing to the [C]east and the [D]west
+[Em]Jesus is [C]Savior to [D]all   [C]Lord of [D]heaven and [G]earth
 {eoc}
 
-#Verse 3
-Rise up [G]church with [D]broken [C]wings
-Fill this [G]place with [D]songs a - [C]gain
-Of our [G]God who [D]reigns on [C]high
-By His [G]grace a - [D]gain we'll [C]fly
+{c:Verse 3}
+Rise up [G]church with [D]broken [C]wings   Fill this [G]place with [D]songs a-[C]gain
+Of our [G]God who [D]reigns on [C]high   By His [G]grace a-[D]gain we'll [C]fly
 
 {soc}
-[G]Shout to the [C]north and the [D]south
-[G]Sing to the [C]east and the [D]west
-[Em]Jesus is [C]Savior to [D]all
-[C]Lord of [D]heaven and [G]earth
+[G]Shout to the [C]north and the [D]south   [G]Sing to the [C]east and the [D]west
+[Em]Jesus is [C]Savior to [D]all   [C]Lord of [D]heaven and [G]earth
 
-[G]Shout to the [C]north and the [D]south
-[G]Sing to the [C]east and the [D]west
-[Em]Jesus is [C]Savior to [D]all
-[C]Lord of [D]heaven and [G]earth
+[G]Shout to the [C]north and the [D]south   [G]Sing to the [C]east and the [D]west
+[Em]Jesus is [C]Savior to [D]all   [C]Lord of [D]heaven and [G]earth
 {eoc}
 
 {c:Ending}
-[C]Lord of [D]heaven and [G]earth
-[C]Lord of [D]heaven and [G]earth
+[C]Lord of [D]heaven and [G]earth   [C]Lord of [D]heaven and [G]earth
 [C]Lord of [D]heaven and [G]earth

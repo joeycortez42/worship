@@ -6,7 +6,7 @@
 {time:4/4}
 {as:9.2}
 {c:Intro}
-[C] [Am] [Dm7] [C]
+[C]. . . . [Am]. . [Dm7]. . . . [C]. .
 
 W[C]ho am I that You are mindful of m[Am]e
 That You [Dm]hear me when I c[C]all
@@ -40,17 +40,11 @@ How You [Dm7]love me it's a - ma[Bb]zing
 {eoc}
 
 {sob}
-[F]God Almighty [C]Lord of Glory
-[Dm7]You have called me [F]friend
-
-[F]God Almighty [C]Lord of Glory
-[Dm7]You have called me [F]friend
-
-[F]God Almighty [C]Lord of Glory
-[Dm7]You have called me [F]friend
-
-[F]God Almighty [C]Lord of Glory
-[Dm7]You have called me [G]friend
+[F]God Almighty [C]Lord of Glory   [Dm7]You have called me [F]friend
+[F]God Almighty [C]Lord of Glory   [Dm7]You have called me [F]friend
+{c:Sing Higher}
+[F]God Almighty [C]Lord of Glory   [Dm7]You have called me [F]friend
+[F]God Almighty [C]Lord of Glory   [Dm7]You have called me [G]friend
 {eob}
 
 {soc}
@@ -60,7 +54,7 @@ How You [Dm7]love me it's a - ma[Bb]zing
 [C]I am a friend of God [Am]I am a friend of God
 [Dm7]I am a friend of [F]God He calls me frie[C]nd
 
-{c:A cappella}
+{c:A cappella till end}
 [C]I am a friend of God [Am]I am a friend of God
 [Dm7]I am a friend of [F]God He calls me frie[C]nd
 

@@ -6,14 +6,12 @@
 {time:4/4}
 {as:10}
 {c:Intro}
-[C] [Am] [F] [G]  [C]
+[C]. . . . [Am]. . . . [F]. . . . [G]. . . . [C]. . . .
 
 {c:Verse 1}
-The [C]splendor of the King
-[Am]Clothed in majesty
+The [C]splendor of the King   [Am]Clothed in majesty
 Let all the earth [F]rejoice All the earth re - joice
-He [C]wraps Himself in light
-And [Am]darkness tries to hide
+He [C]wraps Himself in light   And [Am]darkness tries to hide
 And trembles at His [F]voice And trembles at His voice
 
 {soc}
@@ -23,11 +21,9 @@ How [F]great How [G]great is our [C]God
 {eoc}
 
 {c:Verse 2}
-And [C]age to age He stands
-And [Am]time is in His hands
+And [C]age to age He stands   And [Am]time is in His hands
 Beginning and the [F]End Beginning and the End
-The [C]Godhead three in one
-[Am]Father Spirit Son
+The [C]Godhead three in one   [Am]Father Spirit Son
 The Lion and the [F]Lamb The Lion and the Lamb
 
 {soc}
@@ -38,17 +34,12 @@ How [F]great How [G]great is our [C]God
 
 {sob}
 {c:Single strum}
-[C]Name above all names
-[Am]Worthy of all praise
-My [F]heart will sing
-How [G]great is our [C]God [C]
-You're the [C]Name above all names
-You are [Am]Worthy of all praise
-And my [F]heart will sing
-How [G]great is our [C]God
-{eob}
+[C]Name above all names   [Am]Worthy of all praise
+My [F]heart will sing   How [G]great is our [C]God   [C]. . . .
 
-[C]
+You're the [C]Name above all names   You are [Am]Worthy of all praise
+And my [F]heart will sing   How [G]great is our [C]God   [C]. . . .
+{eob}
 
 {soc}
 {c:Softly}

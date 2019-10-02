@@ -5,12 +5,11 @@
 {tempo:110}
 {time:4/4}
 {as:12}
-
 {c:Intro}
 There is [A]power  power [D]Wonder-working [A]power
 In the [E]precious blood of the [A]Lamb
 
-#Verse 1
+{c:Verse 1}
 [A]Would you be free from your [D]burden of [A]sin
 There's [E]power in the blood  [A]power in the blood
 [A]Would you oe'r evil a [D]victory [A]win
@@ -23,7 +22,7 @@ There is [A]power  power [D]Wonder-working [A]power
 In the [E]precious blood of the [A]Lamb
 {eoc}
 
-#Verse 2
+{c:Verse 2}
 [A]Would you be free from your [D]passion and [A]pride
 There’s [E]power in the blood [A]power in the blood
 [A]Come for a cleansing to [D]Calvary’s [A]tide
@@ -35,14 +34,8 @@ In the [E]blood  of the [A]Lamb
 There is [A]power  power [D]Wonder-working [A]power
 In the [E]precious blood of the [A]Lamb
 {eoc}
-#
-#Verse 3
-#[A]Would you be whiter much [D]whiter than [A]snow
-#There’s [E]power in the blood [A]power in the blood
-#[A]Sin - stains are lost in its Clife - giving Gflow
-#There's [E]wonderful power in the [A]blood
 
-#Verse 4
+{c:Verse 3}
 [A]Would you do service for [D]Jesus your [A]King
 There’s [E]power in the blood [A]power in the blood
 [A]Would you live daily His [D]praises to [A]sing
@@ -55,7 +48,6 @@ There is [A]power  power [D]Wonder-working [A]power
 In the [E]precious blood of the [A]Lamb
 {eoc}
 
-{c:Ending}
+{c:Ending with retard}
 In the [E]precious blood of the [A]Lamb
-{c:Retard}
 In the [E]precious blood of the [A]Lamb

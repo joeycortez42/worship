@@ -12,65 +12,64 @@
 #|--------------------------------------|
 #|--------------------------------------|
 #|--------------------------------------|
-[D]     [D]     [Bm]     [Bm]     [G]     [A]
+[D]. . . . [D]. . . . [Bm]. . . . [Bm]. . . . [G]. . . . [A]. . . .
 
 {c:Verse 1}
 [D]   My hope is built on nothing less
 [G]   Than Jesus’ blood and [A]righteousness
-[Bm]  I dare not trust the sweetest [D]frame
-[G]   But wholly [A]trust in Je - [D]  sus’ Name
+[Bm]  I dare not trust the [D]sweetest frame
+[G]   But wholly [A]trust in Je-[D]sus’ Name
 
 {c:Verse 1}
 [D]   My hope is built on nothing less
 [G]   Than Jesus’ blood and [A]righteousness
-[Bm]  I dare not trust the sweetest [D]frame
-[G]   But wholly [A]trust in Je - [D]  sus’ Name
+[Bm]  I dare not trust the [D]sweetest frame
+[G]   But wholly [A]trust in Je-[D]sus’ Name
 
 {soc}
-[D]Christ a - [G]lone [Bm]Corner - [A]stone
+[D]Christ a-[G]lone   [Bm]Corner-[A]stone
 [D]Weak made [G]strong in the [Bm]Saviour’s [A]love
-[D]Through the [G]storm [Bm]He is [A]Lord      Lord of [D]all      [D]
+[D]Through the [G]storm [Bm]He is [A]Lord   Lord of [D]all   [D]
 {eoc}
 
 {c:Verse 2}
 [D]  When darkness seems to hide His face
-[G]  I rest on His un - [A]changing grace
-[Bm]  In ev’ry high and stormy [D]gale
+[G]  I rest on His un-[A]changing grace
+[Bm]  In ev’ry high and [D]stormy gale
 [G]  My anchor [A]holds within [D]  the veil
 {c:Sing Higher}
 [G]  My anchor [A]holds within [D]  the veil
 
 {soc}
-[D]Christ a - [G]lone [Bm]Corner - [A]stone
+[D]Christ a-[G]lone   [Bm]Corner-[A]stone
 [D]Weak made [G]strong in the [Bm]Saviour’s [A]love
-[D]Through the [G]storm [Bm]He is [A]Lord      Lord of [D]all      [D]
+[D]Through the [G]storm [Bm]He is [A]Lord   Lord of [D]all
 
 [D]     [D]     [Bm]     [Bm]     [G]     [A]   [D]   [D]
 
-[D]Christ a - [G]lone [Bm]Corner - [A]stone
+[D]Christ a-[G]lone   [Bm]Corner-[A]stone
 [D]Weak made [G]strong in the [Bm]Saviour’s [A]love
-[D]Through the [G]storm [Bm]He is [A]Lord      Lord of [D]all
+[D]Through the [G]storm [Bm]He is [A]Lord   Lord of [D]all   [D]
 
-[D]Christ a - [G]lone [Bm]Corner - [A]stone
+[D]Christ a-[G]lone   [Bm]Corner-[A]stone
 [D]Weak made [G]strong in the [Bm]Saviour’s [A]love
-[D]Through the [G]storm [Bm]He is [A]Lord      Lord of [D]all      [D]
+[D]Through the [G]storm [Bm]He is [A]Lord   Lord of [D]all   [D]
 {eoc}
 
 {c:Verse 3}
 {c:Sing Softer}
 [D]   When He shall come with trumpet sound
 [G]   Oh may I then in [A]Him be found
-[Bm]  Dressed in His righteous - [D]ness alone
+[Bm]  Dressed in His [D]righteous-ness alone
 [G]   Faultless [A]stand before [D]  the throne
 
 {soc}
-[D]Christ a - [G]lone [Bm]Corner - [A]stone
+[D]Christ a-[G]lone   [Bm]Corner-[A]stone
 [D]Weak made [G]strong in the [Bm]Saviour’s [A]love
-[D]Through the [G]storm [Bm]He is [A]Lord      Lord of [D]all      [D]
+[D]Through the [G]storm [Bm]He is [A]Lord   Lord of [D]all   [D]
 {eoc}
 
 {c:Ending}
-[D]Christ a - [G]lone [Bm]Corner - [A]stone
+[D]Christ a-[G]lone   [Bm]Corner-[A]stone
 [D]Weak made [G]strong in the [Bm]Saviour’s [A]love
-[D]Through the [G]storm [Bm]He is [A]Lord
-[D]     [D]     [D]     [D]
+[D]Through the [G]storm [Bm]He is [A]Lord   [D]     [D]     [D]     [D]
