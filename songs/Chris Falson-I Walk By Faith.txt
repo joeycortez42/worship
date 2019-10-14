@@ -4,7 +4,7 @@
 {key:A}
 {tempo:120}
 {time:4/4}
-{as:10}
+{as:11.0}
 {c:Intro}
 [A]. [Asus]. . . [G]. [Gsus]. . . [D]. [Dsus]. . . [A]. [Asus].
 

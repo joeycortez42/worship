@@ -4,70 +4,63 @@
 {key:D}
 {tempo:125}
 {time:6/8}
-{as:13}
-
+{as:13.5}
 {c:Intro}
 [G]Shadows dispelling with [D]joy I am telling
-He [A]made all the darkness de - [D]part
+He [A]made all the darkness de-[D]part
 
-#Verse 1
+{c:Verse 1}
 [D]O what a wonderful wonderful day
-[D]Day I will never for - [A]get
+[D]Day I will never for-[A]get
 [A]After I'd wandered in darkness away
 [A]Jesus my Savior I [D]met
 [D]O what a tender compassionate friend
 [D]He met the need of my [G]heart
 [G]Shadows dispelling with [D]joy I am telling
-He [A]made all the darkness de - [D]part
+He [A]made all the darkness de-[D]part
 
 {soc}
 [D]Heaven came down and [G]glory [A]filled my [D]soul [G] [D]
 [D]When at the cross the [G]Savior [A]made me [D]whole [G] [D]
-My [G]sins were washed away
-And [D]my night was [F#m]turned to [Bm]day [A]
+My [G]sins were washed away   And [D]my night was [F#m]turned to [Bm]day [A]
 [D]Heaven came down and [G]glory [A]filled my [D]soul [G] [D]
 {eoc}
 
-#Verse 2
+{c:Verse 2}
 [D]Born of the Spirit with life from above
-[D]Into God's fam'ly di - [A]vine
+[D]Into God's fam'ly di-[A]vine
 [A]Justified fully through Calvary's love
 [A]O what a standing is [D]mine
 [D]And the transaction so quickly was made
 [D]When as a sinner I [G]came
-[G]Took of the offer of [D]grace
-He did proffer He [A]saved me
-O praise His dear [D]name
+[G]Took of the offer of [D]grace He did proffer
+He [A]saved me O praise His dear [D]name
 
 {soc}
 [D]Heaven came down and [G]glory [A]filled my [D]soul [G] [D]
 [D]When at the cross the [G]Savior [A]made me [D]whole [G] [D]
-My [G]sins were washed away
-And [D]my night was [F#m]turned to [Bm]day [A]
+My [G]sins were washed away   And [D]my night was [F#m]turned to [Bm]day [A]
 [D]Heaven came down and [G]glory [A]filled my [D]soul [G] [D]
 {eoc}
 
-#Verse 3
+{c:Verse 3}
 [D]Now I've a hope that will surely endure
 [D]After the passing of [A]time
 [A]I have a future in heaven for sure
-[A]There in those mansions sub - [D]lime
+[A]There in those mansions sub-[D]lime
 [D]And it's because of that wonderful day
-[D]When at the cross I be - [G]lieved
+[D]When at the cross I be-[G]lieved
 [G]Riches eternal and [D]blessings supernal
-From [A]His precious hand I re - [D]ceived
+From [A]His precious hand I re-[D]ceived
 
 {soc}
 [D]Heaven came down and [G]glory [A]filled my [D]soul [G] [D]
 [D]When at the cross the [G]Savior [A]made me [D]whole [G] [D]
-My [G]sins were washed away
-And [D]my night was [F#m]turned to [Bm]day [A]
+My [G]sins were washed away   And [D]my night was [F#m]turned to [Bm]day [A]
 [D]Heaven came down and [G]glory [A]filled my [D]soul [G] [D]
 {eoc}
 
 {c:Ending}
-My [G]sins were washed away
-And [D]my night was [F#m]turned to [Bm]day [A]
+My [G]sins were washed away   And [D]my night was [F#m]turned to [Bm]day [A]
 [D]Heaven came down and [G]glory [A]filled my [D]soul [G] [D]
-
 [D]Heaven came down and [G]glory [A]filled my [D]soul [G] [D]

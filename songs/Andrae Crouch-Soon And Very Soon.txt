@@ -14,7 +14,7 @@
 [E]Soon and very soon   [A]We are [E]going to see the King
 
 {soc}
-Halle - [G#m]lu - [A]jah halle - [B]lu - [A]jah
+Halle - [G#m]lu - [A]jah halle - [B]lu - [C]jah
 We're [B]going to see the [E]King
 {eoc}
 
@@ -26,7 +26,7 @@ We're [B]going to see the [E]King
 [E]Soon and very soon   [A]We are [E]going to see the King
 
 {soc}
-Halle - [G#m]lu - [A]jah halle - [B]lu - [A]jah
+Halle - [G#m]lu - [A]jah halle - [B]lu - [C]jah
 We're [B]going to see the [E]King
 {eoc}
 
@@ -37,7 +37,7 @@ We're [B]going to see the [E]King
 [E]No more crying there   [A]We are [E]going to see the King
 
 {soc}
-Halle - [G#m]lu - [A]jah halle - [B]lu - [A]jah
+Halle - [G#m]lu - [A]jah halle - [B]lu - [C]jah
 We're [B]going to see the [E]King
 {eoc}
 
@@ -47,7 +47,7 @@ We're [B]going to see the [E]King
 [E]No more dying there   [A]We are [E]going to see the King
 
 {soc}
-Halle - [G#m]lu - [A]jah halle - [B]lu - [A]jah
+Halle - [G#m]lu - [A]jah halle - [B]lu - [C]jah
 We're [B]going to see the [E]King
 {eoc}
 
@@ -57,10 +57,10 @@ We're [B]going to see the [E]King
 [E]Soon and very soon   [A]We are [E]going to see the King
 
 {soc}
-Halle - [G#m]lu - [A]jah halle - [B]lu - [A]jah
+Halle - [G#m]lu - [A]jah halle - [B]lu - [C]jah
 We're [B]going to see the [E]King
 {eoc}
 
 {c:Ending - Retard}
-Halle - [G#m]lu - [A]jah halle - [B]lu - [A]jah
+Halle - [G#m]lu - [A]jah halle - [B]lu - [C]jah
 We're [B]going to see the [E]King

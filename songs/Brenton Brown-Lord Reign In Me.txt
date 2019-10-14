@@ -41,11 +41,11 @@ So won't You [D]reign in [E]me again
 
 {c:Verse 1}
 {c:Softly - Only Bass and Drums}
-[A]  Lord [E]reign in [D]me   reign [E]in Your [A]pow'r
-Over [E]all my [D]dreams   in my [E]darkest [A]hour
-You [E]are the [D]Lord   of [E]all I a[Bm7]m
+[A]  Over [E]all the earth [D]   You [E]reign on [A]high
+Every [E]mountain stream [D]   every [E]sunset [A]sky
+But my [E]one request [D]  Lord my [E]only ai[Bm7]m
 {c:Full Band}
-So won't You [D]reign in [E]me again
+Is that You'd [D]reign in [E]me again
 
 {soc}
 {c:Only Electric Guitar and Drums}
@@ -57,7 +57,6 @@ So won't You [D]reign in [E]me again
 {eoc}
 
 {c:Instrumental}
-[A]  [E]  [D]  [E]  [A]  [E]  [D]  [E]
 [A]  [E]  [D]  [E]  [A]  [E]  [D]  [E]
 [Bm7]  [D]  [E]
 

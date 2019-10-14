@@ -6,7 +6,7 @@
 {time:4/4}
 {as:11.8}
 {c:Intro}
-[G]   [G]   [G]   [G]
+[G]   [G]
 
 {soc}
 [G]   I will give You [D]all my worship
@@ -14,6 +14,8 @@
 [G]   You alone I [D]long to worship
 [C]   You alone are [Am7]worthy [D]of my [G]praise
 {eoc}
+
+[G]   [G]
 
 {c:Verse 1}
 [G]I will worship (I will worship)
@@ -31,8 +33,6 @@ Follow all [G]of   Your    ways [Am7](all Your [D]ways)
 [G]   You alone I [D]long to worship
 [C]   You alone are [Am7]worthy [D]of my [G]praise
 {eoc}
-
-[G]   [G]   [G]   [G]
 
 {c:Verse 2}
 [G]I will bow down (I will bow down)

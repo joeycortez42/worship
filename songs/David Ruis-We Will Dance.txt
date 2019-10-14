@@ -4,24 +4,19 @@
 {key:D}
 {tempo:56}
 {time:4/4}
-{as:10}
-
+{as:11.0}
 {c:Intro}
 [D]
 
-#Verse 1
-S[D]ing a song of celebration
-Lift up a shout of praise
-For the Bridegroom will c[G]ome
-The glorious O[D]ne
+{c:Verse 1}
+S[D]ing a song of celebration   Lift up a shout of praise
+For the Bridegroom will c[G]ome   The glorious O[D]ne
 And [C]oh [G]  we will look on his fa[D]ce
 We'll [C]go [G]to a much better pl[D]ace
 
-#Verse 2
-Da[D]nce with all your might
-Lift up your hands and clap for joy
-The time's drawing n[G]ear
-When He will app - [D]ear
+{c:Verse 2}
+Da[D]nce with all your might   Lift up your hands and clap for joy
+The time's drawing n[G]ear   When He will app - [D]ear
 And [C]oh [G]  we will stand by his s[D]ide
 A st[C]rong[G]  pure spotless [A]Bride
 
@@ -32,19 +27,15 @@ From [D]every to[C]ngue and tr[G]ibe and na[D]tion will jo[C]in [G]
 In the song of the La[D]mb
 {eoc}
 
-#Verse 1
-S[D]ing a song of celebration
-Lift up a shout of praise
-For the Bridegroom will c[G]ome
-The glorious O[D]ne
+{c:Verse 1}
+S[D]ing a song of celebration   Lift up a shout of praise
+For the Bridegroom will c[G]ome   The glorious O[D]ne
 And [C]oh [G]  we will look on his fa[D]ce
 We'll [C]go [G]to a much better pl[D]ace
 
-#Verse 2
-Da[D]nce with all your might
-Lift up your hands and clap for joy
-The time's drawing n[G]ear
-When He will app - [D]ear
+{c:Verse 2}
+Da[D]nce with all your might   Lift up your hands and clap for joy
+The time's drawing n[G]ear   When He will app - [D]ear
 And [C]oh [G]  we will stand by his s[D]ide
 A st[C]rong[G]  pure spotless [A]Bride
 
@@ -52,34 +43,14 @@ A st[C]rong[G]  pure spotless [A]Bride
 [D]We will da[C]nce on the str[G]eets that are go[D]lden
 The [D]glorious Br[C]ide and the g[G]reat Son of M[D]an
 From [D]every to[C]ngue and tr[G]ibe and na[D]tion will jo[C]in [G]
-In the song of the La[D]mb
+In the song of the La[D]mb   [D]
 
 [D]We will da[C]nce on the str[G]eets that are go[D]lden
 The [D]glorious Br[C]ide and the g[G]reat Son of M[D]an
 From [D]every to[C]ngue and tr[G]ibe and na[D]tion will jo[C]in [G]
 In the song of the La[D]mb
 {eoc}
-#
-#{sob}
-#[D]Sing al[G]oud for the t[D]ime of rejo[G]icing is [D]near
-#Sign aloud for the time of rejoicing is near
-#The r[D]isen K[G]ing our Gr[D]oom is soo[G]n to ap[D]pear
-#The risen King our Groom is soon to appear
-#The we[D]dding fe[G]ast to com[D]e is now n[G]ear at [D]hand
-#The wedding feast to come is now near at hand
-#Lift [D]up your v[G]oice, procla[D]im the co[G]ming La[D]mb
-#Lift up your voice, proclaim the coming Lamb
-#{eob}
-#
-#{soc}
-#[D]We will da[C]nce on the str[G]eets that are go[D]lden
-#The glorious Br[C]ide and the g[G]reat Son of M[D]an
-#From every to[C]ngue and tr[G]ibe and na[D]tion will jo[C]in [G]
-#In the song of the La[D]mb
-#{eoc}
 
 {c:Ending}
-Will jo[C]in [G]
-In the song of the [D]lamb
-Will jo[C]in [G]
-In the song of the [D]lamb
+Will jo[C]in [G]   In the song of the [D]lamb
+Will jo[C]in [G]   In the song of the [D]lamb

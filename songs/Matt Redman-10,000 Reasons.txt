@@ -13,7 +13,7 @@
 Bless the L[A]ord O my s[E]oul   [B/D#]O my s[C#m]oul
 W[A]ors-hip His ho [E]- ly name [Bsus] [B]
 Sing like [A]nev-er be-f[C#m]ore   [A]O [B]my s[C#m]oul
-I'll w[A]or-ship Your ho [B]- ly name  [A] [E] [A] [E]
+I'll w[A]or-ship Your ho [B]- ly name   [A] [E] [A] [E]
 {eoc}
 
 {c:Verse 1}
@@ -27,7 +27,7 @@ What-[A]ev-er may p[E]ass and what-[B/D#]ev-er lies be-f[C#m]ore me
 Bless the L[A]ord O my s[E]oul   [B/D#]O my s[C#m]oul
 W[A]ors-hip His ho [E]- ly name [Bsus] [B]
 Sing like [A]nev-er be-f[C#m7]ore   [A]O [B]my s[C#m]oul
-I'll w[A]or-ship Your ho [B]- ly name  [A] [E] [A] [E]
+I'll w[A]or-ship Your ho [B]- ly name   [A] [E] [A] [E]
 {eoc}
 
 {c:Verse 2}
@@ -41,14 +41,14 @@ For [A]all You g[E]ood-ness I will k[B/D#]eep on s[C#m7]ign-ing
 Bless the L[A]ord O my s[E]oul   [B/D#]O my s[C#m]oul
 W[A]ors-hip His ho [E]- ly name [Bsus] [B]
 Sing like [A]nev-er be-f[C#m7]ore   [A]O [B]my s[C#m]oul
-I'll w[A]or-ship Your ho [B]- ly name  [E]
+I'll w[A]or-ship Your ho [B]- ly name   [A] [E] [A] [E]
 {eoc}
 
 {c:Instrumental like the chorus}
 [A]   [E]   [B]   [C#m]
 [A]   [E]   [Bsus] [B]
 [A]   [C#m7]
-[A] [B] [C#m7]   [A]   [B]   [E]
+[A] [B] [C#m7]   [A]   [B]     [A] [E] [A] [E]
 
 {c:Verse 3}
 {c:Acoustic Guitar Only}
@@ -68,4 +68,4 @@ I'll w[A]or-ship Your ho [B]- ly name [C#m]
 {c:Ending}
 Yes I'll w[A]or-ship Your ho [B]- ly name [C#m]
 {c:Retard}
-Lord I'll w[A]or-ship Your ho [B]- ly name [E]
+Lord I'll w[A]or-ship Your ho [B]- ly name   [A] [E] [A] [E]
