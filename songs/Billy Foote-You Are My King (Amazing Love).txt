@@ -22,11 +22,11 @@ Be - c[G]ause You die[A]d and rose a - gain[D]
 Be - c[G]ause You die[A]d and rose a - gain[D]
 
 {soc}
-[D] Amazing love how[G] can it be
+[D] Amazing love   how[G] can it be
 [D] That You my King would die for [Asus]me  [A]
-[D] Amazing love I[G] know it's true
+[D] Amazing love   I[G] know it's true
 [D] It's my joy to honor [Asus]You [A]
-In all I[G] do[A] I honor Yo[D]u
+In all I[G] do   [A] I honor Yo[D]u
 {eoc}
 
 {c:Verse}
@@ -36,12 +36,12 @@ In all I[G] do[A] I honor Yo[D]u
 Be - c[G]ause You die[A]d and rose a - gain[D]
 
 {soc}
-[D] Amazing love how[G] can it be
+[D] Amazing love   how[G] can it be
 [D] That You my King would die for [Asus]me  [A]
-[D] Amazing love I[G] know it's true
+[D] Amazing love   I[G] know it's true
 [D] It's my joy to honor [Asus]You [A]
-In all I[G] do[A] I honor Yo[D]u
-In all [G]I do[A] I honor Yo[D]u
+In all I[G] do   [A] I honor Yo[D]u
+In all I[G] do   [A] I honor Yo[D]u
 {eoc}
 
 {sob}
@@ -52,17 +52,17 @@ Jesus You [D]are my King
 {eob}
 
 {soc}
-[D] Amazing love how[G] can it be
+[D] Amazing love   how[G] can it be
 [D] That You my King would die for [Asus]me  [A]
-[D] Amazing love I[G] know it's true
+[D] Amazing love   I[G] know it's true
 [D] It's my joy to honor [Asus]You [A]
 
-[D] Amazing love how[G] can it be
+[D] Amazing love   how[G] can it be
 [D] That You my King would die for [Asus]me  [A]
-[D] Amazing love I[G] know it's true
+[D] Amazing love   I[G] know it's true
 [D] It's my joy to honor [Asus]You [A]
 {eoc}
 
 {c:Ending}
-[A]In all I[G] do[A] I honor You[D]
-In all I[G] do[A] Let me honor You[D]
+[A]In all I[G]   do[A] I honor You[D]
+In all I[G]   do[A] Let me honor You[D]

@@ -8,6 +8,8 @@
 {c:Intro}
 [D] [A] [Bm] [G]
 
+[D] [A] [Bm] [G]
+
 {soc}
 [D] You lived Y[A]ou died [Bm] You said in t[G]hree days You would rise
 [D] You did [A]You're a - [Bm]live  [G]
@@ -15,7 +17,7 @@
 [D] I know [A]  You will [Bm] all the earth will [G]sing Your praises
 [D]. [A]. [Bm].. [G]. all the [E]earth will [G]sing Your praises
 {eoc}
-[D] [A] [Bm] [G] [E] [G] [D]
+[D]. [A]. [Bm]. [G]. [E]. . . . [G]. . . . [D]
 
 {c:Verse}
 [D] You took [A] You take our [Bm]sins away O God
@@ -30,7 +32,7 @@
 [D] I know [A]  You will [Bm] all the earth will [G]sing Your praises
 [D]. [A]. [Bm].. [G]. all the [E]earth will [G]sing Your praises
 {eoc}
-[D] [A] [Bm] [G] [E] [G] [D]
+[D]. [A]. [Bm]. [G]. [E]. . . . [G]. . . . [D]
 
 {c:Verse}
 [D] You took [A] You take our [Bm]sins away O God
@@ -44,8 +46,8 @@
 [D] You rule [A] You reign [Bm]You said You're c[G]oming back again
 [D] I know [A]  You will [Bm] all the earth will [G]sing Your praises
 {eoc}
-[D] [A] [Bm] [G] [Bm] [E] [G]
-[D] [A] [Bm] [G] [Bm] [E] [G]
+[D] [A] [Bm] [G] [Bm] [E]. . . . [G]. . . .
+[D] [A] [Bm] [G] [Bm] [E]. . . . [G]. . . .
 
 {soc}
 [D] You lived Y[A]ou died [Bm] You said in t[G]hree days You would rise
@@ -63,4 +65,4 @@
 [D]. [A]. [Bm].. [G].  All the [E]earth will [G]sing Your praises
 [D]. [A]. [Bm].. [G].  All the [E]earth will [G]sing Your praises
 [D]. [A]. [Bm].. [G].  All the [E]earth will [G]sing Your praises
-[D]. [A]. [Bm].. [G].  All the [E]earth will [G]sing Your prai - ses  [D]
+[D]. [A]. [Bm].. [G].  All the [E]earth will [G]sing Your [A]prai - ses  [D]

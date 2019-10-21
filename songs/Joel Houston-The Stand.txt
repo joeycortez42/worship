@@ -6,58 +6,58 @@
 {time:4/4}
 {as:9.2}
 {c:Intro}
-[G] [D] [A] [Bm].  .  .[G] [D] [A] [Bm]
-[G] [D] [A] [Bm].  .  .[G] [D] [A] [Bm]
+[A] [E] [B] [C#m].  .  .[A] [E] [B] [C#m]
+[A] [E] [B] [C#m].  .  .[A] [E] [B] [C#m]
 
 {c:Softly}
 {soc}
-[G]  So I’ll [D]stand with [A]arms high and [Bm]heart abandoned
-[G]  In [D]awe of the [A]One who [Bm]gave it all
-[G]  I’ll [D]stand my [A]soul Lord to [Bm]You surrendered
-[G]All I [D]am is [A]Yours  [Bm]
+[A]  So I’ll [E]stand with [B]arms high and [C#m]heart abandoned
+[A]  In [E]awe of the [B]One who [C#m]gave it all
+[A]  I’ll [E]stand my [B]soul Lord to [C#m]You surrendered
+[A]All I [E]am is [B]Yours  [C#m]
 
 {c:Repeat}
 {eoc}
 
 {c:Higher Stronger}
 {soc}
-[G]  So I’ll [D]stand with [A]arms high and [Bm]heart abandoned
-[G]  In [D]awe of the [A]One who [Bm]gave it all
-[G]  I’ll [D]stand my [A]soul Lord to [Bm]You surrendered
-[G]All I [D]am is [A]Yours  [Bm]
+[A]  So I’ll [E]stand with [B]arms high and [C#m]heart abandoned
+[A]  In [E]awe of the [B]One who [C#m]gave it all
+[A]  I’ll [E]stand my [B]soul Lord to [C#m]You surrendered
+[A]All I [E]am is [B]Yours  [C#m]
 
 {c:Repeat}
 {eoc}
 
 {c:Heavy Drums}
 {soc}
-[G]  So I’ll [D]stand with [A]arms high and [Bm]heart abandoned
-[G]  In [D]awe of the [A]One who [Bm]gave it all
-[G]  I’ll [D]stand my [A]soul Lord to [Bm]You surrendered
-[G]All I [D]am is [A]Yours  [Bm]
+[A]  So I’ll [E]stand with [B]arms high and [C#m]heart abandoned
+[A]  In [E]awe of the [B]One who [C#m]gave it all
+[A]  I’ll [E]stand my [B]soul Lord to [C#m]You surrendered
+[A]All I [E]am is [B]Yours  [C#m]
 
 {c:Repeat}
 {eoc}
 
 {c:A cappella}
 {soc}
-[G]  So I’ll [D]stand with [A]arms high and [Bm]heart abandoned
-[G]  In [D]awe of the [A]One who [Bm]gave it all
-[G]  I’ll [D]stand my [A]soul Lord to [Bm]You surrendered
-[G]All I [D]am is [A]Yours  [Bm]
+[A]  So I’ll [E]stand with [B]arms high and [C#m]heart abandoned
+[A]  In [E]awe of the [B]One who [C#m]gave it all
+[A]  I’ll [E]stand my [B]soul Lord to [C#m]You surrendered
+[A]All I [E]am is [B]Yours  [C#m]
 {eoc}
 
 {c:Full Band}
 {soc}
-[G]  So I’ll [D]stand with [A]arms high and [Bm]heart abandoned
-[G]  In [D]awe of the [A]One who [Bm]gave it all
-[G]  I’ll [D]stand my [A]soul Lord to [Bm]You surrendered
-[G]All I [D]am is [A]Yours  [Bm]
+[A]  So I’ll [E]stand with [B]arms high and [C#m]heart abandoned
+[A]  In [E]awe of the [B]One who [C#m]gave it all
+[A]  I’ll [E]stand my [B]soul Lord to [C#m]You surrendered
+[A]All I [E]am is [B]Yours  [C#m]
 
 {c:Repeat}
 {eoc}
 
 {c:Ending}
-[G]All I [D]am is [A]Yours  [Bm]
-[G]All I [D]am is [A]Yours  [Bm]
-[G]All I [D]am is [A]Yours  [A]   [A]  [D]
+[A]All I [E]am is [B]Yours  [C#m]
+[A]All I [E]am is [B]Yours  [C#m]
+[A]All I [E]am is [B]Yours  [B]   [B]  [E]
