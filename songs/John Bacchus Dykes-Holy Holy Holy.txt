@@ -1,0 +1,31 @@
+{title:Holy Holy Holy}
+{subtitle:John Bacchus Dykes}
+{original_key:D}
+{key:D}
+{tempo:70}
+{time:4/4}
+{as:10}
+
+{c:Verse 1 - Softly}
+[D]Holy  [Bm]holy    [A]ho-[D]ly         [G]Lord God Al-[D]mighty
+[A]Early   in   the   [Bm]morn-[F#m]ing   our [A]song shall [E]rise to [A]Thee   [A]
+[D]Holy  [Bm]holy    [A]ho-[D]ly         [G]merciful and [D]mighty
+[Bm]God   [D/F#]in three [G]per-[D]sons    [G]blessed [A]Trini-[D]ty   [D]
+
+{c:Intro}
+[D]
+
+{c:Verse 2}
+[D]Holy  [Bm]holy    [A]ho-[D]ly         [G]all the saints a-[D]dore Thee
+[A]Casting down their   [Bm]golden [F#m]crowns  a-[A]round the [E]glassy [A]sea   [A]
+[D]Cheru-[Bm]bim and [A]sera-[D]phim         [G]falling down be-[D]fore Thee
+[Bm]Which [D/F#]wert and [G]art   [D]and   [G]ever-[A]more shalt [D]be   [D]
+
+{c:Verse 3}
+[D]Holy  [Bm]holy    [A]ho-[D]ly         [G]Lord God Al-[D]mighty
+[A]All Thy works shall [Bm]praise Thy [F#m]name in [A]earth and [E]sky and [A]sea   [A]
+[D]Holy  [Bm]holy    [A]ho-[D]ly         [G]merciful and [D]mighty
+[Bm]God   [D/F#]in three [G]per-[D]sons    [G]blessed [A]Trini-[D]ty   [D]
+
+{c:Ending with retard}
+[Bm]God   [D/F#]in three [G]per-[D]sons    [G]blessed [A]Trini-[D]ty   [D]

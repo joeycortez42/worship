@@ -6,12 +6,12 @@
 {time:4/4}
 {as:14.0}
 {c:Intro & Main Riff}
-#|--------------------------------------------|
-#|--------------------------------------------|
-#|---12-11----12-11----12-11----------12------|
-#|---------12-------12-------12-12h14----14---|
-#|--------------------------------------------|
-#|--------------------------------------------|
+e|--------------------------------------------|
+B|--------------------------------------------|
+G|---12-11----12-11----12-11----------12------|
+D|---------12-------12-------12-12h14----14---|
+A|--------------------------------------------|
+E|--------------------------------------------|
 
 {c:Verse}
 [G] We want to see Je[D]sus lifted hi[Em]gh
@@ -57,11 +57,11 @@ Strongholds c[C]ome tumblin' do[D]wn and down and down and down
 [G] [D] [Em] [C]   [G] [D] [Em] [C]
 
 {soc}
-[G] We want to see   [D] We want to see
-[Em] We want to see Je[C]sus lifted hi[G]gh
+[G] We want to see   [Am] We want to see
+[Bm] We want to see Je[C]sus lifted hi[G]gh
 
-We want to see   [D] We want to see
-[Em] We want to see Je[C]sus lifted hi[G]gh
+We want to see   [Am] We want to see
+[Bm] We want to see Je[C]sus lifted hi[G]gh
 {eoc}
 
 {c:Verse - Riff over verse}

@@ -71,8 +71,10 @@
 [Em]And if our God is for us
 [C]Then who could ever stop us
 [G]And if our God is with us
-[D]Then what could stand a[Em]gain[C]st [G]
-[D]Then what could stand a[Em]gain[C]st [G] [D]
+[D]Then what could stand a[Em]gain[C]st
+Then what could stand a[G]gain[D]st
+Then what could stand a[Em]gain[C]st
+Then what could stand a[G]gain[D]st
 {eob}
 
 {soc}
@@ -96,9 +98,11 @@
 [Em]And if our God is for us
 [C]Then who could ever stop us
 [G]And if our God is with us
-[D]Then what could stand a[Em]gain[C]st [G]
-[D/F#]Then what could stand a[Em]gain[C]st [G] [D]
+[D]Then what could stand a[Em]gain[C]st
+Then what could stand a[G]gain[D]st
+Then what could stand a[Em]gain[C]st
+Then what could stand a[G]gain[D]st
 {eob}
 
 {c:Ending}
-[D]
+[Em]

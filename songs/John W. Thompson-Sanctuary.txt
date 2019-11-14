@@ -6,20 +6,21 @@
 {time:4/4}
 {as:10}
 {c:Intro}
-Sanctu-[G]ary[Em7]   [A]for   [D]You
+[D]
+Sanctu-[G]ary [Em7]    [A]for   [D]You
 
 {soc}
 [D]Lord   pre-[D]pare me to be a sanctu-[A]ary
 Pure and [G]holy[Em7]    tried and [D]true   [A]
 With   thanks-[D]giving I’ll be a [A]living
-Sanctu-[G]ary[Em7]   [A]for   [D]You
+Sanctu-[G]ary [Em7]    [A]for   [D]You
 {eoc}
 
 {soc}
 [D]Lord   pre-[D]pare me to be a sanctu-[A]ary
 Pure and [G]holy[Em7]    tried and [D]true   [A]
 With   thanks-[D]giving I’ll be a [A]living
-Sanctu-[G]ary[Em7]   [A]for   [D]You
+Sanctu-[G]ary [Em7]    [A]for   [D]You
 {eoc}
 
 {soc}
@@ -27,9 +28,9 @@ Sanctu-[G]ary[Em7]   [A]for   [D]You
 Pure and [G]holy[Em7]    tried and [D]true   [A]
 With   thanks-[D]giving I’ll be a [A]living
 {c:Retard}
-Sanctu-[G]ary[Em7]   [A]for   [D]You
+Sanctu-[G]ary [Em7]    [A]for   [D]You
 {eoc}
 
 {c:Ending}
-Sanctu-[G]ary[Em7]   [A]for   [D]You
-Sanctu-[G]ary[Em7]   [A]for   [D]You
+Sanctu-[G]ary [Em7]    [A]for   [D]You
+Sanctu-[G]ary [Em7]    [A]for   [D]You
