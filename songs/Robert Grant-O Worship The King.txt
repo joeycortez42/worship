@@ -4,7 +4,7 @@
 {key:G}
 {tempo:120}
 {time:6/8}
-{as:12.5}
+{as:13.8}
 {c:Intro}
 [G]. . .  [C]. . .  [Em]. . .  [D]. . .
 [G]. . .  [C]. . .  [Em]. . .  [D]. . .
@@ -13,38 +13,47 @@
 O [G]wor-ship the King all [C]glo-rious a-[D]bove
 And [G]grate-ful-ly sing [C]His wonder[D]ful [G]love
 [D]Our Shield and De-fender the Ancient of Days
-Pa-[Em]vil-ioned in [C]splendor and [Am]gird-ed [D]with [G]praise  [C]. . . [Em]. . . [D]. . .
+Pa-[Em]vil-ioned in [C]splendor and [Am]gird-ed [D]with [G]praise
+[C]. . . [Em]. . . [D]. . .
 
 {c:Verse 2}
 O [G]tell of His might   O [C]sing of His [D]grace
 Whose [G]robe is the light [C]whose can-o-[D]py [G]space
 [D]His chariots of wrath the deep thunder-clouds form
-And [Em]dark is His [C]path on the [Am]wings of [D]the [G]storm  [C]. . . [Em]. . . [D]. . .
+And [Em]dark is His [C]path on the [Am]wings of [D]the [G]storm
+[C]. . . [Em]. . . [D]. . .
 
 {soc}
-O [G]Worshi[C]p the [Em]Lord God On [D]High   [G]Praise [C]Him all [Em]Creatures Draw [D]Nigh
-[G]Sing [C]‘Round His [Em]Glorious [D]Throne   [B]Our True [C]Adoration  [C]
+O [G]Worshi[C]p the [Em]Lord God On [D]High
+[G]Praise [C]Him all [Em]Creatures Draw [D]Nigh
+[G]Sing [C]‘Round His [Em]Glorious [D]Throne
+[B]Our True [C]Adoration  [C]
 Forev[D]er Make [G]Known  [C]. . . [Em]. . . [D]. . .
 {eoc}
-
 [G]. . . [C]. . . [Em]. . . [D]. . .
 
 {c:Verse 3}
 Frail [G]chil-dren of dust and [C]fee-ble as [D]frail
 In [G]Thee do we trust [C]nor find Thee [D]to [G]fail
 [D]Thy mercies how tender how firm to the end
-Our [Em]Mak-er De-[C]fender Re-[Am]deem-er [D]and [G]Friend  [C]. . . [Em]. . . [D]. . .
+Our [Em]Mak-er De-[C]fender Re-[Am]deem-er [D]and [G]Friend
+[C]. . . [Em]. . . [D]. . .
 
 {soc}
-O [G]Worshi[C]p the [Em]Lord God On [D]High   [G]Praise [C]Him all [Em]Creatures Draw [D]Nigh
-[G]Sing [C]‘Round His [Em]Glorious [D]Throne   [B]Our True [C]Adoration  [C]
+O [G]Worshi[C]p the [Em]Lord God On [D]High
+[G]Praise [C]Him all [Em]Creatures Draw [D]Nigh
+[G]Sing [C]‘Round His [Em]Glorious [D]Throne
+[B]Our True [C]Adoration  [C]
 Forev[D]er Make [G]Known  [C]. . . [Em]. . . [D]. . .
 
-O [G]Worshi[C]p the [Em]Lord God On [D]High   [G]Praise [C]Him all [Em]Creatures Draw [D]Nigh
-[G]Sing [C]‘Round His [Em]Glorious [D]Throne   [B]Our True [C]Adoration  [C]
+O [G]Worshi[C]p the [Em]Lord God On [D]High
+[G]Praise [C]Him all [Em]Creatures Draw [D]Nigh
+[G]Sing [C]‘Round His [Em]Glorious [D]Throne
+[B]Our True [C]Adoration  [C]
 {eoc}
 
 {c:Ending}
-[B]Our True [C]Adoration  [C]   [B]Our True [C]Adoration  [C]
+[B]Our True [C]Adoration  [C]
+[B]Our True [C]Adoration  [C]
 Forev[D]er Make [G]Known  [C]. . . [Em]. . . [D]. . .
 [G]. . . [C]. . . [Em]. . . [D]. . . [G].

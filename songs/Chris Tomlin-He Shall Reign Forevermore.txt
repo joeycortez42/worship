@@ -4,12 +4,11 @@
 {key:G}
 {tempo:122}
 {time:4/4}
-{as:9.0}
-
+{as:10.0}
 {c:Intro}
 [Em] [C] [G] [D]
 
-#Verse 1
+{c:Verse 1}
 [Em]In the bleak mid-[C]winter [G]all creation [D]groans
 [Em]For a world in [C]darkness [G]frozen like a [D]stone
 Light is [Am7]breaking [C]  in a [G]stable for a [D]throne
@@ -23,7 +22,7 @@ And [Em]He shall [C]reign forever-[G]more forever-[D]more
 
 [Em] [C] [G] [D]
 
-#Verse 2
+{c:Verse 2}
 [Em]If I were a [C]wise man [G]I would travel [D]far
 [Em]If I were a [C]shepherd [G]I would do my [Bm7]part
 But poor as [Am7]I am  [C]  I will [G]give to Him my [D]heart

@@ -4,58 +4,32 @@
 {key:E}
 {time:4/4}
 {as:10}
-
 {c:Intro}
 [E]  [B]  [E]
 
-#Verse 1
-An[E]gels we have he[B]ard on h[E]igh
-Sweet-ly sing-ing o[B]'er the pl[E]ains
-And the moun-tains [B]in re-[E]ply
-Ech-o-ing their j[B]oy-ous str[E]ains
+{c:Verse 1}
+[E]Angels we have [B]heard on [E]high     [E]Sweet-ly sing-ing [B]o'er the [E]plains
+[E]And the moun-tains [B/D#]in re-[E]ply     [E]Ech-o-ing their [B]joy-ous [E]strains
 
 {soc}
-G[E]lo    [B]-    [E]-    -   [B]ri-a
-[E]In e[B]x-cel-sis [E]De-[B]o
-G[E]lo    [B]-    [E]-    -   [B]ri-a
-[E]In e[B]x-cel-sis [E]De [B]-  [E]o
+[E]Glo    [B]-    [E]-    -   [B]ria     [E]In ex-cel-[A]sis [E/B]De-[B]o
+[E]Glo    [B]-    [E]-    -   [B]ria     [E]In ex-cel-[A]sis [E/B]De [B]-  [E]o
 {eoc}
 
-#Verse 2
-Shep[E]herds why this [B]ju - bi-l[E]ee
-Why your joy-ous str[B]ains pro-lo[E]ng
-What the glad-some [B]ti-dings [E]be
-Which in-spire your he[B]aven-ly s[E]ong
+{c:Verse 2}
+[E]Shepherds why this [B]ju - bi-[E]lee     [E]Why your joy-ous [B]strains pro-[E]long
+[E]What the glad-some [B/D#]ti-dings [E]be     [E]Which in-spire your [B]heaven-ly [E]song
 
 {soc}
-G[E]lo    [B]-    [E]-    -   [B]ri-a
-[E]In e[B]x-cel-sis [E]De-[B]o
-G[E]lo    [B]-    [E]-    -   [B]ri-a
-[E]In e[B]x-cel-sis [E]De [B]-  [E]o
+[E]Glo    [B]-    [E]-    -   [B]ria     [E]In ex-cel-[A]sis [E/B]De-[B]o
+[E]Glo    [B]-    [E]-    -   [B]ria     [E]In ex-cel-[A]sis [E/B]De [B]-  [E]o
 {eoc}
-#
-#Verse 3
-#C[E]ome to Bethle-[B]hem and s[E]ee
-#Christ whose birth the [B]an-gels si[E]ng
-#Come a-dore on b[B]end-ed k[E]nee
-#Christ the Lord the n[B]ew-born K[E]ing
-#
-#{soc}
-#G[E]lo    [B]-    [E]-    -   [B]ri-a
-#[E]In e[B]x-cel-sis [E]De-[B]o
-#G[E]lo    [B]-    [E]-    -   [B]ri-a
-#[E]In e[B]x-cel-sis [E]De [B]-  [E]o
-#{eoc}
 
-#Verse 4
-S[E]ee Him in a m[B]an-ger l[E]aid
-Whom the choirs of [B]an-gels pr[E]aise
-Mar-y Jo-seph le[B]nd your a[E]id
-While our hearts in lo[B]ve we ra[E]ise
+{c:Verse 3}
+[E]See Him in a [B]man-ger [E]laid     [E]Whom the choirs of [B]an-gels [E]praise
+[E]Mar-y Jo-seph [B/D#]lend your [E]aid     [E]While our hearts in [B]love we [E]raise
 
 {soc}
-G[E]lo    [B]-    [E]-    -   [B]ri-a
-[E]In e[B]x-cel-sis [E]De-[B]o
-G[E]lo    [B]-    [E]-    -   [B]ri-a
-[E]In e[B]x-cel-sis [E]De [B]-  [E]o
+[E]Glo    [B]-    [E]-    -   [B]ria     [E]In ex-cel-[A]sis [E/B]De-[B]o
+[E]Glo    [B]-    [E]-    -   [B]ria     [E]In ex-cel-[A]sis [E/B]De [B]-  [E]o
 {eoc}

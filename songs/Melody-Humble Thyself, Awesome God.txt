@@ -5,7 +5,6 @@
 {tempo:72}
 {time:3/4}
 {as:11.0}
-
 {c:Intro}
 [Em] [D] [Em]
 

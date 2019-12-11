@@ -5,12 +5,11 @@
 {tempo:120}
 {time:4/4}
 {as:11.0}
-
 {c:Intro}
 [C] [F] [C] [G] [Am7] [F] [C] [G]
 [C] [F] [C] [G] [Am7] [F] [C] [G]
 
-#Verse 1
+{c:Verse 1}
 [C]Joyful joyful [G]we adore Thee
 [F]God of glory [G]Lord of love
 [C]Hearts unfold like [G]flowers before Thee
@@ -29,7 +28,7 @@ You will bring us [C]joy [F]joy [C]joy [G]
 We a[Am]dore Thee[F] [C] [G]
 {eoc}
 
-#Verse 3
+{c:Verse 2}
 [D]Thou art giving [A]and forgiving
 [G]Ever blessing [A]ever blest
 [D]Wellspring of the [A]joy of living
@@ -40,7 +39,7 @@ We a[Am]dore Thee[F] [C] [G]
 [D]Teach us how to [A]love each other
 [G]Lift us to the [A]joy di[D]vine
 
-#Verse 4
+{c:Verse 3}
 [E]Mortals join the [B]mighty chorus
 [A]Which the morning [B]stars began
 [E]Father love is [B]reigning o'er us
@@ -67,4 +66,5 @@ We a[C#m]dore Thee[A] [E] [B]
 We a[C#m]dore Thee[A] [E] [B]
 {eoc}
 
+{c:Ending}
 [E]

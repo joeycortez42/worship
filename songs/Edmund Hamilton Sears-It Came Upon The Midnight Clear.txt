@@ -2,43 +2,33 @@
 {subtitle:Edmund Hamilton Sears}
 {original_key:Ab}
 {key:G}
+{tempo:120}
 {time:6/8}
 {as:10}
-
 {c:Intro}
-The w[G]orld in s[C]ol-emn s[G]till-ness lay
-To h[C]ear the a[D]n-gels s[G]ing
+The w[G]orld in s[C]ol-emn s[G]till-ness lay   To h[C]ear the a[D]n-gels s[G]ing
 
-#Verse 1
-It c[G]ame up[C]-on the m[G]id-night clear
-That g[C]lo-rious s[A]ong of o[D]ld
-From a[G]n-gels be[C]nd-ing n[G]ear the earth
-To to[C]uch their h[D]arps of g[G]old
+{c:Verse 1}
+It c[G]ame up[C]-on the m[G]id-night clear   That g[C]lo-rious s[A]ong of o[D]ld
+From a[G]n-gels be[C]nd-ing n[G]ear the earth   To to[C]uch their h[D]arps of g[G]old
 Pe[B]ace on the earth go[Em]od will to men
-From he[D]aven's all gra[A]cious K[D]ing
-The w[G]orld in s[C]ol-emn s[G]till-ness lay
-To h[C]ear the a[D]n-gels s[G]ing
+From he[D]aven's all gra[A]-cious K[D]ing
+The w[G]orld in s[C]ol-emn s[G]till-ness lay   To h[C]ear the a[D]n-gels s[G]ing   [G]
 
-#Verse 2
+{c:Verse 2}
 Still [G]thro' the c[C]lo-ven sk[G]ies they come
 With pe[C]ace-ful w[A]ings un-fu[D]rled
-And st[G]ill their hea[C]ven-ly m[G]u-sic floats
-O'er a[C]ll the w[D]eary w[G]orld
-Ab[B]ove its sad a[Em]nd low-ly plains
-They b[D]end on ho[A]vering w[D]ing
-And e[G]v-er o'[C]er its B[G]a-bel sounds
-The bl[C]ess-ed a[D]n-gels s[G]ing
+And st[G]ill their hea[C]ven-ly m[G]u-sic floats   Over a[C]ll the w[D]e-ary w[G]orld
+A-b[B]ove its sad a[Em]nd low-ly plains   They b[D]end on ho[A]v-er-ing w[D]ing
+And e[G]v-er o'[C]er its B[G]a-bel sounds   The bl[C]ess-ed a[D]n-gels s[G]ing   [G]
 
-#Verse 3
-For [G]lo the d[C]ays are ha[G]sten-ing on
-By p[C]ro-phets se[A]en of [D]old
-When w[G]ith the e[C]v-er-c[G]ir-cling years
-Shall c[C]ome the ti[D]me foret[G]old
+{c:Verse 3}
+For [G]lo the d[C]ays are ha[G]sten-ing on   By p[C]ro-phets se[A]en of [D]old
+When w[G]ith the e[C]v-er-c[G]ir-cling years   Shall c[C]ome the ti[D]me foret[G]old
 Wh[B]en the new heaven a[Em]nd earth shall own
 The Pr[D]ince of Pe[A]ace their K[D]ing
 And t[G]he whole wo[C]rld send ba[G]ck the song
 Which n[C]ow the a[D]n-gels s[G]ing
 
-{c:Ending}
-Which n[C]ow the a[D]n-gels s[G]ing
-Which n[C]ow the a[D]n-gels s[G]ing
+{c:Ending with retard}
+Which n[C]ow the a[D]n-gels s[G]ing   Which n[C]ow the a[D]n-gels s[G]ing

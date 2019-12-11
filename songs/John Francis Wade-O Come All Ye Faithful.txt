@@ -2,52 +2,38 @@
 {subtitle:John Francis Wade}
 {original_key:G}
 {key:G}
+{tempo:110}
 {time:4/4}
 {as:10}
-
 {c:Intro}
-[D]O c[G]ome let us [D]a-d[G]ore H[C]im
-C[G]hrist [D] the L[G]ord
+[G]O c[C]ome let [A/C#]us a-d[D]ore [G/B]Him [C]    [G/D]Christ [D] the L[G]ord
 
-#Verse 1
-[G]O come all ye fa[D]ith-ful
-J[G]oy-f[D]ul a[G]nd t[C]ri-[G]um-ph[D]ant
-[Em]O come [A]ye O c[D]ome ye to Beth [A]- le-h[D]em
-Co[G]me and be-[D]hold H[G]im
-B[C]orn the King of an[D]gels
+{c:Verse 1}
+[G]O come all ye fa[D]ith-ful   J[G]oyful [C]and tri-[G/D]um-ph[D]ant
+O [Em]come [A]ye  O [D]come ye [G]to [D/A]Beth [A]- le-[D]hem
+[G]Come and be-[D/A]hold [G/B]Him   [C]Born the [A/C#]King of [D]angels
 
 {soc}
-O c[G]ome let us a-dore Him
-O come let us a - dore H[D]im
-[D]O c[G]ome let us [D]a-d[G]ore H[C]im
-C[G]hrist [D] the L[G]ord
+O c[G]ome let us a-dore Him   O come let us a - dore H[D]im
+O c[C]ome let [A/C#]us a-d[D]ore [G/B]Him [C]    [G/D]Christ [D] the L[G]ord
 {eoc}
 
-#Verse 2
-[G] Sing choirs of [D]an-gels
-S[G]ing [D]in [G]ex-[C]ul-[G]ta-ti[D]on
-[Em]O sing a[A]ll ye br[D]ight
-Hosts of heav'n [A] a-b[D]ove
-G[G]lo-ry to G[D]od [G]
-G[C]lo-ry in the hig[D]hest
+{c:Verse 2}
+[G] Sing choirs of [D]an-gels   [G]Sing in [C]exul-[G/D]ta-[D]tion
+O [Em]sing [A]all ye [D]bright   Hosts [G]of [D/A]heav'n [A] a-b[D]ove
+[G]Glo-ry to [D/A]God [G/B]     [C]Glo-ry [A/C#]in the [D]highest
 
 {soc}
-O c[G]ome let us adore Him
-O come let us a - dore H[D]im
-[D]O c[G]ome let us [D]a-d[G]ore H[C]im
-C[G]hrist [D] the L[G]ord
+O c[G]ome let us a-dore Him   O come let us a - dore H[D]im
+O c[C]ome let [A/C#]us a-d[D]ore [G/B]Him [C]    [G/D]Christ [D] the L[G]ord
 {eoc}
 
-#Verse 3
-[G] Yea Lord we gr[D]eet Thee
-B[G]orn t[D]his h[G]ap-[C]py m[G]orn-i[D]ng
-[Em] Je-[A]sus to T[D]hee be all glo[A]-ry gi[D]v'n
-W[G]ord of the [D]Fa-t[G]her
-N[C]ow in flesh ap-pea[D]ring
+{c:Verse 3}
+[G] Yea Lord we [D]greet Thee   [G]Born this [C]happy [G/D]morn-[D]ing
+[Em] Je-[A]sus to [D]Thee be [G]all [D/A]glo [A]- ry [D]giv'n
+[G]Word of the [D/A]Fa-t[G/B]her   [C]Now in [A/C#]flesh ap-[D]pearing
 
 {soc}
-O c[G]ome let us adore Him
-O come let us a - dore H[D]im
-[D]O c[G]ome let us [D]a-d[G]ore H[C]im
-C[G]hrist [D] the L[G]ord
+O c[G]ome let us a-dore Him   O come let us a - dore H[D]im
+O c[C]ome let [A/C#]us a-d[D]ore [G/B]Him [C]    [G/D]Christ [D] the L[G]ord
 {eoc}

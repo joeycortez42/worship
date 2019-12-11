@@ -4,85 +4,66 @@
 {key:G}
 {tempo:130}
 {time:4/4}
-{as:9.9}
-
+{as:12.5}
 {c:Intro}
-[C] [D] [G]
-[C] [D] [G] [G]
-[C] [D] [G]
-[C] [D] [G] [G]
+[Bb]. [C]. [F]. . . [Bb]. [Bb]. [C]. [Dm]. [Dm]. [C]. . . .
+[Bb]. [C]. [F]. . . [Bb]. [Bb]. [C]. [Dm]. [Dm]. [C]. . . .
 
-#Verse 1
-Your e[G]verlasting love is [C]high - [G]er
-[C]High - [G]er hig[D]her than the s[G]ky
-Your e[G]verlasting love is [C]high - [G]er
-[C]High - [G]er hig - [D/F#]her than the [Em]sky
-High - [D]er than the s[C]ky
-Oh the wonder [Am]of Your everlasting [Dsus]love
-Is higher than the [C]sky
 
-[C] [D] [G]
-[C] [D] [G] [G]
-[C] [D] [G]
-[C] [D] [G] [G]
+[Bb]. [C]. [F]. . . [Bb]. [Bb]. [C]. [Dm]. [Dm]. [C]. . . .
+[Bb]. [C]. [F]. . . [Bb]. [Bb]. [C]. [Dm]. [Dm]. [C]. . . .
 
-{as:15.0}
+{c:Verse 1}
+Your e[F]verlasting [F]love is [Bb]high-[F]er   [Bb]High-[F]er hig[C]her than the s[F]ky
+Your e[F]verlasting [F]love is [Bb]high-[F]er   [Bb]High-[F]er hig-[C]her than the [Dm]sky
+High-[Dm]er than the s[Bb]ky   Oh the wonder [Gm]of Your everlasting [C]love
+Is higher than the [Bb]sky [C]. [F]. . [Bb]. [Bb]. [C]. [Dm]. [Dm]. [C]. . . .
+[Bb]. [C]. [F]. . . [Bb]. [Bb]. [C]. [Dm]. [Dm]. [C]. . . .
 
-#Verse 2
-Your e[G]verlasting love is [C]deep - [G]er
-[C]Deep - [G]er de[D]eper than the s[G]ea
-Your e[G]verlasting love is [C]deep - [G]er
-[C]Deep - [G]er deep - [D/F#]er than the [Em]sea
-Deep - [D]er than the s[C]ea
-Oh the wonder [Am]of Your everlasting [Dsus]love
-Is deeper than the [C]sea
 
-[C] [D] [G]
-[C] [D] [G] [G]
-[C] [D] [G]
-[C] [D] [G] [G]
+{c:Verse 2}
+Your e[F]verlasting [F]love is [Bb]deep-[F]er   [Bb]Deep-[F]er de[C]eper than the s[F]ea
+Your e[F]verlasting [F]love is [Bb]deep-[F]er   [Bb]Deep-[F]er deep-[C]er than the [Dm]sea
+Deep-[Dm]er than the s[Bb]ea   Oh the wonder [Gm]of Your everlasting [C]love
+Is deeper than the [Bb]sea [C]. [F]. . [Bb]. [Bb]. [C]. [Dm]. [Dm]. [C]. . . .
+[Bb]. [C]. [F]. . . [Bb]. [Bb]. [C]. [Dm]. [Dm]. [C]. . . .
+
 
 {sob}
-H[C]igh - [G]er than the hea[D]vens a - b[G]ove
-Is the g[C]lo - [G]ry of Your w[D]onderful lo[G]ve
-I'[C]m [G]lost in the m[D]ystery [G]of
-Your everlasting love
-[D] Your everlasting love
+H[Bb]igh-[F]er than the hea[C]vens a-b[F]ove
+Is the g[Bb]lo-[F]ry of Your w[C]onderful lo[F]ve   I'[Bb]m [F]lost in the m[C]ystery [F]of
+[F]Your everlasting love   [C] Your everlasting love
 {eob}
 
-#Verse 3
-Your e[G]verlasting love is r[C]each - i[G]ng
-R[C]each - i[G]ng reac[D]hing out to [G]me
-Your e[G]verlasting love is r[C]each - i[G]ng
-R[C]each - i[G]ng reach - [D/F#]ing out to [Em]me
-Reach - i[D]ng out to [C]me
-Oh the wonder [Am]of Your everlasting [Dsus]love
-Is reaching out to [C]me
 
-[C] [D] [G]
-[C] [D] [G] [G]
-[C] [D] [G]
-[C] [D] [G] [G]
+{c:Verse 3}
+Your e[F]verlasting [F]love is r[Bb]each-i[F]ng   R[Bb]each-i[F]ng reac[C]hing out to [F]me
+Your e[F]verlasting [F]love is r[Bb]each-i[F]ng   R[Bb]each-i[F]ng reach-[C]ing out to [Dm]me
+Reach-i[Dm]ng out to [Bb]me   Oh the wonder [Gm]of Your everlasting [C]love
+Is reaching out to [Bb]me [C]. [F]. . [Bb]. [Bb]. [C]. [Dm]. [Dm]. [C]. . . .
+[Bb]. [C]. [F]. . . [Bb]. [Bb]. [C]. [Dm]. [Dm]. [C]. . . .
 
 {sob}
-H[C]igh - [G]er than the hea[D]vens a - b[G]ove
-Is the g[C]lo - [G]ry of Your w[D]onderful lo[G]ve
-I'[C]m [G]lost in the m[D]ystery [G]of
-Your everlasting love
-[D] Your everlasting love
+H[Bb]igh-[F]er than the hea[C]vens a-b[F]ove
+Is the g[Bb]lo-[F]ry of Your w[C]onderful lo[F]ve   I'[Bb]m [F]lost in the m[C]ystery [F]of
+[F]Your everlasting love   [C] Your everlasting love
 {eob}
 
-#Verse 1
-Your e[G]verlasting love is [C]high - [G]er
-[C]High - [G]er hig[D]her than the s[G]ky
-Your e[G]verlasting love is [C]high - [G]er
-[C]High - [G]er hig - [D/F#]her than the [Em]sky
-High - [D]er than the s[C]ky
-Oh the wonder [Am]of Your everlasting [Dsus]love
-Is higher than the [C]sky
 
-{c:Ending}
-[C] [D] [G]
-[C] [D] [G] [G]
-[C] [D] [G]
-[C] [D] [G] [G]
+{c:Instrumental}
+[Bb]. [C]. [F]. . . [Bb]. [Bb]. [C]. [Dm]. [Dm]. [C]. . . .
+[Bb]. [C]. [F]. . . [Bb]. [Bb]. [C]. [Dm]. [Dm]. [C]. . . .
+[C]. [D]. [G]. . [C]. [C]. [D]. [Em]. [Em]. [D]. . .
+[C]. [D]. [G]. . [C]. [C]. [D]. [Em]. [Em]. [D]. . .
+
+
+{c:Verse 1}
+Your e[G]verlasting [G]love is [C]high-[G]er   [C]High-[G]er hig[D]her than the s[G]ky
+Your e[G]verlasting [G]love is [C]high-[G]er   [C]High-[G]er hig-[D]her than the [Em]sky
+High-[Em]er than the s[C]ky   Oh the wonder [Am]of Your everlasting [D]love [D]
+
+Your e[G]verlasting [G]love is [C]high-[G]er   [C]High-[G]er hig[D]her than the s[G]ky
+Your e[G]verlasting [G]love is [C]high-[G]er   [C]High-[G]er hig-[D]her than the [Em]sky
+High-[Em]er than the s[C]ky   Oh the wonder [Am]of Your everlasting [D]love
+Is higher than the [C]sky [D]. [G]. . [C]. [C]. [D]. [Em]. [Em]. [D]. . .
+[C]. [D]. [G]. . [C]. [C]. [D]. [Em]. [Em]. [D] [G]

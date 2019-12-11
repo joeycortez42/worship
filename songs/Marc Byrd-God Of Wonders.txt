@@ -4,7 +4,7 @@
 {key:G}
 {tempo:82}
 {time:4/4}
-{as:11.0}
+{as:11.5}
 {c:Intro}
 [Dsus]   [Em7]   [C2]   [Dsus]   [Em7]   [C2]
 

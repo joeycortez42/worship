@@ -4,7 +4,7 @@
 {key:A}
 {tempo:108}
 {time:4/4}
-{as:10}
+{as:9.0}
 {c:Intro}
 [A]
 
@@ -19,7 +19,7 @@ Then sings my [A]soul   my [D]Sav-ior God to [A]Thee
 How [A]great Thou [E]art   How great Thou [A]art
 
 Then sings my [A]soul   my [D]Sav-ior God to [A]Thee
-How great Thou [E]art   How [D]great Thou [A]art
+How great Thou [E]art  [D] How [E]great Thou [A]art
 {eoc}
 
 {c:Verse 2}
@@ -33,7 +33,7 @@ Then sings my [A]soul   my [D]Sav-ior God to [A]Thee
 How [A]great Thou [E]art   How great Thou [A]art
 
 Then sings my [A]soul   my [D]Sav-ior God to [A]Thee
-How great Thou [E]art   How [D]great Thou [A]art
+How great Thou [E]art  [D] How [E]great Thou [A]art
 {eoc}
 
 {c:Verse 3}
@@ -47,8 +47,8 @@ Then sings my [A]soul   my [D]Sav-ior God to [A]Thee
 How [A]great Thou [E]art   How great Thou [A]art
 
 Then sings my [A]soul my   [D]Sav-ior God to [A]Thee
-How great Thou [E]art   How [D]great Thou [A]art
+How great Thou [E]art  [D] How [E]great Thou [A]art
 {eoc}
 
 {c:Ending}
-How great Thou [E]art   How [D]great Thou [A]art
+How great Thou [E]art  [D] How [E]great Thou [A]art

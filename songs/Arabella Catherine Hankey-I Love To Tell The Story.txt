@@ -7,40 +7,40 @@
 {as:5.9}
 
 {c:Intro}
-To [E]tell the old old [A]sto - ry of [E]Jesus [B]and His [E]love
+To [E]tell the old old [A]sto-ry of [E]Jesus [B]and His [E]love
 
-#Verse 1
-I [E]love to tell the sto - ry of [A]un - seen things a - [E]bove
-Of [B]Je-sus and His [E]glo - ry of Je - sus and His [B]love
-I [B]love to tell the [E]sto - ry be - [C#m]cause I know 'tis [G#]true
-It [A]sat - is - fies my [E]longings as [B]noth-ing else can [E]do
+{c:Verse 1}
+I [E]love to tell the sto-ry of [A]un-seen things a-[E]bove
+Of [B]Je-sus and His [E]glo-ry of Je-sus and His [B]love
+I [B]love to tell the [E]sto-ry be-[C#m]cause I know 'tis [G#]true
+It [A]sat-is-fies my [E]longings as [B]noth-ing else can [E]do
 
 {soc}
-I [B]love to tell the [E]sto - ry 'Twill [A]be my theme in [E]glo - ry
-To [E]tell the old old [A]sto - ry of [E]Jesus [B]and His [E]love
+I [B]love to tell the [E]sto-ry 'Twill [A]be my theme in [E]glo-ry
+To [E]tell the old old [A]sto-ry of [E]Jesus [B]and His [E]love
 {eoc}
 
-#Verse 2
-I [E]love to tell the sto - ry 'tis p[A]leas-ant to re - [E]peat
+{c:Verse 2}
+I [E]love to tell the sto-ry 'tis p[A]leas-ant to re-[E]peat
 What [B]seems each time I [E]tell it more won-der-ful-ly [B]sweet
-I [B]love to tell the [E]sto - ry for [C#m]some have nev - er [G#]heard
+I [B]love to tell the [E]sto-ry for [C#m]some have nev-er [G#]heard
 The [A]mess-age of sal-[E]vation from [B]God's own ho-ly [E]Word
 
 {soc}
-I [B]love to tell the [E]sto - ry 'Twill [A]be my theme in [E]glo - ry
-To [E]tell the old old [A]sto - ry of [E]Jesus [B]and His [E]love
+I [B]love to tell the [E]sto-ry 'Twill [A]be my theme in [E]glo-ry
+To [E]tell the old old [A]sto-ry of [E]Jesus [B]and His [E]love
 {eoc}
 
-#Verse 3
-I [E]love to tell the sto - ry for t[A]hose who know it [E]best
+{c:Verse 3}
+I [E]love to tell the sto-ry for t[A]hose who know it [E]best
 Seem [B]hun-gering and [E]thirsting to hear it like the [B]rest
-And [B]when in scenes of [E]glo - ry I [C#m]sing the new new [G#]song
+And [B]when in scenes of [E]glo-ry I [C#m]sing the new new [G#]song
 'Twill [A]be the old old [E]sto-ry that [B]I have loved so [E]long
 
 {soc}
-I [B]love to tell the [E]sto - ry 'Twill [A]be my theme in [E]glo - ry
-To [E]tell the old old [A]sto - ry of [E]Jesus [B]and His [E]love
+I [B]love to tell the [E]sto-ry 'Twill [A]be my theme in [E]glo-ry
+To [E]tell the old old [A]sto-ry of [E]Jesus [B]and His [E]love
 {eoc}
 
 {c:Ending}
-To [E]tell the old old [A]sto - ry of [E]Jesus [B]and His [E]love
+To [E]tell the old old [A]sto-ry of [E]Jesus [B]and His [E]love
