@@ -4,48 +4,32 @@
 {key:C}
 {tempo:86}
 {time:4/4}
-{as:11}
-
+{as:11.5}
 {c:Intro}
-Oh [C]Lord our Lord how ma[F]jestic is
-Your [C]name in all the ea[G]rth
+Oh [C]Lord our Lord   how ma-[F]jestic is Your [C]name in all the [G]earth
 
 {soc}
-Oh [C]Lord our Lord how ma[F]jestic is
-Your [C]name in all the ea[G]rth
-Oh [C]Lord our Lord how ma[F]jestic is
-Your [C]name in all the e[G]arth
+Oh [C]Lord our Lord   how ma-[F]jestic is Your [C]name in all the [G]earth
+Oh [C]Lord our Lord   how ma-[F]jestic is Your [C]name in all the [G]earth
 
-Oh L[F]ord
-We pr[G]aise Your n[C]ame
-Oh L[F]ord
-We m[G]ag-ni-fy Your [C]name
-[B]Prince of [Em]Peace M[D]ighty G[G]od
-Oh [C]Lord G[F]od Al - [G]might - [C]y
+Oh [F]Lord     We [G]praise   Your [C]name
+Oh [F]Lord     We [G]magni-fy   Your [C]name   [B]Prince of [Em]Peace   [D]Mighty [G]God
+Oh [C]Lord   [F]God Al-[G]might - [C]y
 {eoc}
 
 {soc}
-Oh [C]Lord our Lord how ma[F]jestic is
-Your [C]name in all the ea[G]rth
-Oh [C]Lord our Lord how ma[F]jestic is
-Your [C]name in all the e[G]arth
+Oh [C]Lord our Lord   how ma-[F]jestic is Your [C]name in all the [G]earth
+Oh [C]Lord our Lord   how ma-[F]jestic is Your [C]name in all the [G]earth
 
-Oh L[F]ord
-We pr[G]aise Your n[C]ame
-Oh L[F]ord
-We m[G]ag-ni-fy Your [C]name
-[B]Prince of [Em]Peace M[D]ighty G[G]od
-Oh [C]Lord G[F]od Al - [G]might - [C]y
+Oh [F]Lord     We [G]praise   Your [C]name
+Oh [F]Lord     We [G]magni-fy   Your [C]name   [B]Prince of [Em]Peace   [D]Mighty [G]God
+Oh [C]Lord   [F]God Al-[G]might - [C]y
 {eoc}
 
 {c:Ending}
-Oh L[F]ord
-We pr[G]aise Your n[C]ame
-Oh L[F]ord
-We m[G]ag-ni-fy Your [C]name
-[B]Prince of [Em]Peace M[D]ighty G[G]od
-Oh [C]Lord G[F]od Al - [G]might - [C]y
+Oh [F]Lord     We [G]praise   Your [C]name
+Oh [F]Lord     We [G]magni-fy   Your [C]name   [B]Prince of [Em]Peace   [D]Mighty [G]God
+Oh [C]Lord   [F]God Al-[G]might - [C]y
 
-[B]Prince of [Em]Peace M[D]ighty G[G]od
-Oh [C]Lord G[F]od Al - [G]might - [C]y
-[F] [G] [C]
+[B]Prince of [Em]Peace     [D]Mighty [G]God
+Oh [C]Lord   [F]God Al-[G]might - [C]y     [F]  [G]  [C]

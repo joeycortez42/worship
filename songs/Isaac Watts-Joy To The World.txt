@@ -1,42 +1,33 @@
 {title:Joy To The World}
 {subtitle:Isaac Watts}
 {original_key:D}
-{key:A}
-{tempo:120}
+{key:C}
+{tempo:96}
 {time:2/4}
-{as:10}
-
+{as:11.5}
 {c:Intro}
-And he[A]av'n and heav'n and [D]na-[E]ture s[A]ing
+And [C]heav'n and heav'n [F]and [C]na-[G]ture [C]sing
 
-#Verse 1
-J[A]oy to the world the L[E]ord is c[A]ome
-Let e[D]arth re-c[E]eive her K[A]ing
-L[A]et ev-ery heart [A]prepare Him room
-And he[A]av'n and nature sing
-And he[E]av'n and nature sing
-And he[A]av'n and heav'n and [D]na-[E]ture s[A]ing
+{c:Verse 1}
+[C]Joy to the world the [G]Lord is [C]come     Let [F]earth re-[G]ceive her [C]King
+Let [C]ev-ery heart [C]prepare Him room
+And [C]heav'n and nature sing     And [G]heav'n and nature sing
+And [C]heav'n and heav'n [F]and [C]na-[G]ture [C]sing
 
-#Verse 2
-J[A]oy to the earth the S[E]av-ior rei[A]gns
-Let m[D]en their s[E]ongs em-pl[A]oy
-W[A]hile fields and floods r[A]ocks hills and plains
-Re-p[A]eat the sounding joy
-Re-p[E]eat the sounding joy
-Re-p[A]eat re-peat the s[D]ound-[E]ing j[A]oy
+{c:Verse 2}
+[C]Joy to the earth the S[G]av-ior rei[C]gns     Let [F]men their [G]songs em-[C]ploy
+While [C]fields and floods [C]rocks hills and plains
+Re-[C]peat the sounding joy     Re-[G]peat the sounding joy
+Re-[C]peat re-peat [F]the [C]sound-[G]ing [C]joy
 
-#Verse 3
-H[A]e rules the world with tr[E]uth and gr[A]ace
-And ma[D]kes the na[E]tions pr[A]ove
-T[A]he glo-ries of [A]His right-eous-ness
-And wo[A]nders of His love
-And wo[E]nders of His love
-And wo[A]n-ders won-ders [D]of H[E]is lo[A]ve
+{c:Verse 3}
+[C]He rules the world with [G]truth and [C]grace     And [F]makes the [G]nations [C]prove
+The [C]glo-ries of [C]His right-eous-ness
+And [C]wonders of His love     And [G]wonders of His love
+And [C]wonders won-[F]ders [C]of [G]His [C]love
 
-#Verse 1
-J[A]oy to the world the L[E]ord is c[A]ome
-Let e[D]arth re-c[E]eive her K[A]ing
-L[A]et ev-ery heart [A]prepare Him room
-And he[A]av'n and nature sing
-And he[E]av'n and nature sing
-And he[A]av'n and heav'n and [D]na-[E]ture s[A]ing
+{c:Verse 4}
+[C]Joy to the world the [G]Lord is [C]come     Let [F]earth re-[G]ceive her [C]King
+Let [C]ev-ery heart [C]prepare Him room
+And [C]heav'n and nature sing     And [G]heav'n and nature sing
+And [C]heav'n and heav'n [F]and [C]na-[G]ture [C]sing

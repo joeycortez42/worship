@@ -4,7 +4,7 @@
 {key:Bb}
 {tempo:140}
 {time:4/4}
-{as:12}
+{as:11.5}
 {c:Intro}
 [Bb]. . [Bb]. . [Bb]. . [Bb]. . [Gm]. . [Eb]. . [Bb]. .
 [Bb]. . [Bb]. . [Bb]. . [Bb]. . [Gm]. . [Eb]. . [Bb]. .

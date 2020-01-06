@@ -4,7 +4,7 @@
 {key:G}
 {tempo:102}
 {time:4/4}
-{as:11.0}
+{as:10.5}
 {c:Intro - A cappella}
 [G]How marvelous [G]how wonderful   [D]And my song shall [C]ev-er [D]be
 [G]How marvelous [G]how wonderful   [D]Is my [Em]Sav-iour's [C]love [D]for [G]me   [G]

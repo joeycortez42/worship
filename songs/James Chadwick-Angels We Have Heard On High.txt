@@ -12,8 +12,8 @@
 [E]And the moun-tains [B/D#]in re-[E]ply     [E]Ech-o-ing their [B]joy-ous [E]strains
 
 {soc}
-[E]Glo    [B]-    [E]-    -   [B]ria     [E]In ex-cel-[A]sis [E/B]De-[B]o
-[E]Glo    [B]-    [E]-    -   [B]ria     [E]In ex-cel-[A]sis [E/B]De [B]-  [E]o
+[E]Glo [C#]-   [A]-   [B]-   [E]-   [C#]-   [B]ria     [E]In ex-cel-[A]sis [E/B]De-[B]o
+[E]Glo [C#]-   [A]-   [B]-   [E]-   [C#]-   [B]ria     [E]In ex-cel-[A]sis [E/B]De [B]-  [E]o
 {eoc}
 
 {c:Verse 2}
@@ -21,8 +21,8 @@
 [E]What the glad-some [B/D#]ti-dings [E]be     [E]Which in-spire your [B]heaven-ly [E]song
 
 {soc}
-[E]Glo    [B]-    [E]-    -   [B]ria     [E]In ex-cel-[A]sis [E/B]De-[B]o
-[E]Glo    [B]-    [E]-    -   [B]ria     [E]In ex-cel-[A]sis [E/B]De [B]-  [E]o
+[E]Glo [C#]-   [A]-   [B]-   [E]-   [C#]-   [B]ria     [E]In ex-cel-[A]sis [E/B]De-[B]o
+[E]Glo [C#]-   [A]-   [B]-   [E]-   [C#]-   [B]ria     [E]In ex-cel-[A]sis [E/B]De [B]-  [E]o
 {eoc}
 
 {c:Verse 3}
@@ -30,6 +30,6 @@
 [E]Mar-y Jo-seph [B/D#]lend your [E]aid     [E]While our hearts in [B]love we [E]raise
 
 {soc}
-[E]Glo    [B]-    [E]-    -   [B]ria     [E]In ex-cel-[A]sis [E/B]De-[B]o
-[E]Glo    [B]-    [E]-    -   [B]ria     [E]In ex-cel-[A]sis [E/B]De [B]-  [E]o
+[E]Glo [C#]-   [A]-   [B]-   [E]-   [C#]-   [B]ria     [E]In ex-cel-[A]sis [E/B]De-[B]o
+[E]Glo [C#]-   [A]-   [B]-   [E]-   [C#]-   [B]ria     [E]In ex-cel-[A]sis [E/B]De [B]-  [E]o
 {eoc}

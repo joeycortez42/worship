@@ -4,33 +4,32 @@
 {key:A}
 {time:6/8}
 {as:10}
-
 {c:Intro}
 S[A]leep in he[E]aven-ly pe[A]ace
 
-#Verse 1
+{c:Verse 1}
 [A]Si - lent night ho - ly night
 [E]All is calm [A]all is bright
-Ro[D]und yon virgin m[A]oth-er and Child
-H[D]oly Infant so t[A]en-der and mild
-S[E]leep in heavenly pe[A]ace
-S[A]leep in he[E]aven-ly pe[A]ace
+[D]Round yon virgin [A]moth-er and Child
+[D]Holy Infant so [A]ten-der and mild
+[E]Sleep in heavenly [A]peace
+[A]Sleep in [E]heaven-ly [A]peace
 
-#Verse 2
+{c:Verse 2}
 [A]Si - lent night ho - ly night
 [E]Shepherds quake [A]at the sight
-Gl[D]ories stream from he[A]av-en afar
-He[D]av'nly hosts sing [A]al-le-luia
-C[E]hrist the Savior is b[A]orn
-C[A]hrist the Sa[E]vior is b[A]orn
+[D]Glories stream from [A]heav-en afar
+[D]Heav'nly hosts sing [A]al-le-luia
+[E]Christ the Savior is [A]born
+[A]Christ the [E]Savior is [A]born
 
-#Verse 3
+{c:Verse 3}
 [A]Si - lent night ho - ly night
-S[E]on of God lo[A]ve's pure light
-Ra[D]diant beams from T[A]hy ho-ly face
-W[D]ith the dawn of re-d[A]eem-ing grace
-J[E]esus Lord at Thy bi[A]rth
-J[A]esus L[E]ord at Thy bi[A]rth
+[E]Son of God [A]love's pure light
+[D]Radiant beams from [A]Thy ho-ly face
+[D]With the dawn of re-[A]deem-ing grace
+[E]Jesus Lord at Thy [A]birth
+[A]Jesus [E]Lord at Thy [A]birth
 
 {c:Ending}
-J[A]esus L[E]ord at Thy bi[A]rth
+[A]Jesus [E]Lord at Thy [A]birth
