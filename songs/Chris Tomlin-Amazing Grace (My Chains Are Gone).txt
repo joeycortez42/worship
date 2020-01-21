@@ -5,7 +5,7 @@
 {tempo:60}
 {time:4/4}
 {as:10}
-{c:Intro}
+{c:Intro - Key E - Capo 2 D}
 [D]
 
 {c:Verse 1}
@@ -27,7 +27,7 @@ And [D]like a [G] flood His mercy [D] rains
 Unending [Em7]love [A] amazing [D]grace
 {eoc}
 
-[D] [D]
+[D]. . . .   [D]. . . .
 
 {c:Verse 3}
 The [D]Lord has promised [G]good to [D]me
@@ -47,9 +47,9 @@ And [D]like a [G] flood His mercy [D] rains
 Unending [Em7]love [A] amazing [D]grace
 {eoc}
 
-[D] [D]
+[D]. . . .   [D]. . . .
 
-{c:Verse 4}
+{c:Verse 4 - Softly}
 The [D]earth shall soon dis - [G]solve like [D]snow
 The [D]sun forbear to [A]shine
 But [D] God who called me [G]here be - [D]low

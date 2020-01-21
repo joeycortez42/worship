@@ -5,9 +5,17 @@
 {tempo:104}
 {time:4/4}
 {as:10.1}
+{c:Intro - Key Bb - Capo 1 A}
+[A]. . . . [A]. . . . [E]. . . . [D]. . [A] . .
 
-{c:Intro}
-[A]  [A]  [E]  [D]  [A]
+{soc}
+[A]God I'm running for Your heart
+I'm running for Your [E]heart 'til I am a [D]soul on [A]fire
+
+[A]Lord I'm longing for Your ways
+I'm waiting for the [E]day when I am a [D]soul on [A]fire
+[E]    'Til I am a [D]soul on [A]fire     [A]. . . . [A]. . . . [E]. . . . [D]. . [A] . .
+{eoc}
 
 {soc}
 [A]God I'm running for Your heart
@@ -18,23 +26,13 @@ I'm waiting for the [E]day when I am a [D]soul on [A]fire
 [E]    'Til I am a [D]soul on [A]fire
 {eoc}
 
-[A]  [A]  [E]  [D]  [A]
-
-{soc}
-[A]God I'm running for Your heart
-I'm running for Your [E]heart 'til I am a [D]soul on [A]fire
-
-[A]Lord I'm longing for Your ways
-I'm waiting for the [E]day when I am a [D]soul on [A]fire
-[E]    'Til I am a [D]soul on [A]fire
-{eoc}
-
-#Verse
+{c:Verse}
 [E]Lord restore the [D]joy I  [A]had
 [E]I have wandered [D]bring me [A]back
 [E]In this darkness [D]lead me [A]through
 [F#m]Until all I [E]see   is    You
 
+{c:Build}
 {soc}
 [A]God I'm running for Your heart
 I'm running for Your [E]heart 'til I am a [D]soul on [A]fire
@@ -44,13 +42,15 @@ I'm waiting for the [E]day when I am a [D]soul on [A]fire
 [E]    'Til I am a [D]soul on [A]fire
 {eoc}
 
+{c:Softly}
 {sob}
-[F#m]  Lord let me [D]burn for You a - [E]gain
-[F#m]  Let me re - [D]turn to You a - [E]gain
-[F#m]  And Lord let me [D]burn for You a - [E]gain
-[F#m]  And let me re - [D]turn to You a - [E]gain
+[F#m]. . Lord let me [D]burn for You a - [E]gain
+[F#m]. . Let me re - [D]turn to You a - [E]gain
+[F#m]. . And Lord let me [D]burn for You a - [E]gain
+[F#m]. . And let me re - [D]turn to You a - [E]gain (break) . . . .
 {eob}
 
+{c:Build}
 {soc}
 [A]God I'm running for Your heart
 I'm running for Your [E]heart 'til I am a [D]soul on [A]fire

@@ -4,83 +4,68 @@
 {key:G}
 {tempo:126}
 {time:4/4}
-{as:11.0}
-
+{as:11.5}
 {c:Intro}
 [G]
 
-#Verse 1
+{c:Verse 1}
 Give [G]thanks to the Lord our God and King
 His [G]love endures forever
 [C]For He is good He is above all things
 His love endures for - [G]ever
-Sing [D]praise sing [C]praise
+Sing [D]praise     sing [C/E]praise
 
-#Verse 2
-[G] With a mighty hand and outstretched arm
+{c:Verse 2}
+[G]  With a mighty hand and outstretched arm
 His [G]love endures forever
-[C] For the life that's been reborn
-His love endures for - [G]ever
-Sing [D]praise sing [C]praise
+[C]  For the life that's been reborn
+His [C]love endures for - [G]ever
+Sing [D]praise     sing [C/E]praise
 
 {c:Pre-Chorus}
-Sing [D]praise sing [C]praise
+Sing [D]praise     sing [C/E]praise
 
 {soc}
-For - [G]ever God is faithful
-For - [Em7]ever God is strong
-For - [D]ever God is with us
-For - [C]ever
+For - [G]ever God is faithful     For - [Em7]ever God is strong
+For - [D]ever God is with us     For - [C]ever
 {eoc}
 
-#Verse 3
+{c:Verse 3}
 [G]  From the rising to the setting sun
 His [G]love endures forever
 And by the [C]grace of God we will carry on
-His love endures for - [G]ever
-Sing [D]praise sing [C]praise
+His [C]love endures for - [G]ever
+Sing [D]praise     sing [C/E]praise
 
 {c:Pre-Chorus}
-Sing [D]praise sing [C]praise
+Sing [D]praise     sing [C/E]praise
 
 {soc}
-For - [G]ever God is faithful
-For - [Em7]ever God is strong
-For - [D]ever God is with us
-For - [C]ever
+For - [G]ever God is faithful     For - [Em7]ever God is strong
+For - [D]ever God is with us     For - [C]ever
 
-For - [G]ever God is faithful
-For - [Em7]ever God is strong
-For - [D]ever God is with us
-For - [C]ever
+For - [G]ever God is faithful     For - [Em7]ever God is strong
+For - [D]ever God is with us     For - [C]ever
 {eoc}
 
-[G] [Em] [D] [C]
+[G]. . . . [Em]. . . . [D]. . . . [C]. . . .
 
 {sob}
-His [G]love endures for - ever
-His [Em]love endures for - ever
-His [D]love endures for - ever
-And [C]ever
+His [G]love endures for - ever     His [Em]love endures for - ever
+His [D]love endures for - ever     And [C]ever
 {eob}
 
 {soc}
-For - [G]ever God is faithful
-For - [Em7]ever God is strong
-For - [D]ever God is with us
-For - [C]ever
+For - [G]ever God is faithful     For - [Em7]ever God is strong
+For - [D]ever God is with us     For - [C]ever
 
-For - [G]ever God is faithful
-For - [Em7]ever God is strong
-For - [D]ever God is with us
-For - [C]ever
+For - [G]ever God is faithful     For - [Em7]ever God is strong
+For - [D]ever God is with us     For - [C]ever
 {eoc}
 
 {sob}
-His [G]love endures for - ever
-His [Em]love endures for - ever
-His [D]love endures for - ever
-And [C]ever
+His [G]love endures for - ever     His [Em]love endures for - ever
+His [D]love endures for - ever     And [C]ever
 {eob}
 
 {c:Ending}
