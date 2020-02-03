@@ -6,32 +6,58 @@
 {time:4/4}
 {as:13}
 {c:Intro}
-[F]. . [C]. . [G]. . . .   [F]. . [C]. . [G]. . . .
-[F]. . [C]. . [G]. . . .   [F]. . [C]. . [G]. . . [D].
+[F]. . [C]. .   [G]. . . .   [F]. . [C]. .   [G]. . . .
+[F]. . [C]. .   [G]. . . .   [F]. . [C]. .   [G]. . . [D].
 
 {c:Verse 1}
-Stand [G]up stand up for [C]Je - sus   Ye [G]soldiers of the [D]cross
-Lift [G]high His royal [C]ban - ner   It [G]must not suf - [D]fer [G]loss
+Stand [G]up stand up for [C]Je-sus   Ye [G]soldiers of the [D]cross
+Lift [G]high His royal [C]ban-ner   It [G]must not suf-[D]fer [G]loss
 
-From [D]vict'ry unto v[G]ict'ry   His ar - [C]my shall [G]He [D]lead
-Till [G]ev'ry foe is [C]van - quished   And [G]Christ is [D]Lord in - [G]deed
+From [D]vict'ry unto v[G]ict'ry   His ar-[C]my shall [G]He [D]lead
+Till [G]ev'ry foe is [C]van-quished   And [G]Christ is [D]Lord in-[G]deed
 
 {c:Verse 2}
-Stand [G]up stand up for [C]Je - sus   The [G]trumpet call o - [D]bey
-Forth [G]to the mighty [C]con - flict   In [G]this His glo - [D]rious [G]day
+Stand [G]up stand up for [C]Je-sus   The [G]trumpet call o-[D]bey
+Forth [G]to the mighty [C]con-flict   In [G]this His glo-[D]rious [G]day
 
-Ye [D]that are men now [G]serve Him   A - [C]gainst un - num - [G]bered [D]foes
-Let [G]courage rise with [C]dan - ger
-And [G]strength to [D]strength op - [F]pose [C]. . [G]. . . .   [F]. . [C]. . [G]. . . .
-[F]. . [C]. . [G]. . . .   [F]. . [C]. . [G]. . . [D].
+Ye [D]that are men now [G]serve Him   A-[C]gainst un-num-[G]bered [D]foes
+Let [G]courage rise with [C]dan-ger
+And [G]strength to [D]strength op-[F]pose [C]. .   [G]. . . .   [F]. . [C]. .   [G]. . . .
+
+{sob}
+[F]Stand up [C]Stand up   Sta-nd [G]up
+[F]Lift up [C]His banner   [G]high
+
+[F]Stand up [C]Stand up   Sta-nd [G]up
+[F]Lift up [C]His banner   [G]high   [D]
+{eob}
 
 {c:Verse 3}
-Stand [G]up stand up for [C]Je - sus   The [G]strife will not be [D]long
-This [G]day the noise of [C]bat - tle   The [G]next the vic - [D]tor's [G]song
+Stand [G]up stand up for [C]Je-sus   The [G]strife will not be [D]long
+This [G]day the noise of [C]bat-tle   The [G]next the vic-[D]tor's [G]song
 
-To [D]Him who over - [G]cometh   A [C]crown of life [G]shall [D]be
-He [G]with the King of [C]Glo - ry
-Shall [G]reign e - [D]ter - nal - [F]ly [C]. . [G]. . . .   [F]. . [C]. . [G]. . . .
+To [D]Him who over-[G]cometh   A [C]crown of life [G]shall [D]be
+He [G]with the King of [C]Glo-ry
+Shall [G]reign e-[D]ter-nal-[F]ly [C]. .   [G]. . . .   [F]. . [C]. .   [G]. . . .
+
+{sob}
+[F]Stand up [C]Stand up   Sta-nd [G]up
+[F]Lift up [C]His banner   [G]high
+
+[F]Stand up [C]Stand up   Sta-nd [G]up
+[F]Lift up [C]His banner   [G]high
+
+{c:A cappella}
+[F]Stand up [C]Stand up   Sta-nd [G]up
+[F]Lift up [C]His banner   [G]high
+
+[F]Stand up [C]Stand up   Sta-nd [G]up
+[F]Lift up [C]His banner   [G]High
+{eob}
 
 {c:Ending}
-[F]. . [C]. . [G]. . . .   [F]. . [C]. . [G]. . . .
+[F]Stand up [C]Stand up   Sta-nd [G]up
+[F]Lift up [C]His banner   [G]high
+
+[F]Stand up [C]Stand up   Sta-nd [G]up
+[F]Lift up [C]His banner   [G]high   [G]

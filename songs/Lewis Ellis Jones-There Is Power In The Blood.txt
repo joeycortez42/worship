@@ -4,7 +4,7 @@
 {key:A}
 {tempo:110}
 {time:4/4}
-{as:12}
+{as:14.0}
 {c:Intro}
 There is [A]power  power [D]Wonder-working [A]power
 In the [E]precious blood of the [A]Lamb

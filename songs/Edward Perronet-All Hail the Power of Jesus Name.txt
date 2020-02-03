@@ -5,49 +5,34 @@
 {tempo:118}
 {time:4/4}
 {as:10}
-
 {c:Intro}
-[D]   [Em7]   [G]   [Bm7]   [A]
-[D]   [Em7]   [G]   [Bm7]   [A]
-#Verse 1
-All [D]hail the pow'r of [Em7]Jesus' name
-Let [G]angels prostrate [D]fall
-Bring [D]forth the royal [Bm7]diadem
-and [D]crown Him [E]Lord of [A]all
-Bring [D]forth the royal [Em7]diadem
-and [G]crown Him [Bm7]Lord [A] of [D]all
+[D]. . . . [Em7]. . . . [G]. . . . [Bm7]. . [A]. .
+[D]. . . . [Em7]. . . . [G]. . . . [Bm7]. . [A]. .
 
-[D]   [Em7]   [G]   [Bm7]   [A]
+{c:Verse 1}
+All [D]hail the pow'r of [Em7]Jesus' name     Let [G]angels prostrate [D]fall
+Bring [D]forth the royal [Bm7]diadem     And [D]crown Him [E]Lord of [A]all
+Bring [D]forth the royal [Em7]diadem     And [G]crown Him [Bm7]Lord [A] of [D]all . .
+[Em7]. . . . [G]. . . . [Bm7]. . [A]. .
 
-#Verse 2
-Ye [D]chosen seed of [Em7]Israel's race
-Ye [G]ransomed from the [D]fall
-Hail [D]Him who saves you [Bm7]by His grace
-And [D]crown Him [E]Lord of [A]all
+{c:Verse 2}
+Ye [D]chosen seed of [Em7]Israel's race     Ye [G]ransomed from the [D]fall
+Hail [D]Him who saves you [Bm7]by His grace     And [D]crown Him [E]Lord of [A]all
 Hail [D]Him who saves you [Em7]by His grace
-And [G]crown Him [Bm7]Lord [A] of [D]all
+And [G]crown Him [Bm7]Lord [A] of [D]all . . [Em7]. . . . [G]. . . . [Bm7]. . [A]. .
 
-[D]   [Em7]   [G]   [Bm7]   [A]
+{c:Verse 3}
+Let [D]ev'ry kindred [Em7]ev'ry tribe     On [G]this terrestrial [D]ball
+To [D]Him all majes[Bm7]ty ascribe     And [D]crown Him [E]Lord of [A]all
+To [D]Him all majes[Em7]ty ascribe     And [G]crown Him [Bm7]Lord [A] of [D]all . .
+[D]. . [G]. . . . [D/F#]. . . . [G]. . . .
 
-#Verse 3
-Let [D]ev'ry kindred [Em7]ev'ry tribe
-On [G]this terrestrial [D]ball
-To [D]Him all majes[Bm7]ty ascribe
-And [D]crown Him [E]Lord of [A]all
-To [D]Him all majes[Em7]ty ascribe
-And [G]crown Him [Bm7]Lord [A] of [D]all
+{c:Softly}
+O [D/F#]that with yonder [G]sacred throng     We [A]at His feet may [D/F#]fall
+We'll [Bm7]join the ever[D]lasting song     And [D/F#]crown Him [E]Lord of [A]all
+We'll [D]join the ever[Em7]lasting song     And [G]crown Him [Bm7]Lord [A] of [D]all
+[D]. . . . [Em7]. . . .
 
-[D]   [G]   [D/F#]   [G]
-
-{c:Ending}
-O [D/F#]that with yonder [G]sacred throng
-We [A]at His feet may [D/F#]fall
-We'll [Bm7]join the ever[D]lasting song
-And [D/F#]crown Him [E]Lord of [A]all
-We'll [D]join the ever[Em7]lasting song
-And [G]crown Him [Bm7]Lord [A] of [D]all
-
-[D]   [Em7]
-
+{c:Ending with retart}
 We'll [D/F#]join the ever[Em7]lasting song
-And [G]crown Him [Bm7]Lord [A] of [D]all
+And [G]crown Him   [Bm7]Lord   [A] of   [D]all

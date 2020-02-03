@@ -4,31 +4,44 @@
 {key:D}
 {tempo:88}
 {time:4/4}
-{as:10}
+{as:11.2}
 
 {c:Intro}
-[D]All because we do not [G]carry   [D]Everything to [A]God in [D]prayer
+[D]All because we do not [G]carry
+[D]Everything to [A]God in [D]prayer
 
 {c:Verse 1}
-[D]What a friend we have in [G]Jesus   [D]All our sins and griefs to [A]bear
-[D]What a privilege to [G]carry   [D]Everything to [A]God in [D]prayer
+[D]What a friend we have in [G]Jesus
+[D]All our sins and griefs to [A]bear
+[D]What a privilege to [G]carry
+[D]Everything to [A]God in [D]prayer
 
-[A]O what peace we often [D]forfeit   [G]O what need - [D]less pain we [A]bear
-[D]All because we do not [G]carry   [D]Everything to [A]God in [D]prayer
+[A]O what peace we often [D]forfeit
+[G]O what need-[D]less pain we [A]bear
+[D]All because we do not [G]carry
+[D]Everything to [A]God in [D]prayer
 
 {c:Verse 2}
-[D]Have we trials and temp - [G]tations   [D]Is there trouble any - [A]where
-[D]We should never be dis - [G]couraged   [D]Take it to the [A]Lord in [D]prayer
+[D]Have we trials and temp-[G]tations
+[D]Is there trouble any-[A]where
+[D]We should never be dis-[G]couraged
+[D]Take it to the [A]Lord in [D]prayer
 
-[A]Can we find a friend so [D]faithful   [G]Who will all [D]our sor - rows [A]share
-[D]Jesus knows our every [G]weakness   [D]Take it to the [A]Lord in [D]prayer
+[A]Can we find a friend so [D]faithful
+[G]Who will all [D]our sor-rows [A]share
+[D]Jesus knows our every [G]weakness
+[D]Take it to the [A]Lord in [D]prayer
 
 {c:Verse 3}
-[D]Are we weak and heavy [G]laden   [D]Cumbered with a load of [A]care
-[D]Precious Savior still our [G]refuge   [D]Take it to the [A]Lord in [D]prayer
+[D]Are we weak and heavy [G]laden
+[D]Cumbered with a load of [A]care
+[D]Precious Savior still our [G]refuge
+[D]Take it to the [A]Lord in [D]prayer
 
-[A]Do thy friends de - [D]spise for - sake thee   [G]Take it to [D]the Lord in [A]prayer
-[D]In His arms He'll take and [G]shield thee   [D]Thou wilt find a [A]solace [D]there
+[A]Do thy friends de-[D]spise for-sake thee
+[G]Take it to [D]the Lord in [A]prayer
+[D]In His arms He'll take and [G]shield thee
+[D]Thou wilt find a [A]solace [D]there
 
 {c:Ending w/ Retard}
 [D]Thou wilt find a [A]solace [D]there [G] [D]
