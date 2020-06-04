@@ -4,65 +4,65 @@
 {key:D}
 {tempo:146}
 {time:4/4}
-{as:11.0}
+{as:10.0}
 {c:Intro}
-[D]
+[F]
 
 {soc}
-[D]Glo-[A]rious [Bm]. [G]. . shout it out and
-[D]Glo-[A]rious [Bm]. [G]. . make it loud and
-[D] Jesus we [A]shout Your name [Bm]. Jesus we [G]make Your praise
-[D]Glo-[A]rious [G] You are glorious   [G]. . . . [Bm]. . . . [G]. . . .
-You are glo- [D] rious [A]
+[F]Glo-[C]rious [Dm]. [Bb]. . shout it out and
+[F]Glo-[C]rious [Dm]. [Bb]. . make it loud and
+[F] Jesus we [C]shout Your name [Dm]. Jesus we [Bb]make Your praise
+[F]Glo-[C]rious [Bb] You are glorious   [Bb]. . . . [Dm]. . . . [Bb]. . . .
+You are glo- [F] rious [C]
 {eoc}
 
 {c:Verse}
-[G] My [D]God You [A]reign for-[Bm7]ever and ever   [G] How [D]great Your [A]name
-[G] Your [D]love re-[A]mains for-[Bm7]ever and ever   [G] You [D]stay the [A]same
+[Bb] My [F]God You [C]reign for-[Dm7]ever and ever   [Bb] How [F]great Your [C]name
+[Bb] Your [F]love re-[C]mains for-[Dm7]ever and ever   [Bb] You [F]stay the [C]same
 
 {c:Pre-Chorus}
-Shout it [G]out shout it out if you [D]know He's good
-Sing it [A]out sing it out for the [Bm]Lord is good
-[G] Shout it out [D]loud You are [A]glorious
+Shout it [Bb]out shout it out if you [F]know He's good
+Sing it [C]out sing it out for the [Dm]Lord is good
+[Bb] Shout it out [F]loud You are [C]glorious
 
 {soc}
-[D]Glo-[A]rious [Bm]. [G]. . shout it out and
-[D]Glo-[A]rious [Bm]. [G]. . make it loud and
-[D] Jesus we [A]shout Your name [Bm]. Jesus we [G]make Your praise
-[D]Glo-[A]rious [G] You are glorious   [G]. . . . [Bm]. . . . [G]. . . .
-You are glo- [D] rious [A]
+[F]Glo-[C]rious [Dm]. [Bb]. . shout it out and
+[F]Glo-[C]rious [Dm]. [Bb]. . make it loud and
+[F] Jesus we [C]shout Your name [Dm]. Jesus we [Bb]make Your praise
+[F]Glo-[C]rious [Bb] You are glorious   [Bb]. . . . [Dm]. . . . [Bb]. . . .
+You are glo- [F] rious [C]
 {eoc}
 
 {c:Verse}
-[G] My [D]God You [A]reign for-[Bm7]ever and ever   [G] How [D]great Your [A]name
-[G] Your [D]love re-[A]mains for-[Bm7]ever and ever   [G] You [D]stay the [A]same
+[Bb] My [F]God You [C]reign for-[Dm7]ever and ever   [Bb] How [F]great Your [C]name
+[Bb] Your [F]love re-[C]mains for-[Dm7]ever and ever   [Bb] You [F]stay the [C]same
 
 {c:Pre-Chorus}
-Shout it [G]out shout it out if you [D]know He's good
-Sing it [A]out sing it out for the [Bm]Lord is good
-[G] Shout it out [D]loud You are [A]glorious
+Shout it [Bb]out shout it out if you [F]know He's good
+Sing it [C]out sing it out for the [Dm]Lord is good
+[Bb] Shout it out [F]loud You are [C]glorious
 
 {soc}
-[D]Glo-[A]rious [Bm]. [G]. . shout it out and
-[D]Glo-[A]rious [Bm]. [G]. . make it loud and
-[D] Jesus we [A]shout Your name [Bm]. Jesus we [G]make Your praise
-[D]Glo-[A]rious [G] You are glorious   [G]. . . . [F#7]. . . . [Bm]. . . . [G]. . . .
+[F]Glo-[C]rious [Dm]. [Bb]. . shout it out and
+[F]Glo-[C]rious [Dm]. [Bb]. . make it loud and
+[F] Jesus we [C]shout Your name [Dm]. Jesus we [Bb]make Your praise
+[F]Glo-[C]rious [Bb] You are glorious   [Bb]. . . . [A7]. . . . [Dm]. . . . [Bb]. . . .
 {eoc}
 
 {c:Bridge-Softly}
-[D]Shine Jesus You [F#7]shine for all the [Bm]world to see   You are [G]glorious
-[D]Shine Jesus You [F#7]shine for all the [Bm]world to see   You are [G]glorious
+[F]Shine Jesus You [A7]shine for all the [Dm]world to see   You are [Bb]glorious
+[F]Shine Jesus You [A7]shine for all the [Dm]world to see   You are [Bb]glorious
 
 {c:Full band}
-[D]Shine Jesus You [F#7]shine for all the [Bm]world to see
-You are [G]glorious (You are [G]glorious)
-You are [G]glorious (You are [G]glorious)   [G]. . . . [Bm]. . . . [G]. . . .
-You are glo- [D] rious [A]
+[F]Shine Jesus You [A7]shine for all the [Dm]world to see
+You are [Bb]glorious (You are [Bb]glorious)
+You are [Bb]glorious (You are [Bb]glorious)   [Bb]. . . . [Dm]. . . . [Bb]. . . .
+You are glo- [F] rious [C]
 
 {soc}
-[D]Glo-[A]rious [Bm]. [G]. . shout it out and
-[D]Glo-[A]rious [Bm]. [G]. . make it loud and
-[D] Jesus we [A]shout Your name [Bm]. Jesus we [G]make Your praise
-[D]Glo-[A]rious [G] You are glorious   [G]. . . . [Bm]. . . . [G]. . . .
-You are glo- [D] rious [A]   [D]
+[F]Glo-[C]rious [Dm]. [Bb]. . shout it out and
+[F]Glo-[C]rious [Dm]. [Bb]. . make it loud and
+[F] Jesus we [C]shout Your name [Dm]. Jesus we [Bb]make Your praise
+[F]Glo-[C]rious [Bb] You are glorious   [Bb]. . . . [Dm]. . . . [Bb]. . . .
+You are glo- [F] rious [C]   [F]
 {eoc}

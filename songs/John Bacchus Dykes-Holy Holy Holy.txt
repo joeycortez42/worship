@@ -4,7 +4,7 @@
 {key:D}
 {tempo:70}
 {time:4/4}
-{as:10}
+{as:8.5}
 
 {c:Verse 1 - Softly}
 [D]Holy  [Bm]holy    [A]ho-[D]ly         [G]Lord God Al-[D]mighty

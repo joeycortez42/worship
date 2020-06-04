@@ -4,9 +4,9 @@
 {key:D}
 {tempo:100}
 {time:4/4}
-{as:14.0}
+{as:13.5}
 {c:Intro w/ up stroke accents}
-[D]. [D]. [G2]. [G2]. . . . [D]. [D]. [G2]. [G2].
+[D]. [D]. [G2]. [G2]. . . .   [D]. [D]. [G2]. [G2].
 
 {c:Verse 1}
 We've [D]waited for this day   We're gathered in Your Name
@@ -55,7 +55,7 @@ Will [G2]burn our hearts with truth
 [Bm]Show us   [A]Show us Your glory [G2]Lord
 {eob}
 
-[D]. [D]. [G2]. [G2]. . . . [D]. [D]. [G2]. [G2].
+[D]. [D]. [G2]. [G2]. . . .
 
 {soc}
 [D]Open up the heavens   We want to see You

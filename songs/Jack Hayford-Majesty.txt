@@ -3,7 +3,7 @@
 {original_key:Bb}
 {key:G}
 {time:4/4}
-{as:10}
+{as:9.7}
 {c:Intro}
 [Am7]Je-sus who [G]died now glo-ri-[Am7]fied
 [D7]King of all [G]kings [C] [G]

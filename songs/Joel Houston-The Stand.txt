@@ -29,16 +29,6 @@
 {c:Repeat}
 {eoc}
 
-{c:Heavy Drums}
-{soc}
-[A]  So I’ll [E]stand with [B]arms high and [C#m]heart abandoned
-[A]  In [E]awe of the [B]One who [C#m]gave it all
-[A]  I’ll [E]stand my [B]soul Lord to [C#m]You surrendered
-[A]All I [E]am is [B]Yours  [C#m]
-
-{c:Repeat}
-{eoc}
-
 {c:A cappella}
 {soc}
 [A]  So I’ll [E]stand with [B]arms high and [C#m]heart abandoned
