@@ -1,14 +1,15 @@
-{title:Come Now Is The Time To Worship}
-{subtitle:Brian Doerksen}
-{original_key:D}
-{key:D}
-{tempo:98}
-{time:4/4}
-{as:10.5}
-{c:Intro}
-[D]
+{title: Come Now Is The Time To Worship}
+{artist: Brian Doerksen}
+{key: D}
+{tempo: 110}
+{time: 4/4}
+{copyright: 1998 Vineyard Songs}
 
-{soc}
+{original_key: D}
+{c: Intro}
+[D]. . . . . . . .    [Dsus]. . . .    [D]. . . .    [A]. . . . . . . .    [Em]. . . .    [G]. . . .    [D]. . . . . . . . .
+
+{start_of_chorus}
 [D]Come now is the time to [Dsus]wor - [D]ship
 [A]Come now is the time to [Em]give your [G]heart
 [D]Come just as you are to [Dsus]wor - [D]ship
@@ -20,56 +21,57 @@
 [D]Come just as you are to [Dsus]wor - [D]ship
 [A]Come just as you are be - [Em]fore your [G]God
 [D]Come
-{eoc}
+{end_of_chorus}
 
-{c:Verse}
+{c: Verse}
 [G]One day every tongue will con - [D]fess You are God
 [G]One day every knee will [D]bow
 [G]Still the greatest treasure re - [Bm]mains for those
-[G]Who gladly choose You [A]now
+[G]Who gladly choose You [A]now    [A]. . . . . . . . .
 
-{soc}
+{start_of_chorus}
 [D]Come now is the time to [Dsus]wor - [D]ship
 [A]Come now is the time to [Em]give your [G]heart
 [D]Come just as you are to [Dsus]wor - [D]ship
 [A]Come just as you are be - [Em]fore your [G]God
 [D]Come
-{eoc}
+{end_of_chorus}
 
-{c:Verse}
+{c: Verse}
 [G]One day every tongue will con - [D]fess You are God
 [G]One day every knee will [D]bow
 [G]Still the greatest treasure re - [Bm]mains for those
 [G]Who gladly choose You [A]now
 
-{c:Verse}
+{c: Verse}
 [G]One day every tongue will con - [D]fess You are God
 [G]One day every knee will [D]bow
 [G]Still the greatest treasure re - [Bm]mains for those
-[G]Who gladly choose You [A]now
+[G]Who gladly choose You [A]now    [A]
 
-[E]. . . . [A]. . [E]. . .   [B]. . . . [F#m]. . [A]. . .
-[E]. . . . [A]. . [E]. . .   [B]. . . . [F#m]. . [A]. . .  [E]
+[E]. . . . . . . .    [A]. . . .    [E]. . . .    [B]. . . . . . . .    [F#m]. . . .    [A]. . . .
+[E]. . . . . . . .    [A]. . . .    [E]. . . .    [B]. . . . . . . .    [F#m]. . . .    [A]. . . .    [E]. . . . . . . . .
 
-{c:Verse}
+{c: Verse}
 [A]One day every tongue will con - [E]fess You are God
 [A]One day every knee will [E]bow
 [A]Still the greatest treasure re - [C#m]mains for those
 [A]Who gladly choose You [B]now
 
-{c:Verse}
+{c: Verse}
 [A]One day every tongue will con - [E]fess You are God
 [A]One day every knee will [E]bow
 [A]Still the greatest treasure re - [C#m]mains for those
 [A]Who gladly choose You [B]now
 
-{soc}
+{start_of_chorus}
+{c: Softly}
 [E]Come now is the time to [Esus]wor - [E]ship
 [B]Come now is the time to [F#m]give your [A]heart
 [E]Come just as you are to [Esus]wor - [E]ship
 [B]Come just as you are be - [F#m]fore your [A]God
 [E]Come
-{eoc}
+{end_of_chorus}
 
-{c:Ending}
+{c: Ending}
 [E]Come   [E]Come

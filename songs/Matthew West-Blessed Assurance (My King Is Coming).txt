@@ -1,0 +1,65 @@
+{title: Blessed Assurance (My King Is Coming)}
+{artist: Matthew West}
+{key: C}
+{duration: 195
+{tempo: 53}
+{time: 6/8}
+{copyright: Meaux Jeaux Music}
+
+{original_key: D}
+{c: Intro}
+[C]. .    [C]. .    [Am]. .    [F]. .    [C]. .    [C]. .    [Am]. .    [F]
+
+{c: Verse 1}
+Blessed as -[C]surance    [F]Jesus is [C]mine
+O what a [Am]foretaste   [F]   of glory di - [G]vine
+Heir of sal - [C]vation    [F]purchase of [C] God
+Born of His [Dm]Spir  [C]-   [F]it washed in His [C]blood   [C]
+
+{start_of_chorus}
+This is my [C]story [F]  this is my [C]song
+Praising my [Am]Savior  [F]  all the day [G]long
+This is my [F]story    this is my [Am]song  [G]
+Praising my [Dm]Sav  [C]-   [F]ior all the day [C]long
+{end_of_chorus}
+
+{c: Instrumental}
+[C]. .    [C]. .    [Am]. .    [F]
+
+{c: Verse 2}
+Perfect sub - [C]mission    [F]all is at [C]rest
+I in my [Am]Savior  [F]  am happy and [G]blessed
+Watching and [C]waiting    [F]looking a [C]- bove
+Filled with His [Dm]good  [C]-   [F]ness lost in His [C]love   [C]
+
+{start_of_chorus}
+This is my [C]story [F]  this is my [C]song
+Praising my [Am]Savior  [F]  all the day [G]long
+This is my [F]story    this is my [Am]song  [G]
+Praising my [Dm]Sav  [C]-   [F]ior all the day [C]long
+{end_of_chorus}
+
+{c: Brige}
+My [C]King is [C]coming [C]soon    He will [F]roll the [F]clouds a - [F]way
+Light of [Am]heaven [F]bursting [Am]through    oh [G]what a glorious day
+
+My [C]King is [C]coming [C]soon    He will [F]roll the [F]clouds a - [F]way
+Light of [Am]heaven [F]bursting [Am]through    and un - [G]til that glorious day
+{eob}
+
+{start_of_chorus}
+This is my [C]story [F]  this is my [C]song
+Praising my [Am]Savior  [F]  all the day [G]long   [G]
+{c: Softly}
+This is my [F]story    this is my [Am]song  [G]
+{c: Build}
+Praising my [Dm]Sav  [C]-   [F]ior all the day [C]long  [C]. .    [Am]. .    [F]. .
+This is my [C]story   [C]   this is my [Am]song   [F]
+{end_of_chorus}
+
+{c: Ending}
+My [C]King is coming [C]soon He will [Am]roll the clouds a - [F]way
+Light of [Am]heaven bursting through and un - [Am]til that glorious [F]day
+
+This is my [F]story [F]  this is my [C]song
+Praising my [Dm]Sav  [C]-   [F]ior all the day [C]long

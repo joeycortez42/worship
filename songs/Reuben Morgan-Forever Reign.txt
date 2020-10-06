@@ -1,69 +1,63 @@
-{title:Forever Reign}
-{subtitle:Reuben Morgan}
-{original_key:C}
-{key:A}
-{tempo:78}
-{time:4/4}
-{as:11.0}
-{c:Intro}
+{title: Forever Reign}
+{artist: Reuben Morgan}
+{key: A}
+{tempo: 83}
+{time: 4/4}
+{copyright: 2009 Hillsong Music Publishing Australia}
+
+{original_key: C}
+{c: Intro}
 [A]
 
-{c:Verse 1}
+{c: Verse 1}
 You are [A]good You are good   when there’s nothing good in me
 You are [E]love You are love   on display for all to see
 You are [A]light You are light   when the darkness closes in
-You are [E]hope You are hope   You have covered all my sin   [A]
+You are [E]hope You are hope   You have covered all my sin   [A]. . . . . . . .
 
-{c:Verse 2}
+{c: Verse 2}
 You are [A]peace You are peace   when my fear is crippling
 You are [E]true You are true   even in my wandering
 You are [A]joy You are joy   You’re the reason that I sing
-You are [E]life You are life   in You death has lost its sting   [A]
+You are [E]life You are life   in You death has lost its sting   [A]. . . . . . . .
 
-{soc}
+{start_of_chorus}
 [A]Oh   I’m running to Your [E]arms I’m running to Your [F#m]arms
-The riches of Your [E]love will [E]always be e - [D]nough
+The riches of Your [E]love will always be e - [D]nough
 Nothing com - [F#m]pares to [E]Your em - [D]brace
-Light of the [F#m]world for - [E]ever [D]reign   [D]
-{eoc}
+Light of the [F#m]world for - [E]ever [D]reign   [D]. . . . . . . .
+{end_of_chorus}
 
-{c:Verse 3}
+{c: Verse 3}
 You are [A]more You are more   than my words will ever say
 You are [E]Lord You are Lord   all creation will proclaim
 You are [A]here You are here   in Your presence I’m made whole
-You are [E]God You are God   of all else I’m letting go   [A]
+You are [E]God You are God   of all else I’m letting go   [A]. . . . . . . .
 
-{soc}
-{c:Softly}
+{start_of_chorus}
 [A]Oh   I’m running to Your [E]arms I’m running to Your [F#m]arms
-The riches of Your [E]love will [E]always be e - [D]nough
+The riches of Your [E]love will always be e - [D]nough
 Nothing com - [F#m]pares to [E]Your em - [D]brace
-Light of the [F#m]world for - [E]ever [D]reign   [D]   [D]
-
-[A]Oh   I’m running to Your [E]arms I’m running to Your [F#m]arms
-The riches of Your [E]love will [E]always be e - [D]nough
-Nothing com - [F#m]pares to [E]Your em - [D]brace
-Light of the [F#m]world for - [E]ever [D]reign   [D]   [D]
-{eoc}
+Light of the [F#m]world for - [E]ever [D]reign   [D]. . . . . . . .
+{end_of_chorus}
 
 {sob}
-{c:Softly}
+{c: Softly}
 [F#m]  My heart will sing [D]  no other Name   [A]  Jesus [E]  Jesus
 [F#m]  My heart will sing [D]  no other Name   [A]  Jesus [E]  Jesus
 
 [F#m]  My heart will sing [D]  no other Name   [A]  Jesus [E]  Jesus
-[F#m]  My heart will sing [D]  no other Name   [A]  Jesus [E]  Jesus   [D]
+[F#m]  My heart will sing [D]  no other Name   [A]  Jesus [E]  Jesus   [D]. . . . . . . .
 {eob}
 
-{soc}
-{c:Softly}
+{start_of_chorus}
 [A]Oh   I’m running to Your [E]arms I’m running to Your [F#m]arms
-The riches of Your [E]love will [E]always be e - [D]nough
+The riches of Your [E]love will always be e - [D]nough
 Nothing com - [F#m]pares to [E]Your em - [D]brace
-Light of the [F#m]world for - [E]ever [D]reign   [D]   [D]
+Light of the [F#m]world for - [E]ever [D]reign   [D]. . . . . . . .
 
 [A]Oh   I’m running to Your [E]arms I’m running to Your [F#m]arms
-The riches of Your [E]love will [E]always be e - [D]nough
+The riches of Your [E]love will always be e - [D]nough
 Nothing com - [F#m]pares to [E]Your em - [D]brace
-Light of the [F#m]world for - [E]ever [D]reign   [D]
-{eoc}
+Light of the [F#m]world for - [E]ever [D]reign   [D]. . . . . . . .
+{end_of_chorus}

@@ -1,0 +1,53 @@
+{title: Blessed Assurance}
+{artist: Fanny Jane Crosby}
+{key: C}
+{tempo: 53}
+{time: 6/8}
+{copyright: Public Domain}
+
+{original_key: D}
+{c: Intro}
+[C]. .    [C]. .    [Am]. .    [F]. .    [C]. .    [C]. .    [Am]. .    [F]
+
+{c: Verse 1}
+Blessed as -[C]surance    [F]Jesus is [C]mine
+O what a [Am]foretaste   [F]   of glory di - [G]vine
+Heir of sal - [C]vation    [F]purchase of [C] God
+Born of His [Dm]Spir  [C]-   [F]it washed in His [C]blood   [C]
+
+{start_of_chorus}
+This is my [C]story [F]  this is my [C]song
+Praising my [Am]Savior  [F]  all the day [G]long
+This is my [F]story    [F]this is my [Am]song  [G]
+Praising my [Dm]Sav  [C]-   [F]ior all the day [C]long
+{end_of_chorus}
+
+{c: Instrumental}
+[C]. .    [C]. .    [Am]. .    [F]
+
+{c: Verse 2}
+Perfect sub - [C]mission    [F]perfect de[C]light
+Visions of [Am]rapture    now [F]burst on my [G]sight
+Angels des[C]cending    [F]bring from a - [C]bove
+Echoes of [Dm]mer   [C]-   [F]cy whispers of [C]love  [C]
+
+{c: Verse 3}
+Perfect sub - [C]mission    [F]all is at [C]rest
+I in my [Am]Savior  [F]  am happy and [G]blessed
+Watching and [C]waiting    [F]looking a [C]- bove
+Filled with His [Dm]good  [C]-   [F]ness lost in His [C]love   [C]
+
+{start_of_chorus}
+This is my [C]story [F]  this is my [C]song
+Praising my [Am]Savior  [F]  all the day [G]long
+This is my [F]story    [F]this is my [Am]song  [G]
+Praising my [Dm]Sav  [C]-   [F]ior all the day [C]long
+{end_of_chorus}
+
+{c: Ending}
+This is my [C]story [F]  this is my [C]song
+Praising my [Am]Savior  [F]  all the day [G]long
+This is my [F]story    [F]this is my [Am]song  [G]
+Praising my [Dm]Sav  [C]-   [F]ior all the day [C]long
+{c: Retard}
+Praising my [Dm]Sav  [C]-   [F]ior all the day [C]long

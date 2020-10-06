@@ -1,90 +1,94 @@
-{title:You’re Worthy Of My Praise}
-{subtitle:David Ruis}
-{original_key:F}
-{key:D}
-{tempo:82}
-{time:4/4}
-{as:11.8}
-{c:Intro}
-[G]   [G]
+{title: You’re Worthy Of My Praise}
+{artist: David Ruis}
+{key: G}
+{duration: 212
+{tempo: 97}
+{time: 4/4}
+{copyright: 1991 Shade Tree Music}
 
-{soc}
-[G]   I will give You [D]all my worship
+{original_key: F}
+{c: Soft Intro Single Strums}
+[G]. . . . . . . .    [G]. . . . . . . .
+
+[G]   I will give You [D/F#]all my worship
 [C]   I will give You [Am7]all my [D]praise
-[G]   You alone I [D]long to worship
+[G]   You alone I [D/F#]long to worship
 [C]   You alone are [Am7]worthy [D]of my [G]praise
-{eoc}
 
-[G]   [G]
+[G]. . . . . . . .    [G]. . . . . . . .
 
-{c:Verse 1}
-[G]I will worship (I will worship)
-With [F]all of my heart (with all of my heart)
-[C]I will praise You (I will praise You)
-With all   [G]of   my    strength [Am7](all my [D]strength)
-[G]I will seek You (I will seek You)
-[F]All of my days (all of my days)
-[C]I will follow (I will follow)
-Follow all [G]of   Your    ways [Am7](all Your [D]ways)
+{c: Verse 1}
+[G]I will worship    (I will worship)
+With [F]all of my heart    (with all of my heart)
+[C]I will praise You    (I will praise You)
+With all   [G]of   my    strength    [Am7](all my [D]strength)
+[G]I will seek You    (I will seek You)
+[F]All of my days    (all of my days)
+[C]I will follow    (I will follow)
+Follow all [G]of   Your    ways    [Am7](all Your [D]ways)
 
-{soc}
-[G]   I will give You [D]all my worship
+{start_of_chorus}
+[G]   I will give You [D/F#]all my worship
 [C]   I will give You [Am7]all my [D]praise
-[G]   You alone I [D]long to worship
+[G]   You alone I [D/F#]long to worship
 [C]   You alone are [Am7]worthy [D]of my [G]praise
-{eoc}
+{end_of_chorus}
 
-{c:Verse 2}
-[G]I will bow down (I will bow down)
-And [F]hail You as King (and hail You as King)
-[C]I will serve You (I will serve You)
-I'll give You [G]ev - 'ry -  thing [Am7](Give you ev'ry[D]thing)
-[G]I will lift up (I will lift up)
-My [F]eyes to Your throne (my eyes to Your throne)
-[C]I will trust You (I will trust You)
-Trust   [G]You  a -  lone [Am7](You a - [D]lone)
+[G]. . . . . . . .    [G]. . . . . . . .
 
-{soc}
-[G]   I will give You [D]all my worship
+{c: Verse 2}
+[G]I will bow down    (I will bow down)
+And [F]hail You as King    (and hail You as King)
+[C]I will serve You    (I will serve You)
+I'll give You [G]ev - 'ry -  thing    [Am7](Give you ev'ry[D]thing)
+[G]I will lift up    (I will lift up)
+My [F]eyes to Your throne    (my eyes to Your throne)
+[C]I will trust You    (I will trust You)
+Trust   [G]You  a -  lone    [Am7](You a - [D]lone)
+
+{start_of_chorus}
+[G]   I will give You [D/F#]all my worship
 [C]   I will give You [Am7]all my [D]praise
-[G]   You alone I [D]long to worship
+[G]   You alone I [D/F#]long to worship
 [C]   You alone are [Am7]worthy [D]of my [G]praise
-[G]   I will give You [D]all my worship
+
+[G]   I will give You [D/F#]all my worship
 [C]   I will give You [Am7]all my [D]praise
-[G]   You alone I [D]long to worship
+[G]   You alone I [D/F#]long to worship
 [C]   You alone are [Am7]worthy [D]of my [G]praise
-{eoc}
+{end_of_chorus}
 
-[G] [D] [C] [Am7] [D]
-[G] [D] [C] [Am7] [D]
+[G]. . . .    [D]. . . .    [C]. . . .    [Am7]. .      [D]. .
+[G]. . . .    [D]. . . .    [C]. . . .    [Am7]. .      [D]. .
 
-{c:Verse 2}
-[G]I will bow down (I will bow down)
-And [F]hail You as King (and hail You as King)
-[C]I will serve You (I will serve You)
-I'll give You [G]ev - 'ry -  thing [Am7](Give you ev'ry[D]thing)
-[G]I will lift up (I will lift up)
-My [F]eyes to Your throne (my eyes to Your throne)
-[C]I will trust You (I will trust You)
-Trust   [G]You  a -  lone [Am7](You a - [D]lone)
+{c: Soft Verse 2}
+[G]I will bow down    (I will bow down)
+And [F]hail You as King    (and hail You as King)
+[C]I will serve You    (I will serve You)
+I'll give You [G]ev - 'ry -  thing    [Am7](Give you ev'ry[D]thing)
+[G]I will lift up    (I will lift up)
+My [F]eyes to Your throne    (my eyes to Your throne)
+[C]I will trust You    (I will trust You)
+Trust   [G]You  a -  lone    [Am7](You a - [D]lone)
 
-{soc}
-[G]   I will give You [D]all my worship
+{start_of_chorus}
+[G]   I will give You [D/F#]all my worship
 [C]   I will give You [Am7]all my [D]praise
-[G]   You alone I [D]long to worship
+[G]   You alone I [D/F#]long to worship
 [C]   You alone are [Am7]worthy [D]of my [G]praise
-[G]   I will give You [D]all my worship
+
+[G]   I will give You [D/F#]all my worship
 [C]   I will give You [Am7]all my [D]praise
-[G]   You alone I [D]long to worship
+[G]   You alone I [D/F#]long to worship
 [C]   You alone are [Am7]worthy [D]of my [G]praise
-{eoc}
+{end_of_chorus}
 
-[G] [D] [C] [Am7] [D]
-[G] [D] [C] [Am7] [D]
+[G]. . . .    [D]. . . .    [C]. . . .    [Am7]. .      [D]. .
+[G]. . . .    [D]. . . .    [C]. . . .    [Am7]. .      [D]. .    [G]
 
-{c:Ending - A cappella}
-[G]   I will give You [D]all my worship
+{c: Soft Ending Single Strums}
+[G]   I will give You [D/F#]all my worship
 [C]   I will give You [Am7]all my [D]praise
-[G]   You alone I [D]long to worship
-{c:Retard}
+[G]   You alone I [D/F#]long to worship
+{c: Retard}
 [C]   You alone are [Am7]worthy [D]of my [G]praise
