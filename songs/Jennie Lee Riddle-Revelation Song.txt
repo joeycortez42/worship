@@ -1,64 +1,67 @@
-{title:Revelation Song}
-{subtitle:Jennie Lee Riddle}
-{original_key:D}
-{key:D}
-{tempo:120}
-{time:4/4}
-{as:9.7}
-{c:Intro}
-[D] [Am7] [C] [G]
+{title: Revelation Song}
+{artist: Jennie Lee Riddle}
+{key: D}
+{tempo: 65}
+{time: 4/4}
+{copyright: 2004 Gateway Create Publishing}
 
-{c:Verse 1}
-[D]  Worthy is the  [Am7]  Lamb Who was slain [C]  Ho-ly ho - ly is [G]He
-[D]  Sing a new song  [Am7]  to Him Who sits on
-[C]  Heaven's mer - cy [G]seat
+{original_key: D}
+{c: Intro}
+[D]. . . .    [Am7]. . . .    [C]. . . .    [G]. . . .
 
-{c:Verse 1}
-[D]  Worthy is the  [Am7]  Lamb Who was slain [C]  Ho-ly ho - ly is [G]He
-[D]  Sing a new song  [Am7]  to Him Who sits on
-[C]  Heaven's mer - cy [G]seat
+{c: Verse 1}
+[D]    Worthy is the  [Am7]        Lamb Who was slain [C]    Ho-ly ho - ly is [G]He
+[D]    Sing a new song  [Am7]        to Him Who sits on
+[C]    Heaven's mer - cy [G]seat
 
-{soc}
-[D]  Ho - ly ho - ly ho - ly [Am7]  Is the Lord God Almighty
-[C]  Who was and is and is to [G]come
-[D]  With all creation I sing [Am7]  Praise to the King of kings
-[C]  You are my ev'rything And [G]I will adore You
-{eoc}
+{c: Verse 1}
+[D]    Worthy is the  [Am7]        Lamb Who was slain [C]    Ho-ly ho - ly is [G]He
+[D]    Sing a new song  [Am7]        to Him Who sits on
+[C]    Heaven's mer - cy [G]seat
 
-[D] [Am7] [C] [G]
+{start_of_chorus}
+[D]    Ho - ly ho - ly ho - ly [Am7]        Is the Lord God Almighty
+[C]    Who was and is and is to [G]come
+[D]    With all creation I sing [Am7]        Praise to the King of kings
+[C]    You are my ev'rything And [G]I will adore You
+{end_of_chorus}
 
-{c:Verse 2}
-[D]  Clothed in rainbows  [Am7]  of living color
-[C]  Flashes of lightning rolls of [G]thunder
-[D]  Blessing and hon - or strength and [Am7]  glory and power be
-[C]  To You the only wise [G] King
+[D]. . . .    [Am7]. . . .    [C]. . . .    [G]. . . .
 
-{soc}
-[D]  Ho - ly ho - ly ho - ly [Am7]  Is the Lord God Almighty
-[C]  Who was and is and is to [G]come
-[D]  With all creation I sing [Am7]  Praise to the King of kings
-[C]  You are my ev'rything And [G]I will adore You
-{eoc}
+{c: Verse 2}
+[D]    Clothed in rainbows  [Am7]        of living color
+[C]    Flashes of lightning rolls of [G]thunder
+[D]    Blessing and hon - or strength and [Am7]        glory and power be
+[C]    To You the only wise [G]    King
 
-[D]. [Am7]. [C]. [G].  .  .[D] [Am7] [C] [G]
+{start_of_chorus}
+[D]    Ho - ly ho - ly ho - ly [Am7]        Is the Lord God Almighty
+[C]    Who was and is and is to [G]come
+[D]    With all creation I sing [Am7]        Praise to the King of kings
+[C]    You are my ev'rything And [G]I will adore You
+{end_of_chorus}
 
-{c:Verse 3}
-[D]  Filled with wonder  [Am7]  awestruck wonder
-[C]  At the mention of Your [G]name
-[D]  Jesus Your name is power [Am7]  Breath and living water
-[C]  Such a marv'lous mys [G]- tery
+[D]. . . .    [Am7]. . . .    [C]. . . .    [G]. . . .
+[D]. . . .    [Am7]. . . .    [C]. . . .    [G]. . . .
 
-{soc}
-[D]  Ho - ly ho - ly ho - ly [Am7]  Is the Lord God Almighty
-[C]  Who was and is and is to [G]come
-[D]  With all creation I sing [Am7]  Praise to the King of kings
-[C]  You are my ev'rything And [G]I will adore You
+{c: Verse 3 - Softly}
+[D]    Filled with wonder  [Am7]        awestruck wonder
+[C]    At the mention of Your [G]name
+{c: Build}
+[D]    Jesus Your name is power [Am7]        Breath and living water
+[C]    Such a marv'lous mys [G]- tery
 
-[D]  Ho - ly ho - ly ho - ly [Am7]  Is the Lord God Almighty
-[C]  Who was and is and is to [G]come
-[D]  With all creation I sing [Am7]  Praise to the King of kings
-[C]  You are my ev'rything And [G]I will adore You
-{eoc}
+{start_of_chorus}
+[D]    Ho - ly ho - ly ho - ly [Am7]        Is the Lord God Almighty
+[C]    Who was and is and is to [G]come
+[D]    With all creation I sing [Am7]        Praise to the King of kings
+[C]    You are my ev'rything And [G]I will adore You
 
-{c:Ending}
-[D] [Am7] [C] [G] [D]
+[D]    Ho - ly ho - ly ho - ly [Am7]        Is the Lord God Almighty
+[C]    Who was and is and is to [G]come
+[D]    With all creation I sing [Am7]        Praise to the King of kings
+[C]    You are my ev'rything And [G]I will adore You
+{end_of_chorus}
+
+{c: Ending}
+[D]. . . .    [Am7]. . . .    [C]. . . .    [G]. . . .    [D]

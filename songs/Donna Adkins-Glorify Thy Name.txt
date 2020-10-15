@@ -1,0 +1,51 @@
+{title: Glorify Thy Name}
+{artist: Donna Adkins}
+{key: C}
+{duration: 200}
+{tempo: 68}
+{time: 4/4}
+{copyright: 1981 CCCM Music}
+
+{original_key: Bb}
+{c: Verse 1 - Single Strum}
+[C]Fa - ther we [F]love You
+We [G]wor - ship and a - [C]dore You
+[C]Glo - ri - fy Thy [F]name in all the [G]earth    [G]
+
+[C]Fa - ther we [F]love You
+We [G]wor - ship and a - [C]dore You
+[C]Glo - ri - fy Thy [F]name in all the [G]earth    [G]
+
+[C]Glo - ri - fy Thy [F]name        [E]Glo - ri - fy Thy [Am]name
+[Dm]Glo - ri - fy Thy [G]name in all the [C]earth    [C]
+
+{c: Verse 2}
+[C]Je - sus we [F]love You
+We [G]wor - ship and a - [C]dore You
+[C]Glo - ri - fy Thy [F]name in all the [G]earth    [G]
+
+[C]Je - sus we [F]love You
+We [G]wor - ship and a - [C]dore You
+[C]Glo - ri - fy Thy [F]name in all the [G]earth    [G]
+
+[C]Glo - ri - fy Thy [F]name        [E]Glo - ri - fy Thy [Am]name
+[Dm]Glo - ri - fy Thy [G]name in all the [C]earth    [C]
+
+{c: Verse 3}
+[C]Spir - it we [F]love You
+We [G]wor - ship and a - [C]dore You
+[C]Glo - ri - fy Thy [F]name in all the [G]earth    [G]
+
+[C]Spir - it we [F]love You
+We [G]wor - ship and a - [C]dore You
+[C]Glo - ri - fy Thy [F]name in all the [G]earth    [G]
+
+[C]Glo - ri - fy Thy [F]name        [E]Glo - ri - fy Thy [Am]name
+[Dm]Glo - ri - fy Thy [G]name in all the [C]earth    [C]
+
+{c: Ending}
+[C]Glo - ri - fy Thy [F]name        [E]Glo - ri - fy Thy [Am]name
+{c: Slowly}
+[Dm]Glo - ri - fy    Thy [G]name in all the [C]earth
+{c: Retard}
+[Dm]Glo - ri - fy    Thy [G]name in all the [C]ear   [F]-   th    [C]

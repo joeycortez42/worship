@@ -1,40 +1,41 @@
-{title:I'll Fly Away}
-{subtitle:Albert Brumley}
-{original_key:G}
-{key:E}
-{tempo:120}
-{time:4/4}
-{as:11.0}
-{c:Intro}
+{title: I'll Fly Away}
+{artist: Albert Brumley}
+{key: E}
+{tempo: 116}
+{time: 4/4}
+{copyright: 1932 Hartford Music Company}
+
+{original_key: G}
+{c: Intro}
 [E]   [B]   [E]
 
-{c:Verse 1}
+{c: Verse 1}
 So[E]me glad morning when this life is o'er   I[A]'ll fly a - w[E]ay
 [E]To a home on God's celestial shore   I[E]'ll [B]fly a - w[E]ay
 
-{soc}
+{start_of_chorus}
 I[E]'ll fly away O glory   I[A]'ll fly a - w[E]ay (in the morning)
 When I die hallelujah by and by   I[E]'ll [B]fly a - w[E]ay
-{eoc}
+{end_of_chorus}
 
-{c:Verse 2}
+{c: Verse 2}
 W[E]hen the shadows of this life have grown   I[A]'ll fly a - w[E]ay
 [E]Like a bird from prison bars has flown   I[E]'ll [B]fly a - w[E]ay
 
-{soc}
+{start_of_chorus}
 I[E]'ll fly away O glory   I[A]'ll fly a - w[E]ay (in the morning)
 When I die hallelujah by and by   I[E]'ll [B]fly a - w[E]ay
-{eoc}
+{end_of_chorus}
 
-{c:Verse 3}
+{c: Verse 3}
 J[E]ust a few more weary days and then   I[A]'ll fly a - w[E]ay
 [E]To a land where joys shall never end   I[E]'ll [B]fly a - w[E]ay
 
-{c:Single Strum}
-{soc}
+{c: Single Strum}
+{start_of_chorus}
 I[E]'ll fly away O glory   I[A]'ll fly a - w[E]ay (in the morning)
 When I die hallelujah by and by   I[E]'ll [B]fly a - w[E]ay
-{eoc}
+{end_of_chorus}
 
-{c:Ending}
+{c: Ending}
 When I die hallelujah by and [C#]by   I[E]'ll [B]fly a[A] - way [E]

@@ -6,7 +6,6 @@
 {copyright: Public Domain}
 
 {original_key: D}
-{as: 10}
 {c: Intro}
 [C]Prais - ing my [F]Savior [G]all the day [C]lon[F]g [C]
 

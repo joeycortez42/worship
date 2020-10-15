@@ -1,64 +1,67 @@
-{title:Soul On Fire}
-{subtitle:Mac Powell}
-{original_key:Db}
-{key:A}
-{tempo:104}
-{time:4/4}
-{as:10.1}
-{c:Intro - Key Bb - Capo 1 A}
-[A]. . . . [A]. . . . [E]. . . . [D]. . [A] . .
+{title: Soul On Fire}
+{artist: Mac Powell}
+{key: A}
+{tempo: 104}
+{time: 4/4}
+{copyright: Thankyou Music}
 
-{soc}
-[A]God I'm running for Your heart
-I'm running for Your [E]heart 'til I am a [D]soul on [A]fire
+{original_key: Db}
+{c: Intro}
+[A]. . . .    [A]. . . .    [E]. . . .    [D]. .    [A] . .
 
-[A]Lord I'm longing for Your ways
-I'm waiting for the [E]day when I am a [D]soul on [A]fire
-[E]    'Til I am a [D]soul on [A]fire     [A]. . . . [A]. . . . [E]. . . . [D]. . [A] . .
-{eoc}
-
-{soc}
+{start_of_chorus}
 [A]God I'm running for Your heart
 I'm running for Your [E]heart 'til I am a [D]soul on [A]fire
 
 [A]Lord I'm longing for Your ways
 I'm waiting for the [E]day when I am a [D]soul on [A]fire
 [E]    'Til I am a [D]soul on [A]fire
-{eoc}
+{end_of_chorus}
 
-{c:Verse}
+[A]. . . .    [A]. . . .    [E]. . . .    [D]. .    [A] . .
+
+{start_of_chorus}
+[A]God I'm running for Your heart
+I'm running for Your [E]heart 'til I am a [D]soul on [A]fire
+
+[A]Lord I'm longing for Your ways
+I'm waiting for the [E]day when I am a [D]soul on [A]fire
+[E]    'Til I am a [D]soul on [A]fire
+{end_of_chorus}
+
+{c: Verse}
 [E]Lord restore the [D]joy I  [A]had
 [E]I have wandered [D]bring me [A]back
 [E]In this darkness [D]lead me [A]through
 [F#m]Until all I [E]see   is    You
 
-{c:Build}
-{soc}
+{start_of_chorus}
+{c: Single Strum}
 [A]God I'm running for Your heart
 I'm running for Your [E]heart 'til I am a [D]soul on [A]fire
-
+{c: Full Band}
 [A]Lord I'm longing for Your ways
 I'm waiting for the [E]day when I am a [D]soul on [A]fire
 [E]    'Til I am a [D]soul on [A]fire
-{eoc}
+{end_of_chorus}
 
-{c:Softly}
 {sob}
-[F#m]. . Lord let me [D]burn for You a - [E]gain
-[F#m]. . Let me re - [D]turn to You a - [E]gain
-[F#m]. . And Lord let me [D]burn for You a - [E]gain
-[F#m]. . And let me re - [D]turn to You a - [E]gain (break) . . . .
+{c: Build}
+[F#m]      Lord let me [D]burn for You a - [E]gain
+[F#m]      Let me re - [D]turn to You a - [E]gain
+[F#m]      And Lord let me [D]burn for You a - [E]gain
+[F#m]      And let me re - [D]turn to You a - [E]gain    [E]. . . .
 {eob}
 
-{c:Build}
-{soc}
+{start_of_chorus}
+{c: Single Strum}
 [A]God I'm running for Your heart
 I'm running for Your [E]heart 'til I am a [D]soul on [A]fire
-
+{c: Full Band}
 [A]Lord I'm longing for Your ways
 I'm waiting for the [E]day when I am a [D]soul on [A]fire
-{eoc}
+{end_of_chorus}
 [A]God I'm running for Your heart
 I'm running for Your [E]heart 'til I am a [D]soul on [A]fire
-[E]     'Til I am a [D]soul on [A]fire
-[E]     'Til I am a [D]soul on [A]fire
+[E]    'Til I am a [D]soul on [A]fire
+[E]    'Til I am a [D]soul on [A]fi   -   re

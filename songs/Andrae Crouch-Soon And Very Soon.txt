@@ -1,66 +1,67 @@
-{title:Soon And Very Soon}
-{subtitle:Andrae Crouch}
-{original_key:G}
-{key:E}
-{tempo:82}
-{time:2/2}
-{as:14.0}
-{c:Intro}
+{title: Soon And Very Soon}
+{artist: Andrae Crouch}
+{key: E}
+{tempo: 72}
+{time: 2/2}
+{copyright: 1971 Bud John Songs, Inc.}
+
+{original_key: G}
+{c: Intro}
 [E]
 
-{c:Verse 1 - A cappella with light guitar}
+{c: Verse 1 - A cappella with light guitar}
 [E]Soon and very soon   [A]We are [E]going to see the King
 [B]Soon and very soon   [B]We are [E]going to see the King
 [E]Soon and very soon   [A]We are [E]going to see the King
 
-{soc}
-Halle - [G#m]lu - [A]jah halle - [B]lu - [C]jah
+{start_of_chorus}
+Halle - [G#m]lu - [A]jah halle - [B]lu - [A]jah
 We're [B]going to see the [E]King
-{eoc}
+{end_of_chorus}
 
 [E]
 
-{c:Verse 1}
+{c: Verse 1}
 [E]Soon and very soon   [A]We are [E]going to see the King
 [B]Soon and very soon   [B]We are [E]going to see the King
 [E]Soon and very soon   [A]We are [E]going to see the King
 
-{soc}
-Halle - [G#m]lu - [A]jah halle - [B]lu - [C]jah
+{start_of_chorus}
+Halle - [G#m]lu - [A]jah halle - [B]lu - [A]jah
 We're [B]going to see the [E]King
-{eoc}
+{end_of_chorus}
 
 
-{c:Verse 2}
+{c: Verse 2}
 [E]No more crying there   [A]We are [E]going to see the King
 [B]No more crying there   [B]We are [E]going to see the King
 [E]No more crying there   [A]We are [E]going to see the King
 
-{soc}
-Halle - [G#m]lu - [A]jah halle - [B]lu - [C]jah
+{start_of_chorus}
+Halle - [G#m]lu - [A]jah halle - [B]lu - [A]jah
 We're [B]going to see the [E]King
-{eoc}
+{end_of_chorus}
 
-{c:Verse 3}
+{c: Verse 3}
 [E]No more dying there   [A]We are [E]going to see the King
 [B]No more dying there   [B]We are [E]going to see the King
 [E]No more dying there   [A]We are [E]going to see the King
 
-{soc}
-Halle - [G#m]lu - [A]jah halle - [B]lu - [C]jah
+{start_of_chorus}
+Halle - [G#m]lu - [A]jah halle - [B]lu - [A]jah
 We're [B]going to see the [E]King
-{eoc}
+{end_of_chorus}
 
-{c:Verse 1}
+{c: Verse 1}
 [E]Soon and very soon   [A]We are [E]going to see the King
 [B]Soon and very soon   [B]We are [E]going to see the King
 [E]Soon and very soon   [A]We are [E]going to see the King
 
-{soc}
-Halle - [G#m]lu - [A]jah halle - [B]lu - [C]jah
+{start_of_chorus}
+Halle - [G#m]lu - [A]jah halle - [B]lu - [A]jah
 We're [B]going to see the [E]King
-{eoc}
+{end_of_chorus}
 
-{c:Ending - Retard}
-Halle - [G#m]lu - [A]jah halle - [B]lu - [C]jah
+{c: Ending - Retard}
+Halle - [G#m]lu - [A]jah halle - [B]lu - [A]jah
 We're [B]going to see the [E]King

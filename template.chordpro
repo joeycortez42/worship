@@ -1,11 +1,10 @@
-{title:Song Title}
-{subtitle:Song Artist}
+{title: Song Title}
+{artist: Song Artist}
 {original_key:G}
-{key:G}
-{tempo:120}
-{time:4/4}
-{as:10}
-{c:Intro - Key E - Capo 2 D}
+{key: G}
+{tempo: 120}
+{time: 4/4}
+{c: Intro}
 
 e|--------------------------------------|
 B|--------------------------------------|
@@ -14,32 +13,32 @@ D|--------------------------------------|
 A|--------------------------------------|
 E|--------------------------------------|
 
-{c:Verse 1}
+{c: Verse 1}
 
-{c:Pre-Chorus}
+{c: Pre-Chorus}
 
 {soc}
 
 {eoc}
 
-{c:Verse 2}
+{c: Verse 2}
 
 {sob}
 
-{c:A cappella} //Comments should be inside wrapping sections.
+{c: A cappella} //Comments should be inside wrapping sections.
 
-{c:Build}
+{c: Build}
 
-{c:Full band}
+{c: Full band}
 
 {eob}
 
-{c:Repeat} // Should not use. Just duplicate the sections.
+{c: Repeat} // Should not use. Just duplicate the sections.
 
-{c:Softly}
+{c: Softly}
 
-{c:Instrumental}
+{c: Instrumental}
 
-{c:Retard}
+{c: Retard}
 
-{c:Ending}
+{c: Ending}
