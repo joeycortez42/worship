@@ -1,70 +1,71 @@
-{title:God Of Wonders}
-{subtitle:Marc Byrd}
-{original_key:Bb}
-{key:G}
-{tempo:82}
-{time:4/4}
-{as:11.5}
-{c:Intro}
-[Dsus]   [Em7]   [C2]   [Dsus]   [Em7]   [C2]
+{title: God Of Wonders}
+{artist: Marc Byrd}
+{key: G}
+{duration: 218}
+{tempo: 84}
+{time: 4/4}
+{copyright: 2000 Never Say Never Songs}
 
-{c:Verse 1}
-[Dsus]      [Em7]Lord of all cre - [C2]ation
-[Dsus]   Of [Em7]water earth and [C2]  sky
-[Dsus]  The heavens [Em7]are Your taber - [C2]nacle
-[Dsus]  Glory [Em7]to the Lord on [C2]  high
+{original_key: Bb}
+{c: Intro}
+[Dsus]. .        [Em7]. .        [C2]. . . .        [Dsus]. .        [Em7]. .        [C2]. . . .
 
-{soc}
+{c: Verse 1}
+[Dsus]            [Em7]Lord of all cre - [C2]ation
+[Dsus]         Of [Em7]water earth and [C2]    sky
+[Dsus]         The heavens [Em7]are Your taber - [C2]nacle
+[Dsus]         Glory [Em7]to the Lord on [C2]    high
+
+{start_of_chorus}
 [G]God of wonders beyond our galax - [Dsus]y   [D]
-You are [Am7]ho - ly   [C2]ho - ly
+You are [Am7]ho - ly    [C2]ho - ly
 The [G]universe declares Your majes - [Dsus]ty   [D]
 You are [Am7]ho - ly   [C2]ho - ly
 [C2]Lord of heaven and earth
 [C2]Lord of heaven and earth
-{eoc}
+{end_of_chorus}
 
-[Dsus]   [Em7]   [C2]   [Dsus]   [Em7]   [C2]
+[Dsus]. .        [Em7]. .        [C2]. . . .        [Dsus]. .        [Em7]. .        [C2]. . . .
 
-{c:Verse 2}
-[Dsus]      [Em7]Early in the [C2]morning
-[Dsus]  I will [Em7]celebrate the [C2]light
-[Dsus]  When I [Em7]stumble in the [C2]darkness
-[Dsus]  I will [Em7]call Your name by [C2]  night
+{c: Verse 2}
+[Dsus]             [Em7]Early in the [C2]morning
+[Dsus]        I will [Em7]celebrate the [C2]light
+[Dsus]        When I [Em7]stumble in the [C2]darkness
+[Dsus]        I will [Em7]call Your name by [C2]    night
 
-{soc}
+{start_of_chorus}
 [G]God of wonders beyond our galax - [Dsus]y   [D]
-You are [Am7]ho - ly   [C2]ho - ly
+You are [Am7]ho - ly    [C2]ho - ly
 The [G]universe declares Your majes - [Dsus]ty   [D]
 You are [Am7]ho - ly   [C2]ho - ly
 [C2]Lord of heaven and earth
 [C2]Lord of heaven and earth
-{eoc}
+{end_of_chorus}
 
 {sob}
-[Am]  Hallelujah (to the [C2]Lord of heaven [Dsus]and earth)
-[Am]  Hallelujah (to the [C2]Lord of heaven [Dsus]and earth)
-[Am]  Hallelujah (to the [C2]Lord of heaven [Dsus]and earth)
+[Am]          Hallelujah (to the [C2]Lord of [Dsus]heaven and earth)
+[Am]          Hallelujah (to the [C2]Lord of [Dsus]heaven and earth)
+[Am]          Hallelujah (to the [C2]Lord of [Dsus]heaven and earth)
 {eob}
 
-{c:Instrumental - Like chorus}
-[G]    [Dsus]    [D]    [Am7]    [C2]
-[G]    [Dsus]    [D]    [Am7]    [C2]
+{c: Instrumental - Like chorus}
+[G]. . . .    [Dsus]. .        [D]. .    [Am7]. . . .    [C2]. . . .
+[G]. . . .    [Dsus]. .        [D]. .    [Am7]. . . .    [C2]. . . .
 
-{soc}
+{start_of_chorus}
 [G]God of wonders beyond our galax - [Dsus]y   [D]
-You are [Am7]ho - ly   [C2]ho - ly
-{c:A cappella}
+You are [Am7]ho - ly    [C2]ho - ly
+{c: A cappella}
 [G]Precious Lord reveal Your heart to [Dsus]me   [D]
-Father [Am7]hold   me   [C2]hold   me
-{c:Acoustic Only}
+Father [Am7]hold   me    [C2]hold   me
+{c: Acoustic Only}
 The [G]universe declares Your majes - [Dsus]ty   [D]
-You are [Am7]ho - ly   [C2]ho - ly
-[Am7]Ho - ly   [C2]ho - ly
-{eoc}
+You are [Am7]ho - ly    [C2]ho - ly          [Am7]Ho - ly    [C2]ho - ly
+{end_of_chorus}
 
-{c:Ending - Full Band}
-[Am]  Hallelujah (to the [C2]Lord of heaven [Dsus]and earth)
-[Am]  Hallelujah (to the [C2]Lord of heaven [Dsus]and earth)
-[Am]  Hallelujah (to the [C2]Lord of heaven [Dsus]and earth)
-[G]    [Dsus]    [D]    [Am7]    [C2]
-[G]    [Dsus]    [D]    [Am7]    [C2]   [G]
+{c: Ending - Full Band}
+[Am]          Hallelujah (to the [C2]Lord of [Dsus]heaven and earth)
+[Am]          Hallelujah (to the [C2]Lord of [Dsus]heaven and earth)
+[Am]          Hallelujah (to the [C2]Lord of [Dsus]heaven and earth)
+[G]. . . .    [Dsus]. .        [D]. .    [Am7]. . . .    [C2]. . . .
+[G]. . . .    [Dsus]. .        [D]. .    [Am7]. . . .    [C2]. . . .   [G]

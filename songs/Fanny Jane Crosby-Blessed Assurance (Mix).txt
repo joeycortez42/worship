@@ -1,4 +1,4 @@
-{title: Blessed Assurance}
+{title: Blessed Assurance (Mix)}
 {artist: Fanny Jane Crosby}
 {key: C}
 {tempo: 53}

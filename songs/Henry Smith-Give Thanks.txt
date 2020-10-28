@@ -1,12 +1,13 @@
-{title:Give Thanks}
-{subtitle:Henry Smith}
-{original_key:F}
-{key:D}
-{tempo:80}
-{time:4/4}
-{as:10}
+{title: Give Thanks}
+{artist: Henry Smith}
+{key: D}
+{duration: 208}
+{tempo: 85}
+{time: 4/4}
+{copyright: 1978 Integrity's Hosanna! Music}
 
-{c:Intro}
+{original_key: F}
+{c: Intro}
 [D]
 
 {soc}
@@ -21,7 +22,7 @@ Give [G]thanks because He's [D/F#]given
 Je - [D]sus [C]Christ His [A]Son
 {eoc}
 
-#Verse
+{c: Verse}
 And [F#m]now let the [BM]weak say I am [Em]strong
 Let the [A]poor say I am [D]rich
 Be - cause of [Bm]what the Lord has [C]done for [A]us
@@ -31,7 +32,7 @@ Be - cause of [Bm]what the Lord has [C]done for [A]us
 
 Give [D]thanks
 
-#Vamp
+{c: Vamp}
 [D]
 
 {soc}
@@ -41,7 +42,7 @@ Give [G]thanks because He's [D/F#]given
 Je - [D]sus [C]Christ His [A]Son
 {eoc}
 
-#Verse
+{c: Verse}
 And [F#m]now let the [BM]weak say I am [Em]strong
 Let the [A]poor say I am [D]rich
 Be - cause of [Bm]what the Lord has [C]done for [A]us
@@ -49,7 +50,7 @@ And [F#m]now let the [Bm]weak say I am [Em]strong
 Let the [A]poor say I am [D]rich
 Be - cause of [Bm]what the Lord has [C]done for [A]us
 
-{c:Ending}
+{c: Ending}
 Give [D]thanks
 Give [D]thanks
 Give [D]thanks

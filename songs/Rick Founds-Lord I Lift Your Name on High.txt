@@ -1,48 +1,50 @@
-{title:Lord I Lift Your Name on High}
-{subtitle:Rick Founds}
-{original_key:G}
-{key:A}
-{tempo:94}
-{time:4/4}
-{as:12.0}
-{c:Intro}
+{title: Lord I Lift Your Name on High}
+{artist: Rick Founds}
+{key: A}
+{duration: 180}
+{tempo: 88}
+{time: 4/4}
+{copyright: 1989 Universal Music}
+
+{original_key: G}
+{c: Intro}
 [A]  [D]  [E]  [D]
 [A]  [D]  [E]  [D]
 
-{c:Verse}
+{c: Verse}
 [A] Lord I [D]lift Your name on [E]high [D]
 [A] Lord I l[D]ove to sing Your pr[E]aises [D]
 [A] I'm so g[D]lad You're in my l[E]ife [D]
 [A] I'm so g[D]lad You came to s[E]ave us [D]
 
-{soc}
+{start_of_chorus}
 [A]You came from he[D]aven to e[E]arth to s[D]how the[A] way
 From the ea[D]rth to the cr[E]oss my d[D]ebt t[A]o pay
 From the cr[D]oss to the gr[E]ave
 From the g[F#m7]rave to the [Bm7]sky
 Lord I l[E]ift Your name on h[A]igh [D] [E] [D]
-{eoc}
+{end_of_chorus}
 
-{c:Verse}
+{c: Verse}
 [A] Lord I [D]lift Your name on [E]high [D]
 [A] Lord I l[D]ove to sing Your pr[E]aises [D]
 [A] I'm so g[D]lad You're in my l[E]ife [D]
 [A] I'm so g[D]lad You came to s[E]ave us [D]
 
-{soc}
+{start_of_chorus}
 [A]You came from he[D]aven to e[E]arth to s[D]how the[A] way
 From the ea[D]rth to the cr[E]oss my d[D]ebt t[A]o pay
 From the cr[D]oss to the gr[E]ave
 From the g[F#m7]rave to the [Bm7]sky
-Lord I l[E]ift Your name on h[A]igh
+Lord I l[E]ift Your name on h[A]igh    [A]
 
 [A]You came from he[D]aven to e[E]arth to s[D]how the[A] way
 From the ea[D]rth to the cr[E]oss my d[D]ebt t[A]o pay
 From the cr[D]oss to the gr[E]ave
 From the g[F#m7]rave to the [Bm7]sky
 Lord I l[E]ift Your name on h[A]igh [D] [E]
-{eoc}
+{end_of_chorus}
 
-{c:Ending}
+{c: Ending}
 Lord I l[E]ift Your name on h[A]igh [D] [E]
 Lord I l[E]ift Your name on h[A]igh [D] [E] [D] [A]

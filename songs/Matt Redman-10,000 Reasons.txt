@@ -1,71 +1,73 @@
-{title:10,000 Reasons}
-{subtitle:Matt Redman}
-{original_key:G}
-{key:E}
-{tempo:73}
-{time:4/4}
-{as:10}
-{c:Intro}
-[A] [E] [B/D#] [C#m]
-[A] [E] [Bsus] [B]
+{title: 10,000 Reasons}
+{artist: Matt Redman}
+{key: E}
+{duration: 300}
+{tempo: 72}
+{time: 4/4}
+{copyright: 2011 Atlas Mountain Songs}
 
-{soc}
-Bless the L[A]ord O my s[E]oul   [B/D#]O my s[C#m]oul
-W[A]ors-hip His ho [E]- ly name [Bsus] [B]
-Sing like [A]nev-er be-f[C#m]ore   [A]O [B]my s[C#m]oul
-I'll w[A]or-ship Your ho [B]- ly name   [A] [E] [A] [E]
-{eoc}
+{original_key: G}
+{c: Intro}
+[A]. .    [E]. .    [B/D#]. .        [C#m]. .
+[A]. .    [E]. .    [Bsus]. .        [B]. .
 
-{c:Verse 1}
-The s[A]un comes [E]up it's a n[B]ew day d[C#m]awn-ing
-[A] It's time to s[E]ing Your song[B] a-gain [C#m]
-What-[A]ev-er may p[E]ass and what-[B/D#]ev-er lies be-f[C#m]ore me
-{c:Rest}
-[A] let me be s[E]ign-ing when the [Bsus] ev-'[B]ning co[E]mes   [A/E]   [E]
+{start_of_chorus}
+Bless the L[A]ord O my s[E]oul        [B/D#]O my s[C#m]oul
+W[A]orship His ho[E]ly name [Bsus] [B]
+Sing like [A]never be - f[C#m]ore        [A]O [B]my s[C#m]oul
+I'll w[A]orship Your ho[B]ly name   [A]. .    [E]. .    [A]. .    [E]. .
+{end_of_chorus}
 
-{soc}
-Bless the L[A]ord O my s[E]oul   [B/D#]O my s[C#m]oul
-W[A]ors-hip His ho [E]- ly name [Bsus] [B]
-Sing like [A]nev-er be-f[C#m7]ore   [A]O [B]my s[C#m]oul
-I'll w[A]or-ship Your ho [B]- ly name   [A] [E] [A] [E]
-{eoc}
+{c: Verse 1}
+The s[A]un comes [E]up it's a n[B]ew day d[C#m]awning
+[A]    It's time to s[E]ing Your song[B] a - gain [C#m]
+What - [A]ever may p[E]ass and what -[B/D#] ever lies be - f[C#m]ore me
+{c: Rest}
+[A] let me be s[E]igning when the [Bsus] eve - [B]ning co[E]mes   [A/E]. .    [E]. .
 
-{c:Verse 2}
-You're r[A]ich in l[E]ove and You're sl[B]ow to [C#m7]an-ger
+{start_of_chorus}
+Bless the L[A]ord O my s[E]oul        [B/D#]O my s[C#m]oul
+W[A]orship His ho[E]ly name [Bsus] [B]
+Sing like [A]never be - f[C#m]ore        [A]O [B]my s[C#m]oul
+I'll w[A]orship Your ho[B]ly name   [A]. .    [E]. .    [A]. .    [E]. .
+{end_of_chorus}
+
+{c: Verse 2}
+You're r[A]ich in l[E]ove and You're sl[B]ow to [C#m7]anger
 Your n[A]ame is gr[E]eat and Your he[B]art is kind [C#m7]
 For [A]all You g[E]ood-ness I will k[B/D#]eep on s[C#m7]ign-ing
-{c:Rest}
-[A] ten thou-sand r[E]ea-sons for my h[Bsus]eart [B]to f[E]ind   [A/E]   [E]
+{c: Rest}
+[A] ten thousand r[E]easons for my h[Bsus]eart    [B]to f[E]ind   [A/E]. .    [E]. .
 
-{soc}
-Bless the L[A]ord O my s[E]oul   [B/D#]O my s[C#m]oul
-W[A]ors-hip His ho [E]- ly name [Bsus] [B]
-Sing like [A]nev-er be-f[C#m7]ore   [A]O [B]my s[C#m]oul
-I'll w[A]or-ship Your ho [B]- ly name   [A] [E] [A] [E]
-{eoc}
+{start_of_chorus}
+Bless the L[A]ord O my s[E]oul        [B/D#]O my s[C#m]oul
+W[A]orship His ho[E]ly name [Bsus] [B]
+Sing like [A]never be - f[C#m]ore        [A]O [B]my s[C#m]oul
+I'll w[A]orship Your ho[B]ly name   [A]. .    [E]. .
+{end_of_chorus}
 
-{c:Instrumental like the chorus}
-[A]   [E]   [B]   [C#m]
-[A]   [E]   [Bsus] [B]
-[A]   [C#m7]
-[A] [B] [C#m7]   [A]   [B]     [A] [E] [A] [E]
+{c: Instrumental like the chorus}
+[A]. .    [E]. .    [B/D#]. .        [C#m]. .
+[A]. .    [E]. .    [Bsus]. .        [B]. .
+[A]. .    [C#m7]. .          [A].    [B].    [C#m7]. .
+[A]. .    [B]. .    [E]. . . .
 
-{c:Verse 3}
-{c:Acoustic Guitar Only}
-And [A]on that d[E]ay when my str[B]ength is f[C#m7]ail-ing
+{c: Verse 3}
+{c: Acoustic Guitar Only}
+And [A]on that d[E]ay when my str[B]ength is f[C#m7]ailing
 the [A]end draws n[E]ear and my t[B]ime has come [C#m7]
 S[A]till my s[E]oul sings Your pra[B/D#]ise un - e[C#m7]nding
-{c:Rest 2,3 Full Band}
-[A] ten thou-sand y[E]ears and then for - [Bsus]e - [B]ver - m[E]ore [A/E]
+{c: Rest 2,3 Full Band}
+[A] ten thousand y[E]ears and then for - [Bsus]ev - [B]er - m[E]ore   [A/E]. .    [E]. .
 
-{soc}
-Bless the L[A]ord O my s[E]oul   [B/D#]O my s[C#m]oul
-W[A]ors-hip His ho [E]- ly name [Bsus] [B]
-Sing like [A]nev-er be-f[C#m7]ore   [A]O [B]my s[C#m]oul
-I'll w[A]or-ship Your ho [B]- ly name [C#m]
-{eoc}
+{start_of_chorus}
+Bless the L[A]ord O my s[E]oul        [B/D#]O my s[C#m]oul
+W[A]orship His ho[E]ly name [Bsus] [B]
+Sing like [A]never be - f[C#m7]ore        [A]O [B]my s[C#m]oul
+I'll w[A]orship Your ho[B]ly name [C#m]
+{end_of_chorus}
 
-{c:Ending}
-Yes I'll w[A]or-ship Your ho [B]- ly name [C#m]
-{c:Retard}
-Lord I'll w[A]or-ship Your ho [B]- ly name   [A] [E] [A] [E]
+{c: Ending}
+Yes I'll w[A]orship Your ho[B]ly name [C#m]
+{c: Retard}
+Lord I'll w[A]orship Your ho[B]ly name   [E]

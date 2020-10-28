@@ -1,55 +1,63 @@
-{title:Lord I Need You}
-{subtitle:Matt Maher}
-{original_key:Bb}
-{key:G}
-{tempo:74}
-{time:4/4}
-{as:10}
-{c:Intro}
-[G]. [G]. [C2]. . . [G] [G] [C2]
+{title: Lord I Need You}
+{artist: Matt Maher}
+{key: G}
+{duration: 174}
+{tempo: 75}
+{time: 4/4}
+{copyright: 2011 sixsteps Music}
 
-{c:Verse 1}
-Lord I [G]come [C2]I con [G]- fess   [D/F#]Bowing [Em7]here I [Dsus]find my[C2] rest
-And without [G]You I [C2]fall a [G]- part
-Y[G]ou're the one [D/F#]that guides my[C2] heart [C2]
+{original_key: Bb}
+{c: Intro}
+[G]. . . .    [C2]. .   [G]. . . . . . .    [G]. . . .    [C2]. .   [G]. . . . . . .
 
-{soc}
-Lord I [G]need You [C2]oh I [G]need [D/F#]You   [Em7]Every [C2]hour I [G]need [D/F#]You
-My [G]one de - [C2]fense my [G]righteous - [C2]ness
+{c: Verse 1}
+Lord I [G]come    [C2]I con [G]- fess
+[D/F#]Bowing [Em7]here    I [Dsus]find my[C2] rest
+And without [G]You    I [C2]fall a [G]- part
+Y[G]ou're the one    [D/F#]that guides my[C2]    heart [C2]
+
+{start_of_chorus}
+Lord I [G]need You    [C2]oh I [G]need [D/F#]You
+[Em7]Every [C2]hour I [G]need [D/F#]You
+My [G]one   de - [C2]fense   my [G]righteous - [C2]ness
 Oh [G]God how I [D]need [G]You  [C2]
-{eoc}
+{end_of_chorus}
 
-{c:Verse 2}
-W[C2]here sin runs [G]deep Your [C2]grace is[G] more
-Where [D/F#]grace is [Em7]found is [D]where You [C2]are
-And where You [G]are Lord [C2]I am [G]free
-H[G]oli - [Dsus]ness [D] is Christ in [G]me [C2]
+{c: Verse 2}
+W[C2]here sin runs [G]deep    Your [C2]grace is[G] more
+Where [D/F#]grace is [Em7]found    is [D]where You [C2]are
+{c: Sing higher}
+And where You [G]are    Lord [C2]I am [G]free
+H[G]oli - [Dsus]ness   [D]   is Christ in [G]me [C2]
 
-{soc}
-Lord I [G]need You [C2]oh I [G]need [D/F#]You   [Em7]Every [C2]hour I [G]need [D/F#]You
-My [G]one de - [C2]fense my [G]righteous - [C2]ness
+{start_of_chorus}
+Lord I [G]need You    [C2]oh I [G]need [D/F#]You
+[Em7]Every [C2]hour I [G]need [D/F#]You
+My [G]one   de - [C2]fense   my [G]righteous - [C2]ness
 Oh [G]God how I [D]need [G]You
-{eoc}
+{end_of_chorus}
 
 {sob}
-{c:Single Strum}
-So [C2]teach my [G]song to [D]rise to [Em7]You   [Em7]When temptation [G]comes my [C2]way
+{c: Single Strum}
+So [C2]teach my [G]song to [D]rise to [Em7]You
+[Em7]When temptation [G]comes my [C2]way
 And when I [C2]cannot [G]stand I'll [D]fall on [Em7]You
 [C2]Jesus You're my [D]hope and [G]stay  [C2]
 {eob}
 
-{soc}
-Lord I [G]need You [C2]oh I [G]need [D/F#]You   [Em7]Every [C2]hour I [G]need [D]You
-My [G]one de - [C2]fense my [G]righteous - [C2]ness
-Oh [G]God how I [D]need [G]You [G]
-{eoc}
+{start_of_chorus}
+Lord I [G]need You    [C2]oh I [G]need [D/F#]You
+[Em7]Every [C2]hour I [G]need [D/F#]You
+My [G]one   de - [C2]fense   my [G]righteous - [C2]ness
+Oh [G]God how I [D]need [G]You
+{end_of_chorus}
 
-{c:Ending}
-My [G]one de - [C2]fense my [G]righteous - [C2]ness
+{c: Ending}
+My [G]one de - [C2]fense   my [G]righteous - [C2]ness
 Oh [G]God how I [D]need [G]You
 
-{c:Single Strum}
-My [G]one de - [C2]fense my [G]righteous - [C2]ness
+{c: Single Strum}
+My [G]one de - [C2]fense   my [G]righteous - [C2]ness
 
-{c:Retard}
+{c: Retard}
 Oh [G]God how I [D]need [G]You

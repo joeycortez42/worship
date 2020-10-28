@@ -1,7 +1,7 @@
 {title: Blessed Assurance (My King Is Coming)}
 {artist: Matthew West}
 {key: C}
-{duration: 195
+{duration: 195}
 {tempo: 53}
 {time: 6/8}
 {copyright: Meaux Jeaux Music}

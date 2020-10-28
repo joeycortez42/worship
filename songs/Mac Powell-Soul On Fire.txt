@@ -1,6 +1,7 @@
 {title: Soul On Fire}
 {artist: Mac Powell}
 {key: A}
+{duration: 207}
 {tempo: 104}
 {time: 4/4}
 {copyright: Thankyou Music}

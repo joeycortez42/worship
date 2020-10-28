@@ -1,45 +1,47 @@
-{title:Step By Step}
-{subtitle:David Strasser}
-{original_key:G}
-{key:G}
-{tempo:104}
-{time:4/4}
-{as:10}
-{c:Intro}
-[G] [C] [F] [C]
-[G] [C] [F] [C]
+{title: Step By Step}
+{artist: David Strasser}
+{key: G}
+{duration: 172}
+{tempo: 97}
+{time: 4/4}
+{copyright: 1991 Kid Brothers Of St. Frank Publishing}
 
-{soc}
+{original_key: G}
+{c: Intro}
+[G]. . . .    [G]. . . .    [C]. .    [F]. .    [C]. .    [F]. .
+[G]. . . .    [G]. . . .    [C]. .    [F]. .    [C]. .    [F]. .
+
+{start_of_chorus}
 O [G]God You are my [D]God
-And [C]I will [D]ever praise [G]You
+And [C]I will ever praise [G]You
 O [G]God You are my [D]God
-And [C]I will [D]ever praise [G]You
+And [C]I will ever praise [G]You
 
 I will [Em]seek You in the [D]morning
 And I will [C]learn to walk in Your [Am]ways
 And [G]step by step You'll [D]lead me
 And I will [C]follow You a[D]ll of my [G]days
-{eoc}
+{end_of_chorus}
 
-[G] [C] [F] [C]
+[G]. . . .    [G]. . . .    [C]. .    [F]. .    [C]. .    [F]. .
 
-{soc}
+{start_of_chorus}
 O [G]God You are my [D]God
-And [C]I will [D]ever praise [G]You
+And [C]I will ever praise [G]You
 O [G]God You are my [D]God
-And [C]I will [D]ever praise [G]You
+And [C]I will ever praise [G]You
 
 I will [Em]seek You in the [D]morning
 And I will [C]learn to walk in Your [Am]ways
 And [G]step by step You'll [D]lead me
 And I will [C]follow You a[D]ll of my [G]days
-{eoc}
+{end_of_chorus}
 
-{c:Ending}
+{c: Ending}
 And I will [Em]follow You all of my [D]days
 And [Am]I will follow You all of my [C]days
 And [G]step by step You'll [D]lead me
 And I will [C]follow You a[D]ll of my [G]days
 And [G]step by step You'll [D]lead me
-{c:Retard}
+{c: Retard}
 And I will [C]follow You a[D]ll of my [G]days

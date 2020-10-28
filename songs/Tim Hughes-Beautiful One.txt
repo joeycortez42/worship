@@ -1,6 +1,7 @@
 {title: Beautiful One}
 {artist: Tim Hughes}
 {key: C}
+{duration: 125}
 {tempo: 128}
 {time: 4/4}
 {copyright: 2002 Thankyou Music}

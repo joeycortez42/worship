@@ -1,7 +1,7 @@
 {title: You’re Worthy Of My Praise}
 {artist: David Ruis}
 {key: G}
-{duration: 212
+{duration: 262}
 {tempo: 97}
 {time: 4/4}
 {copyright: 1991 Shade Tree Music}

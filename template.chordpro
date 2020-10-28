@@ -1,9 +1,12 @@
 {title: Song Title}
 {artist: Song Artist}
-{original_key:G}
 {key: G}
+{duration: }
 {tempo: 120}
 {time: 4/4}
+{copyright: }
+
+{original_key: G}
 {c: Intro}
 
 e|--------------------------------------|
@@ -42,3 +45,24 @@ E|--------------------------------------|
 {c: Retard}
 
 {c: Ending}
+
+{c: .}
+{c: .}
+{c: .}
+{c: .}
+{c: .}
+{c: .}
+{c: .}
+{c: .}
+{c: .}
+{c: .}
+{c: .}
+{c: .}
+{c: .}
+{c: .}
+{c: .}
+{c: .}
+{c: .}
+{c: .}
+{c: .}
+{c: Scroll Space}

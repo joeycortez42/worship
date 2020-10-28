@@ -1,6 +1,7 @@
 {title: Forever Reign}
 {artist: Reuben Morgan}
 {key: A}
+{duration: 180}
 {tempo: 83}
 {time: 4/4}
 {copyright: 2009 Hillsong Music Publishing Australia}

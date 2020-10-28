@@ -1,6 +1,7 @@
 {title: Come Now Is The Time To Worship}
 {artist: Brian Doerksen}
 {key: D}
+{duration: 214}
 {tempo: 110}
 {time: 4/4}
 {copyright: 1998 Vineyard Songs}

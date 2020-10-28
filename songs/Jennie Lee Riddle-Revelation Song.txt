@@ -1,6 +1,7 @@
 {title: Revelation Song}
 {artist: Jennie Lee Riddle}
 {key: D}
+{duration: 203}
 {tempo: 65}
 {time: 4/4}
 {copyright: 2004 Gateway Create Publishing}

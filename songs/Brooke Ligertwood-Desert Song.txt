@@ -1,66 +1,68 @@
-{title:Desert Song}
-{subtitle:Brooke Ligertwood}
-{original_key:D}
-{key:E}
-{tempo:110}
-{time:4/4}
-{as:12.0}
-{c:Intro}
-[C#m]. . . [B]. [A]. [E]. . . [C#m]. . . [B]. [A]. [E].
-[C#m]. . . [B]. [A]. [E]. . . [C#m]. . . [B]. [A]. [E].
+{title: Desert Song}
+{artist: Brooke Ligertwood}
+{key: D}
+{duration: 143}
+{tempo: 110}
+{time: 4/4}
+{copyright: 2008 Hillsong Music Publishing Australia}
 
-{c:Verse 1 - Muted}
-T[C#m]his is my praye[B]r in the [A]desert   [E]
-When [C#m]all that's with-in [B] me feels [A]dry   [E]
-T[C#m]his is my praye[B]r in my h[A]unger and need [E]
-My G[C#m]od is the God [B] who pro-v[A]ides
+{original_key: D}
+{c: Intro}
+[Bm]. .    [A]. .   [G]. .    [D]. .    [Bm]. .    [A]. .   [G]. .    [D]. .
+[Bm]. .    [A]. .   [G]. .    [D]. .    [Bm]. .    [A]. .   [G]. .    [D]. .
 
-{c:Verse 2 - Muted}
-T[C#m]his is my praye[B]r in the f[A]ire   [E]
-In w[C#m]eakness or tri[B]-al or p[A]ain   [E]
-T[C#m]here is a faith [B] proved of m[A]ore worth than [E]gold
-So r[C#m]efine me [E/G#]Lord through the fl[A]ame   [A]
+{c: Verse 1 - Muted}
+T[Bm]his is my praye[A]r in the [G]desert   [D]
+When [Bm]all that's with - in [A] me feels [G]dry   [D]
+T[Bm]his is my praye[A]r in my h[G]unger and need [D]
+My G[Bm]od is the God [A] who pro - v[G]ides
 
-{c:Chorus - Softly}
-I will bring pr[E]aise I will bring pr[B]aise
-No weapon formed [A] against me shall re-m[E]ain
-[B]I will re-joice I will de-cl[C#m]are
-God is my vic[A]tory and [E]He [B]is h[C#m]ere  [B]. [A]. [E]. . . [C#m]. . . [B]. [A]. [E].
+{c: Verse 2 - Muted}
+T[Bm]his is my praye[A]r in the f[G]ire   [D]
+In w[Bm]eakness or tri[A]al or p[G]ain   [D]
+T[Bm]here is a faith [A] proved of m[G]ore worth than [D]gold
+So r[Bm]efine me [D/F#]Lord through the fl[G]ame   [G]
 
-{c:Verse 3 - Muted}
-T[C#m]his is my praye[B]r in the b[A]attle   [E]
-When t[C#m]riumph is still [B] on its w[A]ay   [E]
-[C#m]I am a con[B]qu'ror and c[A]o-heir with [E]Christ
-So f[C#m]irm on His pr[E/G#]omise I'll st[A]and
+{c: Chorus - Softly}
+I will bring pr[D]aise    I will bring pr[A]aise
+No weapon formed [G] against me shall re - m[D]ain
+[A]I will re - joice    I will de - cl[Bm]are
+God is my vic[G]tory and [D]He [A]is h[Bm]ere   [A]. .   [G]. .    [D]. .    [Bm]. .    [A]. .   [G]. .    [D]. .
+
+{c: Verse 3 - Muted}
+T[Bm]his is my praye[A]r in the b[G]attle   [D]
+When t[Bm]riumph is still [A] on its w[G]ay   [D]
+[Bm]I am a con[A]qu'ror and c[G]o - heir with [D]Christ
+So f[Bm]irm on His pr[D/F#]omise I'll st[G]and
 
 {soc}
-I will bring pr[E]aise I will bring pr[B]aise
-No weapon formed [A] against me shall re-m[E]ain
-[B]I will re-joice I will de-cl[C#m]are
-God is my vic[A]tory and [E]He [B]is h[C#m]ere   [C#m]
+I will bring pr[D]aise    I will bring pr[A]aise
+No weapon formed [G] against me shall re - m[D]ain
+[A]I will re - joice    I will de - cl[Bm]are
+God is my vic[G]tory and [D]He [A]is h[Bm]ere   [Bm]. . . .    . . . .
 {eoc}
 
-{c:Bridge - Softly}
-All [E] of my life in ev’ry season You [C#m] are still God
-I have a reason to sing [B]   I [A] have a reason to wor[E]ship   [E]
-{c:Build}
-All [E] of my life in ev’ry season You [C#m] are still God
-I have a reason to sing [B]   I [A] have a reason to wor[E]ship   [E]
-All [E] of my life in ev’ry season You [C#m] are still God
-I have a reason to sing [B]   I [A] have a reason to wor[E]ship   [E]
-All [E] of my life in ev’ry season You [C#m] are still God
-I have a reason to sing [B]   I [A] have a reason to wor[E]ship   [E]
+{c: Bridge - Softly}
+All [D] of my life in ev’ry season You [Bm] are still God
+I have a reason to sing [A]   I [G] have a reason to wor[D]ship   [D]
+{c: Build}
+All [D] of my life in ev’ry season You [Bm] are still God
+I have a reason to sing [A]   I [G] have a reason to wor[D]ship   [D]
+All [D] of my life in ev’ry season You [Bm] are still God
+I have a reason to sing [A]   I [G] have a reason to wor[D]ship   [D]
+All [D] of my life in ev’ry season You [Bm] are still God
+I have a reason to sing [A]   I [G] have a reason to wor[D]ship   [D]
 
-{c:Chorus - Softly}
-I will bring pr[E]aise I will bring pr[B]aise
-No weapon formed [A] against me shall re-m[E]ain
+{c: Chorus - Softly}
+I will bring pr[D]aise    I will bring pr[A]aise
+No weapon formed [G] against me shall re - m[D]ain
 
-{c:Build}
-[B]I will re-joice I will de-cl[C#m]are
-God is my vic[A]tory and [E]He [B]is h[C#m]ere [B]. [A]. [E]. . . [C#m]. . . [B]. [A]. [E].
+{c: Build}
+[A]I will re - joice    I will de - cl[Bm]are
+God is my vic[G]tory and [D]He [A]is h[Bm]ere   [A]. .   [G]. .    [D]. .    [Bm]. .    [A]. .   [G]. .    [D]. .
 
-{c:Verse 4 - Soft Ending}
-T[C#m]his is my praye[B]r in the h[A]arvest
-When f[C#m]avour and p[B]rovidence fl[A]ow
-[C#m]I know I'm fi[B]lled to be e[A]mptied again
-The s[C#m]eed I've re-ce[B]ived I will s[E]ow
+{c: Verse 4 - Soft Ending}
+T[Bm]his is my praye[A]r in the h[G]arvest
+When f[Bm]avour and p[A]rovidence fl[G]ow
+[Bm]I know I'm fi[A]lled to be e[G]mptied again
+The s[Bm]eed I've re - ce[A]ived I will s[D]ow
