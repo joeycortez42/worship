@@ -1,47 +1,54 @@
-{title:Blessed Be The Name}
-{subtitle:Ralph Hudson}
-{original_key:Ab}
-{key:G}
-{tempo:96}
-{time:4/4}
-{as:11.5}
-{c:Intro}
-[G]Blessed be the name [C]blessed be the [G]name
-[G]Blessed be the [D]name of the [G]Lord
+{title: Blessed Be The Name}
+{artist: Ralph Hudson}
+{key: G}
+{duration: 214}
+{tempo: 109}
+{time: 4/4}
+{copyright: Public Domain}
 
-{c:Verse 1}
-All [G]praise to Him who [C]reigns a-[G]bove   In [G]majesty su-[D]preme
-Who [G]gave His [Em]Son for [G]man to [C]die   That [G]He might [D]man re-[G]deem
+{original_key: Ab}
+{c: Intro}
+[G]. . . .    [G]. . . .    [G]. . . .    [D]. . . .    [G]. . . .
 
-{soc}
-[G]Blessed be the name [C]blessed be the [G]name
+{c: Verse 1}
+All [G]praise to Him who [C]reigns a - [G]bove
+In [G]majesty su - [D]preme
+Who [G]gave His [Em]Son for [G]man to [C]die
+That [G]He might [D]man re - [G]deem
+
+{start_of_chorus}
+[G]Blessed be the name    [C]blessed be the [G]name
 [G]Blessed be the name [A]of the [D]Lord
-[G]Blessed be the name [C]blessed be the [G]name
-[G]Blessed be the [D]name of the [G]Lord [G]
-{eoc}
+[G]Blessed be the name    [C]blessed be the [G]name
+[G]Blessed be the [D]name of the [G]Lord    [G]
+{end_of_chorus}
 
-{c:Verse 2}
-His [G]name above all [C]names shall [G]stand   Ex-[G]alted more and [D]more
-At [G]God the [Em]Fa- ther's [G]own right [C]hand   Where [G]angel [D]hosts a-[G]dore
+{c: Verse 2}
+His [G]name above all [C]names shall [G]stand
+Ex - [G]alted more and [D]more
+At [G]God the [Em]Fa - ther's [G]own right [C]hand
+Where [G]angel [D]hosts a - [G]dore
 
-{soc}
-[G]Blessed be the name [C]blessed be the [G]name
+{start_of_chorus}
+[G]Blessed be the name    [C]blessed be the [G]name
 [G]Blessed be the name [A]of the [D]Lord
-[G]Blessed be the name [C]blessed be the [G]name
-[G]Blessed be the [D]name of the [G]Lord [G]
-{eoc}
+[G]Blessed be the name    [C]blessed be the [G]name
+[G]Blessed be the [D]name of the [G]Lord    [G]
+{end_of_chorus}
 
-{c:Verse 3}
-His [G]name shall be the [C]Counse-[G]lor   The [G]mighty Prince of [D]Peace
-Of [G]all earth's [Em]king-doms [G]Conquer-[C]or   Whose [G]reign shall [D]never [G]cease
+{c: Verse 3}
+His [G]name shall be the [C]Counse - [G]lor
+The [G]mighty Prince of [D]Peace
+Of [G]all earth's [Em]king - doms [G]Conquer - [C]or
+Whose [G]reign shall [D]never [G]cease
 
-{soc}
-[G]Blessed be the name [C]blessed be the [G]name
+{start_of_chorus}
+[G]Blessed be the name    [C]blessed be the [G]name
 [G]Blessed be the name [A]of the [D]Lord
-[G]Blessed be the name [C]blessed be the [G]name
-[G]Blessed be the [D]name of the [G]Lord [G]
-{eoc}
+[G]Blessed be the name    [C]blessed be the [G]name
+[G]Blessed be the [D]name of the [G]Lord    [G]
+{end_of_chorus}
 
-{c:Ending with retard}
-[G]Blessed be the name [C]blessed be the [G]name
-[G]Blessed be the [D]name of the [G]Lord [C] [G]
+{c: Ending with retard}
+[G]Blessed be the name    [C]blessed be the [G]name
+[G]Blessed be the [D]name of the [G]Lord  [C]  [G]

@@ -1,49 +1,51 @@
-{title:Holy Is The Lord}
-{subtitle:Chris Tomlin}
-{original_key:A}
-{key:G}
-{tempo:84}
-{time:4/4}
-{as:11.7}
-{c:Intro}
-[G/B] [C2] [Dsus]   [G/B] [C2] [Dsus]
+{title: Holy Is The Lord}
+{artist: Chris Tomlin}
+{key: G}
+{duration: 249}
+{tempo: 84}
+{time: 4/4}
+{copyright: 2003 sixsteps Music}
 
-{c:Verse}
-[G] We stand and [C2]lift up our [Dsus]hands
-For the [G/B]joy of the [C2]Lord is our [Dsus]strength
-[G] We bow [C2]down and [Dsus]wor-ship Him now
-How [G/B]great how [C2]awe - some is [Dsus]He
+{original_key: A}
+{c: Intro}
+[G]. .    [C2]. .    [Dsus]. . . .        [G]. .    [C2]. .    [Dsus]. . . .
 
-{c:Pre-Chorus}
+{c: Verse}
+[G]   We stand and [C2]lift up our [Dsus]hands [D]
+For the [G/B]joy of the [C2]Lord is our [Dsus]strength [D]
+[G]   We bow [C2]down and [Dsus]wor - ship Him [D]now
+How [G/B]great    how [C2]awe - some is [Dsus]He
+
+{c: Pre-Chorus}
 And together we [A7]sing   [C2]
 
-{c:Bass Enters}
-{soc}
-Holy is the [G/B]Lord [C2]God Al - [Dsus]mighty
+{c: Bass Enters}
+{start_of_chorus}
+Holy is the [G/B]Lord    [C2]God Al - [Dsus]mighty
 The [Em7]earth is [C2]filled with His [D]glory
-Holy is the [G/B]Lord [C2]God Al - [Dsus]mighty
+Holy is the [G/B]Lord    [C2]God Al - [Dsus]mighty
 The [Em7]earth is [C2]filled with His [Dsus]glory
 The [Em7]earth is [C2]filled with His [Dsus]glory
-{eoc}
+{end_of_chorus}
 
-{c:Verse}
-[G] We stand and [C2]lift up our [Dsus]hands
-For the [G/B]joy of the [C2]Lord is our [Dsus]strength
-[G] We bow [C2]down and [Dsus]wor-ship Him now
-How [G/B]great how [C2]awe - some is [Dsus]He
+{c: Verse}
+[G]   We stand and [C2]lift up our [Dsus]hands [D]
+For the [G/B]joy of the [C2]Lord is our [Dsus]strength [D]
+[G]   We bow [C2]down and [Dsus]wor - ship Him [D]now
+How [G/B]great    how [C2]awe - some is [Dsus]He
 
-{c:Pre-Chorus}
-And together we [A]sing   [C]   Everyone [A] sing   [C]
+{c: Pre-Chorus}
+And together we [A]sing   [C2]   Everyone [A] sing   [C2]
 
-{soc}
-Holy is the [G/B]Lord [C2]God Al - [Dsus]mighty
+{start_of_chorus}
+Holy is the [G/B]Lord    [C2]God Al - [Dsus]mighty
 The [Em7]earth is [C2]filled with His [D]glory
-Holy is the [G/B]Lord [C2]God Al - [Dsus]mighty
+Holy is the [G/B]Lord    [C2]God Al - [Dsus]mighty
 The [Em7]earth is [C2]filled with His [Dsus]glory
 The [Em7]earth is [C2]filled with His [Dsus]glory
-{eoc}
+{end_of_chorus}
 
-{c:Bridge}
+{sob}
 It is [G]rising up [D/F#]all around
 It's the [F2]anthem of the [C]Lord's renown
 It's [G]rising up [D/F#]all around
@@ -52,20 +54,20 @@ It's the [F2]anthem of the [C]Lord's renown
 It is [G]rising up [D/F#]all around
 It's the [F2]anthem of the [C]Lord's renown
 It's [G]rising up [D/F#]all around
-It's the [F2]anthem of the [C]Lord's renown
+It's the [F2]anthem of the [C]Lord's renown    [C]. . . .
+{eob}
 
-{c:Pre-Chorus - Only Acoustic}
+{c: Pre-Chorus - Softly}
 And together we [A7]sing   [C2]   Everyone [A7] sing   [C2]
 
-{c:Full Band}
-{soc}
-Holy is the [G/B]Lord [C2]God Al - [Dsus]mighty
+{c: Full Band}
+{start_of_chorus}
+Holy is the [G/B]Lord    [C2]God Al - [Dsus]mighty
 The [Em7]earth is [C2]filled with His [D]glory
-Holy is the [G/B]Lord [C2]God Al - [Dsus]mighty
+Holy is the [G/B]Lord    [C2]God Al - [Dsus]mighty
 The [Em7]earth is [C2]filled with His [Dsus]glory
 The [Em7]earth is [C2]filled with His [Dsus]glory
-{eoc}
-The [Em7]earth is [C2]filled with His [Dsus]glory
+{end_of_chorus}
 
-{c:Ending}
-[G]
+{c: Ending}
+The [Em7]earth is [C2]filled with His [Dsus]glory    [G]

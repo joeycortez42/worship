@@ -1,55 +1,57 @@
-{title:Victory In Jesus}
-{subtitle:Eugene Bartlett}
-{original_key:G}
-{key:D}
-{tempo:144}
-{time:4/4}
-{as:13.0}
-{c:Intro-Light Guitar Only}
-O v[D]ictory in [D]Jesus   My S[G]av-ior for-[D]ev-er
-He [D]sought me and bo[D]ught me   With [E]His redeeming bl[A]ood
-He [D]loved me ere [D]I knew Him   And [G]all my love is [D]due Him
-He [D]plunged me to [D]victory   Be[G]neath the c[A]leansing fl[D]ood
+{title: Victory In Jesus}
+{artist: Eugene Bartlett}
+{key: D}
+{duration: 190}
+{tempo: 144}
+{time: 4/4}
+{copyright: 1939 Mrs. E.M. Bartlett.}
 
-{c:Verse 1}
-[D]I heard an old old [D]sto-ry   How a S[G]av-ior came from g[D]lo-ry
-How [D]He gave His life on [D]Cal-va-ry   To s[E]ave a wretch like [A]me
-I [D]heard about His [D]groan-ing   Of His p[G]re-cious blood's a-[D]ton-ing
-Then [D]I repent-ed of my [D]sins   And [G]won the [A]vic-to-[D]ry
+{original_key: G}
+{c: Intro-Light Guitar Only}
+O v[F]ictory in [F]Jesus    My S[Bb]av - ior for - [F]ev - er
+He [F]sought me and bo[F]ught me    With [G]His redeeming bl[C]ood
+He [F]loved me ere [F]I knew Him    And [Bb]all my love is [F]due Him
+He [F]plunged me to [F]victory    Be[Bb]neath the c[C]leansing fl[F]ood
 
-{soc}
-O v[D]ictory in [D]Jesus   My S[G]av-ior for-[D]ev-er
-He [D]sought me and bo[D]ught me   With [E]His redeeming bl[A]ood
-He [D]loved me ere [D]I knew Him   And [G]all my love is [D]due Him
-He [D]plunged me to [D]victory   Be[G]neath the c[A]leansing fl[D]ood
-{eoc}
+{c: Verse 1}
+[F]I heard an old old [F]sto - ry    How a S[Bb]avior came from g[F]lo - ry
+How [F]He gave His life on [F]Cal - va - ry    To s[G]ave a wretch like [C]me
+I [F]heard about His [F]groan - ing    Of His p[Bb]re - cious blood's a - [F]ton - ing
+Then [F]I repent - ed of my [F]sins and [Bb]won the [C]vic - to - [F]ry
 
-{c:Verse 2}
-I [D]heard about His [D]heal-ing   Of His c[G]leans-ing pow'r re-v[D]eal-ing
-How [D]He made the lame to [D]walk a-gain   And ca[E]used the blind to s[A]ee
-And [D]then I cried dear [D]Je-sus   Come and h[G]eal my bro-ken s[D]pir-it
-And [D]somehow Je-sus [D]came and brought   To [G]me the [A]vic-to-[D]ry
+{start_of_chorus}
+O v[F]ictory in [F]Jesus    My S[Bb]av - ior for - [F]ev - er
+He [F]sought me and bo[F]ught me    With [G]His redeeming bl[C]ood
+He [F]loved me ere [F]I knew Him    And [Bb]all my love is [F]due Him
+He [F]plunged me to [F]victory    Be[Bb]neath the c[C]leansing fl[F]ood
+{end_of_chorus}
 
-{soc}
-O v[D]ictory in [D]Jesus   My S[G]av-ior for-[D]ev-er
-He [D]sought me and bo[D]ught me   With [E]His redeeming bl[A]ood
-He [D]loved me ere [D]I knew Him   And [G]all my love is [D]due Him
-He [D]plunged me to [D]victory   Be[G]neath the c[A]leansing fl[D]ood
-{eoc}
+{c: Verse 2}
+I [F]heard about His [F]heal - ing    Of His c[Bb]leans-ing pow'r re - v[F]eal - ing
+How [F]He made the lame to [F]walk a - gain    And ca[G]used the blind to s[C]ee
+And [F]then I cried dear [F]Je - sus    Come and h[Bb]eal my bro - ken s[F]pir - it
+And [F]somehow Je - sus [F]came and brought to [Bb]me the [C]vic - to - [F]ry
 
-{c:Verse 3}
-I [D]heard about a [D]man-sion   He has b[G]uilt for me in g[D]lo-ry
-And I [D]heard about the [D]streets of gold   Be-y[E]ond the crys-tal s[A]ea
-A[D]bout the angels [D]sing-ing   And the o[G]ld redemp-tion s[D]to-ry
-And [D]some sweet day I'll [D]sing up there   The s[G]ong of [A]vic-to-[D]ry
+{start_of_chorus}
+O v[F]ictory in [F]Jesus    My S[Bb]av - ior for - [F]ev - er
+He [F]sought me and bo[F]ught me    With [G]His redeeming bl[C]ood
+He [F]loved me ere [F]I knew Him    And [Bb]all my love is [F]due Him
+He [F]plunged me to [F]victory    Be[Bb]neath the c[C]leansing fl[F]ood
+{end_of_chorus}
 
-{c:A cappella}
-{soc}
-O v[D]ictory in [D]Jesus   My S[G]av-ior for-[D]ev-er
-He [D]sought me and bo[D]ught me   With [E]His redeeming bl[A]ood
-He [D]loved me ere [D]I knew Him   And [G]all my love is [D]due Him
-He [D]plunged me to [D]victory   Be[G]neath the c[A]leansing fl[D]ood
-{eoc}
+{c: Verse 3}
+I [F]heard about a [F]man - sion    He has b[Bb]uilt for me in g[F]lo - ry
+And I [F]heard about the [F]streets of gold    Be - y[G]ond the crys - tal s[C]ea
+A[F]bout the angels [F]sing - ing    And the o[Bb]ld redemp - tion s[F]to - ry
+And [F]some sweet day I'll [F]sing up there the s[Bb]ong of [C]vic - to - [F]ry
 
-{c:Ending - Retard}
-He [D]plunged me to [D]victory   Be[G]neath the c[A]leansing fl[D]ood
+{c: A cappella}
+{start_of_chorus}
+O v[F]ictory in [F]Jesus    My S[Bb]av - ior for - [F]ev - er
+He [F]sought me and bo[F]ught me    With [G]His redeeming bl[C]ood
+He [F]loved me ere [F]I knew Him    And [Bb]all my love is [F]due Him
+He [F]plunged me to [F]victory    Be[Bb]neath the c[C]leansing fl[F]ood
+{end_of_chorus}
+
+{c: Ending - Retard}
+He [F]plunged me to [F]victory    Be[Bb]neath the c[C]leansing fl[F]ood

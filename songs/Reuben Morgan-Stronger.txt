@@ -1,0 +1,81 @@
+{title: Stronger}
+{artist: Reuben Morgan}
+{key: C}
+{duration: 276}
+{tempo: 70}
+{time: 3/4}
+{copyright: 2007 Hillsong Music Publishing Australia}
+
+{original_key: C}
+{c: Intro}
+[F]. .    [G].    [C]. . .    [C]. . .    [F]. .    [G].    [C]. . .    [C]. . .
+[F]. .    [G].    [C]. . .    [C]. . .    [F]. .    [G].    [C]. . .    [C]. . .
+
+{c: Verse 1}
+There is [F]Love that [G]came for [C]  us
+Humbled [F]to a [G]sinner's [C]  cross
+You broke my [F]shame and [G]sinful  [Am]-  ness
+You rose a - [F]gain vic - [G]tori - [F]ous   [G].    [C]. . .    [C]. . .
+[F]. .    [G].    [C]. . .    [C]. . .
+
+{c: Verse 2}
+Faithful - [F]ness none [G]can de [C]- ny
+Through the [F]storm and [G]through the [C]  fire
+There is [F]truth that [G]sets me [Am]  free
+Jesus [F]Christ who [G]lives in [C]me   [C]. . .
+
+{start_of_chorus}
+You are [C]stronger    You are [G]stronger
+Sin is [Am]broken    You have [F]saved me
+It is [C]written    Christ is [G]risen
+Jesus [F]You    are [G]Lord of [F]  all   [G].    [C]. . .    [C]. . .
+[F]. .    [G].    [C]. . .    [C]. . .
+{end_of_chorus}
+
+{c: Verse 3}
+No be - [F]ginning [G]and no [C]  end
+You're my [F]hope and [G]my de[C] - fence
+You came to [F]seek and [G]save the [Am]  lost
+You paid it [F]all up - [G]on the [C]cross   [C]. . .
+
+{start_of_chorus}
+You are [C]stronger    You are [G]stronger
+Sin is [Am]broken    You have [F]saved me
+It is [C]written    Christ is [G]risen
+Jesus [F]You    are [G]Lord of [C]  all  [F]. . .    [F]. . .
+{end_of_chorus}
+
+[F]. .    [G].    [C]. . .    [C]. . .
+[F]. .    [G].    [C]. . .    [C]. . .    [G]. . .
+
+{sob}
+So let Your [F]Name be lifted higher   [Am]
+Be lifted [G]hig[C]her    be lifted h[C]igh - [G]er
+
+So let Your [F]Name be lifted higher   [Am]
+Be lifted [G]hig[C]her    be lifted h[C]igh - [G]er
+
+{c: Sing Higher}
+So let Your [F]Name be lifted higher   [Am]
+Be lifted [G]hig[C]her    be lifted h[C]igh - [G]er
+
+So let Your [F]Name be lifted higher   [Am]
+Be lifted [G]hig[C]her    be lifted hi[C]gh - [G]er
+{eob}
+
+{start_of_chorus}
+You are [C]stronger    You are [G]stronger
+Sin is [Am]broken    You have [F]saved me
+It is [C]written    Christ is [G]risen
+Jesus [F]You    are [G]Lord of [C]  all   [C]. . .
+{end_of_chorus}
+
+{c: Ending}
+You are [C]stronger    You are [G]stronger
+Sin is [Am]broken    You have [F]saved me
+It is [C]written    Christ is [G]risen
+{c: Retard}
+Jesus [F]You    are [G]Lord of [C]all
+Jesus [F]You    are [G]Lord of [C]all
+Jesus [F]You    are [G]Lord of [C]all
+Jesus [F]You    are [G]Lord of [C]all

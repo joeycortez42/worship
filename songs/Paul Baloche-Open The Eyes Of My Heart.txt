@@ -1,65 +1,67 @@
-{title:Open The Eyes Of My Heart}
-{subtitle:Paul Baloche}
-{original_key:E}
-{key:D}
-{tempo:116}
-{time:4/4}
-{as:12.0}
-{c:Intro}
+{title: Open The Eyes Of My Heart}
+{artist: Paul Baloche}
+{key: D}
+{duration: 221}
+{tempo: 100}
+{time: 4/4}
+{copyright: 1997 Integrity's Hosanna! Music}
+
+{original_key: E}
+{c: Intro}
 [D]
 
-{soc}
-[D]Open the eyes of my heart Lord   [A]Open the eyes of my heart
-I want to [G]see You   I want to [D]see You
+{start_of_chorus}
+[D]Open the eyes of my heart Lord    [A]Open the eyes of my heart
+I want to [G]see You    I want to [D]see You
 
-[D]Open the eyes of my heart Lord   [A]Open the eyes of my heart
-I want to [G]see You   I want to [D]see You
-{eoc}
+[D]Open the eyes of my heart Lord    [A]Open the eyes of my heart
+I want to [G]see You    I want to [D]see You
+{end_of_chorus}
 
-{c:Verse}
-To see You h[A]igh and lifted [Bm]up   [G]Shining in the light of Your [A]glory
-[A]Pour out Your power and l[Bm]ove   As we sing [G]holy holy [A]holy
+{c: Verse}
+To see You h[A]igh and lifted [Bm]up    [G]Shining in the light of Your [A]glory
+[A]Pour out Your power and l[Bm]ove    As we sing [G]holy holy [A]holy
 
-{soc}
-[D]Open the eyes of my heart Lord   [A]Open the eyes of my heart
-I want to [G]see You   I want to [D]see You
+{start_of_chorus}
+[D]Open the eyes of my heart Lord    [A]Open the eyes of my heart
+I want to [G]see You    I want to [D]see You
 
-[D]Open the eyes of my heart Lord   [A]Open the eyes of my heart
-I want to [G]see You   I want to [D]see You
-{eoc}
+[D]Open the eyes of my heart Lord    [A]Open the eyes of my heart
+I want to [G]see You    I want to [D]see You
+{end_of_chorus}
 
-{c:Verse}
-To see You h[A]igh and lifted [Bm]up   [G]Shining in the light of Your [A]glory
-[A]Pour out Your power and l[Bm]ove   As we sing [G]holy holy [A]holy
+{c: Verse}
+To see You h[A]igh and lifted [Bm]up    [G]Shining in the light of Your [A]glory
+[A]Pour out Your power and l[Bm]ove    As we sing [G]holy holy [A]holy
 
-{c:Verse}
-H[A]igh and lifted [Bm]up   [G]Shining in the light of Your [A]glory
-[A]Pour out Your power and l[Bm]ove   As we sing [G]holy holy [A]holy   [A]
+{c: Verse}
+H[A]igh and lifted [Bm]up    [G]Shining in the light of Your [A]glory
+[A]Pour out Your power and l[Bm]ove    As we sing [G]holy holy [A]holy   [A]
 
 {sob}
-H[D]oly holy holy   H[A]oly holy holy   H[G]oly holy holy
+H[D]oly holy holy    H[A]oly holy holy    H[G]oly holy holy
 I want to [D]see You   [D]
 
-H[D]oly holy holy   H[A]oly holy holy   H[G]oly holy holy
+H[D]oly holy hol    H[A]oly holy holy    H[G]oly holy holy
 I want to [D]see You   [D]
 {eob}
 
-{soc}
-[D]Open the eyes of my heart Lord   [A]Open the eyes of my heart
-I want to [G]see You   I want to [D]see You
-{eoc}
+{start_of_chorus}
+[D]Open the eyes of my heart Lord    [A]Open the eyes of my heart
+I want to [G]see You    I want to [D]see You
+{end_of_chorus}
 
-{c:Verse}
-To see You h[A]igh and lifted [Bm]up   [G]Shining in the light of Your [A]glory
-[A]Pour out Your power and l[Bm]ove   As we sing [G]holy holy [A]holy
+{c: Verse}
+To see You h[A]igh and lifted [Bm]up    [G]Shining in the light of Your [A]glory
+[A]Pour out Your power and l[Bm]ove    As we sing [G]holy holy [A]holy
 
-{c:Verse}
-H[A]igh and lifted [Bm]up   [G]Shining in the light of Your [A]glory
-[A]Pour out Your power and l[Bm]ove   As we sing [G]holy holy [A]holy   [A]
+{c: Verse}
+H[A]igh and lifted [Bm]up    [G]Shining in the light of Your [A]glory
+[A]Pour out Your power and l[Bm]ove    As we sing [G]holy holy [A]holy   [A]
 
-{c:Ending - Softly}
-H[D]oly holy holy   H[A]oly holy holy   H[G]oly holy holy
+{c: Ending - Softly}
+H[D]oly holy holy    H[A]oly holy holy    H[G]oly holy holy
 I want to [D]see You   [D]
 
-H[D]oly holy holy   H[A]oly holy holy   H[G]oly holy holy
+H[D]oly holy holy    H[A]oly holy holy    H[G]oly holy holy
 I want to [D]see You   [D]

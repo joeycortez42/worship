@@ -1,50 +1,56 @@
-{title:Jason Ingram}
-{subtitle:Where I Belong}
+{title: Where I Belong}
+{artist: Jason Ingram}
+{key: A}
+{duration: 227}
+{tempo: 90}
+{time: 4/4}
+{copyright: 2010 Be Essential Songs}
+
 {original_key:B}
-{key:C}
-{tempo:90}
-{time:4/4}
-{as:10.4}
 {c:Intro}
-[F#m]. . . .  [D]. . . .  [F#m]. . . .  [D]. . . .
+[F#m]. . . .     [D]. . . .     [F#m]. . . .     [D]. . . .
 
 {c:Verse 1}
-[F#m]  Sometimes it feels like I'm w[D]atching from the outside
-[F#m]  Sometimes it feels like I'm b[D]reathing but am I alive
-[F#m]  I won't keep searching for a[D]nswers that aren't here to[Esus] find [E]
+[F#m]     Sometimes it feels like I'm [D]watching from the outside
+[F#m]     Sometimes it feels like I'm [D]breathing but am I alive
+[F#m]     I won't keep searching for [D]answers that aren't here to[Esus] find [E]
 
-[F#m]  Sometimes it feels like I'm w[D]atching from the outside
-[F#m]  Sometimes it feels like I'm b[D]reathing but am I alive
-[F#m]  I won't keep searching for a[D]nswers that aren't here to[Esus] find [E]
+[F#m]     Sometimes it feels like I'm [D]watching from the outside
+[F#m]     Sometimes it feels like I'm [D]breathing but am I alive
+[F#m]     I won't keep searching for [D]answers that aren't here to[Esus] find [E]
 
 {soc}
-A[A]ll I know is [E]I'm not home yet   [F#m]This is not where [D]I belong
-T[A]ake this world and g[E]ive me Jesus   [F#m]This is not where [D]I belong
+[A]All I know is [E]I'm not home yet     [F#m]This is not where [D]I belong
+[A]Take this world and [E]give me Jesus     [F#m]This is not where [D]I belong
 {eoc}
 
-[F#m]. . . .  [D]. . . .  [F#m]. . . .  [D]. . . .
+[F#m]. . . .     [D]. . . .     [F#m]. . . .     [D]. . . .
 
 {c:Verse 2}
-[F#m] So when the walls come [D] falling down on me
-[F#m] And when I'm lost in the c[D]urrent of a raging sea
-[F#m] I have this blessed as-s[D]urance holding[Esus] me [E]
+[F#m]     So when the walls come [D]falling down on me
+[F#m]     And when I'm lost in the [D]current of a raging sea
+[F#m]     I have this blessed as - [D]surance holding[Esus] me [E]
 
 {soc}
-A[A]ll I know is [E]I'm not home yet   [F#m]This is not where [D]I belong
-T[A]ake this world and g[E]ive me Jesus   [F#m]This is not where [D]I belong
+[A]All I know is [E]I'm not home yet     [F#m]This is not where [D]I belong
+[A]Take this world and [E]give me Jesus     [F#m]This is not where [D]I belong
 {eoc}
 
 {c:Down strums}
-When the e[G]arth sh[D]akes I wanna be fo[A]und in [E]You
-When the li[G]ghts fa[D]de I wanna be fo[A]und in [E]You
+{sob}
+When the [G]ear - th   [D]shakes    I wanna be fo[A]und in [E]You
+When the [G]li - ghts   [D]fade    I wanna be fo[A]und in [E]You
+{eob}
 
 {c:A cappella}
-A[A]ll I know is [E]I'm not home yet   [F#m]This is not where [D]I belong
-T[A]ake this world and g[E]ive me Jesus   [F#m]This is not where [D]I belong
+[A]All I know is [E]I'm not home yet     [F#m]This is not where [D]I belong
+[A]Take this world and [E]give me Jesus     [F#m]This is not where [D]I belong
 
 {c:Full band}
-A[A]ll I know is [E]I'm not home yet   [F#m]This is not where [D]I belong
-T[A]ake this world and g[E]ive me Jesus   [F#m]This is not where [D]I belong
+[A]All I know is [E]I'm not home yet     [F#m]This is not where [D]I belong
+[A]Take this world and [E]give me Jesus     [F#m]This is not where [D]I belong
 
 {c:Ending}
-[A]. . . .  [E]. . . .  [F#m]. . . .  [D]. . . .  [A].
+[A]. . . .     [E]   Where I be - [F#m]long     [D] 
+Where I be - [A]long     [E]   where I be - [F#m]long     [D] 
+Where I be - [A]long
