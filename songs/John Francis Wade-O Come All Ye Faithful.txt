@@ -1,39 +1,41 @@
-{title:O Come All Ye Faithful}
-{subtitle:John Francis Wade}
-{original_key:G}
-{key:G}
-{tempo:110}
-{time:4/4}
-{as:10}
-{c:Intro}
-[G]O c[C]ome let [A/C#]us a-d[D]ore [G/B]Him [C]    [G/D]Christ [D] the L[G]ord
+{title: O Come All Ye Faithful}
+{artist: John Francis Wade}
+{key: G}
+{duration: 217}
+{tempo: 110}
+{time: 4/4}
+{copyright: Public Domain}
 
-{c:Verse 1}
-[G]O come all ye fa[D]ith-ful   J[G]oyful [C]and tri-[G/D]um-ph[D]ant
-O [Em]come [A]ye  O [D]come ye [G]to [D/A]Beth [A]- le-[D]hem
-[G]Come and be-[D/A]hold [G/B]Him   [C]Born the [A/C#]King of [D]angels
+{original_key: G}
+{c: Intro}
+[G]O c[C]ome let [A]us a - d[D]ore [G]Him [C]    [G]Christ [D] the L[G]ord
 
-{soc}
-O c[G]ome let us a-dore Him   O come let us a - dore H[D]im
-O c[C]ome let [A/C#]us a-d[D]ore [G/B]Him [C]    [G/D]Christ [D] the L[G]ord
-{eoc}
+{c: Verse 1}
+[G]O come all ye fa[D]ith - ful     J[G]oyful [C]and tri - [G]um - ph[D]ant
+O [Em]come [A]ye  O [D]come ye [G]to [D]Beth [A] -  le - [D]hem
+[G]Come and be - [D]hold [G]Him      [C]Born the [A]King of [D]angels
 
-{c:Verse 2}
-[G] Sing choirs of [D]an-gels   [G]Sing in [C]exul-[G/D]ta-[D]tion
-O [Em]sing [A]all ye [D]bright   Hosts [G]of [D/A]heav'n [A] a-b[D]ove
-[G]Glo-ry to [D/A]God [G/B]     [C]Glo-ry [A/C#]in the [D]highest
+{start_of_chorus}
+O c[G]ome let us a - dore Him       O come let us a  -  dore H[D]im
+O c[C]ome let [A]us a - d[D]ore [G]Him [C]      [G]Christ [D] the L[G]ord     [G]
+{end_of_chorus}
 
-{soc}
-O c[G]ome let us a-dore Him   O come let us a - dore H[D]im
-O c[C]ome let [A/C#]us a-d[D]ore [G/B]Him [C]    [G/D]Christ [D] the L[G]ord
-{eoc}
+{c: Verse 2}
+[G] Sing choirs of [D]an - gels      [G]Sing in [C]exul - [G]ta - [D]tion
+O [Em]sing [A]all ye [D]bright Hosts [G]of [D]heav'n [A] a - b[D]ove
+[G]Glo - ry to [D]God [G]      [C]Glo - ry [A]in the [D]highest
 
-{c:Verse 3}
-[G] Yea Lord we [D]greet Thee   [G]Born this [C]happy [G/D]morn-[D]ing
-[Em] Je-[A]sus to [D]Thee be [G]all [D/A]glo [A]- ry [D]giv'n
-[G]Word of the [D/A]Fa-t[G/B]her   [C]Now in [A/C#]flesh ap-[D]pearing
+{start_of_chorus}
+O c[G]ome let us a - dore Him       O come let us a  -  dore H[D]im
+O c[C]ome let [A]us a - d[D]ore [G]Him [C]      [G]Christ [D] the L[G]ord     [G]
+{end_of_chorus}
 
-{soc}
-O c[G]ome let us a-dore Him   O come let us a - dore H[D]im
-O c[C]ome let [A/C#]us a-d[D]ore [G/B]Him [C]    [G/D]Christ [D] the L[G]ord
-{eoc}
+{c: Verse 3}
+[G] Yea Lord we [D]greet Thee      [G]Born this [C]happy [G]morn - [D]ing
+[Em] Je - [A]sus to [D]Thee be [G]all [D]glo [A] -  ry [D]giv'n
+[G]Word of the [D]Fa - t[G]her      [C]Now in [A]flesh ap - [D]pearing
+
+{start_of_chorus}
+O c[G]ome let us a - dore Him       O come let us a  -  dore H[D]im
+O c[C]ome let [A]us a - d[D]ore [G]Him [C]      [G]Christ [D] the L[G]ord
+{end_of_chorus}

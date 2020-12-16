@@ -1,48 +1,50 @@
-{title:You Are My King (Amazing Love)}
-{subtitle:Billy Foote}
-{original_key:E}
-{key:G}
-{tempo:70}
-{time:4/4}
-{as:9.0}
-{c:Intro}
+{title: You Are My King (Amazing Love)}
+{artist: Billy Foote}
+{key: D}
+{duration: 221}
+{tempo: 70}
+{time: 4/4}
+{copyright: 1996 worshiptogether.com songs}
+
+{original_key: E}
+{c: Intro}
 [D] [G] [D] [A]
 [D] [G] [D] [A]
 
-{c:Verse}
-[D/F#]  I'm for - g[G]iven be - c[Asus]ause You were fo[A]r - saken
-[D/F#]  I'm ac - ce[G]pted [Asus]You were con - demne[A]d
-[D/F#]  I'm a - liv[G]e and well Your s[Asus]pirit is with - in[A] me
+{c: Verse}
+[D/F#]      I'm for - g[G]iven be - c[Asus]ause You were fo[A]r - saken
+[D/F#]      I'm ac - ce[G]pted [Asus]You were con - demne[A]d
+[D/F#]      I'm a - liv[G]e and well Your s[Asus]pirit is with - in[A] me
 Be - c[G]ause You die[A]d and rose a - gain[D]
 
-{c:Verse}
-[D/F#]  I'm for - g[G]iven be - c[Asus]ause You were fo[A]r - saken
-[D/F#]  I'm ac - ce[G]pted [Asus]You were con - demne[A]d
-[D/F#]  I'm a - liv[G]e and well Your s[Asus]pirit is with - in[A] me
+{c: Verse}
+[D/F#]      I'm for - g[G]iven be - c[Asus]ause You were fo[A]r - saken
+[D/F#]      I'm ac - ce[G]pted [Asus]You were con - demne[A]d
+[D/F#]      I'm a - liv[G]e and well Your s[Asus]pirit is with - in[A] me
 Be - c[G]ause You die[A]d and rose a - gain[D]
 
-{soc}
-[D] Amazing love   how[G] can it be
-[D] That You my King would die for [Asus]me  [A]
-[D] Amazing love   I[G] know it's true
-[D] It's my joy to honor [Asus]You [A]
+{start_of_chorus}
+[D]    Amazing love   how[G] can it be
+[D]    That You my King would die for [Asus]me  [A]
+[D]    Amazing love   I[G] know it's true
+[D]    It's my joy to honor [Asus]You [A]
 In all I[G] do   [A] I honor Yo[D]u
-{eoc}
+{end_of_chorus}
 
-{c:Verse}
-[D/F#]  I'm for - g[G]iven be - c[Asus]ause You were fo[A]r - saken
-[D/F#]  I'm ac - ce[G]pted [Asus]You were con - demne[A]d
-[D/F#]  I'm a - liv[G]e and well Your s[Asus]pirit is with - in[A] me
+{c: Verse}
+[D/F#]      I'm for - g[G]iven be - c[Asus]ause You were fo[A]r - saken
+[D/F#]      I'm ac - ce[G]pted [Asus]You were con - demne[A]d
+[D/F#]      I'm a - liv[G]e and well Your s[Asus]pirit is with - in[A] me
 Be - c[G]ause You die[A]d and rose a - gain[D]
 
-{soc}
-[D] Amazing love   how[G] can it be
-[D] That You my King would die for [Asus]me  [A]
-[D] Amazing love   I[G] know it's true
-[D] It's my joy to honor [Asus]You [A]
+{start_of_chorus}
+[D]    Amazing love   how[G] can it be
+[D]    That You my King would die for [Asus]me  [A]
+[D]    Amazing love   I[G] know it's true
+[D]    It's my joy to honor [Asus]You [A]
 In all I[G] do   [A] I honor Yo[D]u
 In all I[G] do   [A] I honor Yo[D]u
-{eoc}
+{end_of_chorus}
 
 {sob}
 You are m[D]y King
@@ -51,13 +53,13 @@ Jesus You [D]are my King
 Jesus You [D]are my King
 {eob}
 
-{soc}
-[D] Amazing love   how[G] can it be
-[D] That You my King would die for [Asus]me  [A]
-[D] Amazing love   I[G] know it's true
-[D] It's my joy to honor [Asus]You [A]
-{eoc}
+{start_of_chorus}
+[D]    Amazing love   how[G] can it be
+[D]    That You my King would die for [Asus]me  [A]
+[D]    Amazing love   I[G] know it's true
+[D]    It's my joy to honor [Asus]You [A]
+{end_of_chorus}
 
-{c:Ending}
+{c: Ending}
 [A]In all I[G]   do[A] I honor You[D]
 In all I[G]   do[A] Let me honor You[D]

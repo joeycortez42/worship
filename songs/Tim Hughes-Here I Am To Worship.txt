@@ -1,12 +1,14 @@
-{title:Here I Am To Worship}
-{subtitle:Tim Hughes}
-{original_key:E}
-{key:D}
-{tempo:75}
-{time:4/4}
-{as:11.0}
+{title: Here I Am To Worship}
+{artist: Tim Hughes}
+{key: D}
+{duration: 269}
+{tempo: 72}
+{time: 4/4}
+{copyright: 2000 Thankyou Music}
 
-{c:Verse 1}
+{original_key: E}
+
+{c: Verse 1}
 [D]Light of the [Asus]world
 You stepped [Em]down into [G]darkness
 [D]Opened my [Asus]eyes let me [G]see
@@ -14,16 +16,16 @@ You stepped [Em]down into [G]darkness
 This [Em]heart adore [G]You
 [D]Hope of a [Asus]life spent [G]with You
 
-{soc}
+{start_of_chorus}
 Here I am to [D]worship
 Here I am to [A/C#]bow down
-Here I am to [D]say that You're my [G]God
+Here I am to [D/F#]say   that You're my [G]God
 And You're altogether [D]lovely
 Altogether [A/C#]worthy
-Altogether [D]wonderful to [G]me
-{eoc}
+Altogether [D/F#]wonderful to [G]me
+{end_of_chorus}
 
-{c:Verse 2}
+{c: Verse 2}
 [D]King of all [Asus]days
 Oh so [Em]highly [G]exalted
 [D]Glorious in [Asus]heaven a [G]- bove
@@ -31,18 +33,19 @@ Oh so [Em]highly [G]exalted
 To the [Em]earth You crea[G]ted
 [D]All for love's [Asus]sake became [G]poor
 
-{soc}
+{start_of_chorus}
 Here I am to [D]worship
 Here I am to [A/C#]bow down
-Here I am to [D]say that You're my [G]God
+Here I am to [D/F#]say   that You're my [G]God
 And You're altogether [D]lovely
 Altogether [A/C#]worthy
-Altogether [D]wonderful to [G]me
-{eoc}
+Altogether [D/F#]wonderful to [G]me
+{end_of_chorus}
 
 {sob}
 And I'll [A/C#]never [D]know how [G]much it cost
 To [A/C#]see my [D]sin up - [G]on that cross
+
 And I'll [A/C#]never [D]know how [G]much it cost
 To [A/C#]see my [D]sin up - [G]on that cross
 
@@ -53,23 +56,23 @@ And I'll [A/C#]never [D]know how [G]much it cost
 To [A/C#]see my [D]sin up - [G]on that cross
 {eob}
 
-{soc}
+{start_of_chorus}
 Here I am to [D]worship
 Here I am to [A/C#]bow down
-Here I am to [D]say that You're my [G]God
+Here I am to [D/F#]say   that You're my [G]God
 And You're altogether [D]lovely
 Altogether [A/C#]worthy
-Altogether [D]wonderful to [G]me
+Altogether [D/F#]wonderful to [G]me
 
 Here I am to [D]worship
 Here I am to [A/C#]bow down
-Here I am to [D]say that You're my [G]God
+Here I am to [D/F#]say   that You're my [G]God
 And You're altogether [D]lovely
 Altogether [A/C#]worthy
-Altogether [D]wonderful to [G]me
-{eoc}
+Altogether [D/F#]wonderful to [G]me
+{end_of_chorus}
 
-{c:Ending}
+{c: Ending}
 [D]Light of the [Asus]world
 You stepped [Em]down into [G]darkness
 [D]Opened my [Asus]eyes let me [G]see

@@ -1,68 +1,72 @@
-{title:Only King Forever}
-{subtitle:Chris Brown}
-{original_key:C}
-{key:Bb}
-{tempo:140}
-{time:4/4}
-{as:11.5}
-{c:Intro}
-[Bb]. . [Bb]. . [Bb]. . [Bb]. . [Gm]. . [Eb]. . [Bb]. .
-[Bb]. . [Bb]. . [Bb]. . [Bb]. . [Gm]. . [Eb]. . [Bb]. .
+{title: Only King Forever}
+{artist: Chris Brown}
+{key: Bb}
+{duration: 251}
+{tempo: 140}
+{time: 4/4}
+{copyright: 2013 Be Essential Songs}
 
-{c:Verse 1}
-[Bb]Our God and firm foundation   [Bb]Our Rock the only solid gr[Gm]ound
+{original_key: C}
+{c: Intro}
+[Bb]. . . .    [Bb]. . . .    [Bb]. . . .    [Bb]. . . .    [Gm]. . . .    [Eb]. . . .    [Bb]. . . .    [Bb]. . . .
+[Bb]. . . .    [Bb]. . . .    [Bb]. . . .    [Bb]. . . .    [Gm]. . . .    [Eb]. . . .    [Bb]. . . .    [Bb]. . . .
+
+{c: Verse 1}
+[Bb]Our God and firm foundation     [Bb]Our Rock the only solid gr[Gm]ound
 The na[Eb]tions rise and f[Bb]all
+[Bb]Kingdoms once strong now shaken
+[Bb]But we trust forever in Your n[Gm]ame
+The n[Eb]ame of Jes[Bb]us     [Gm]         We trust in the n[Eb]ame of Je - sus
 
-[Bb]Kingdoms once strong now shaken   [Bb]But we trust forever in Your n[Gm]ame
-The n[Eb]ame of Jes[Bb]us   [Gm]  We trust in the n[Eb]ame of Je - sus
+{start_of_chorus}
+[Bb]You are the only King forev - er     [Eb]Almighty God we lift You higher
+[Bb]You are the only King forever     [Eb]Forevermore You are victorious
 
-{soc}
-[Bb]You are the only King forev - er   [Eb]Almighty God we lift You higher
-[Bb]You are the only King forever   [Eb]Forevermore You are victorious
+[Bb]You are the only King forev - er     [Eb]Almighty God we lift You higher
+[Bb]You are the only King forever     [Eb]Forevermore You are victori[Bb]ous
+{end_of_chorus}
 
-[Bb]You are the only King forever   [Eb]Almighty God we lift You higher
-[Bb]You are the only King forever   [Eb]Forevermore You are victori[Bb]ous
-{eoc}
+[Bb]. . . .    [Bb]. . . .    [Bb]. . . .    [Bb]. . . .    [Gm]. . . .    [Eb]. . . .    [Bb]. . . .    [Bb]. . . .
 
-[Bb]. . [Bb]. . [Bb]. . [Bb]. . [Gm]. . [Eb]. . [Bb]. .
-
-{c:Verse 2}
-[Bb]Unmatched in all Your wisdom   [Bb]In love and justice You will r[Gm]eign
+{c: Verse 2}
+[Bb]Unmatched in all Your wisdom     [Bb]In love and justice You will r[Gm]eign
 And e[Eb]very knee will b[Bb]ow
+[Bb]We bring our expectations     [Bb]Our hope is anchored in Your n[Gm]ame
+The n[Eb]ame of Jes[Bb]us     Oh [Gm]       We trust    the n[Eb]ame of [Eb]Je - [Bb]sus   [F]
 
-[Bb]We bring our expectations   [Bb]Our hope is anchored in Your n[Gm]ame
-The n[Eb]ame of Jes[Bb]us   [Gm]  We trust in the n[Eb]ame of [Bb]Je - [F]sus
+{start_of_chorus}
+[Bb]You are the only King forev - er     [Eb]Almighty God we lift You higher
+[Bb]You are the only King forever     [Eb]Forevermore You are victorious
 
-{soc}
-[Bb]You are the only King forev - er   [Eb]Almighty God we lift You higher
-[Bb]You are the only King forever   [Eb]Forevermore You are victorious
-
-[Bb]You are the only King forever   [Eb]Almighty God we lift You higher
+[Bb]You are the only King forev - er     [Eb]Almighty God we lift You higher
 [Bb]You are the only King forever
-[Eb]Forevermore You are victori[Cm]ous  [Bb]. . [F]. . [F]. .   [Cm]. . [Bb]. . [F]. . [F]. .
-{eoc}
+[Eb]Forevermore You are victori[Cm]ous . .    [Bb]. . . .    [F]. . . .    [F]. . . .
+{end_of_chorus}
 
-{c:Double time, down strum only}
-[Cm]. . [Bb]. . [F]. . [F]. .   [Cm]. . [Bb]. . [F]. . [F]. .
+[Cm]. . . .    [Bb]. . . .    [F]. . . .    [F]. . . .
+
+{c: Double time, down strum only}
+[Cm]. . . .    [Bb]. . . .    [F]. . . .    [F]. . . .
+[Cm]. . . .    [Bb]. . . .    [F]. . . .    [F]. . . .
 
 {sob}
-[Cm]We lift our [Bb]banner high   [F]We lift the name of Jesus
-[Cm]From age to [Bb]age You reign   [F]Your kingdom has no end
+[Cm]We lift our [Bb]banner high     [F]We lift the name of Jesus
+[Cm]From age to [Bb]age You reign      [F]Your kingdom has no end
 
-[Cm]We lift our [Bb]banner high   [F]We lift the name of Jesus
-[Cm]From age to [Bb]age You reign   [F]Your kingdom has no end
+[Cm]We lift our [Bb]banner high      [F]We lift the name of Jesus
+[Cm]From age to [Bb]age You reign      [F]Your kingdom has no end
 {eob}
 
-{soc}
-[Bb]You are the only King forev - er   [Eb]Almighty God we lift You higher
-[Bb]You are the only King forever   [Eb]Forevermore You are victorious
+{start_of_chorus}
+[Bb]You are the only King forev - er     [Eb]Almighty God we lift You higher
+[Bb]You are the only King forever     [Eb]Forevermore You are victorious
 
-[Bb]You are the only King forever   [Eb]Almighty God we lift You higher
-[Bb]You are the only King forever   [Eb]Forevermore You are victorious
+[Bb]You are the only King forev - er     [Eb]Almighty God we lift You higher
+[Bb]You are the only King forever     [Eb]Forevermore You are victorious
 
-[Bb]You are the only King forever   [Eb]Almighty God we lift You higher
-[Bb]You are the only King forever   [Eb]Forevermore You are victorious
-{eoc}
+[Bb]You are the only King forev - er     [Eb]Almighty God we lift You higher
+[Bb]You are the only King forever     [Eb]Forevermore You are victorious
+{end_of_chorus}
 
-{c:Ending}
-[Bb]. . [Bb]. . [Bb]. . [Bb]. . [Gm]. . [Eb]. . [Bb]. .
+{c: Ending}
+[Bb]. . . .    [Bb]. . . .    [Bb]. . . .    [Bb]. . . .    [Gm]. . . .    [Eb]. . . .    [Bb]. . . .    [Bb]. . . .

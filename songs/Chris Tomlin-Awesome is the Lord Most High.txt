@@ -1,62 +1,64 @@
-{title:Awesome is the Lord Most High}
-{subtitle:Chis Tomlin}
-{original_key:A}
-{key:G}
-{tempo:132}
-{time:4/4}
-{as:11}
-{c:Intro}
+{title: Awesome is the Lord Most High}
+{artist: Chris Tomlin}
+{key: G}
+{duration: 235}
+{tempo: 132}
+{time: 4/4}
+{copyright: 2006 45 Degrees Music}
+
+{original_key: A}
+{c: Intro}
 [G]
 
-{c:Verse 1}
-[G] Great are You Lord mighty in stre[D]ngth
-[C] You are faithful and You will ever [G]be
-[G]We will praise You all of our [D]days
-[C] It's for Your glory we offer ev'ry - [Em7]thing
+{c: Verse 1}
+[G]     Great are You Lord mighty in s[D]trength
+[C2]     You are faithful and You will ever [G]be
+[G]     We will praise You all of our [D]days
+[C2]     It's for Your glory we offer ev'ry - [Em7]thing
 
-{soc}
-Raise your [G]hands all you nations   Shout to [D]God all creation
-How [Em7]awesome is the Lord most high [C]
-{eoc}
+{start_of_chorus}
+Raise your [G]hands all you nations     Shout to [D]God all creation
+How [Em7]awesome is the Lord most high [C2]
+{end_of_chorus}
 
-{c:Verse 2}
+{c: Verse 2}
 [G] Where You send us God we will [D]go
-[C] You're the answer we want the world to kn[G]ow
+[C2] You're the answer we want the world to kn[G]ow
 [G]We will trust You When You call our [D]name
-[C] Where You lead us we'll follow all the [Em7]way
+[C2] Where You lead us we'll follow all the [Em7]way
 
-{soc}
-Raise your [G]hands all you nations   Shout to [D]God all creation
-How [Em7]awesome is the Lord most high [C]
+{start_of_chorus}
+Raise your [G]hands all you nations     Shout to [D]God all creation
+How [Em7]awesome is the Lord most high [C2]
 
 We will [G]praise You together for [D/F#]now and forever
-How [Em7]awesome is the Lord most high [C]
-{eoc}
+How [Em7]awesome is the Lord most high [C2]
+{end_of_chorus}
 
 {sob}
-{c:Acoustic Guitar / Bass Only}
-[G]Hallelujah   [D]Hallelujah
-How [Em7]awesome is the Lord most high [C]
+{c: Acoustic Guitar / Bass Only}
+[G]Hallelujah     [D]Hallelujah
+How [Em7]awesome is the Lord most high [C2]
 
-{c:Full Band Building}
-[G]Hallelujah   [D]Hallelujah
-How [Em7]awesome is the Lord most high [C]
+{c: Full Band Building}
+[G]Hallelujah     [D]Hallelujah
+How [Em7]awesome is the Lord most high [C2]
 {eob}
 
-{soc}
-Raise your [G]hands all you nations   Shout to [D]God all creation
-How [Em7]awesome is the Lord most high [C]
+{start_of_chorus}
+Raise your [G]hands all you nations     Shout to [D]God all creation
+How [Em7]awesome is the Lord most high [C2]
 
 We will [G]praise You together for [D/F#]now and forever
-How [Em7]awesome is the Lord most high [C]
+How [Em7]awesome is the Lord most high [C2]
 
-Raise your [G]hands all you nations   Shout to [D]God all creation
-How [Em7]awesome is the Lord most high [C]
+Raise your [G]hands all you nations     Shout to [D]God all creation
+How [Em7]awesome is the Lord most high [C2]
 
 We will [G]praise You together for [D/F#]now and forever
-How [Em7]awesome is the Lord most high [C]   The Lord most high
-{eoc}
+How [Em7]awesome is the Lord most high [C2]   The Lord most high
+{end_of_chorus}
 
-{c:Ending}
-[G]. . . [D/F#]. . .
-How [Em7]awesome is the Lord most high [C]   The Lord most high [G]
+{c: Ending}
+[G]. . . .    [D/F#]. . . .
+How [Em7]awesome is the Lord most high [C2]   The Lord most high [G]

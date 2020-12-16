@@ -1,77 +1,79 @@
-{title:From The Inside Out}
-{subtitle:Joel Houston}
-{original_key:C}
-{key:C}
-{tempo:69}
-{time:4/4}
-{as:11.0}
-{c:Intro}
-[F]. . . [C]. . [G]. . . [F]. . . [C]. . [G]. .
-[F]. . . [C]. . [G]. . . [F]. . . [C]. . [G]. .
+{title: From The Inside Out}
+{artist: Joel Houston}
+{key: C}
+{duration: 332}
+{tempo: 69}
+{time: 4/4}
+{copyright: 2005 Hillsong Music Publishing Australia}
 
-{c:Verse 1}
-A thousand ti[F]mes I've failed still Your m[C]ercy re-m[G]ains
+{original_key: C}
+{c: Intro}
+[F]. . . [C]. . [G]. . .     [F]. . . [C]. . [G]. .
+[F]. . . [C]. . [G]. . .     [F]. . . [C]. . [G]. .
+
+{c: Verse 1}
+A thousand ti[F]mes I've failed still Your m[C]ercy re - m[G]ains
 And should I stu[F]mble again still I'm ca[C]ught in Your gr[G]ace
-Ever-la[Am]sting Your li[F]ght will shine when [C]all else fa[G]des
-Never-e[Am]nding Your gl[F]ory goes be-y[C]ond all fa[G]me
+Ever - la[Am]sting Your li[F]ght will shine when [C]all else fa[G]des
+Never - e[Am]nding Your gl[F]ory goes be - y[C]ond all fa[G]me
 
-[F]. . . [C]. . [G]. . . [F]. . . [C]. . [G]. .
+[F]. . . [C]. . [G]. . .      [F]. . . [C]. . [G]. .
 
-{c:Verse 2}
-Your will a-b[F]ove all else my pur[C]pose re-m[G]ains
+{c: Verse 2}
+Your will a - b[F]ove all else my pur[C]pose re - m[G]ains
 The art of lo[F]sing myself in brin[C]ging You pr[G]aise
-Ever-la[Am]sting Your li[F]ght will shine when [C]all else fa[G]des
-Never-e[Am]nding Your gl[F]ory goes be-y[C]ond all fa[G]me (Ye-ah)
+Ever - la[Am]sting Your li[F]ght will shine when [C]all else fa[G]des
+Never - e[Am]nding Your gl[F]ory goes be - y[C]ond all fa[G]me (Ye - ah)
 
-{soc}
-[F]  In my heart in my s[C]oul Lord I give You con-[Am]trol
+{start_of_chorus}
+[F]  In my heart in my s[C]oul Lord I give You con - [Am]trol
 Consume me from the in[G]side out Lord
-[F]  Let justice and p[Am]raise become my em-br[G]ace
+[F]  Let justice and p[Am]raise become my em - br[G]ace
 To love You from the in[F]side out
-{eoc}
+{end_of_chorus}
 
 Rest 1... 2... 3... 4...
-[F]. . . [C]. . [G]. . . [F]. . . [C]. . [G]. .
+[F]. . . [C]. . [G]. . .      [F]. . . [C]. . [G]. .
 
-{c:Verse 2}
-Your will a-b[F]ove all else my pur[C]pose re-m[G]ains
+{c: Verse 2}
+Your will a - b[F]ove all else my pur[C]pose re - m[G]ains
 The art of lo[F]sing myself in brin[C]ging You pr[G]aise
-Ever-la[Am]sting Your li[F]ght will shine when [C]all else fa[G]des
-Never-e[Am]nding Your gl[F]ory goes be-y[C]ond all fa[G]me (Ye-ah)
+Ever - la[Am]sting Your li[F]ght will shine when [C]all else fa[G]des
+Never - e[Am]nding Your gl[F]ory goes be - y[C]ond all fa[G]me (Ye - ah)
 
-{soc}
-[F]  In my heart in my s[C]oul Lord I give You con-[Am]trol
+{start_of_chorus}
+[F]  In my heart in my s[C]oul Lord I give You con - [Am]trol
 Consume me from the in[G]side out Lord
-[F]  Let justice and p[Am]raise become my em-br[G]ace
+[F]  Let justice and p[Am]raise become my em - br[G]ace
 To love You from the in[Dm]side out
-{eoc}
+{end_of_chorus}
 
-{c:Bridge - Sing Higher}
-Ever-la[Am]sting Your li[F]ght will shine when [C]all else fa[G]des
-Never-e[Am]nding Your gl[F]ory goes be-y[C]ond all fa[G]me
+{c: Bridge - Sing Higher}
+Ever - la[Am]sting Your li[F]ght will shine when [C]all else fa[G]des
+Never - e[Am]nding Your gl[F]ory goes be - y[C]ond all fa[G]me
 And the c[C]ry of my h[F]eart is to br[G]ing You pr[Am]aise
 From the in[F]side o[G]ut Lord my s[F]oul cries o[G]ut
 
 [F]. . . . [C]. . . . [Am]. . . . [G]. . . .
 [F]. . . . [Am7]. . . . [G]. . . . [Dm]. . .
 
-{soc}
-[F]  In my heart in my s[C]oul Lord I give You con-[Am]trol
+{start_of_chorus}
+[F]  In my heart in my s[C]oul Lord I give You con - [Am]trol
 Consume me from the in[G]side out Lord
-[F]  Let justice and p[Am]raise become my em-br[G]ace
+[F]  Let justice and p[Am]raise become my em - br[G]ace
 To love You from the in[Dm]side out
-{eoc}
+{end_of_chorus}
 
-{c:Bridge - Sing Higher}
-Ever-la[Am]sting Your li[F]ght will shine when [C]all else fa[G]des
-Never-e[Am]nding Your gl[F]ory goes be-y[C]ond all fa[G]me
+{c: Bridge - Sing Higher}
+Ever - la[Am]sting Your li[F]ght will shine when [C]all else fa[G]des
+Never - e[Am]nding Your gl[F]ory goes be - y[C]ond all fa[G]me
 And the c[C]ry of my h[F]eart is to br[G]ing You pr[Am]aise
 From the in[F]side o[G]ut Lord my s[F]oul cries o[G]ut
 
-Ever-la[Am]sting Your li[F]ght will shine when [C]all else fa[G]des
-Never-e[Am]nding Your gl[F]ory goes be-y[C]ond all fa[G]me
+Ever - la[Am]sting Your li[F]ght will shine when [C]all else fa[G]des
+Never - e[Am]nding Your gl[F]ory goes be - y[C]ond all fa[G]me
 And the c[C]ry of my h[F]eart is to br[G]ing You pr[Am]aise
 From the in[F]side o[G]ut Lord my s[F]oul cries o[G]ut
 
-{c:Ending}
+{c: Ending}
 From the in[F]side o[G]ut Lord my s[F]oul cries o[G]ut    L[F]ord

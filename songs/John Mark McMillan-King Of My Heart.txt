@@ -1,67 +1,77 @@
-{title:King Of My Heart}
-{subtitle:John Mark McMillan}
-{original_key:B}
-{key:A}
-{tempo:68}
-{time:4/4}
-{as:11.0}
-{c:Intro}
-[A]. . . . [D]. . . [A].
-[F#m]. . [E]. . [D]. . . [A].
+{title: King Of My Heart}
+{artist: John Mark McMillan}
+{key: A}
+{duration: 235}
+{tempo: 68}
+{time: 4/4}
+{copyright: Meaux Jeaux Music}
 
-{c:Verse 1}
+{original_key: B}
+{c: Intro}
+[A]. . . .    [D]. . .    [A].
+[F#m]. .        [E]. .    [D]. . .    [A].
+
+{c: Verse 1}
 Let the [A]King of my heart be the [D]mountain where I [A]run
 The [F#m]fountain I drink [E]from oh He [D]is my [A]song
 Let the [A]King of my heart be the [D]shadow where I [A]hide
 The [F#m]ransom for my [E]life oh He [D]is my [A]song
 
-{soc}
-You are [F#m]good [E]good [D]oh . . [A] . .   You are [F#m]good [E]good [D]oh . . [A] . .
-You are [F#m]good [E]good [D]oh . . [A] . .   You are [F#m]good [E]good [D]oh . . [A] . .
-{eoc}
+{start_of_chorus}
+'Cause You are [F#m]good     You are [E]good     [D]oh     [A]
+You are [F#m]good     You are [E]good     [D]oh     [A]
+You are [F#m]good     You are [E]good     [D]oh     [A]
+You are [F#m]good     You are [E]good     [D]oh     [A]
+{end_of_chorus}
 
-{c:Verse 2}
+{c: Verse 2}
 Let the [A]King of my heart be the [D]wind inside my [A]sails
 The [F#m]anchor in the [E]waves oh He [D]is my [A]song
 Let the [A]King of my heart be the [D]fire inside my [A]veins
 The [F#m]echo of my [E]days oh He [D]is my [A]song   [A]
 
-{c:Verse 2}
+{c: Verse 2}
 Let the [A]King of my heart be the [D]wind inside my [A]sails
 The [F#m]anchor in the [E]waves oh He [D]is my [A]song
 Let the [A]King of my heart be the [D]fire inside my [A]veins
 The [F#m]echo of my [E]days oh He [D]is my [A]song
 
-{soc}
-You are [F#m]good [E]good [D]oh . . [A] . .   You are [F#m]good [E]good [D]oh . . [A] . .
-You are [F#m]good [E]good [D]oh . . [A] . .   You are [F#m]good [E]good [D]oh . . [A] . .
-{eoc}
+{start_of_chorus}
+'Cause You are [F#m]good     You are [E]good     [D]oh     [A]
+You are [F#m]good     You are [E]good     [D]oh     [A]
+You are [F#m]good     You are [E]good     [D]oh     [A]
+You are [F#m]good     You are [E]good     [D]oh     [A]
+{end_of_chorus}
 
-{c:A cappella}
+{c: A cappella}
 {sob}
-[A]. . You're never gonna let never gonna let me down
-[F#m]. . You're never gonna let never gonna let me down
-[A]. . You're never gonna let never gonna let me down
-[F#m]. . You're never gonna let [E]never gonna let me down
+[A]     You're never gonna let never gonna let me down
+[F#m]     You're never gonna let never gonna let me down
+[A]     You're never gonna let never gonna let me down
+[F#m]     You're never gonna let [E]never gonna let me down
 
-[F#m]. . You're [E]never gonna let [D]never gonna let me [A]down
-[F#m]. . You're [E]never gonna let [D]never gonna let me [A]down
-[F#m]. . You're [E]never gonna let [D]never gonna let me [A]down
-[F#m]. . You're [E]never gonna let [D]never gonna let me [A]down
+[F#m]          You're [E]never gonna let [D]never gonna let me [A]down
+[F#m]          You're [E]never gonna let [D]never gonna let me [A]down
+[F#m]          You're [E]never gonna let [D]never gonna let me [A]down
+[F#m]          You're [E]never gonna let [D]never gonna let me [A]down
 {eob}
 
-{soc}
-You are [F#m]good [E]good [D]oh . . [A] . .   You are [F#m]good [E]good [D]oh . . [A] . .
-You are [F#m]good [E]good [D]oh . . [A] . .   You are [F#m]good [E]good [D]oh . . [A] . .
-{eoc}
+{start_of_chorus}
+'Cause You are [F#m]good     You are [E]good     [D]oh     [A]
+You are [F#m]good     You are [E]good     [D]oh     [A]
+You are [F#m]good     You are [E]good     [D]oh     [A]
+You are [F#m]good     You are [E]good     [D]oh     [A]
+{end_of_chorus}
 
 {sob}
-[F#m]. . You're [E]never gonna let [D]never gonna let me [A]down
-[F#m]. . You're [E]never gonna let [D]never gonna let me [A]down
-[F#m]. . You're [E]never gonna let [D]never gonna let me [A]down
-[F#m]. . You're [E]never gonna let [D]never gonna let me [A]down   [A]
+[F#m]          You're [E]never gonna let [D]never gonna let me [A]down
+[F#m]          You're [E]never gonna let [D]never gonna let me [A]down
+[F#m]          You're [E]never gonna let [D]never gonna let me [A]down
+[F#m]          You're [E]never gonna let [D]never gonna let me [A]down     [A]
 {eob}
 
-{c:Ending (Softly)}
-You are [F#m]good [E]good [D]oh . . [A] . .   You are [F#m]good [E]good [D]oh . . [A] . .
-You are [F#m]good [E]good [D]oh . . [A] . .   You are [F#m]good [E]good [D]oh . . [A] . .
+{c: Ending (Softly)}
+'Cause You are [F#m]good     You are [E]good     [D]oh     [A]
+You are [F#m]good     You are [E]good     [D]oh     [A]
+You are [F#m]good     You are [E]good     [D]oh     [A]
+You are [F#m]good     You are [E]good     [D]oh     [A]

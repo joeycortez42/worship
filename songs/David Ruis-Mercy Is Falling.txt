@@ -1,14 +1,16 @@
-{title:Mercy Is Falling}
-{subtitle:David Ruis}
-{original_key:E}
-{key:D}
-{tempo:125}
-{time:4/4}
-{as:10}
-{c:Intro}
-[D]. . [G]. . [D]. . [A]. . [D]. .
+{title: Mercy Is Falling}
+{artist: David Ruis}
+{key: D}
+{duration: 210}
+{tempo: 125}
+{time: 4/4}
+{copyright: 1995 Mercy / Vineyard Publishing}
 
-{c:Verse}
+{original_key: E}
+{c: Intro}
+[D]. .    [G]. .     [D]. .     [A]. .     [D]. .
+
+{c: Verse}
 M[D]ercy is [G]falling is [D]falling is fa[A]lling
 M[D]ercy it [G]falls like a s[Bm]weet spring r[A]ain
 M[D]ercy is [G]falling is [D]falling all o[A]ver [D]me
@@ -17,15 +19,51 @@ M[D]ercy is [G]falling is [D]falling is fa[A]lling
 M[D]ercy it [G]falls like a s[Bm]weet spring r[A]ain
 M[D]ercy is [G]falling is [D]falling all o[A]ver [D]me
 
-{soc}
-H[D]ey-oh I re-ce[G]ive Your m[A]ercy
-H[D]ey-oh I re-c[Bm]eive Your gr[A]ace
-H[D]ey-oh I will da[G]nce for-e[A]ver-m[D]ore
+{start_of_chorus}
+H[D]ey - oh     I re - ce[G]ive Your m[A]ercy
+H[D]ey - oh     I re - c[Bm]eive Your gr[A]ace
+H[D]ey - oh     I will da[G]nce for - e[A]ver - m[D]ore
 
-H[D]ey-oh I re-ce[G]ive Your m[A]ercy
-H[D]ey-oh I re-c[Bm]eive Your gr[A]ace
-H[D]ey-oh I will da[G]nce for-e[A]ver-m[D]ore
-{eoc}
+H[D]ey - oh     I re - ce[G]ive Your m[A]ercy
+H[D]ey - oh     I re - c[Bm]eive Your gr[A]ace
+H[D]ey - oh     I will da[G]nce for - e[A]ver - m[D]ore
+{end_of_chorus}
 
-{c:Repeat x2}
-{c:Ending - Retard last line}
+{c: Verse}
+M[D]ercy is [G]falling is [D]falling is fa[A]lling
+M[D]ercy it [G]falls like a s[Bm]weet spring r[A]ain
+M[D]ercy is [G]falling is [D]falling all o[A]ver [D]me
+
+M[D]ercy is [G]falling is [D]falling is fa[A]lling
+M[D]ercy it [G]falls like a s[Bm]weet spring r[A]ain
+M[D]ercy is [G]falling is [D]falling all o[A]ver [D]me
+
+{start_of_chorus}
+H[D]ey - oh     I re - ce[G]ive Your m[A]ercy
+H[D]ey - oh     I re - c[Bm]eive Your gr[A]ace
+H[D]ey - oh     I will da[G]nce for - e[A]ver - m[D]ore
+
+H[D]ey - oh     I re - ce[G]ive Your m[A]ercy
+H[D]ey - oh     I re - c[Bm]eive Your gr[A]ace
+H[D]ey - oh     I will da[G]nce for - e[A]ver - m[D]ore
+{end_of_chorus}
+
+{c: Verse}
+M[D]ercy is [G]falling is [D]falling is fa[A]lling
+M[D]ercy it [G]falls like a s[Bm]weet spring r[A]ain
+M[D]ercy is [G]falling is [D]falling all o[A]ver [D]me
+
+M[D]ercy is [G]falling is [D]falling is fa[A]lling
+M[D]ercy it [G]falls like a s[Bm]weet spring r[A]ain
+M[D]ercy is [G]falling is [D]falling all o[A]ver [D]me
+
+{start_of_chorus}
+H[D]ey - oh     I re - ce[G]ive Your m[A]ercy
+H[D]ey - oh     I re - c[Bm]eive Your gr[A]ace
+H[D]ey - oh     I will da[G]nce for - e[A]ver - m[D]ore
+{end_of_chorus}
+
+{c: Ending - Retard last line}
+H[D]ey - oh     I re - ce[G]ive Your m[A]ercy
+H[D]ey - oh     I re - c[Bm]eive Your gr[A]ace
+H[D]ey - oh     I will da[G]nce for - e[A]ver - m[D]ore     [D]

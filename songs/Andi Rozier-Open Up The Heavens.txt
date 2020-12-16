@@ -1,70 +1,72 @@
-{title:Open Up The Heavens}
-{subtitle:Andi Rozier}
-{original_key:D}
-{key:D}
-{tempo:100}
-{time:4/4}
-{as:13.5}
-{c:Intro w/ up stroke accents}
-[D]. [D]. [G2]. [G2]. . . .   [D]. [D]. [G2]. [G2].
+{title: Open Up The Heavens}
+{artist: Andi Rozier}
+{key: D}
+{duration: 207}
+{tempo: 100}
+{time: 4/4}
+{copyright: 2012 All Essential Music}
 
-{c:Verse 1}
-We've [D]waited for this day   We're gathered in Your Name
+{original_key: D}
+{c: Intro w/ up stroke accents}
+[D].    [D].    [G2].    [G2]. . . .    [D].    [D].    [G2].    [G2]. . . .
+
+{c: Verse 1}
+We've [D]waited for this day    We're gathered in Your Name
 [G2]Calling out to You
-Your [D]glory like a fire   Awakening desire
+Your [D]glory like a fire    Awakening desire
 Will [G2]burn our hearts with truth
 
-{c:Pre-Chorus}
+{c: Pre-Chorus}
 [Bm]You're the reason we're [G2]here
 [Bm]You're the reason we're [G2]singing
 
-{soc}
-[D]Open up the heavens   We want to see You
-[G2]Open of the floodgates   A mighty river
-[Bm]Flowing from Your heart   [A]And filling every part of our [D]praise
-{eoc}
+{start_of_chorus}
+[D]Open up the heavens    We want to see You
+[G2]Open of the floodgates    A mighty river
+[Bm]Flowing from Your heart    [A]And filling every part of our [D]praise
+{end_of_chorus}
 
-[D] [D] [G2] [G2]
+[D].    [D].    [G2].    [G2]. . . .
 
-{c:Verse 2}
-[D]Your presence in this place   Your Glory on our face
+{c: Verse 2}
+[D]Your presence in this place    Your Glory on our face
 [G2]We're looking to the skies
-[D]Descending Like a cloud   You're standing with us now
+[D]Descending Like a cloud    You're standing with us now
 [G2]Lord unveil our eyes
 
-{c:Pre-Chorus}
+{c: Pre-Chorus}
 [Bm]You're the reason we're [G2]here
 [Bm]You're the reason we're [G2]singing
 
-{soc}
-[D]Open up the heavens   We want to see You
-[G2]Open of the floodgates   A mighty river
-[Bm]Flowing from Your heart   [A]And filling every part of our [D]praise [D]
+{start_of_chorus}
+[D]Open up the heavens    We want to see You
+[G2]Open of the floodgates    A mighty river
+[Bm]Flowing from Your heart    [A]And filling every part of our [D]praise [D]
 
-[D]Open up the heavens   We want to see You
-[G2]Open of the floodgates   A mighty river
-[Bm]Flowing from Your heart   [A]And filling every part of our [D]praise [D]
-{eoc}
+[D]Open up the heavens    We want to see You
+[G2]Open of the floodgates    A mighty river
+[Bm]Flowing from Your heart    [A]And filling every part of our [D]praise [D]
+{end_of_chorus}
 
 {sob}
-{c:Guitars Only}
-[D]Show us   Show us Your glory   [G2]Show us   Show us Your power
+{c: Guitars Only}
+[D]Show us   Show us Your glory    [G2]Show us   Show us Your power
 [Bm]Show us   [A]Show us Your glory [G2]Lord
-{c:Full Band}
-[D]Show us   Show us Your glory   [G2]Show us   Show us Your power
+{c: Full Band}
+[D]Show us   Show us Your glory    [G2]Show us   Show us Your power
 [Bm]Show us   [A]Show us Your glory [G2]Lord
 {eob}
 
-[D]. [D]. [G2]. [G2]. . . .
+[D].    [D].    [G2].    [G2]. . . .
 
-{soc}
-[D]Open up the heavens   We want to see You
-[G2]Open of the floodgates   A mighty river
-[Bm]Flowing from Your heart   [A]And filling every part of our [D]praise [D]
+{start_of_chorus}
+[D]Open up the heavens    We want to see You
+[G2]Open of the floodgates    A mighty river
+[Bm]Flowing from Your heart    [A]And filling every part of our [D]praise [D]
 
-[D]Open up the heavens   We want to see You
-[G2]Open of the floodgates   A mighty river
-[Bm]Flowing from Your heart   [A]And filling every part of our [D]praise
-{eoc}
+[D]Open up the heavens    We want to see You
+[G2]Open of the floodgates    A mighty river
+[Bm]Flowing from Your heart    [A]And filling every part of our [D]praise
+{end_of_chorus}
 
 [D]  [D]  [D]

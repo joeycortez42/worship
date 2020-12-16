@@ -1,34 +1,36 @@
-{title:I Give You My Heart}
-{subtitle:Reuben Morgan}
-{original_key:G}
-{key:G}
-{tempo:78}
-{time:4/4}
-{as:8.5}
-{c:Intro}
-[C]. . . .   [D]. . . .   [Bm7]. . . .   [Em]. . . .
-[C]. . . .   [D]. . . .   [Bm7]. . . .   [C]. . . .
+{title: I Give You My Heart}
+{artist: Reuben Morgan}
+{key: G}
+{duration: 274}
+{tempo: 78}
+{time: 4/4}
+{copyright: 1995 Hillsong Music Publishing Australia}
 
-{c:Verse}
+{original_key: G}
+{c: Intro}
+[C]. . . .    [D]. . . .    [Bm7]. . . .     [Em]. . . .
+[C]. . . .    [D]. . . .    [Bm7]. . . .     [C]. . . .
+
+{c: Verse}
 [G]This is my de -  [Em7]sire to [C]hon -  [G]our  [D/F#]You
 [Em]Lord with [D/F#]all my [G]heart I worship [F]You    [C]. .   [D]. .
 [G]All I have with - [Em7]in me I [C]give    [G]You  [D/F#]praise
 All[Em] that I [D/F#]a - [G]dore is in [F]You    [C]. .   [D]. .
 
-{soc}
+{start_of_chorus}
 Lo[G]rd I give You my hea[D/F#]rt I give You my [Am7]soul
 I [C]live for [D/F#]You [G]alone
 Ev[G]ery breath that I take[D/F#] ev'ry moment I'm a - wa[Am7]ke
-Lord h[C]ave Your [D]way in me [C]. . . .   [C]. . . .
-{eoc}
+Lord h[C]ave Your [D]way in me [C]. . . .    [C]. . . .
+{end_of_chorus}
 
-{c:Verse}
+{c: Verse}
 [G]This is my de -  [Em7]sire to [C]hon -  [G]our  [D/F#]You
 [Em]Lord with [D/F#]all my [G]heart I worship [F]You    [C]. .   [D]. .
 [G]All I have with - [Em7]in me I [C]give    [G]You  [D/F#]praise
-All[Em] that I [D/F#]a - [G]dore is in [F]You    [C]. .   [D]. .
+All[Em] that I [D/F#]a - [G]dore is in [F]You    [C]. .    [D]. .
 
-{soc}
+{start_of_chorus}
 Lo[G]rd I give You my hea[D/F#]rt I give You my [Am7]soul
 I [C]live for [D/F#]You [G]alone
 Ev[G]ery breath that I take[D/F#] ev'ry moment I'm a - wa[Am7]ke
@@ -38,7 +40,7 @@ Lo[G]rd I give You my hea[D/F#]rt I give You my [Am7]soul
 I [C]live for [D/F#]You [G]alone
 Ev[G]ery breath that I take[D/F#] ev'ry moment I'm a - wa[Am7]ke
 Lord h[C]ave Your [D]way in me [C]. . . .
-{eoc}
+{end_of_chorus}
 
-{c:Ending}
+{c: Ending}
 [C]. . . .   [G]

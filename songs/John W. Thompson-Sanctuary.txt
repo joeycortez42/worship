@@ -1,36 +1,38 @@
-{title:Sanctuary}
-{subtitle:John W. Thompson}
-{original_key:D}
-{key:D}
-{tempo:56}
-{time:4/4}
-{as:10}
-{c:Intro}
+{title: Sanctuary}
+{artist: John W. Thompson}
+{key: D}
+{duration: 178}
+{tempo: 56}
+{time: 4/4}
+{copyright: 1982 Full Armor Publishing Company}
+
+{original_key: D}
+{c: Intro}
 [D]
-Sanctu-[G]ary [Em7]    [A]for   [D]You
+Sanctu - [G]ary   [Em7]           [A]for   [D]You    [G]    [D]
 
-{soc}
-[D]Lord   pre-[D]pare me to be a sanctu-[A]ary
-Pure and [G]holy[Em7]    tried and [D]true   [A]
-With   thanks-[D]giving I’ll be a [A]living
-Sanctu-[G]ary [Em7]    [A]for   [D]You
-{eoc}
+{start_of_chorus}
+[D]Lord   pre - [D]pare me to be a sanctu - [A]ary
+Pure and [G]holy   [Em7]          tried and [D]true   [A]
+With   thanks - [D]giving    I’ll be a [A]living
+Sanctu - [G]ary   [Em7]           [A]for   [D]You
+{end_of_chorus}
 
-{soc}
-[D]Lord   pre-[D]pare me to be a sanctu-[A]ary
-Pure and [G]holy[Em7]    tried and [D]true   [A]
-With   thanks-[D]giving I’ll be a [A]living
-Sanctu-[G]ary [Em7]    [A]for   [D]You
-{eoc}
+{start_of_chorus}
+[D]Lord   pre - [D]pare me to be a sanctu - [A]ary
+Pure and [G]holy   [Em7]          tried and [D]true   [A]
+With   thanks - [D]giving    I’ll be a [A]living
+Sanctu - [G]ary   [Em7]           [A]for   [D]You
+{end_of_chorus}
 
-{soc}
-[D]Lord   pre-[D]pare me to be a sanctu-[A]ary
-Pure and [G]holy[Em7]    tried and [D]true   [A]
-With   thanks-[D]giving I’ll be a [A]living
-{c:Retard}
-Sanctu-[G]ary [Em7]    [A]for   [D]You
-{eoc}
+{start_of_chorus}
+[D]Lord   pre - [D]pare me to be a sanctu - [A]ary
+Pure and [G]holy   [Em7]          tried and [D]true   [A]
+With   thanks - [D]giving    I’ll be a [A]living
+{c: Retard}
+Sanctu - [G]ary   [Em7]           [A]for   [D]You
+{end_of_chorus}
 
-{c:Ending}
-Sanctu-[G]ary [Em7]    [A]for   [D]You
-Sanctu-[G]ary [Em7]    [A]for   [D]You
+{c: Ending}
+Sanctu - [G]ary   [Em7]           [A]for   [D]You
+Sanctu - [G]ary   [Em7]           [A]for   [D]You

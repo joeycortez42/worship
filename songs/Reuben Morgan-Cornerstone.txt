@@ -1,75 +1,79 @@
-{title:Cornerstone}
-{subtitle:Reuben Morgan}
-{original_key:C}
-{key:C}
-{tempo:71}
-{time:4/4}
-{as:10}
-{c:Intro}
-#|--------------------------------------|
-#|--------------------------------------|
-#|-10-10--9-9--7-7--5-------------------|
-#|--------------------------------------|
-#|--------------------------------------|
-#|--------------------------------------|
-[D]. . . . [D]. . . . [Bm]. . . . [Bm]. . . . [G]. . . . [A]. . . .
+{title: Cornerstone}
+{artist: Reuben Morgan}
+{key: D}
+{duration: 328}
+{tempo: 71}
+{time: 4/4}
+{copyright: 2011 Hillsong MP Songs}
 
-{c:Verse 1}
+{original_key: C}
+{c: Intro}
+{sot}
+|----------------------|
+|-6-6--5-5-------------|
+|-----------7-7--5-----|
+|----------------------|
+|----------------------|
+|----------------------|
+{eot}
+[D]. . . .    [D]. . . .    [Bm]. . . .    [Bm]. . . .    [G]. . . .    [A]. . . .
+
+{c: Verse 1}
 [D]   My hope is built on nothing less
 [G]   Than Jesus’ blood and [A]righteousness
 [Bm]  I dare not trust the [D]sweetest frame
-[G]   But wholly [A]trust in Je-[D]sus’ Name
+[G]   But wholly [A]trust in Je - [D]sus’ Name
 
-{c:Verse 1}
+{c: Verse 1}
 [D]   My hope is built on nothing less
 [G]   Than Jesus’ blood and [A]righteousness
 [Bm]  I dare not trust the [D]sweetest frame
-[G]   But wholly [A]trust in Je-[D]sus’ Name
+[G]   But wholly [A]trust in Je - [D]sus’ Name
 
-{soc}
-[D]Christ a-[G]lone   [Bm]Corner-[A]stone
+{start_of_chorus}
+[D]Christ a - [G]lone   [Bm]Corner - [A]stone
 [D]Weak made [G]strong in the [Bm]Saviour’s [A]love
 [D]Through the [G]storm [Bm]He is [A]Lord   Lord of [D]all   [D]
-{eoc}
+{end_of_chorus}
 
-{c:Verse 2}
+{c: Verse 2}
 [D]  When darkness seems to hide His face
-[G]  I rest on His un-[A]changing grace
+[G]  I rest on His un - [A]changing grace
 [Bm]  In ev’ry high and [D]stormy gale
 [G]  My anchor [A]holds within [D]  the veil
-{c:Sing Higher}
+{c: Sing Higher}
 [G]  My anchor [A]holds within [D]  the veil
 
-{soc}
-[D]Christ a-[G]lone   [Bm]Corner-[A]stone
+{start_of_chorus}
+[D]Christ a - [G]lone   [Bm]Corner - [A]stone
 [D]Weak made [G]strong in the [Bm]Saviour’s [A]love
 [D]Through the [G]storm [Bm]He is [A]Lord   Lord of [D]all
 
 [D]     [D]     [Bm]     [Bm]     [G]     [A]   [D]   [D]
 
-[D]Christ a-[G]lone   [Bm]Corner-[A]stone
+[D]Christ a - [G]lone   [Bm]Corner - [A]stone
 [D]Weak made [G]strong in the [Bm]Saviour’s [A]love
 [D]Through the [G]storm [Bm]He is [A]Lord   Lord of [D]all   [D]
 
-[D]Christ a-[G]lone   [Bm]Corner-[A]stone
+[D]Christ a - [G]lone   [Bm]Corner - [A]stone
 [D]Weak made [G]strong in the [Bm]Saviour’s [A]love
 [D]Through the [G]storm [Bm]He is [A]Lord   Lord of [D]all   [D]
-{eoc}
+{end_of_chorus}
 
-{c:Verse 3}
-{c:Sing Softer}
+{c: Verse 3}
+{c: Sing Softer}
 [D]   When He shall come with trumpet sound
 [G]   Oh may I then in [A]Him be found
-[Bm]  Dressed in His [D]righteous-ness alone
+[Bm]  Dressed in His [D]righteous - ness alone
 [G]   Faultless [A]stand before [D]  the throne
 
-{soc}
-[D]Christ a-[G]lone   [Bm]Corner-[A]stone
+{start_of_chorus}
+[D]Christ a - [G]lone   [Bm]Corner - [A]stone
 [D]Weak made [G]strong in the [Bm]Saviour’s [A]love
 [D]Through the [G]storm [Bm]He is [A]Lord   Lord of [D]all   [D]
-{eoc}
+{end_of_chorus}
 
-{c:Ending}
-[D]Christ a-[G]lone   [Bm]Corner-[A]stone
+{c: Ending}
+[D]Christ a - [G]lone   [Bm]Corner - [A]stone
 [D]Weak made [G]strong in the [Bm]Saviour’s [A]love
 [D]Through the [G]storm [Bm]He is [A]Lord   [D]     [D]     [D]     [D]

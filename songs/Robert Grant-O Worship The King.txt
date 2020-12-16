@@ -1,45 +1,47 @@
-{title:O Worship The King}
-{subtitle:Robert Grant}
-{original_key:G}
-{key:G}
-{tempo:120}
-{time:6/8}
-{as:14.5}
-{c:Intro}
+{title: O Worship The King}
+{artist: Robert Grant}
+{key: G}
+{duration: 234}
+{tempo: 120}
+{time: 6/8}
+{copyright: 2004 WORSHIPHYMNS Publishing}
+
+{original_key: G}
+{c: Intro}
 [G]. . .  [C]. . .  [Em]. . .  [D]. . .
 [G]. . .  [C]. . .  [Em]. . .  [D]. . .
 
-{c:Verse 1}
+{c: Verse 1}
 O [G]wor-ship the King all [C]glo-rious a-[D]bove
 And [G]grate-ful-ly sing [C]His wonder[D]ful [G]love
 [D]Our Shield and De-fender the Ancient of Days
 Pa-[Em]vil-ioned in [C]splendor and [Am]gird-ed [D]with [G]praise
 [C]. . . [Em]. . . [D]. . .
 
-{c:Verse 2}
+{c: Verse 2}
 O [G]tell of His might   O [C]sing of His [D]grace
 Whose [G]robe is the light [C]whose can-o-[D]py [G]space
 [D]His chariots of wrath the deep thunder-clouds form
 And [Em]dark is His [C]path on the [Am]wings of [D]the [G]storm
 [C]. . . [Em]. . . [D]. . .
 
-{soc}
+{start_of_chorus}
 O [G]Worshi[C]p the [Em]Lord God On [D]High
 [G]Praise [C]Him all [Em]Creatures Draw [D]Nigh
 [G]Sing [C]‘Round His [Em]Glorious [D]Throne
 [B]Our True [C]Adoration  [C]
 Forev[D]er Make [G]Known  [C]. . . [Em]. . . [D]. . .
-{eoc}
+{end_of_chorus}
 [G]. . . [C]. . . [Em]. . . [D]. . .
 
-{c:Verse 3}
+{c: Verse 3}
 Frail [G]chil-dren of dust and [C]fee-ble as [D]frail
 In [G]Thee do we trust [C]nor find Thee [D]to [G]fail
 [D]Thy mercies how tender how firm to the end
 Our [Em]Mak-er De-[C]fender Re-[Am]deem-er [D]and [G]Friend
 [C]. . . [Em]. . . [D]. . .
 
-{soc}
+{start_of_chorus}
 O [G]Worshi[C]p the [Em]Lord God On [D]High
 [G]Praise [C]Him all [Em]Creatures Draw [D]Nigh
 [G]Sing [C]‘Round His [Em]Glorious [D]Throne
@@ -50,9 +52,9 @@ O [G]Worshi[C]p the [Em]Lord God On [D]High
 [G]Praise [C]Him all [Em]Creatures Draw [D]Nigh
 [G]Sing [C]‘Round His [Em]Glorious [D]Throne
 [B]Our True [C]Adoration  [C]
-{eoc}
+{end_of_chorus}
 
-{c:Ending}
+{c: Ending}
 [B]Our True [C]Adoration  [C]
 [B]Our True [C]Adoration  [C]
 Forev[D]er Make [G]Known  [C]. . . [Em]. . . [D]. . .

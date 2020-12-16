@@ -1,16 +1,18 @@
-{title:Every Move I Make}
-{subtitle:David Ruis}
-{original_key:D}
-{key:G}
-{tempo:80}
-{time:2/2}
-{as:10}
-{c:Intro Electric Guitar & Drums}
+{title: Every Move I Make}
+{artist: David Ruis}
+{key: G}
+{duration: 209}
+{tempo: 80}
+{time: 2/2}
+{copyright: 1996 Mercy / Vineyard Publishing}
+
+{original_key: D}
+{c: Intro Electric Guitar & Drums}
 [G]. . [C]. . [D]. . [C]. . . [G]. . [C]. . [D]. . [C].
-{c:Full Band}
+{c: Full Band}
 [G]. . [C]. . [D]. . [C]. . . [G]. . [C]. . [D]. . [C].
 
-{c:Verse}
+{c: Verse}
 [G]Every move I m[C]ake I make in [Dsus]You   You make me m[C]ove Jesus
 [G]Every breath I t[C]ake I breathe in [Dsus]You   [C]
 [G]Every step I ta[C]ke I take in [Dsus]You   You are my w[C]ay Jesus
@@ -18,7 +20,7 @@
 
 [G]. . [C]. . [D]. . [C]. . . [G]. . [C]. . [D]. . [C].
 
-{c:Verse}
+{c: Verse}
 Ev[G]ery move I m[C]ake I make in [Dsus]You   You make me m[C]ove Jesus
 Ev[G]ery breath I t[C]ake I breathe in [Dsus]You   [C]
 Ev[G]ery step I ta[C]ke I take in [Dsus]You   You are my w[C]ay Jesus
@@ -32,30 +34,30 @@ Ev[G]ery breath I t[C]ake I breathe in [Dsus]You   [C]
 [G]Na na na [C]na na na na   [D]Na na na na na [C]na na na na
 {eob}
 
-{soc}
+{start_of_chorus}
 [G]Waves of [Am7]mercy [Bm7]waves of g[C]race[D]
 [G]Everyw[Am7]here I lo[Bm7]ok I s[C]ee Your [D]face
 [G]Your [Am7]love has c[Bm7]aptured [C]me [D]
 [G]Oh my [Am7]God this love[Bm7] how [C]can [D]it be
-{eoc}
+{end_of_chorus}
 
 [G]. . [C]. . [D]. . [C]. . . [G]. . [C]. . [D]. . [C].
 
-{c:Verse - Start in a cappella}
+{c: Verse - Start in a cappella}
 Ev[G]ery move I m[C]ake I make in [Dsus]You   You make me m[C]ove Jesus
 Ev[G]ery breath I t[C]ake I breathe in [Dsus]You   [C]
 Ev[G]ery step I ta[C]ke I take in [Dsus]You   You are my w[C]ay Jesus
 Ev[G]ery breath I t[C]ake I breathe in [Dsus]You   [C]
 
-{soc}
+{start_of_chorus}
 [G]Waves of [Am7]mercy [Bm7]waves of g[C]race[D]
 [G]Everyw[Am7]here I lo[Bm7]ok I s[C]ee Your [D]face
 [G]Your [Am7]love has c[Bm7]aptured [C]me [D]
 [G]Oh my [Am7]God this love[Bm7] how [C]can [D]it be
-{eoc}
+{end_of_chorus}
 
 [G]. . [C]. . [D]. . [C]. . . [G]. . [C]. . [D]. . [C].
 
-{c:Ending}
+{c: Ending}
 [G]Na na na [C]na na na na   [D]Na na na na na [C]na na na na
 [G]Na na na [C]na na na na   [D]Na na na na na [C]na na na na   [G]

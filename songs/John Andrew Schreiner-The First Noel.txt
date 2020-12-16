@@ -1,48 +1,53 @@
-{title:The First Noel}
-{subtitle:John Andrew Schreiner}
-{original_key:G}
-{key:C}
-{time:3/4}
-{as:10}
+{title: The First Noel}
+{artist: John Andrew Schreiner}
+{key: C}
+{duration: 217}
+{tempo: 80}
+{time: 3/4}
+{copyright: Public Domain}
 
-{c:Intro}
-B[Am]orn is the K[C]ing of [C]Is - [G]ra - [C]el
+{original_key: D}
+{c: Intro}
+B[Am]orn is the K[C]ing of [C]Is  [C] -   [G]ra - [C]el
 
-#Verse 1
+{c: Verse 1}
 The fi[C]rst No-[G]el the a[F]n-gel did s[C]ay
 Was to c[F]er-tain poor s[C]hep-herds in fie[F]lds as they l[C]ay
 In fi[C]elds where th[G]ey lay ke[F]ep-ing their sh[C]eep
 On a c[F]old win-ter’s n[C]ight that w[F]as so d[C]eep
 
-{soc}
-No - [C]el No - [Em]el No - [F]el No - [C]el
-B[Am]orn is the K[C]ing of [C]Is - [G]ra - [C]el
-{eoc}
+{start_of_chorus}
+No - [C]el   No - [Em]el    No - [F]el   No - [C]el
+B[Am]orn is the K[C]ing of [C]Is  [C] -   [G]ra - [C]el
+{end_of_chorus}
 
-#Verse 2
+{c: Verse 2}
 They l[C]ook-ed [G]up and s[F]aw a s[C]tar
 Shin-ing [F]in the e[C]ast be-y[F]ond them f[C]ar
 And t[C]o the ea[G]rth it g[F]ave great li[C]ght
 And [F]so it con-t[C]in-ued both [F]day and ni[C]ght
 
-{soc}
-No - [C]el No - [Em]el No - [F]el No - [C]el
-B[Am]orn is the K[C]ing of [C]Is - [G]ra - [C]el
-{eoc}
+{start_of_chorus}
+No - [C]el   No - [Em]el    No - [F]el   No - [C]el
+B[Am]orn is the K[C]ing of [C]Is  [C] -   [G]ra - [C]el
+{end_of_chorus}
 
-#Verse 3
+[C]. . .    [Em]. . .       [F]. . .    [C]. . .
+[Am]. . .       [C]. . .    [C] .    [C] .    [G] .    [C].
+
+{c: Verse 3}
 Then l[C]et us a[G]ll with o[F]ne ac-co[C]rd
 Sing pr[F]ais-es [C]to our he[F]aven-ly L[C]ord
 That h[C]ath made h[G]eaven and ea[F]rth of na[C]ught
 And w[F]ith His bl[C]ood man-k[F]ind hath bo[C]ught
 
-{soc}
-No - [C]el No - [Em]el No - [F]el No - [C]el
-B[Am]orn is the K[C]ing of [C]Is - [G]ra - [C]el
+{start_of_chorus}
+No - [C]el   No - [Em]el    No - [F]el   No - [C]el
+B[Am]orn is the K[C]ing of [C]Is  [C] -   [G]ra - [C]el
 
-No - [C]el No - [Em]el No - [F]el No - [C]el
-B[Am]orn is the K[C]ing of [C]Is - [G]ra - [C]el
-{eoc}
+No - [C]el   No - [Em]el    No - [F]el   No - [C]el
+B[Am]orn is the K[C]ing of [C]Is  [C] -   [G]ra - [C]el
+{end_of_chorus}
 
-{c:Ending}
-B[Am]orn is the K[C]ing of [C]Is - [G]ra - [C]el
+{c: Ending}
+B[Am]orn is the K[C]ing of [C]Is  [C] -   [G]ra - [C]el

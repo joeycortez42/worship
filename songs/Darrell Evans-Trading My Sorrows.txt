@@ -1,15 +1,17 @@
-{title:Trading My Sorrows}
-{subtitle:Darrell Evans}
-{original_key:A}
-{key:G}
-{tempo:116}
-{time:4/4}
-{as:14.0}
-{c:Intro}
-[G] [C] [Em] [D] .  .  .  [G] [C] [Em] [D]
-[G] [C] [Em] [D] .  .  .  [G] [C] [Em] [D]
+{title: Trading My Sorrows}
+{artist: Darrell Evans}
+{key: G}
+{duration: 265}
+{tempo: 116}
+{time: 4/4}
+{copyright: 1998 Integrity's Hosanna! Music}
 
-{soc}
+{original_key: A}
+{c: Intro}
+[G].    [C].    [Em].        [D].        [G].    [C].    [Em].        [D].
+[G].    [C].    [Em].        [D].        [G].    [C].    [Em].        [D].
+
+{start_of_chorus}
 [G] I'm [C] trading my [Em] sor - [D]rows
 [G] I'm [C] trading my [Em] shame [D]
 [G] I'm [C] laying them [Em]down [D]for the joy of the
@@ -19,14 +21,14 @@
 [G] I'm [C] trading my [Em] pain [D]
 [G] I'm [C] laying them [Em]down [D]for the joy of the
 [G]Lord [C] [Em] [D]
-{eoc}
+{end_of_chorus}
 
-{c:Vamp}
+{c: Vamp}
 [G]Yes Lord [C] yes Lord [Em]yes yes [D] Lord
 [G]Yes Lord [C] yes Lord [Em]yes yes [D] Lord
 [G]Yes Lord [C] yes Lord [Em]yes yes [D] Lord   A - [G]men [C] [Em] [D]
 
-{c:Verse}
+{c: Verse}
 I am [G]pressed but not [C] crushed
 Perse - [Em]cuted not [D]abandoned
 [G] Struck [C]down but not de - [Em]stroyed [D]
@@ -36,7 +38,7 @@ That His [G]joy's [C]gonna be my [Em]strength [D]
 [D] Though the sorrow may [Dsus]last for [D]the night
 His [F]joy comes with the morn - [C]ing
 
-{soc}
+{start_of_chorus}
 [G] I'm [C] trading my [Em] sor - [D]rows
 [G] I'm [C] trading my [Em] shame [D]
 [G] I'm [C] laying them [Em]down [D]for the joy of the
@@ -46,14 +48,14 @@ His [F]joy comes with the morn - [C]ing
 [G] I'm [C] trading my [Em] pain [D]
 [G] I'm [C] laying them [Em]down [D]for the joy of the
 [G]Lord [C] [Em] [D]
-{eoc}
+{end_of_chorus}
 
-{c:Vamp}
+{c: Vamp}
 [G]Yes Lord [C] yes Lord [Em]yes yes [D] Lord
 [G]Yes Lord [C] yes Lord [Em]yes yes [D] Lord
 [G]Yes Lord [C] yes Lord [Em]yes yes [D] Lord   A - [G]men [C] [Em] [D]
 
-{c:Verse}
+{c: Verse}
 I am [G]pressed but not [C] crushed
 Perse - [Em]cuted not [D]abandoned
 [G] Struck [C]down but not de - [Em]stroyed [D]
@@ -63,7 +65,7 @@ That His [G]joy's [C]gonna be my [Em]strength [D]
 [D] Though the sorrow may [Dsus]last for [D]the night
 His [F]joy comes with the morn - [C]ing
 
-{soc}
+{start_of_chorus}
 [G] I'm [C] trading my [Em] sor - [D]rows
 [G] I'm [C] trading my [Em] shame [D]
 [G] I'm [C] laying them [Em]down [D]for the joy of the
@@ -73,9 +75,9 @@ His [F]joy comes with the morn - [C]ing
 [G] I'm [C] trading my [Em] pain [D]
 [G] I'm [C] laying them [Em]down [D]for the joy of the
 [G]Lord [C] [Em] [D]
-{eoc}
+{end_of_chorus}
 
-{c:Vamp}
+{c: Vamp}
 [G]Yes Lord [C] yes Lord [Em]yes yes [D] Lord
 [G]Yes Lord [C] yes Lord [Em]yes yes [D] Lord
-[G]Yes Lord [C] yes Lord [Em]yes yes [D] Lord   A - [G]men [C] [Em] [D] [G]
+[G]Yes Lord [C] yes Lord [Em]yes yes [D] Lord   A - [G]men [C] [Em] [D]      [G]
