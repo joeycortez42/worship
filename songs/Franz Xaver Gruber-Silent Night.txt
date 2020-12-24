@@ -1,35 +1,37 @@
-{title:Silent Night}
-{subtitle:Franz Xaver Gruber}
-{original_key:Bb}
-{key:A}
-{time:6/8}
-{as:10}
-{c:Intro}
-S[A]leep in he[E]aven-ly pe[A]ace
+{title: Silent Night}
+{artist: Franz Xaver Gruber}
+{key: A}
+{tempo: 0}
+{time: 6/8}
+{copyright: }
+
+{original_key: Bb}
+{c: Intro}
+S[A]leep in he[E]aven - ly pe[A]ace
 
 {c:Verse 1}
 [A]Si - lent night ho - ly night
 [E]All is calm [A]all is bright
-[D]Round yon virgin [A]moth-er and Child
-[D]Holy Infant so [A]ten-der and mild
+[D]Round yon virgin [A]moth - er and Child
+[D]Holy Infant so [A]ten - der and mild
 [E]Sleep in heavenly [A]peace
-[A]Sleep in [E]heaven-ly [A]peace
+[A]Sleep in [E]heaven - ly [A]peace
 
-{c:Verse 2}
+{c: Verse 2}
 [A]Si - lent night ho - ly night
 [E]Shepherds quake [A]at the sight
-[D]Glories stream from [A]heav-en afar
-[D]Heav'nly hosts sing [A]al-le-luia
+[D]Glories stream from [A]heav - en afar
+[D]Heav'nly hosts sing [A]al - le - luia
 [E]Christ the Savior is [A]born
 [A]Christ the [E]Savior is [A]born
 
-{c:Verse 3}
+{c: Verse 3}
 [A]Si - lent night ho - ly night
 [E]Son of God [A]love's pure light
-[D]Radiant beams from [A]Thy ho-ly face
-[D]With the dawn of re-[A]deem-ing grace
+[D]Radiant beams from [A]Thy ho - ly face
+[D]With the dawn of re - [A]deem - ing grace
 [E]Jesus Lord at Thy [A]birth
 [A]Jesus [E]Lord at Thy [A]birth
 
-{c:Ending}
+{c: Ending}
 [A]Jesus [E]Lord at Thy [A]birth

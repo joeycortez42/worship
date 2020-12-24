@@ -1,27 +1,15 @@
-{title:O Holy Night}
-{subtitle:Adolphe Charles Adam}
-{original_key:C}
-{key:C}
-{time:6/8}
-{as:10}
-{c:Intro}
+{title: O Holy Night}
+{artist: Adolphe Charles Adam}
+{key: C}
+{tempo: 90}
+{time: 6/8}
+{copyright: Public Domain}
+
+{original_key: C}
+{c: Intro}
 Oh ni[C]ght[G] oh night di[C]vine
 
-{c:Verse}
-[C]Oh holy night     The st[F/A]ars are brightly s[C/B]hin-ing
-It is the night of our d[G]ear Savior's b[C]irth
-L[C]ong lay the w[C/B]orld     In s[F/A]in and error p[C/B]in-i[C]ng
-Till He ap-pe[Em]ared and the s[B]oul felt its w[Em]orth
-A th[G]rill of hope the we[C]ary world re-j[C]oic-es
-For yo[G]nder breaks     A n[C]ew and glo-[C]rious morn
-
-{soc}
-[Am]Fall on yo[Em/G]ur knees     [Dm]Oh hear the an-[Am]gel voices
-Oh ni[C]ght [G]  di[Am]vine     Oh ni[C]ght[G]  when Christ w[C/E]as born  [C]
-Oh ni[G]ght [G/F]     di-[C/E]vine  [F]   Oh ni[C]ght[G]  oh night di[C]vine
-{eoc}
-
-{c:Verse}
+{c: Verse}
 [C]Oh holy n[C/B]ight     The st[F/A]ars are brightly s[C/B]hin-ing
 It is the night of our d[G]ear Savior's b[C]irth
 L[C]ong lay the w[C/B]orld     In s[F/A]in and error p[C/B]in-i[C]ng
@@ -31,25 +19,24 @@ For yo[G]nder breaks     A n[C]ew and glo-[C]rious morn
 
 {soc}
 [Am]Fall on yo[Em/G]ur knees     [Dm]Oh hear the an-[Am]gel voices
-Oh ni[C]ght [G]  di[Am]vine     Oh ni[C]ght[G]  when Christ w[C/E]as born  [C]
+Oh ni[C]ght [G]  di[Am]vine  [F]     Oh ni[C]ght[G]  when Christ w[C/E]as born  [C]
 Oh ni[G]ght [G/F]     di-[C/E]vine  [F]   Oh ni[C]ght[G]  oh night di[C]vine
 {eoc}
 
-VERSE 3
-CTruly He taught us to Flove one an - Cother
-His law is C/Glove and His Ggospel is Cpeace
-CChains shall He break for the Fslave is our Cbrother
-And C7in His Em/Bname all op - B7pression shall Emcease
+{c: Verse}
+[C]Oh holy n[C/B]ight     The st[F/A]ars are brightly s[C/B]hin-ing
+It is the night of our d[G]ear Savior's b[C]irth
+L[C]ong lay the w[C/B]orld     In s[F/A]in and error p[C/B]in-i[C]ng
+Till He ap-pe[Em]ared and the s[B]oul felt its w[Em]orth
+A th[G]rill of hope the we[C]ary world re-j[C]oic-es
+For yo[G]nder breaks     A n[C]ew and glo-[C]rious morn
 
-Sweet G7/Dhymns of G7joy in Cgrateful chorus raise we
-Let G7/Dall with - G7in us  Cpraise His holy name
+{soc}
+[Am]Fall on yo[Em/G]ur knees     [Dm]Oh hear the an-[Am]gel voices
+Oh ni[C]ght [G]  di[Am]vine  [F]    Oh ni[C]ght[G]  when Christ w[C/E]as born  [C]
+Oh ni[G]ght [G/F]     di-[C/E]vine  [F]   Oh ni[C]ght[G]  oh night di[C]vine
+{eoc}
 
-CHORUS 3
-AmChrist         is the EmLord,         O Dmpraise         His name for - Amever
-His C/Gpow'r     G/F      and C/Eglo       -   F     ry   C/Gev      G7-     ermore pro - Cclaim
-C/EHis    Gpow'r    G/F      and C/Eglo      -  F     ry   C/Gev      G7-     ermore pro - Cclaim
-
-
-{c:Ending}
+{c: Ending}
 Oh ni[G]ght [G/F]     di-[C/E]vine  [F]
 Oh ni[C]ght[G]  oh night di[C]vine

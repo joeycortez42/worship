@@ -1,56 +1,59 @@
-{title:He Shall Reign Forevermore}
-{subtitle:Chris Tomlin}
-{original_key:Bb}
-{key:G}
-{tempo:122}
-{time:4/4}
-{as:10.0}
-{c:Intro}
+{title: He Shall Reign Forevermore}
+{artist: Chris Tomlin}
+{key: G}
+{duration: 217}
+{tempo: 122}
+{time: 4/4}
+{copyright: 2015 S. D. G. Publishing}
+
+{original_key: Bb}
+{c: Intro}
 [Em] [C] [G] [D]
 
-{c:Verse 1}
-[Em]In the bleak mid-[C]winter [G]all creation [D]groans
+{c: Verse 1}
+[Em]In the bleak mid - [C]winter [G]all creation [D]groans
 [Em]For a world in [C]darkness [G]frozen like a [D]stone
 Light is [Am7]breaking [C]  in a [G]stable for a [D]throne
 
-{soc}
-And [Em]He shall [C]reign forever-[G]more forever-[D]more
-And [Em]He shall [C]reign forever-[G]more forever-[D]more
+{start_of_chorus}
+And [Em]He shall [C]reign forever - [G]more forever - [D]more
+And [Em]He shall [C]reign forever - [G]more forever - [D]more
 [Em]Unto us a [C]Child is born the [G]King of kings and [D]Lord of lords
-And [Em]He shall [C]reign forever-[G]more forever-[D]more
-{eoc}
+And [Em]He shall [C]reign forever - [G]more forever - [D]more
+{end_of_chorus}
 
 [Em] [C] [G] [D]
 
-{c:Verse 2}
+{c: Verse 2}
 [Em]If I were a [C]wise man [G]I would travel [D]far
 [Em]If I were a [C]shepherd [G]I would do my [Bm7]part
 But poor as [Am7]I am  [C]  I will [G]give to Him my [D]heart
 
-{soc}
-And [Em]He shall [C]reign forever-[G]more forever-[D]more
-And [Em]He shall [C]reign forever-[G]more forever-[D]more
+{start_of_chorus}
+And [Em]He shall [C]reign forever - [G]more forever - [D]more
+And [Em]He shall [C]reign forever - [G]more forever - [D]more
 [Em]Unto us a [C]Child is born the [G]King of kings and [D]Lord of lords
-And [Em]He shall [C]reign forever-[G]more forever-[D]more
-{eoc}
+And [Em]He shall [C]reign forever - [G]more forever - [D]more
+{end_of_chorus}
 
 {sob}
 [Em]Here within a [C]manger lies the [G]One who made the [D]starry skies
-This [Em]baby born for [C]sacrifice [G]Christ the Mes-[D]siah
-In-[Em]to our hopes in-[C]to our fears the [G]Savior of the [D]world appears
-The [Em]promise of e-[C]ternal years [G]Christ the Mes-[D]siah
+This [Em]baby born for [C]sacrifice [G]Christ the Mes - [D]siah
+In - [Em]to our hopes in - [C]to our fears the [G]Savior of the [D]world appears
+The [Em]promise of e - [C]ternal years [G]Christ the Mes - [D]siah
 {eob}
 
-{soc}
-And [Em]He shall [C]reign forever-[G]more forever-[D]more
-And [Em]He shall [C]reign forever-[G]more forever-[D]more
+{start_of_chorus}
+And [Em]He shall [C]reign forever - [G]more forever - [D]more
+And [Em]He shall [C]reign forever - [G]more forever - [D]more
 
-And [Em]He shall [C]reign forever-[G]more forever-[D]more
-And [Em]He shall [C]reign forever-[G]more forever-[D]more
+And [Em]He shall [C]reign forever - [G]more forever - [D]more
+And [Em]He shall [C]reign forever - [G]more forever - [D]more
 [Em]Unto us a [C]Child is born the [G]King of kings and [D]Lord of lords
-And [Em]He shall [C]reign forever-[G]more forever-[D]more
-{eoc}
+And [Em]He shall [C]reign forever - [G]more forever - [D]more
+{end_of_chorus}
 
-{c:Ending}
-[Em] [C] He shall reign [G] [D] He shall reign
-[Em] [C] He shall reign [G] [D] [Em]
+{c: Ending}
+[Em] [C]             He shall [G]re - i[D]gn
+He shall [Em]re - i[C]gn  
+He shall [G]re - i[D]gn   [Em]

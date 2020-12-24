@@ -1,33 +1,39 @@
-{title:Joy To The World}
-{subtitle:Isaac Watts}
-{original_key:D}
-{key:C}
-{tempo:96}
-{time:2/4}
-{as:11.5}
-{c:Intro}
-And [C]heav'n and heav'n [F]and [C]na-[G]ture [C]sing
+{title: Joy To The World}
+{artist: Isaac Watts}
+{key: C}
+{duration: 148}
+{tempo: 96}
+{time: 2/4}
+{copyright: Public Domain}
 
-{c:Verse 1}
-[C]Joy to the world the [G]Lord is [C]come     Let [F]earth re-[G]ceive her [C]King
-Let [C]ev-ery heart [C]prepare Him room
+{original_key: D}
+{c: Intro}
+And [C]heav'n and heav'n [F]and [C]na - [G]ture [C]sing
+
+{c: Verse 1}
+[C]Joy to the world the [G]Lord is [C]come
+Let [F]earth re - [G]ceive her [C]King
+Let [C]ev - ery heart [C]prepare Him room
 And [C]heav'n and nature sing     And [G]heav'n and nature sing
-And [C]heav'n and heav'n [F]and [C]na-[G]ture [C]sing
+And [C]heav'n and heav'n [F]and [C]na - [G]ture [C]sing
 
-{c:Verse 2}
-[C]Joy to the earth the S[G]av-ior rei[C]gns     Let [F]men their [G]songs em-[C]ploy
+{c: Verse 2}
+[C]Joy to the earth the S[G]av - ior rei[C]gns
+Let [F]men their [G]songs em - [C]ploy
 While [C]fields and floods [C]rocks hills and plains
-Re-[C]peat the sounding joy     Re-[G]peat the sounding joy
-Re-[C]peat re-peat [F]the [C]sound-[G]ing [C]joy
+Re - [C]peat the sounding joy     Re - [G]peat the sounding joy
+Re - [C]peat re - peat [F]the [C]sound - [G]ing [C]joy
 
-{c:Verse 3}
-[C]He rules the world with [G]truth and [C]grace     And [F]makes the [G]nations [C]prove
-The [C]glo-ries of [C]His right-eous-ness
+{c: Verse 3}
+[C]He rules the world with [G]truth and [C]grace
+And [F]makes the [G]nations [C]prove
+The [C]glo - ries of [C]His right - eous - ness
 And [C]wonders of His love     And [G]wonders of His love
-And [C]wonders won-[F]ders [C]of [G]His [C]love
+And [C]wonders won - [F]ders [C]of [G]His [C]love
 
-{c:Verse 4}
-[C]Joy to the world the [G]Lord is [C]come     Let [F]earth re-[G]ceive her [C]King
-Let [C]ev-ery heart [C]prepare Him room
+{c: Verse 4}
+[C]Joy to the world the [G]Lord is [C]come
+Let [F]earth re - [G]ceive her [C]King
+Let [C]ev - ery heart [C]prepare Him room
 And [C]heav'n and nature sing     And [G]heav'n and nature sing
-And [C]heav'n and heav'n [F]and [C]na-[G]ture [C]sing
+And [C]heav'n and heav'n [F]and [C]na - [G]ture [C]sing

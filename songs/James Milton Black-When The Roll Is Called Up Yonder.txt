@@ -1,0 +1,54 @@
+{title: When The Roll Is Called Up Yonder}
+{artist: James Milton Black}
+{key: G}
+{duration: 202}
+{tempo: 104}
+{time: 4/4}
+{copyright: Public Domain}
+
+{original_key: Ab}
+{c: Intro}
+[G]. .    [D]. .    [G].    [C].    [G]. .
+
+{c: Verse 1}
+When the [G]trumpet of the Lord shall sound and [C]time shall be no [G]more
+And the [G]morning breaks eternal bright and [D]fair
+When the [G]saved of earth shall gather over [C]on the other [G]shore
+And the [G]roll is called up [D]yonder I'll be [G]there [C] [G]
+
+{start_of_chorus}
+When the [G]roll is called up yonder
+When the [D]roll is called up yonder
+When the [G]roll is called up [C]yonder
+When the [G]roll is called up [D]yonder I'll be [G]there [C] [G]
+{end_of_chorus}
+
+{c: Verse 2}
+On that [G]bright and cloudless morning
+When the [C]dead in Christ shall [G]rise
+And the [G]glory of His resur - rection [D]share
+When His [G]chosen ones shall gather to their [C]home beyond the [G]skies
+And the [G]roll is called up [D]yonder I'll be [G]there [C] [G]
+
+{start_of_chorus}
+When the [G]roll is called up yonder
+When the [D]roll is called up yonder
+When the [G]roll is called up [C]yonder
+When the [G]roll is called up [D]yonder I'll be [G]there [C] [G]
+{end_of_chorus}
+
+{c: Verse 3}
+Let us [G]labor for the Master from the [C]dawn till setting [G]sun
+Let us [G]talk of all His wondrous love and [D]care
+Then when [G]all of life is over and our [C]work on earth is [G]done
+And the [G]roll is called up [D]yonder I'll be [G]there [C] [G]
+
+{start_of_chorus}
+When the [G]roll is called up yonder
+When the [D]roll is called up yonder
+When the [G]roll is called up [C]yonder
+When the [G]roll is called up [D]yonder I'll be [G]there [C] [G]
+{end_of_chorus}
+
+{c: Ending with retard}
+When the [G]roll is called up [D]yonder I'll be [G]there [C] [G]

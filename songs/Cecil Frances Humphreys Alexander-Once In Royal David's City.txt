@@ -1,0 +1,42 @@
+{title: Once In Royal David's City}
+{artist: Cecil Frances Humphreys Alexander}
+{key: G}
+{duration: 203}
+{tempo: 0}
+{time: 4/4}
+{copyright: Public Domain}
+
+{original_key: F}
+{c: Intro}
+[G]
+
+{c: Verse 1}
+[G]Once [D]in [G]roy - al [C]Da - vid's [D]cit - [G]y
+[G]Stood a [Em]low - ly [D]cat - tle [G]shed
+[D]Where a [G]moth - er [C]laid her [G]ba - by
+[G]In a [Em]man - ger [D]for     His [G]bed
+[C]Ma - ry [G]was that[Am] moth - er [G]mild
+[C]Je - sus [G]Christ her [D]lit - tle [G]child
+
+{c: Verse 2}
+[G]He [D]came [G]down to [C]earth from [D]hea[G]v - en
+[G]Who is [Em]God and [D]Lord of [G]all
+[D]And His [G]shel - ter [C]was a [G]sta - ble
+[G]And His [Em]cra - dle [D]was     a [G]stall
+[C]With the [G]poor and [Am]meek and [G]lowly
+[C]Lived on [G]earth our [D]Sav - ior [G]holy
+
+[G]   [D]  [G]    [C]        [D]  [G]  
+[G]      [Em]    [D]       [G]  
+[D]      [G]      [C]     [G]  
+[G]      [Em]     [D]          [G]  
+[C]       [G]    [Am]         [G]  
+[C]       [G]     [D]           [G]  
+
+{c: Verse 4}
+[G]And [D]our [G]eyes at [C]last shall [D]see [G]Him
+[G]Through His[Em]own re - [D]deem - ing [G]love
+[D]For that [G]child so [C]dear and [G]gen - tle
+[G]Is our [Em]Lord in [D]heav - en a - [G]bove
+[C]And He [G]leads His [Am]chil - dren [G]on
+[C]To the [G]place where [D]He has [G]gone

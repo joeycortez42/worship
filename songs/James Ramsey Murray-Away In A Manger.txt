@@ -1,35 +1,37 @@
-{title:Away In A Manger}
-{subtitle:James Ramsey Murray}
-{original_key:F}
-{key:D}
-{tempo:100}
-{time:3/4}
-{as:10}
-{c:Intro}
-The [A]lit-tle Lord [D]Je-sus   a-[G]sleep on [A]the [D]hay
+{title: Away In A Manger}
+{artist: James Ramsey Murray}
+{key: D}
+{duration: 159}
+{tempo: 100}
+{time: 3/4}
+{copyright: Public Domain}
 
-{c:Verse 1}
-A-[D]way in a man-ger no   [G]crib for a [D]bed
+{original_key: F}
+{c: Intro}
+The [A]lit - tle Lord [D]Je - sus   a - [G]sleep on [A]the [D]hay
+
+{c: Verse 1}
+A - [D]way in a man - ger no   [G]crib for a [D]bed
 The [A]little Lord Jesus laid [D]down His sweet head
 The [D]stars in the sky looked [G]down where He [D]lay
-The [A]lit-tle Lord [D]Jesus   a-[G]sleep on [A]the [D]hay
+The [A]lit - tle Lord [D]Jesus   a - [G]sleep on [A]the [D]hay
 
-{c:Verse 2}
-The [D]cat-tle are low-ing   the [G]Baby a-[D]wakes
-But [A]lit-tle Lord Jesus   no [D]crying He makes
-I [D]love Thee Lord Je-sus   look [G]down from the [D]sky
-And [A]stay by my [D]cra-dle 'til [G]morning [A]is [D]nigh
+{c: Verse 2}
+The [D]cat - tle are low - ing   the [G]Baby a - [D]wakes
+But [A]lit - tle Lord Jesus   no [D]crying He makes
+I [D]love Thee Lord Je - sus   look [G]down from the [D]sky
+And [A]stay by my [D]cra - dle 'til [G]morning [A]is [D]nigh
 
-{c:Verse 3}
-Be [D]near me Lord Je-sus   I [G]ask Thee to [D]stay
+{c: Verse 3}
+Be [D]near me Lord Je - sus   I [G]ask Thee to [D]stay
 Close [A]by me forever and [D]love me I pray
 Bless [D]all the dear children in [G]Thy tender [D]care
-And [A]take us to [D]heav-en   to [G]live with [A]Thee [D]there
+And [A]take us to [D]heav - en   to [G]live with [A]Thee [D]there
 
-Be [D]near me Lord Je-sus   I [G]ask Thee to [D]stay
+Be [D]near me Lord Je - sus   I [G]ask Thee to [D]stay
 Close [A]by me forever and [D]love me I pray
 Bless [D]all the dear children in [G]Thy tender [D]care
-And [A]take us to [D]heav-en   to [G]live with [A]Thee [D]there
+And [A]take us to [D]heav - en   to [G]live with [A]Thee [D]there
 
-{c:Ending}
-And [A]take us to [D]heav-en   to [G]live with [A]Thee [D]there
+{c: Ending}
+And [A]take us to [D]heav - en   to [G]live with [A]Thee [D]there

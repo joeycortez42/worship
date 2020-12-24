@@ -1,0 +1,67 @@
+{title: O Come O Come Thou Long Expected Jesus}
+{artist: Medley}
+{key: Em}
+{duration: }
+{tempo: 120}
+{time: 4/4}
+{copyright: Public Domain}
+
+{original_key: Em}
+{c: Intro}
+
+{c: Verse}
+O c[Em]ome O come   Em - [D]ma[Bm]n - u - [Em]el
+And r[G]ansom captive   [Am]Is [D]- ra - [Em]el
+That [Am]mourns in lone - ly   [G]ex [Bm]- ile  [D]here
+Un - [Em]til the Son of [Am]God [D]ap - p[Em]ear
+
+{soc}
+Re - [D]joice   re - [Em]joice   E[Am]m - m[D]an - u - [Em]el
+Shall co[G]me to thee [Am]O   Is [Bm]- ra - [Em]el
+{eoc}
+
+{c: Verse 1}
+[D]Come Thou [Bm]long  ex[Em]pect - ed   [A]Je - sus
+[D]Born to [Bm]set Thy   [A]peo - ple   [D]free
+[D]From our [Bm]fears and [Em]sins re - [A]lease us
+[D]Let us [Bm]find our [A]rest in [D]Thee
+
+[F#m]Israel's [Bm]strength and [Em]conso - [A]lation
+[D]Hope of [Bm]all the [Em]earth Thou [A]art
+[D]Dear de - [A]sire of [D]ev - ery [A]na - tion
+[D/F#]Joy of [G]ev - ery [D]long - [A]ing [D]heart
+
+{c: Verse 2}
+[D]Born Thy [Bm]peo - ple [Em]to de - [A]liv - er
+[D]Born a [Bm]child and [A]yet a [D]King
+[D]Born to [Bm]reign in [Em]us for - [A]ev - er
+[D]Now Thy [Bm]gra - cious [A]King - dom [D]bring
+
+[F#m]By Thine [Bm]own e - [Em]ter - nal [A]Spir - it
+[D]Rule in [Bm]all our [Em]hearts a - [A]lone
+[D]By Thine [A]all suf - [D]fi - cient [A]mer - it
+[D]Raise us [G]to Thy [D]glori - [A]ous [D]throne
+
+{c: Ending}
+[D]Dear de - [A]sire of [D]ev - ery [A]na - tion
+[D/F#]Joy of [G]ev - ery [D]long - [A]ing [D]heart
+[D]Ev - [A]ery [D]heart
+
+{c: .}
+{c: .}
+{c: .}
+{c: .}
+{c: .}
+{c: .}
+{c: .}
+{c: .}
+{c: .}
+{c: .}
+{c: .}
+{c: .}
+{c: .}
+{c: .}
+{c: .}
+{c: .}
+{c: .}
+{c: Scroll Space}

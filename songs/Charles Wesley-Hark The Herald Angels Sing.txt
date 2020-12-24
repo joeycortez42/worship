@@ -1,41 +1,64 @@
-{title:Hark The Herald Angels Sing}
-{subtitle:Charles Wesley}
-{original_key:F}
-{key:D}
-{time:4/4}
-{as:9.5}
-{c:Intro}
-[G]Hark the her-ald [Em]an-gels sing     [A/G]Glo-ry [D/F#]to the [D/A]new-[A]born [D]King
+{title: Hark The Herald Angels Sing}
+{artist: Charles Wesley}
+{key: D}
+{duration: 196}
+{tempo: 0}
+{time: 4/4}
+{copyright: Public Domain}
 
-{c:Verse 1}
-[D]Hark the her-ald [D/F#]an-gels si[A]ng     [D/F#]Glo-ry to the [D]new-[A]born [D]King
-[D]Peace on earth and [Bm]mer-cy [E]mild     [A]God and sin-ners [D]rec-[E]on-[A]ciled
-[D]Joyful all ye [A]na-tions [D/A]rise     [D]Join the tri-umph [A]of the [D/A]skies
-[G]With the angel-ic [Em]hosts pro-claim     [A]Christ is [D/F#]born in [A]Beth-le-[D]hem
+{original_key: F}
+{c: Intro}
+[G]Hark the her - ald    [Em]an - gels sing
+[A/G]Glo - ry [D/F#]to      the [D/A]new - [A]born [D]King
 
-{soc}
-[G]Hark the her-ald [Em]an-gels sing     [A/G]Glo-ry [D/F#]to the [D/A]new-[A]born [D]King
-{eoc}
+{c: Verse 1}
+[D]Hark the her - ald [D/F#]an - gels si[A]ng
+[D/F#]Glo - ry to the [D]new - [A]born [D]King
+[D]Peace on earth and [Bm]mer - cy [E]mild
+[A]God and sin - ners [D]rec - [E]on - [A]ciled
 
-{c:Verse 2}
-[D]Christ by high-est [D/F#]heav'n a-do[A]red     [D/F#]Christ the ev-er-[D]last-[A]ing [D]Lord
-[D]Late in time be-[Bm]hold Him [E]come     [A]Off-spring of the [D]Vir-[E]gin’s [A]womb
-[D]Veiled in flesh the [A]God-head [D/A]see     [D]Hail the incar-nate [A]De-i-[D/A]ty
-[G]Pleased as man with [Em]men to dwell     [A]Jesus [D/F#]our Em-[A]man-u-[D]el
+[D]Joyful all ye [A]na - tions [D/A]rise
+[D]Join the tri - umph [A]of the [D/A]skies
+[G]With the angel - ic [Em]hosts pro - claim
+[A]Christ is [D/F#]born in [A]Beth - le - [D]hem
 
-{soc}
-[G]Hark the her-ald [Em]an-gels sing     [A/G]Glo-ry [D/F#]to the [D/A]new-[A]born [D]King
-{eoc}
+{start_of_chorus}
+[G]Hark the her - ald    [Em]an - gels sing
+[A/G]Glo - ry [D/F#]to      the [D/A]new - [A]born [D]King
+{end_of_chorus}
 
-{c:Verse 3}
-[D]Hail the heav'n-born [D/F#]Prince of [A]Peace     [D/F#]Hail the Sun of [D]Right-[A]eous-[D]ness
-[D]Light and life to [Bm]all He [E]brings     [A]Ris'n with heal-ing [D]in [E]His [A]wings
-[D]Mild He lays His [A]glo-ry [D/A]by     [D]Born that man no [A]more may [D/A]die
-[G]Born to raise the [Em]sons of earth     [A]Born to [D/F#]give them [A]sec-ond [D]birth
+{c: Verse 2}
+[D]Christ by high - est [D/F#]heav'n a - do[A]red
+[D/F#]Christ the ev - er - [D]last - [A]ing [D]Lord
+[D]Late in time be - [Bm]hold Him [E]come
+[A]Off - spring of the [D]Vir - [E]gin’s [A]womb
 
-{soc}
-[G]Hark the her-ald [Em]an-gels sing     [A/G]Glo-ry [D/F#]to the [D/A]new-[A]born [D]King
-{eoc}
+[D]Veiled in flesh the [A]God - head [D/A]see
+[D]Hail the incar - nate [A]De - i - [D/A]ty
+[G]Pleased as man with [Em]men to dwell
+[A]Jesus [D/F#]our Em - [A]man - u - [D]el
 
-{c:Ending}
-[G]Hark the her-ald [Em]an-gels sing     [A/G]Glo-ry [D/F#]to the [D/A]new-[A]born [D]King
+{start_of_chorus}
+[G]Hark the her - ald    [Em]an - gels sing
+[A/G]Glo - ry [D/F#]to      the [D/A]new - [A]born [D]King
+{end_of_chorus}
+
+{c: Verse 3}
+[D]Hail the heav'n - born [D/F#]Prince of [A]Peace
+[D/F#]Hail the Sun of [D]Right - [A]eous - [D]ness
+[D]Light and life to [Bm]all He [E]brings
+[A]Ris'n with heal - ing [D]in [E]His [A]wings
+
+[D]Mild He lays His [A]glo - ry [D/A]by
+[D]Born that man no [A]more may [D/A]die
+[G]Born to raise the [Em]sons of earth
+[A]Born to [D/F#]give them [A]sec - ond [D]birth
+
+{start_of_chorus}
+[G]Hark the her - ald    [Em]an - gels sing
+[A/G]Glo - ry [D/F#]to      the [D/A]new - [A]born [D]King
+{end_of_chorus}
+
+{c: Ending}
+[G]Hark the her - ald    [Em]an - gels sing
+[A/G]Glo - ry [D/F#]to      the [D/A]new - [A]born [D]King
