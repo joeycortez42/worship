@@ -1,0 +1,97 @@
+{title: My Testimony}
+{artist: Steven Furtick}
+{key: A}
+{duration: }
+{tempo: 97}
+{time: 4/4}
+{copyright: Music by Elevation Worship Publishing}
+
+{original_key: B}
+{c: Intro}
+[A]     [Asus]     [A]     [Asus]
+
+{c: Verse 1}
+[A]     I saw Satan fall like [D]lightning
+[A]     I saw darkness run for [D]cover
+[F#m]     But the miracle that [D]I     just can't get over
+My [F#m]name     is [E]registered in [D]heaven
+
+{c: Verse 2}
+[A]     I believe in signs and [D]wonders
+[A]     I have resurrection [D]power
+[F#m]     Still the miracle that [D]I     just can't get over
+My [F#m]name   is [E]registered in [D]heaven
+My [F#m]praise be - longs to You for - [D]ever
+
+{soc}
+[A]     This is my testi - [F#m]mony   from [D]death to life
+[A]     'Cause grace rewrote my [F#m]story   I'll [D]testify
+[A]     By Jesus Christ the [F#m]Righteous   I'm [D]justified
+[A]     This is my testi - [F#m]mony   this [D]is   my testi - [A]mony
+{eoc}
+
+[A]     [F#m]     [D]     [A]     [F#m]     [D]
+
+{c: Verse 3}
+[A]     Come together sons and [Asus]daughters
+[A]     Bought with blood and washed in [Asus]water
+[F#m]     Sing the praises of the [D]Spirit     Son and Father
+Our [F#m]God     will [E]finish what He [D]started
+Our [F#m]God     will [E]finish what He [D]started
+
+{soc}
+[A]     This is my testi - [F#m]mony   from [D]death to life
+[A]     'Cause grace rewrote my [F#m]story   I'll [D]testify
+[A]     By Jesus Christ the [F#m]Righteous   I'm [D]justified
+[A]     This is my testi - [F#m]mony   this [D]is   my testi - [A]mony
+{eoc}
+
+[A]     [F#m]     [D]     [A]     [F#m]     [D]     [A]     [Asus]
+
+{sob}
+[A]     If I'm not dead You're not [D]done
+[A]     Greater things are still to [D]come oh I believe
+
+[A]     If I'm not dead You're not [D]done
+[A]     Greater things are still to [D]come oh I believe
+
+[A]     If I'm not dead You're not [D]done
+[A]     Greater things are still to [D]come oh I believe
+
+[A]     If I'm not dead You're not [D]done
+[A]     Greater things are still to [D]come oh I believe
+
+[A]     [D]
+
+{soc}
+[A]     This is my testimony   from death to life
+[A]     'Cause grace rewrote my [F#m]story   I'll [D]testify
+[A]     By Jesus Christ the [F#m]Righteous   I'm [D]justified
+[A]     This is my testi - [F#m]mony   oh [D]I'm alive
+{eoc}
+
+{soc}
+[A]     This is my testi - [F#m]mony   from [D]death to life
+[A]     'Cause grace rewrote my [F#m]story   I'll [D/F#]testify
+[A]     By Jesus Christ the [F#m]Righteous   I'm [D]justified
+[A]     This is my testi - [F#m]mony   this [D]is   my testi - [A]mony
+{eoc}
+ 
+{c: Ending}
+[A]     [F#m]     [D]     [A]     [F#m]     [D]
+[A]     [F#m]     [D]     [A]     [F#m]     [D]     [A]
+
+{c: .}
+{c: .}
+{c: .}
+{c: .}
+{c: .}
+{c: .}
+{c: .}
+{c: .}
+{c: .}
+{c: .}
+{c: .}
+{c: .}
+{c: .}
+{c: Scroll Space}
