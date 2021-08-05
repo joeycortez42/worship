@@ -1,7 +1,7 @@
 {title: You Are My King (Amazing Love)}
 {artist: Billy Foote}
 {key: D}
-{duration: 221}
+{duration: 230}
 {tempo: 70}
 {time: 4/4}
 {copyright: 1996 worshiptogether.com songs}

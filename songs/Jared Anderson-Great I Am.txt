@@ -1,0 +1,86 @@
+{title: Great I Am}
+{artist: Jared Anderson}
+{key: D}
+{duration: }
+{tempo: 80}
+{time: 4/4}
+{copyright: 2011 Integrity Worship Music}
+
+{original_key: D}
+{c: Intro}
+[D]. . . .   [Em7]. .   [A]. .
+[D]. . . .   [Em7]. .   [A]. .
+
+{c: Verse 1}
+[D]     I wanna be [Em7]close     cl[A]ose to Your si[D]de
+So Heaven is [Em7]real     and de[A]ath is a [Bm7]lie
+I wanna hear v[Em7]oices     of an[A]gels  a - bo[D]ve
+Singing as [Em7]one
+
+{soc}
+[A]Halle  -  [Bm7]lujah     holy h[G]oly
+God Al - mig[D]hty     great I  [Asus]Am
+[A]Who is w[Bm7]orthy     none be - si[G]de Thee
+God Al - migh[D]ty     great I [Asus]Am     [A]
+{eoc}
+
+{c: Verse 2}
+[D]      I wanna be [Em7]near     n[A]ear to Your he[D]art
+Loving the [Em7]world     ha[A]ting the d[Bm7]ark
+I wanna see [Em7]dry bones     li[A]ving a - ga[D]in
+Singing as [Em7]one
+
+{soc}
+[A]Halle  -  [Bm7]lujah     holy h[G]oly
+God Al - mig[D]hty     great I  [Asus]Am
+[A]Who is w[Bm7]orthy     none be - si[G]de Thee
+God Al - migh[D]ty     great I [Asus]Am     [A]
+{eoc}
+
+[Asus]  [Bm]   [G]     [Asus]  [Bm]   [G]
+[Asus]  [Bm]   [G]     [Asus]  [Bm]   [G]
+
+{sob}
+[Bm]   The mountains shake before You, the demons run and flee
+[G]   At the mention of Your name King of Majesty
+[D]  There is no pow'r in hell     or any who can stand
+[A] Before the power and the Presence of the great I A[Bm]m
+The great I [G]Am     the great I [D]Am      [A]
+The great I [Bm]Am     the great I [G]am
+the great I a[D]m      [A]
+{eob}
+
+{soc}
+[A]Halle  -  [Bm7]lujah     holy h[G]oly
+God Al - mig[D]hty     great I  [Asus]Am
+[A]Who is w[Bm7]orthy     none be - si[G]de Thee
+God Al - migh[D]ty
+{eoc}
+
+The great I [Asus]Am  [Bm]   [G]
+The great I [Asus]Am  [Bm]   [G]
+The great I [Asus]Am  [Bm]   [G]
+The great I [Asus]Am  [Bm]   [G]
+
+{sob}
+[Bm]   The mountains shake before You, the demons run and flee
+[G]   At the mention of Your name King of Majesty
+[D]  There is no pow'r in hell     or any who can stand
+[A] Before the power and the Presence of the great I A[Bm]m
+The great I [G]Am     the great I [D]Am      [A]
+The great I [Bm]Am     the great I [G]am
+the great I a[D]m      [A]
+{eob}
+
+{soc}
+[A]Halle  -  [Bm7]lujah     holy h[G]oly
+God Al - mig[D]hty     great I  [Asus]Am
+[A]Who is w[Bm7]orthy     none be - si[G]de Thee
+God Al - migh[D]ty
+{eoc}
+
+{c: Ending}
+The great I [Asus]Am  [Bm]   [G]
+The great I [Asus]Am  [Bm]   [G]
+The great I [Asus]Am  [Bm]   [G]
+The great I [Asus]Am  [Bm]   [G]     [G]     [D]

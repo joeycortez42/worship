@@ -1,7 +1,7 @@
 {title: Open Up The Heavens}
 {artist: Andi Rozier}
 {key: D}
-{duration: 207}
+{duration: 219}
 {tempo: 100}
 {time: 4/4}
 {copyright: 2012 All Essential Music}

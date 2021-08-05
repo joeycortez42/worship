@@ -1,0 +1,68 @@
+{title: Yes I Will}
+{artist: Eddie Hoagland}
+{key: G}
+{duration: 226}
+{tempo: 74}
+{time: 4/4}
+{copyright: All Essential Music}
+
+{original_key: C}
+{c: Intro}
+[C]. .   [G]. .   [D]. .   [Em]. .
+
+{c: Verse}
+I count on on[C]e thing [G]     The same Go[D]d that never fa[Em]ils
+Will not fa[C]il me no[G]w     You won't fa[D]il me no[Em]w
+In the wa[C]iting  [G]     The same G[D]od who's never la[Em]te
+Is workin' a[C]ll things o[G]ut     You're workin' [D]all things [Em]out
+
+{soc}
+Y[C]es I[G] will, lift You [D]high in the[Em] lowest valley
+Y[C]es I[G] will, bless Your n[D]ame
+Oh, [C]yes I[G] will, sing for [D]joy when my h[Em]eart is heavy
+[C]All my[G] days, oh[D] yes I[Em] will
+{eoc}
+
+[C]. .   [G]. .   [D]. .   [Em]. .
+[C]. .   [G]. .   [D]. .   [Em]. .
+
+{c: Verse}
+I count on on[C]e thing [G]     The same Go[D]d that never fa[Em]ils
+Will not fa[C]il me no[G]w     You won't fa[D]il me no[Em]w
+In the wa[C]iting  [G]     The same G[D]od who's never la[Em]te
+Is workin' a[C]ll things o[G]ut     You're workin' [D]all things [Em]out
+
+{soc}
+Y[C]es I[G] will     lift You [D]high in the[Em] lowest valley
+Y[C]es I[G] will     bless Your n[D]ame
+Oh [C]yes I[G] will     sing for [D]joy when my h[Em]eart is heavy
+[C]All my[G] days     oh[D] yes I[Em] will
+For a[C]ll my [G]days     oh [D]yes I [Em]will
+{eoc}
+
+{sob}
+And I choose to pr[C]aise [G]     To glo[D]rify, to glo[Em]rify
+The Name of all na[C]mes  [G]     That no[D]thing can stand ag[Em]ainst
+And I choose to pr[C]aise [G]     To [D]glorify, to g[Em]lorify
+The Name of all na[C]mes  [G]     That [D]nothing can stand [Em]against
+{eob}
+
+{c: A cappella}
+{sob}
+And I choose to pr[C]aise [G]     To glo[D]rify, to glo[Em]rify
+The Name of all na[C]mes  [G]     That no[D]thing can stand ag[Em]ainst
+{c: Full band}
+And I choose to pr[C]aise [G]     To [D]glorify, to g[Em]lorify
+The Name of all na[C]mes  [G]     That [D]nothing can stand [Em]against
+{eob}
+
+{soc}
+Y[C]es I[G] will     lift You [D]high in the[Em] lowest valley
+Y[C]es I[G] will     bless Your n[D]ame
+Oh [C]yes I[G] will     sing for [D]joy when my h[Em]eart is heavy
+[C]All my[G] days     oh[D] yes I[Em] will
+For a[C]ll my [G]days     oh [D]yes I [Em]will
+{eoc}
+
+{c: Ending}
+For a[C]ll my[G] days     oh [D]yes I [Em]will     [G]

@@ -1,7 +1,7 @@
 {title: Who You Say I Am}
 {artist: Ben Fielding}
 {key: F}
-{duration: }
+{duration: 222}
 {tempo: 58}
 {time: 6/8}
 {copyright: 2017 Hillsong Music Publishing}
@@ -14,66 +14,60 @@
 [F]     Who am I that the highest King
 Would [Dm]wel - co[C]me [F]me
 [F]     I was lost but He brought me in
-Oh His l[Dm]ove f[C]or [Bb]me     Oh His l[Dm]ove f[C]or [Bb]me
+Oh His l[Dm]ove f[C]or [Bb]me
+Oh His l[Dm]ove f[C]or [Bb]me
 
 {soc}
 Who the S[F]on sets free     Oh is fr[C]ee indeed
-I'm a c[Dm]hild     [C]of     G[Bb]od     Yes I    [F]     am
+I'm a c[Dm]hild     [C]of     G[Bb]od
+Yes I    [F]     am
 {eoc}
 
 {c: Verse 2}
 [F]     Free at last He has ransomed me
 His gr[Dm]ace r[C]uns d[F]eep
 [F]     While I was a slave to sin
-Jesus d[Dm]ied f[C]or [Bb]me     Yes He d[Dm]ied f[C]or [Bb]me
+Jesus d[Dm]ied f[C]or [Bb]me
+Yes He d[Dm]ied f[C]or [Bb]me
 
 {soc}
 Who the S[F]on sets free     Oh is fr[C]ee indeed
-I'm a c[Dm]hild     [C]of     G[Bb]od     Yes I    [F]     am
+I'm a c[Dm]hild     [C]of     G[Bb]od
+Yes I    [F]     am
 {eoc}
 
 {soc}
 In my Fat[F]her's house     There's a pl[C]ace for me
-I'm a c[Dm]hild     [C]of     G[Bb]od      Yes I    [F]     am
+I'm a c[Dm]hild [C]of [Bb]God
+Yes I    [F]     am
 {eoc}
 
 {sob}
-I am ch[Dm]osen     not for - s[C]aken
+I am ch[Dm]osen not for - s[C]aken
 I am w[F]ho You say I [Bb]am
-You are [Dm]for me     not a - g[C]ainst me
+You are [Dm]for me not a - g[C]ainst me
 I [F]am who You say I [Bb]am
 
-I am ch[Dm]osen     not for - s[C]aken
+I am ch[Dm]osen not for - s[C]aken
 I am w[F]ho You say I [Bb]am
-You are [Dm]for me     not a - g[C]ainst me
-I [F]am who You say I [Bb]am      I [Dm]am who You [C]say I [Bb]am
+You are [Dm]for me not a - g[C]ainst me
+I [F]am who You say I [Bb]am
+I [Dm]am who You [C]say I [Bb]am
 {eob}
 
 {soc}
 Who the S[F]on sets free     Oh is fr[C]ee indeed
-I'm a c[Dm]hild     [C]of     G[Bb]od      Yes I    [F]     am
+I'm a c[Dm]hild     [C]of     G[Bb]od
+Yes I    [F]     am
 {eoc}
 
 {soc}
 In my Fat[F]her's house     There's a pl[C]ace for me
-I'm a c[Dm]hild     [C]of     G[Bb]od      Yes I    [F]     am
+I'm a c[Dm]hild [C]of [Bb]God
+Yes I    [F]     am
 {eoc}
 
 {c: Ending}
-In my Fat[F]her's house     There's a pl[C]ace for me
-I'm a c[Dm]hild     [C]of     G[Bb]od      Yes I    [F]     am
-
-{c: .}
-{c: .}
-{c: .}
-{c: .}
-{c: .}
-{c: .}
-{c: .}
-{c: .}
-{c: .}
-{c: .}
-{c: .}
-{c: .}
-{c: .}
-{c: Scroll Space}
+Who the S[F]on sets free     Oh is fr[C]ee indeed
+I'm a c[Dm]hild     [C]of     G[Bb]od
+Yes I    [F]     am

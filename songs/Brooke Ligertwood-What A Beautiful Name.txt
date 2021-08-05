@@ -1,0 +1,79 @@
+{title: What A Beautiful Name}
+{artist: Brooke Ligertwood}
+{key: D}
+{duration: 277}
+{tempo: 68}
+{time: 4/4}
+{copyright: 2016 Hillsong Music Publishing Australia}
+
+{original_key: D}
+{c: Intro}
+[D]
+
+{c: Verse 1}
+[D]     You were the Word at the beginning
+One with G[G]od the L[Bm]ord Most H[A]igh
+[Bm]     Your hidden glory [A]in cre - at[D]ion
+Now re - ve[G]aled in [Bm]You our Chr[A]ist
+
+{soc}
+What a beautiful Name it [D]is    What a beautiful Name it [A]is
+The Name of J[Bm]esus Ch[A]rist my K[G]ing
+What a beautiful Name it[D/F#] is    Nothing compares to t[A]his
+What a beautiful Name it [Bm]is    The N[A]ame of Je[G]sus
+{eoc}
+
+{c: Verse 2}
+[D]     You didn't want heaven without us
+So Jesus Y[G]ou brought h[Bm]eaven d[A]own
+[Bm]     My sin was great Your [A/C#]love was gr[D]eater
+What could s[G]epar[Bm]ate us n[A]ow
+
+{soc}
+What a wonderful Name it [D]is     What a wonderful Name it [A]is
+The Name of J[Bm]esus Ch[A]rist my K[G]ing
+What a wonderful Name it[D/F#] is    Nothing compares to t[A]his
+What a wonderful Name it [Bm]is    The N[A]ame of Je[G]sus
+What a wonderful Name it [Bm]is    The N[A]ame of Je[G]sus
+{eoc}
+
+[G]. . . .   [A]. . . .   [Bm7]. . . .   [F#m]. . . .
+[G]. . . .   [A]. . . .   [Bm7]. . . .   [F#m]. . . .
+[G]. . . .   [A]. . . .   [Bm7]. . . .   [A]. . . .
+{sob}
+Death could not hold Y[G]ou     The veil tore bef[A]ore You
+You silence the b[Bm7]oast of sin and [F#m7]grave
+The heavens are r[G]oaring      The praise of Your g[A]lory
+For You are r[Bm7]aised to life ag[A]ain
+
+You have no ri[G]val        You have no eq[A]ual
+Now and for[Bm7]ever God    You r[F#m7]eign
+Yours is the ki[G]ngdom       Yours is the gl[A]ory
+Yours is the [Bm7]Name above all n[A]ames
+{eob}
+
+{soc}
+What a powerful Name it [D]is      What a powerful Name it [A]is
+The Name of J[Bm]esus Ch[A]rist my K[G]ing
+What a powerful Name it [D/F#]is      Nothing can stand ag[A]ainst
+What a powerful Name it [Bm]is       The N[A]ame of Je[G]sus
+{eoc}
+
+{sob}
+You have no ri[G]val        You have no eq[A]ual
+Now and for[Bm7]ever God    You r[F#m7]eign
+Yours is the ki[G]ngdom       Yours is the gl[A]ory
+Yours is the [Bm7]Name above all n[A]ames
+{eob}
+
+{soc}
+What a powerful Name it [D]is      What a powerful Name it [A]is
+The Name of J[Bm]esus Ch[A]rist my K[G]ing
+What a powerful Name it [D/F#]is      Nothing can stand ag[A]ainst
+What a powerful Name it [Bm]is       The N[A]ame of Je[G]sus
+{eoc}
+
+{c: Ending}
+What a powerful Name it [Bm]is       The N[A]ame of Je[G]sus
+What a powerful Name it [Bm]is       The N[A]ame of Je[G]sus
+[D]

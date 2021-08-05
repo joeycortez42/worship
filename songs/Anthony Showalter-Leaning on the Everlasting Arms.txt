@@ -1,58 +1,61 @@
-{title:Leaning on the Everlasting Arms}
-{subtitle:Anthony Showalter}
-{original_key:G}
-{key:G}
-{tempo:108}
-{time:4/4}
-{as:12.0}
-{c:Intro - Single strum first part of verse}
+{title: Leaning on the Everlasting Arms}
+{artist: Anthony Showalter}
+{key: G}
+{duration: 215}
+{tempo: 108}
+{time: 4/4}
+{copyright: Public Domain}
 
-{c:Verse 1}
-W[G]hat a fellowship w[C]hat a joy di - vine
+{original_key: Ab}
+{c: Intro - Single strum first part of verse}
+
+{c: Verse 1}
+W[G]hat a fellowship     w[C]hat a joy di - vine
 Le[G]aning o[Em]n the ever[G]lasting a[D]rms
 
-{c:Full Band build to chorus}
-W[G]hat a blessedness w[C]hat a peace is mine
+{c: Full Band build to chorus}
+W[G]hat a blessedness     w[C]hat a peace is mine
 Le[G]aning o[Em]n the ever[D]last - ing a[G]rms
 
 {soc}
-Le[G]aning Le[C]aning
+Le[G]aning     Le[C]aning
 S[G]afe and [Em]se - cure f[G]rom all a[D]l - arms
-Le[G]aning Le[C]aning
+Le[G]aning     Le[C]aning
 Le[G]aning o[Em]n the ever[D]last - ing a[G]rms   [G]
 {eoc}
 
-{c:Verse 2}
-[G]Oh, how sweet to walk [C]in the pilgrim way
+{c: Verse 2}
+[G]Oh, how sweet to walk     [C]in the pilgrim way
 Le[G]aning o[Em]n the ever[G]lasting a[D]rms
-[G]Oh, how bright the path g[C]rows from day to day
+[G]Oh, how bright the path     g[C]rows from day to day
 Le[G]aning o[Em]n the ever[D]last - ing a[G]rms
 
 {soc}
-Le[G]aning Le[C]aning
+Le[G]aning     Le[C]aning
 S[G]afe and [Em]se - cure f[G]rom all a[D]l - arms
-Le[G]aning Le[C]aning
+Le[G]aning     Le[C]aning
 Le[G]aning o[Em]n the ever[D]last - ing a[G]rms   [G] (Break)
 {eoc}
 
-{c:Instrumental like the verses}
-[G]. . [C]. . [G]. [Em]. . [G]. [D]. . [G]. . [C]. . [G]. [Em]. . [D]. [G]. [G](Break)
+{c: Instrumental like the verses}
+[G]. .    [C]. .    [G].    [Em]. .      [G].    [D]. .
+[G]. .    [C]. .    [G].    [Em]. .      [D].    [G].    [G](Break)
 
-{c:Verse 3}
-{c:Light Guitar and Drums}
-W[G]hat have I to dread w[C]hat have I to [C]fear
+{c: Verse 3}
+{c: Light Guitar and Drums}
+W[G]hat have I to dread     w[C]hat have I to [C]fear
 [G]Leaning on the everlasting a[D]rms
 
-{c:Full Band build to chorus}
-[G]I have blessed peace w[C]ith my Lord so near
+{c: Full Band build to chorus}
+[G]I have blessed peace     w[C]ith my Lord so near
 Le[G]aning o[Em]n the ever[D]last - ing a[G]rms  [G] (Break)
 
 {soc}
-Le[G]aning Le[C]aning
+Le[G]aning     Le[C]aning
 S[G]afe and [Em]se - cure f[G]rom all a[D]l - arms
-Le[G]aning Le[C]aning
+Le[G]aning     Le[C]aning
 Le[G]aning o[Em]n the ever[D]last - ing a[G]rms   [G]
 {eoc}
 
-{c:Ending}
+{c: Ending}
 Le[G]aning o[Em]n the ever[D]last [D]- ing a[G]rms

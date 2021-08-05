@@ -1,20 +1,22 @@
-{title:Amazing Grace (My Chains Are Gone)}
-{subtitle:Chris Tomlin}
-{original_key:F}
-{key:D}
-{tempo:60}
-{time:4/4}
-{as:10}
-{c:Intro - Key E - Capo 2 D}
+{title: Amazing Grace (My Chains Are Gone)}
+{artist: Chris Tomlin}
+{key: D}
+{duration: 219}
+{tempo: 60}
+{time: 4/4}
+{copyright: 2006 sixsteps Music}
+
+{original_key: F}
+{c: Intro}
 [D]
 
-{c:Verse 1}
+{c: Verse 1}
 A - [D]mazing grace [G] how sweet the [D]sound
 That [D]saved a wretch like [A] me
 I [D]once was lost but [G]now I'm [D]found
 Was [D]blind but [A]now I [D] see
 
-{c:Verse 2}
+{c: Verse 2}
 'Twas [D]grace that taught my [G] heart to [D]fear
 And [D]grace my fears re [A]- lieved
 How [D]precious did that [G]grace ap - [D]pear
@@ -29,7 +31,7 @@ Unending [Em7]love [A] amazing [D]grace
 
 [D]. . . .   [D]. . . .
 
-{c:Verse 3}
+{c: Verse 3}
 The [D]Lord has promised [G]good to [D]me
 His [D]word my hope se - [A]cures
 He [D]will my shield and [G]portion [D]be
@@ -49,12 +51,12 @@ Unending [Em7]love [A] amazing [D]grace
 
 [D]. . . .   [D]. . . .
 
-{c:Verse 4 - Softly}
+{c: Verse 4 - Softly}
 The [D]earth shall soon dis - [G]solve like [D]snow
 The [D]sun forbear to [A]shine
 But [D] God who called me [G]here be - [D]low
 Will [D]be for - [A]ever [D]mine
 
-{c:Ending}
+{c: Ending}
 Will [D]be for - [A]ever [D]mine
 You [D]are for - [A]ever [D] mine

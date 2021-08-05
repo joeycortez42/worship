@@ -1,22 +1,26 @@
-{title:God Is Able}
-{subtitle:Ben Fielding}
-{original_key:B}
-{key:A}
-{tempo:79}
-{time:4/4}
-{as:11.5}
-{c:Intro - Electric Guitar Only}
+{title: God Is Able}
+{artist: Ben Fielding}
+{key: A}
+{duration: 227}
+{tempo: 79}
+{time: 4/4}
+{copyright: 2010 Hillsong Music Publishing Australia}
+
+{original_key: B}
+{c: Intro - Electric Guitar Only}
+{sot}
 e|-------------------9-10-10-9------------------------------|
 B|-12p10-10h12-12p10-----------12p10-10h12-12p10---------10-|
 G|-----------------------------------------------9-11-11----|
 D|----------------------------------------------------------|
 A|----------------------------------------------------------|
 E|----------------------------------------------------------|
+{eot}
 [A]  [E]  [F#m]  [D]
-{c:Bass & Drums Enter}
+{c: Bass & Drums Enter}
 [A]  [E]  [F#m]  [D]
 
-{c:Verse 1}
+{c: Verse 1}
 God is [A]able He will [E]never fail   [F#m]He is Almighty [D]God
 Greater than [A]all we seek   Greater than [E]all we ask
 [F#m]He has [D]done great [E]things
@@ -30,7 +34,7 @@ For the [F#m]Lord our [E]God is [D]able
 
 [A]  [E]  [F#m]  [D]
 
-{c:Verse 2}
+{c: Verse 2}
 God is [A]with us God is [E]on our side   [F#m]He will make a [D]way
 Far above [A]all we know   Far above [E]all we hope
 [F#m]He has [D]done great [E]things
@@ -42,7 +46,7 @@ In His [A]Name we over - [E]come
 For the [F#m]Lord our [E]God is [D]able
 {eoc}
 
-{c:Down Strums}
+{c: Down Strums}
 [A]  [E]  [F#m]  [D]
 
 {sob}
@@ -50,16 +54,16 @@ God is [A]with us   He will [E]go before
 He will never [F#m]leave us   [E]  He will never [D]leave us
 
 God is [A]for us   He has [E]open arms
-{c:Sing Higher}
+{c: Sing Higher}
 He will never [F#m]fail us   [E]  He will never [D]fail us
 {eob}
 
 {soc}
-{c:A cappella}
+{c: A cappella}
 Lifted [A]up He defeated the [E]grave
 Raised to [F#m]life our [E]God is [D]able
 
-{c:Build}
+{c: Build}
 In His [A]Name we over - [E]come
 For the [F#m]Lord our [E]God is [D]able
 
@@ -69,6 +73,6 @@ In His [A]Name we over - [E]come
 For the [F#m]Lord our [E]God is [D]able
 {eoc}
 
-{c:Ending}
+{c: Ending}
 For the [F#m]Lord our [E]God is [D]able
 For the [F#m]Lord our [E]God is [D]able    [A]
