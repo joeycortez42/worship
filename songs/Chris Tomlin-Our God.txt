@@ -1,11 +1,13 @@
-{title:Our God}
-{subtitle:Chris Tomlin}
-{original_key:B}
-{key:G}
-{tempo:105}
-{time:4/4}
-{as:13.5}
-{c:Intro}
+{title: Our God}
+{artist: Chris Tomlin}
+{key: G}
+{duration: 234}
+{tempo: 105}
+{time: 4/4}
+{copyright: 2010 Atlas Mountain Songs}
+
+{original_key: B}
+{c: Intro}
 #|--------------------------------------|
 #|-8 x 8----5 x 8----12 x 8----10 x 8---|
 #|--------------------------------------|
@@ -21,12 +23,12 @@
 #|--------------------------------------|
 [Em] [C] [G] [D]
 
-{c:Verse 1}
+{c: Verse 1}
 [Em]Water You t[C]urned into [G]wine
 [Em]Opened the [C]eyes of the [G]blind
 [Am7]There's no one like You [Dsus]None like You
 
-{c:Verse 2}
+{c: Verse 2}
 [Em]Into the [C]darkness You [G]shine
 [Em]Out of the [C]ashes we [G]rise
 [Am7]There's no one like You  [Dsus]None like You
@@ -38,10 +40,10 @@
 [G]Our God our God[D]
 {eoc}
 
-{c:Down strums}
+{c: Down strums}
 [Em] [C] [G] [D]
 
-{c:Verse 2}
+{c: Verse 2}
 [Em]Into the [C]darkness You [G]shine
 [Em]Out of the [C]ashes we [G]rise
 [Am7]There's no one like You  [Dsus]None like You
@@ -58,7 +60,7 @@
 [G]Our God our God[D]
 {eoc}
 
-{c:Down strums}
+{c: Down strums}
 [Em] [C] [G] [D]
 [Em] [C] [G] [D]
 
@@ -104,5 +106,5 @@ Then what could stand a[Em]gain[C]st
 Then what could stand a[G]gain[D]st
 {eob}
 
-{c:Ending}
+{c: Ending}
 [Em]

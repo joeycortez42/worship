@@ -1,7 +1,7 @@
 {title: Open The Eyes Of My Heart}
 {artist: Paul Baloche}
 {key: D}
-{duration: 221}
+{duration: 244}
 {tempo: 100}
 {time: 4/4}
 {copyright: 1997 Integrity's Hosanna! Music}
@@ -42,7 +42,7 @@ H[A]igh and lifted [Bm]up    [G]Shining in the light of Your [A]glory
 H[D]oly holy holy    H[A]oly holy holy    H[G]oly holy holy
 I want to [D]see You   [D]
 
-H[D]oly holy hol    H[A]oly holy holy    H[G]oly holy holy
+H[D]oly holy holy    H[A]oly holy holy    H[G]oly holy holy
 I want to [D]see You   [D]
 {eob}
 

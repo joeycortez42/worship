@@ -1,0 +1,128 @@
+{title: Another In The Fire}
+{artist: Joel Houston}
+{key: G}
+{duration: 363}
+{tempo: 67}
+{time: 4/4}
+{copyright: 2018 Hillsong MP Songs}
+
+{original_key: G}
+{c: Intro}
+[Em]. . . .   [C]. . . .   [G]. . . . . . . .
+[Em]. . . .   [C]. . . .   [G]. . . . . . . .
+
+{c: Verse 1}
+[Em]   There's a grace when the [C]heart is under f[G]ire
+[Em]   Another way when the [C]walls are closing i[G]n
+[Em]   And when I look at the [C]space between
+Where I [G]used to be and this [Bm7]reckoning
+[Em]   I know I will [C]never be alone [G]
+
+{soc}
+There was another in the f[Em]ire
+S[C]tanding next to m[G]e
+There was another in the w[Em]aters
+[C]Holding back the s[G]eas
+And should I ever need rem[Em]inding
+Of [C]how I've been set fr[G]ee
+There is a cross that bears the b[Em]urden
+Where a[C]nother died for me [G]
+There is another in the f[Em]ire   [C]. . . .   [G]. . . . . . . .
+{eoc}
+
+[Em]. . . .   [C]. . . .   [G]. . . . . . . .
+
+{c: Verse 2}
+[Em]   All my debt left for [C]dead beneath the w[G]aters
+[Em]   I'm no longer a [C]slave to my sin an[G]ymore
+[Em]   And should I fall in the [C]space between
+What re[G]mains of me and this [Bm7]reckoning
+[Em]   Either way I won't [C]bow to the things of th[G]is world
+{c: Higher}
+[Em]   And I know I will [C]never be al[G]one
+
+{soc}
+There is another in the f[Em]ire
+S[C]tanding next to m[G]e
+There is another in the w[Em]aters
+[C]Holding back the s[G]eas
+And should I ever need rem[Em]inding
+What [C]power set me fr[G]ee
+There is a grave that holds no b[Em]ody
+Now that [C]power lives in m[G]e
+{eoc}
+
+There is another in the f[Em]ire [C]oh [G]
+There is another in the f[Em]ire [C]oh [G]
+There is another in the f[Em]ire [C]oh [G]
+There is another in the f[Em]ire [C]oh [G]
+
+{sob}
+And I can see the [Em]light in the da[C]rkness
+As the da[G]rkness bows to H[D]im
+I can hear the [Em]roar in the h[C]eavens
+As the sp[G]ace between wears th[D]in
+I can feel the g[Em]round shake ben[C]eath us
+As the pr[G]ison walls cave [D]in
+Nothing stands be[Am7]tween us
+Nothing stands be[C]tween [D]us
+{eob}
+
+[Em]. . . .   [C]. . . .   [G]. . . . . . . .
+[Em]. . . .   [C]. . . .   [G]. . . . . . . .
+
+{c: Verse 3 - Single Strum}
+[Em]   There is no other [C]name
+But the Name that is [G]Jesus
+[Em]   He who was and still [C]is
+And will be through it [G]all
+[Em]   So come what may in the [C]space between
+All the [G]things unseen and this [Bm7]reckoning
+{c: Build}
+[Em]   I know I will [C]never be alon[G]e
+[Em]   I know I will [C]never be alon[G]e
+
+{soc}
+There'll be another in the f[Em]ire
+S[C]tanding next to m[G]e
+There'll be another in the w[Em]aters
+[C]Holding back the s[G]eas
+Should I ever need rem[Em]inding
+How [C]good You’ve been to m[G]e
+I'll count the joy come ev'ry b[Em]attle
+'Cause I [C]know that's where You'll be [G]
+{eoc}
+
+{sob}
+And I can see the [Em]light in the dar[C]kness
+As the da[G]rkness bows to H[D]im
+I can hear the [Em]roar in the h[C]eavens
+As the sp[G]ace between wears th[D]in
+I can feel the g[Em]round shake ben[C]eath us
+As the pr[G]ison walls cave [D]in
+Nothing stands be[Am7]tween us
+Nothing stands be[C]tween
+{eob}
+
+{soc}
+There'll be a[D]nother in the f[Em]ire
+S[C]tanding next to m[G]e
+There'll be another in the w[Em]aters
+[C]Holding back the s[G]eas
+Should I ever need rem[Em]inding
+How [C]good You’ve been to m[G]e
+I'll count the [G]joy come ev'ry b[Em]attle
+'Cause I [C]know that's where You'll be [G]
+{eoc}
+
+{c: Ending}
+I'll count the [G]joy come ev'ry b[Em]attle
+'Cause I [C]know that's where You'll be [G]
+I'll count the [G]joy come ev'ry b[Em]attle
+'Cause I [C]know that's where You'll be [G]
+I'll count the [G]joy come ev'ry b[Em]attle
+'Cause I [C]know that's where You'll be [G]
+I'll count the [G]joy come ev'ry b[Em]attle
+'Cause I [C]know that's where You'll be [G]
+
+[G]

@@ -1,0 +1,69 @@
+{title: Unstoppable God}
+{artist: Chris Brown}
+{key: B}
+{duration: 205}
+{tempo: 132}
+{time: 4/4}
+{copyright: 2014 Be Essential Songs}
+
+{original_key: B}
+{c: Intro}
+[F#]. .    [G#m7]. .    [E]. . . .    [F#]. .    [G#m7]. .    [E]. . . .
+
+{c: Verse 1}
+[F#]. .     [G#m7]. .          H[E]eaven thundered   [F#]. .     [G#m7]. .    and the w[E]orld was born
+[F#]. .     [G#m7]. .          L[E]ife begins and e[F#]nds in [G#m7]the dust Y[E]ou formed
+[F#]. .     [G#m7]. .          F[E]aith commanded[F#]    [G#m7]    and the moun[E]tains moved
+[F#]. .     [G#m7]. .          F[E]ear is losing [F#]ground to[G#m7] our hope in Y[E]ou
+
+{soc}
+[B]  Unstoppable [C#m7]God let Your glory go[G#m7] on and on   [E]
+[B]  Impossible [C#m7]things in Your name they [G#m7]shall be done   [E]
+{eoc}
+
+{c: Verse 2}
+[F#]. .     [G#m7]. .          Fr[E]eedom conquered[F#]    [G#m7]    all our ch[E]ains undone
+[F#]. .     [G#m7]. .          S[E]in defeated Je[F#]sus [G#m7]has over[E]come
+[F#]. .     [G#m7]. .          Me[E]rcy triumphed[F#]    [G#m7]    when the th[E]ird day dawned
+[F#]. .     [G#m7]. .          Da[E]rkness was deni[F#]ed when[G#m7] the stone w[E]as gone
+
+{soc}
+[B]  Unstoppable [C#m7]God let Your glory go[G#m7] on and on   [E]
+[B]  Impossible [C#m7]things in Your name they [G#m7]shall be done   [E]
+
+[B]  Unstoppable [C#m7]God let Your glory go[G#m7] on and on   [E]
+[B]  Impossible [C#m7]things in Your name they [G#m7]shall be done   [E]
+{eoc}
+
+[B]     [B/D#]     [E]     [F#]     [G#m7]     [B]     [E]
+
+{sob}
+[B]  Nothing shall be imposs[B/D#]ible  [E]  Your kingdom reigns uns[F#]toppable
+[G#m7]  We'll shout Your praise for[B]evermore
+[E]  Jesus our God unstoppable
+
+[B]  Nothing shall be imposs[B/D#]ible  [E]  Your kingdom reigns uns[F#]toppable
+[G#m7]  We'll shout Your praise for[B]evermore
+[E]  Jesus our God unstoppable
+
+[B]  Nothing shall be imposs[B/D#]ible  [E]  Your kingdom reigns uns[F#]toppable
+[G#m7]  We'll shout Your praise for[B]evermore
+[E]  Jesus our God unstoppable
+
+[B]  Nothing shall be imposs[B/D#]ible  [E]  Your kingdom reigns uns[F#]toppable
+[G#m7]  We'll shout Your praise for[B]evermore
+[E]  Jesus our God unstoppable
+{eob}
+
+[B]     [B/D#]     [E]     [F#]     [G#m7]     [B]     [E]
+
+{soc}
+[B]  Unstoppable [C#m7]God let Your glory go[G#m7] on and on   [E]
+[B]  Impossible [C#m7]things in Your name they [G#m7]shall be done   [E]
+
+[B]  Unstoppable [C#m7]God let Your glory go[G#m7] on and on   [E]
+[B]  Impossible [C#m7]things in Your name they [G#m7]shall be done   [E]
+{eoc}
+
+{c: Ending}
+[B]     [C#m7]     [G#m7]     [E]     [B]     [C#m7]     [G#m7]

@@ -1,16 +1,18 @@
-{title:Your Love Never Fails}
-{subtitle:Chris McClarney}
-{original_key:Bb}
-{key:G}
-{tempo:116}
-{time:4/4}
-{as:10.0}
-{c:Intro}
+{title: Your Love Never Fails}
+{artist: Chris McClarney}
+{key: G}
+{duration: 270}
+{tempo: 116}
+{time: 4/4}
+{copyright: 2008 Thankyou Music}
+
+{original_key: Bb}
+{c: Intro}
 [Em]. . . .   [C]. . . .   [G]. . . .   [D]. . . .
 [Em]. . . .   [C]. . . .   [G]. . . .   [D]. . . .
 [Em]. . . .   [C]. . . .   [G]. . . .   [D]. . . .
 
-{c:Verse 1}
+{c: Verse 1}
 [Em]  Nothing [C]can separate [G] even if I [D]ran away
 [Em]Your love never [C]fails   [G]. .   [D]. .
 [Em]  I know I [C]still make mistakes but  [G]
@@ -26,8 +28,8 @@ Because I [G]know that You love me [D]
 [D]Your love never [C]fails   [Em]. . . .   [D]. . . .   [D]. . . .
 {eoc}
 
-{c:Verse 2}
-[Em] The wind is strong and the [C] water’s deep but
+{c: Verse 2}
+The [Em]wind is strong and the [C] water’s deep but
 [G] I’m not alone here in these [D]open seas
 Cause [Em]Your love never [C]fails   [G]. . . .   [D]. . . .
 [Em] The chasm is [C] far too wide
@@ -50,9 +52,6 @@ You make [C] all things [Em]work together for my  [D]  good   [D]
 
 You make [C] all things [Em]work together for my  [D]  good   [D]
 You make [C] all things [Em]work together for my  [D]  good   [D]
-
-You make [C] all things [Em]work together for my  [D]  good   [D]
-You make [C] all things [Em]work together for my  [D]  good   [D]
 {eob}
 
 {soc}
@@ -70,9 +69,6 @@ You make [C] all things [Em]work together for my  [D]  good   [D]
 
 You make [C] all things [Em]work together for my  [D]  good   [D]
 You make [C] all things [Em]work together for my  [D]  good   [D]
-
-You make [C] all things [Em]work together for my  [D]  good   [D]
-You make [C] all things [Em]work together for my  [D]  good   [D]
 {eob}
 
 {soc}
@@ -83,4 +79,4 @@ Because I [G]know that You love me [D]
 [D]Your love never [C]. . . .   [Em]. . . .   [D]. . . .   [D]. . . .
 {eoc}
 
- [C]. . . .   [Em]. . . .   [D]. . . .   [C]. . . .
+[C]. . . .   [Em]. . . .   [D]. . . .   [C]. . . .

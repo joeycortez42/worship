@@ -1,33 +1,35 @@
-{title:Hosanna}
-{subtitle:Brooke Ligertwood}
-{original_key:E}
-{key:D}
-{tempo:77}
-{time:4/4}
-{as:10}
-{c:Intro - Pick - Key E - Capo 2 D}
+{title: Hosanna}
+{artist: Brooke Ligertwood}
+{key: D}
+{duration: 277}
+{tempo: 77}
+{time: 4/4}
+{copyright: 2006 Hillsong Music Publishing Australia}
+
+{original_key: E}
+{c: Intro - Pick}
 [Bm]. . . .   [D]. . . .   [Em7]. . . .   [F#m7]. . . .
 [Bm]. . . .   [D]. . . .   [Em7]. . . .   [F#m7]. . . .
 
-{c:Verse 1}
+{c: Verse 1}
 [D]  I see the King of glory   [Bm]Coming on the clouds with fire
 The whole earth [Em7]shakes   The whole earth [A]shakes   Yeah . [Bm]. .   [Bm]
 
-{c:Verse 2}
+{c: Verse 2}
 [D]  I see His love and mercy   [Bm]Washing over all our sin
 The people [Em7]sing   The people [A]sing
 
 {soc}
-{c:Softly}
+{c: Softly}
 Ho - [D/F#]sanna [G]   ho - [A]sanna[Bm]    Ho - [G]sanna in the [Bm]highest [A]
 Ho - [D/F#]sanna [G]   ho - [A]sanna[Bm]    Ho - [G]sanna in the [A]high - [Bm]est   [Bm]
 {eoc}
 
-{c:Verse 3}
+{c: Verse 3}
 [D]  I see a generation   [Bm]Rising up to take their place
 With selfless [Em7]faith   With selfless [A]faith
 
-{c:Verse 4}
+{c: Verse 4}
 [D]  I see a near revival   [Bm]Stirring as we pray and seek
 We're on our [Em7]knees   We're on our [A]knees
 
@@ -50,15 +52,15 @@ Ho - [G]sanna in the [A]high   [Bm]. . . .   [D]. . . .   [Em7]. . . .   [F#m7].
 {eob}
 
 {soc}
-{c:Softly}
+{c: Softly}
 Ho - [D/F#]sanna [G]   ho - [A]sanna[Bm]    Ho - [G]sanna in the [Bm]highest   [A]
 Ho - [D/F#]sanna [G]   ho - [A]sanna[Bm]    Ho - [G]sanna in the [A]high - [D]est
 
-{c:Full Band}
+{c: Full Band}
 Ho - [D/F#]sanna [G]   ho - [A]sanna[Bm]    Ho - [G]sanna in the [Bm]highest   [A]
 Ho - [D/F#]sanna [G]   ho - [A]sanna[Bm]    Ho - [G]sanna in the [A]high - [Bm]est
 {eoc}
 
-{c:Ending}
+{c: Ending}
 Ho - [G]sanna in the [A]high - [Bm]est
 Ho - [G]sanna in the [A]high - [D]est

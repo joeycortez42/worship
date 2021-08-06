@@ -1,20 +1,22 @@
-{title:You Never Let Go}
-{subtitle:Matt Redman}
-{original_key:B}
-{key:A}
-{tempo:76}
-{time:4/4}
-{as:11.5}
-{c:Intro - Key Bb - Capo 1 A}
+{title: You Never Let Go}
+{artist: Matt Redman}
+{key: A}
+{duration: 231}
+{tempo: 76}
+{time: 4/4}
+{copyright: 2005 Thankyou Music}
+
+{original_key: B}
+{c: Intro}
 [A]
 
-{c:Verse 1}
+{c: Verse 1}
 Even though I [A]walk through the valley   Of the shadow of death
 Your [D]perfect love is casting out fear
 And even when I'm [A]caught in the middle   Of the storms of this life
 I [D]won't turn back I know You are near
 
-{c:Pre-Chorus}
+{c: Pre-Chorus}
 And I will fear no [F#m]e [E]- [A]vil   For my God is [F#m]wi[E]th [A]me
 And if my God is [F#m]wi[E]th [A]me   Whom then shall I [E] fear
 Whom then shall I [D] fear
@@ -26,7 +28,7 @@ Whom then shall I [D] fear
 [A]. . . . [E]. . [D]. .
 {eoc}
 
-{c:Verse 2}
+{c: Verse 2}
 And I can see a [A]light that is coming
 For the heart that holds on
 A [D]glorious light beyond all compare
@@ -34,7 +36,7 @@ And there will be an [A]end to these troubles
 But until that day comes
 We'll [D]live to know You here on the earth
 
-{c:Pre-Chorus}
+{c: Pre-Chorus}
 And I will fear no [F#m]e [E]- [A]vil   For my God is [F#m]wi[E]th [A]me
 And if my God is [F#m]wi[E]th [A]me   Whom then shall I [E] fear
 Whom then shall I [D] fear
@@ -63,15 +65,15 @@ And there will be an [F#m]end to these troubles   But until that day comes
 [A]. . . . [E]. . [D]. .
 {eob}
 
-{c:A cappella}
+{c: A cappella}
 [A]Oh no You never let go   Through the calm and through the storm
 [F#m]Oh no You never let go   In ev'ry high and ev'ry low
 [E]Oh no You never let go   [D]Lord You never let go of me
-{c:Full Band}
+{c: Full Band}
 [A] So strong So wise [E]So loving  [D]
 [A]Oh no You never let go   Through the calm and through the storm
 [F#m]Oh no You never let go   In ev'ry high and ev'ry low
 [E]Oh no You never let go   [D]Lord You never let go of me [A]
 
-{c:Ending}
+{c: Ending}
 [E]Lord You never let [D]go of me [A]

@@ -1,7 +1,7 @@
 {title: God Of Wonders}
 {artist: Marc Byrd}
 {key: G}
-{duration: 218}
+{duration: 239}
 {tempo: 84}
 {time: 4/4}
 {copyright: 2000 Never Say Never Songs}

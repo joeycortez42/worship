@@ -1,14 +1,15 @@
-{title:Nothing But The Blood}
-{subtitle:Robert Lowry}
-{original_key:G}
-{key:E}
-{tempo:102}
-{time:4/4}
-{as:10}
-{c:Intro}
+{title: Nothing But The Blood}
+{artist: Robert Lowry}
+{key: E}
+{tempo: 102}
+{time: 4/4}
+{copyright: Public Domain}
+
+{original_key: G}
+{c: Intro}
 Not[E]hing but the blood of [B]Je - s[E]us
 
-{c:Verse 1}
+{c: Verse 1}
 W[E]hat can wash a - way my sin   Not[E]hing but the blood of [B]Je - s[E]us
 W[E]hat can make me whole again   Not[E]hing but the blood of [B]Je - s[E]us
 
@@ -17,7 +18,7 @@ W[E]hat can make me whole again   Not[E]hing but the blood of [B]Je - s[E]us
 [E]No oth-er fount I know   Not[E]hing but the blood of [B]Je - s[E]us   [E]. . . .
 {eoc}
 
-{c:Verse 2}
+{c: Verse 2}
 F[E]or my par - don this I see   Not[E]hing but the blood of [B]Je - s[E]us
 F[E]or my cleans - ing this my plea   Not[E]hing but the blood of [B]Je - s[E]us
 
@@ -26,7 +27,7 @@ F[E]or my cleans - ing this my plea   Not[E]hing but the blood of [B]Je - s[E]us
 [E]No other fount I know   Not[E]hing but the blood of [B]Je - s[E]us   [E]. . . .
 {eoc}
 
-{c:Verse 4}
+{c: Verse 4}
 T[E]his is all my hope and peace   Not[E]hing but the blood of [B]Je - s[E]us
 T[E]his is all my righteousness   Not[E]hing but the blood of [B]Je - s[E]us
 
@@ -35,5 +36,5 @@ T[E]his is all my righteousness   Not[E]hing but the blood of [B]Je - s[E]us
 [E]No other fount I know   Not[E]hing but the blood of [B]Je - s[E]us   [E]. . . .
 {eoc}
 
-{c:Ending}
+{c: Ending}
 Not[E]hing but the blood of [B]Je - s[E]us

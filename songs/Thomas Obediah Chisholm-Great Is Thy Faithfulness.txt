@@ -1,14 +1,16 @@
-{title:Great Is Thy Faithfulness}
-{subtitle:Thomas Obediah Chisholm}
-{original_key:D}
-{key:C}
-{tempo:75}
-{time:3/4}
-{as:10}
-{c:Intro}
+{title: Great Is Thy Faithfulness}
+{artist: Thomas Obediah Chisholm}
+{key: C}
+{duration: 275}
+{tempo: 75}
+{time: 3/4}
+{copyright: Public Domain}
+
+{original_key: D}
+{c: Intro}
 [C] [C] [C/Em] [Dm]
 
-{c:Verse 1}
+{c: Verse 1}
 Gr[C]eat is Thy f[F]aith - fulness [G7]O God my [F/C]Fa-the[C]r
 T[F]here is no [C]shad-ow of tu[D]rn-ing with [G]Thee
 T[G7]hou changest n[C]ot Thy com-p[G/C]as-sio[C]ns [Dm7]they [C/E]fail [F]not
@@ -22,13 +24,13 @@ M[G7]orning by m[C]orning new m[G/D]er-cies[D] I see[G]
 [F]Great is Thy [C]faithfulness [G]Lord u[G7]nto [C]me
 {eoc}
 
-{c:Instrumental - Same as verse}
+{c: Instrumental - Same as verse}
 [C]. . .[F]. . .[G7]. . .[F/C]. . .[C]
 [F]. . .[C]. . .[D7]. . .[G]
 [G7]. . .[C]. . .[G/C]. . .[C]. . .[Dm]. . .[C/E]. . .[F]
 [F]. . .[C/G]. . .[G]. . .[C]
 
-{c:Verse 3}
+{c: Verse 3}
 Pa[C]rdon for s[F]in and a [G7]peace that e[F/C]n-dur-e[C]th
 [F]Thy own dear p[C]res-ence to c[D7]heer and to g[G]uide
 S[G7]trength for to-[C]day and brig[G/C]ht ho[C]pe [Dm]for t[C/E]o-mor-r[F]ow
@@ -41,8 +43,8 @@ M[G7]orning by m[C]orning new m[G/D]er-cies[D] I see[G]
 [G7]All I have [C]need-ed [G/C]Thy h[C]and [Dm]hath [C/E]pro-vi-d[F]ed
 [F]Great is Thy [C]faithfulness
 
-{c:Ending}
+{c: Ending}
 [F]Great is Thy [C]faithfulness
 [F]Great is Thy [C]faithfulness
-{c:Pause - 1,2}
+{c: Pause - 1,2}
 [G]Lord u[G7]nto [C]me

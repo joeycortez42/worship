@@ -7,7 +7,6 @@
 {copyright: 2000 Thankyou Music}
 
 {original_key: E}
-
 {c: Verse 1}
 [D]Light of the [Asus]world
 You stepped [Em]down into [G]darkness

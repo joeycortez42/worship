@@ -1,14 +1,16 @@
-{title:How Great Is Our God}
-{subtitle:Chris Tomlin}
-{original_key:C}
-{key:C}
-{tempo:76}
-{time:4/4}
-{as:9.5}
-{c:Intro}
+{title: How Great Is Our God}
+{artist: Chris Tomlin}
+{key: C}
+{duration: 240}
+{tempo: 76}
+{time: 4/4}
+{copyright: 2004 sixsteps Music}
+
+{original_key: C}
+{c: Intro}
 [C]. . . . [Am]. . . . [F]. . . . [G]. . . . [C]. . . .
 
-{c:Verse 1}
+{c: Verse 1}
 The [C]splendor of the King   [Am]Clothed in majesty
 Let all the earth [F]rejoice All the earth re - joice
 He [C]wraps Himself in light   And [Am]darkness tries to hide
@@ -20,7 +22,7 @@ How [Am]great is our God... And all will see
 How [F]great How [G]great is our [C]God
 {eoc}
 
-{c:Verse 2}
+{c: Verse 2}
 And [C]age to age He stands   And [Am]time is in His hands
 Beginning and the [F]End Beginning and the End
 The [C]Godhead three in one   [Am]Father Spirit Son
@@ -33,7 +35,7 @@ How [F]great How [G]great is our [C]God
 {eoc}
 
 {sob}
-{c:Single strum}
+{c: Single strum}
 [C]Name above all names   [Am]Worthy of all praise
 My [F]heart will sing   How [G]great is our [C]God   [C]. . . .
 
@@ -42,13 +44,13 @@ And my [F]heart will sing   How [G]great is our [C]God   [C]. . . .
 {eob}
 
 {soc}
-{c:Softly}
+{c: Softly}
 How [C]great is our God... Sing with me
 How [Am]great is our God... And all will see
 How [F]great How [G]great is our [C]God
 {eoc}
 
-{c:Ending - A cappella}
+{c: Ending - A cappella}
 How [C]great is our God... Sing with me
 How [Am]great is our God... And all will see
 How [F]great How [G]great is our [C]God

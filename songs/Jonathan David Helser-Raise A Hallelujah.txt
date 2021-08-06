@@ -1,0 +1,76 @@
+{title: Raise A Hallelujah}
+{artist: Jonathan David Helser}
+{key: G}
+{duration: 298}
+{tempo: 82}
+{time: 4/4}
+{copyright: 2018 Bethel Music Publishing}
+
+{original_key: Db}
+{c: Intro}
+[G]     [C2]
+
+{c: Verse 1}
+I ra[G]ise a hallelujah     in the presence of my enemies
+I ra[G]ise a hallelujah     louder than the unbelief
+I ra[G]ise a hallelujah     my weapon is a melody
+I ra[G]ise a hallelujah     Heaven comes to fight for me
+
+{soc}
+[C2]I’m gonna sing in the mi[G]ddle of the storm
+L[Em7]ouder and louder you’re gonna [D]hear my praises roar
+[C2]Up from the ashes h[G]ope will arise
+D[Em7]eath is defeated the [D]King is alive     [D]     [G]
+{eoc}
+
+{c: Verse 2}
+I ra[G]ise a hallelujah     with e[C2]verything inside of me
+I r[Em7]aise a hallelujah     [Dsus]I will watch the darkness flee
+I ra[G]ise a hallelujah     in the[C2] middle of the mystery
+I r[Em7]aise a hallelujah     [Dsus]fear you lost your hold on me
+
+{soc}
+[C2]I’m gonna sing in the mi[G]ddle of the storm
+L[Em7]ouder and louder you’re gonna [D]hear my praises roar
+[C2]Up from the ashes h[G]ope will arise
+D[Em7]eath is defeated the [D]King is alive     [D]     [G]
+{eoc}
+
+{sob}
+S[G]ing a little louder     (Sing a little louder)
+[Dsus]Sing a little louder     (Sing a little louder)
+[Em7]Sing a little louder     (Sing a little louder)
+[C2]Sing a little louder     (Sing a little louder)
+{eob}
+
+{sob}
+S[G]ing a little louder     in the presence of my enemies
+[Dsus]Sing a little louder     louder than the unbelief
+[Em7]Sing a little louder     my weapon is a melody
+[C2]Sing a little louder     Heaven comes to fight for me
+
+S[G]ing a little louder     in the presence of my enemies
+[Dsus]Sing a little louder     louder than the unbelief
+[Em7]Sing a little louder     my weapon is a melody
+[C2]Sing a little louder     Heaven comes to fight for me
+{eob}
+
+[C2]Sing a little louder
+
+{soc}
+[C2]I’m gonna sing in the mi[G]ddle of the storm
+L[Em7]ouder and louder you’re gonna [D]hear my praises roar
+[C2]Up from the ashes h[G]ope will arise
+D[Em7]eath is defeated the [D]King is alive
+
+[C2]I’m gonna sing in the mi[G]ddle of the storm
+L[Em7]ouder and louder you’re gonna [D]hear my praises roar
+[C2]Up from the ashes h[G]ope will arise
+D[Em7]eath is defeated the [D]King is alive     [D]
+{eoc}
+
+{c: Ending}
+I ra[G]ise a hallelujah
+I ra[C2]ise a hallelujah
+I ra[Em7]ise a hallelujah
+I ra[Dsus]ise a hallelujah     [G]

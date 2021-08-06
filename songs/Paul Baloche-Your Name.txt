@@ -1,0 +1,67 @@
+{title: Your Name}
+{artist: Paul Baloche}
+{key: G}
+{duration: 294}
+{tempo: 80}
+{time: 4/4}
+{copyright: 2006 Integrity Worship Music}
+
+{original_key: Bb}
+{c: Intro}
+[G]. .     [C2]. .     [D/F#]. .        [G]. .
+[G]. .     [C2]. .     [D/F#]. .        [G]. .
+
+{c: Verse 1}
+As [G]morning [C2]dawns and [D]evening [G]fades
+[G]You in - [C2]spire  [D]songs of [G]praise
+That [G]rise from [C2]earth to [D]touch Your [Em7]heart
+And [C2]glori - [D]fy Your [G]Name
+
+{soc}
+Your [D]Name [Em7]         is a [G]strong and mighty [C2]tower
+Your [D]Name [Em7]         is a [G]shelter like no [C2]other
+Your [D]Name [Em7]         let the [G]nations sing it [C2]louder
+'Cause [G]nothing has the [C2]power to [Dsus]save   [D]
+{eoc}
+
+But Your [G]Name     [C2]. .     [D/F#]. .       [G]. .
+[G]. .     [C2]. .     [D/F#]. .       [G]. .
+
+{c: Verse 2}
+[G]Jesus [C2]in Your [D]Name we [G]pray
+[G]Come and [C2]fill our [D]hearts to - [G]day
+Lord [G]give us [C2]strength to [D]live for [Em7]You
+And [C2]glori - [D]fy Your [G]Name
+
+{soc}
+Your [D]Name [Em7]         is a [G]strong and mighty [C2]tower
+Your [D]Name [Em7]         is a [G]shelter like no [C2]other
+Your [D]Name [Em7]         let the [G]nations sing it [C2]louder
+'Cause [G]nothing has the [C2]power to [Dsus]save   [D]
+{eoc}
+
+But Your [Em]Name     [D]. .     [Asus]. .       [A]. .
+[Em7]. .       [D]. .     [Asus]. .       [A]. .     [C2]. .     [C2]. .
+
+{c: Softly}
+{soc}
+Your [D]Name [Em7]         is a [G]strong and mighty [C2]tower
+Your [D]Name [Em7]         is a [G]shelter like no [C2]other
+Your [D]Name [Em7]         let the [G]nations sing it [C2]louder
+{c: Build}
+'Cause [G]nothing has the [C2]power to [Dsus]save   [D]
+
+But Your [D]Name [Em7]         is a [G]strong and mighty [C2]tower
+Your [D]Name [Em7]         is a [G]shelter like no [C2]other
+Your [D]Name [Em7]         let the [G]nations sing it [C2]louder
+'Cause [G]nothing has the [C2]power to [Dsus]save   [D]
+
+But Your [D]Name [Em7]         is a [G]strong and mighty [C2]tower
+Your [D]Name [Em7]         is a [G]shelter like no [C2]other
+Your [D]Name [Em7]         let the [G]nations sing it [C2]louder
+'Cause [G]nothing has the [C2]power to [Dsus]save   [D]
+{eoc}
+
+{c: Ending}
+But Your [G]Name     [C2]. .     [Dsus]. .       [G]. .
+[G]. .     [C2]. .     [Dsus]. .       [G]. . . .

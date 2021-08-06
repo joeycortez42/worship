@@ -1,0 +1,106 @@
+{title: Resurrecting}
+{artist: Chris Brown}
+{key: A}
+{duration: 285}
+{tempo: 74}
+{time: 4/4}
+{copyright: 2015 Music by Elevation Worship Publishing}
+
+{original_key: Db}
+{c: Intro}
+[D]. . . [F#m].   [E]. . . .   [D]. . . [F#m].   [E]. . . .
+
+{c: Verse 1}
+The head that [D]once was [F#m]crowned with [E]thorns
+Is crowned with [D]glory   [A]now
+The Savior [D]knelt to [F#m]wash our [E]feet
+Now at his [D]feet we [A]  bow   [D]. . . [F#m]. [E]. . . .
+
+{c: Verse 2}
+The one who [D]wore our [F#m]sin and [E]shame
+Now robed in [D]majes - [A]ty
+The radi - [D]ance of [F#m]perfect [E]love
+Now shines for [D]all to  [A]   see    [A]. . . .
+
+{soc}
+Your [D]name your [A]name is [E]victory
+All [D]praise will [A]rise to [E]Christ our king
+Your [D]name your [A]name is [E]victory
+All [D]praise will [A]rise to [E]Christ our king
+{eoc}
+
+[D]. . . [F#m].   [E]. . . .   [D]. . .   [F#m]. [E]. . . .
+
+{c: Verse 3}
+The fear that [D]held us [F#m]now gives [E]way
+To him who [D]is our [A]peace
+His final [D]breath up - [F#m]on the [E]cross
+Is now a - [D]live in [A]me    [A]. . . .
+
+{soc}
+Your [D]name your [A]name is [E]victory
+All [D]praise will [A]rise to [E]Christ our king
+Your [D]name your [A]name is [E]victory
+All [D]praise will [A]rise to [E]Christ our king
+{eoc}
+
+[D]. . [A]. . [E]. . . .   [D]. . [A]. . [E]. . . .   [D]. .
+
+{c: Softly}
+{sob}
+By your [A]spirit I will [E]rise from the ashes [A/C#]of de - [D]feat
+The [A]resurrected [E]king is resurrecting [D]me
+In your [A]name I come a - [E]live to declare your [A/C#]victo - [D]ry
+The [A]resurrected [E]king is resurrecting [D]me
+
+By your [A]spirit I will [E]rise from the ashes [A/C#]of de - [D]feat
+The [A]resurrected [E]king is resurrecting [D]me
+In your [A]name I come a - [E]live
+{c: Higher}
+to declare your [A/C#]victo - [D]ry
+The [A]resurrected [E]king is resurrecting [D]me
+
+By your [A]spirit I will [E]rise from the ashes [A/C#]of de - [D]feat
+The [A]resurrected [E]king is resurrecting [D]me
+In your [A]name I come a - [E]live to declare your [A/C#]victo - [D]ry
+The [A]resurrected [E]king is resurrecting [D]me   [A]. . [E]. . . .
+[D]. . [A]. . [E]. . . .
+{eob}
+
+{c: Verse 4 - Softly}
+The tomb where [D]soldiers [F#m]watched in [E]vain
+Was borrowed [D]for three [A]days
+His body [D]there would [F#m]not re - [E]main
+Our God has [D]robbed the [A]   grave
+{c: Higher}
+Our God has [D]robbed the [A]   grave   [A]. . . .   [A]. . . .
+
+{soc}
+Your [D]name your [A]name is [E]victory
+All [D]praise will [A]rise to [E]Christ our king
+Your [D]name your [A]name is [E]victory
+All [D]praise will [A]rise to [E]Christ our king   [D]
+{eoc}
+
+{sob}
+By your [A]spirit I will [E]rise from the ashes [A/C#]of de - [D]feat
+The [A]resurrected [E]king is resurrecting [D]me
+In your [A]name I come a - [E]live to declare your [A/C#]victo - [D]ry
+The [A]resurrected [E]king is resurrecting [D]me
+
+{c: A cappella}
+By your [A]spirit I will [E]rise from the ashes [A/C#]of de - [D]feat
+The [A]resurrected [E]king is resurrecting [D]me
+In your [A]name I come a - [E]live to declare your [A/C#]victo - [D]ry
+The [A]resurrected [E]king is resurrecting [D]me
+
+{c: Full band}
+By your [A]spirit I will [E]rise from the ashes [A/C#]of de - [D]feat
+The [A]resurrected [E]king is resurrecting [D]me
+In your [A]name I come a - [E]live to declare your [A/C#]victo - [D]ry
+The [A]resurrected [E]king is resurrecting [D]me
+{eob}
+
+{c: Ending}
+The [A]resurrected [E]king is resurrecting [D]me   [A]. . [E]. . . .
+[D]. . [A]. . [E].

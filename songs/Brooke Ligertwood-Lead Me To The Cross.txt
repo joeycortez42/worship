@@ -1,18 +1,20 @@
-{title:Lead Me To The Cross}
-{subtitle:Brooke Ligertwood}
-{original_key:D}
-{key:D}
-{tempo:75}
-{time:4/4}
-{as:10.4}
-{c:Intro}
+{title: Lead Me To The Cross}
+{artist: Brooke Ligertwood}
+{key: D}
+{duration: 232}
+{tempo: 75}
+{time: 4/4}
+{copyright: 2006 Hillsong Music Publishing Australia}
+
+{original_key: D}
+{c: Intro}
 [Am]  [Em]  [F]  [C]  [G]
 
-{c:Verse 1}
+{c: Verse 1}
 [Am]   Saviour I [Em]come quiet my [F]soul re - [C]mem - [G]ber
 [Am]   Redemption’s [Em]hill where Your blood was [F]spilled for my [C]ran - [G]som
 
-{c:Pre-Chorus}
+{c: Pre-Chorus}
 [Dm7]  Everything I [G]once held [G]dear I [Am]count it [G]all as [F]loss
 
 {soc}
@@ -25,11 +27,11 @@ Oh lead me [Dm]
 
 [Am]  [Em]  [F]  [C]  [G]
 
-{c:Verse 2}
+{c: Verse 2}
 [Am]  You were as [Em]I tempted and [F]tried [C]hu - [G]man
 [Am]  The word became [Em]flesh bore my sin in [F]death now You’re [C]ris - [G]en
 
-{c:Pre-Chorus}
+{c: Pre-Chorus}
 [Dm7]  Everything I [G]once held [G]dear I [Am]count it [G]all as [F]loss
 
 {soc}

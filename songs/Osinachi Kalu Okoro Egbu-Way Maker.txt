@@ -1,95 +1,127 @@
-{title:Way Maker}
-{subtitle:Osinachi Kalu Okoro Egbu}
-{original_key:B}
-{key:E}
-{tempo:66}
-{time:4/4}
-{as:8.5}
+{title: Way Maker}
+{artist: Osinachi Kalu Okoro Egbu}
+{key: E}
+{duration: 457}
+{tempo: 66}
+{time: 4/4}
+{copyright: 2016 Integrity Music Europe}
+
+{original_key: E}
+{c: Intro}
+[A]. . . .     [E]. . . .     [B]. . . .     [C#m]. . . .
+[A]. . . .     [E]. . . .     [B]. . . .     [C#m]. . . .
+
+{c: Verse 1}
+You are h[A]ere     Moving in ou[E]r midst
+I worship [B]You     I worship [C#m]You
+You are h[A]ere     Working in this [E]place
+I worship [B]You     I worship [C#m]You
+
+You are h[A]ere     Moving in ou[E]r midst
+I worship [B]You     I worship [C#m]You
+You are h[A]ere     Working in this [E]place
+I worship [B]You     I worship [C#m]You
 
 {soc}
-'Cause you are [E]  Way maker Miracle worker
-[B]promise keeper Light in darkness
-[F#] My God that is who You [G#m]are
-[E]  Way maker miracle worker [B]promise keeper light in darkness
-[F#] My God that is who You [G#m]are
+'Cause you ar[A]e   Way maker Miracle worker
+[E]Promise keeper Light in darknes[B]s
+My God   that is who You [C#m]are
+You ar[A]e   Way maker miracle worker
+[E]Promise keeper Light in darknes[B]s
+My God   that is who You [C#m]are
 {eoc}
 
-{c:Intro}
-[E]. . .[B]. . .[F#]. . .[G#m]
-[E]. . .[B]. . .[F#]. . .[G#m]
+{c: Verse 2}
+You are h[A]ere     Touching ever[E]y heart
+I worship [B]You     I worship [C#m]You
+You are h[A]ere     Healing ever[E]y heart
+I worship [B]You     I worship [C#m]You
 
-{c:Verse}
-You are [E]here and you're moving in our [B]midst
-I worship [F#]You I worship [G#m]You
-You are [E]here and you're working in this [B]place
-I worship [F#]You I worship [G#m]You
-You are [E]here and you're healing every [B]heart
-I worship [F#]You I worship [G#m]You
-You are [E]here and you're turning lives a - [B]round
-I worship [F#]You I worship [G#m]You
+{c: Verse 3}
+You are h[A]ere     Turning lives a[E]round
+I worship [B]You     I worship [C#m]You
+You are h[A]ere     Mending ever[E]y heart
+I worship [B]You     I worship [C#m]You
 
 {soc}
-'Cause you are [E]  Way maker Miracle worker
-[B]promise keeper Light in darkness
-[F#] My God that is who You [G#m]are
-[E]  Way maker miracle worker [B]promise keeper light in darkness
-[F#] My God that is who You [G#m]are
+You ar[A]e   Way maker Miracle worker
+[E]Promise keeper Light in darknes[B]s
+My God   that is who You [C#m]are
+You ar[A]e   Way maker miracle worker
+[E]Promise keeper Light in darknes[B]s
+My God   that is who You [C#m]are
 
-[E]  Way maker Miracle worker [B]promise keeper Light in darkness
-[F#] My God that is who You [G#m]are
-[E]  Way maker miracle worker [B]promise keeper light in darkness
-[F#] My God that is who You [G#m]are (Yes you are)
+You ar[A]e   Way maker Miracle worker
+[E]Promise keeper Light in darknes[B]s
+My God   that is who You [C#m]are
+You ar[A]e   Way maker miracle worker
+[E]Promise keeper Light in darknes[B]s
+My God   that is who You [C#m]are
+{eoc}
 
-[E]  Way maker Miracle worker [B]promise keeper Light in darkness
-[F#] My God that is who You [G#m]are
-[E]  Way maker miracle worker [B]promise keeper light in darkness
-[F#] My God that is who You [G#m]are (You are You are)
+That is who You [A]are     That is who You [E/G#]are
+That is who You [B]are     That is who You [C#m7]are
+
+That is who You [A]are     That is who You [E/G#]are
+That is who You [B]are     That is who You [C#m7]are
+
+{soc}
+You ar[A]e   Way maker Miracle worker
+[E]Promise keeper Light in darknes[B]s
+My God   that is who You [C#m]are
+You ar[A]e   Way maker miracle worker
+[E]Promise keeper Light in darknes[B]s
+My God   that is who You [C#m]are
+
+You ar[A]e   Way maker Miracle worker
+[E]Promise keeper Light in darknes[B]s
+My God   that is who You [C#m]are
+You ar[A]e   Way maker miracle worker
+[E]Promise keeper Light in darknes[B]s
+My God   that is who You [C#m]are
 {eoc}
 
 {sob}
-[E] Even when I don't see you you're working
-[B] Even when I don't feel it you're working
-[F#] You never stop You never stop working
-[G#m] You never stop You never stop working
+[A] Even when I don't see it    You're working
+[E] Even when I don't feel it    You're working
+[B] You never stop    You never stop working
+[C#m] You never stop    You never stop working
 
-[E] Even when I don't see you you're working
-[B] Even when I don't feel it you're working
-[F#] You never stop You never stop working
-[G#m] You never stop You never stop working
+[A] Even when I don't see it    You're working
+[E] Even when I don't feel it    You're working
+[B] You never stop    You never stop working
+[C#m] You never stop    You never stop working
 
-[E] You never stop You never stop working
-[B] You never stop You never stop working
-[F#] You never stop You never stop working
-[G#m] You never stop You never stop working
+[A] Even when I don't see it    You're working
+[E] Even when I don't feel it    You're working
+[B] You never stop    You never stop working
+[C#m] You never stop    You never stop working
 {eob}
 
 {soc}
-[E]  Way maker Miracle worker [B]promise keeper Light in darkness
-[F#] My God that is who You [G#m]are
-[E]  Way maker miracle worker [B]promise keeper light in darkness
-[F#] My God that is who You [G#m]are
-
-[E]  Way maker Miracle worker [B]promise keeper Light in darkness
-[F#] My God that is who You [G#m]are
-[E]  Way maker miracle worker [B]promise keeper light in darkness
-[F#] My God that is who You [G#m]are
+You ar[A]e   Way maker Miracle worker
+[E]Promise keeper Light in darknes[B]s
+My God   that is who You [C#m]are
+You ar[A]e   Way maker miracle worker
+[E]Promise keeper Light in darknes[B]s
+My God   that is who You [C#m]are
 {eoc}
 
-That is who You [E]are (That is who You [B]are)
-That is who You [F#]are (That is who You [G#m]are)
-That is who You [E]are (That is who You [B]are)
-That is who You [F#]are (That is who You [G#m]are)
+That is who You [A]are     That is who You [E/G#]are
+That is who You [B]are     That is who You [C#m7]are
 
-{c:Softly}
+That is who You [A]are     That is who You [E/G#]are
+That is who You [B]are     That is who You [C#m7]are
+
+{c: Softly}
 {soc}
-[E]  Way maker Miracle worker [B]promise keeper Light in darkness
-[F#] My God that is who You [G#m]are
-[E]  Way maker miracle worker [B]promise keeper light in darkness
-[F#] My God that is who You [G#m]are
-
-[E]  Way maker Miracle worker [B]promise keeper Light in darkness
-[F#] My God that is who You [G#m]are
+You ar[A]e   Way maker Miracle worker
+[E]Promise keeper Light in darknes[B]s
+My God   that is who You [C#m]are
+You ar[A]e   Way maker miracle worker
+[E]Promise keeper Light in darknes[B]s
+My God   that is who You [C#m]are
 {eoc}
 
-{c:Ending}
-[E]. . .[B]. . .[F#]. . .[G#m]. . .[E]
+{c: Ending}
+[A]. . . .     [E]. . . .     [B]. . . .     [C#m]. . . .     [A]. . . .

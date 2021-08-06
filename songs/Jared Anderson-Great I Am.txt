@@ -1,7 +1,7 @@
 {title: Great I Am}
 {artist: Jared Anderson}
 {key: D}
-{duration: }
+{duration: 297}
 {tempo: 80}
 {time: 4/4}
 {copyright: 2011 Integrity Worship Music}

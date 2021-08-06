@@ -1,20 +1,22 @@
-{title:The Heart Of Worship}
-{subtitle:Matt Redman}
-{original_key:D}
-{key:D}
-{tempo:70}
-{time:4/4}
-{as:12.0}
-{c:Intro}
+{title: The Heart Of Worship}
+{artist: Matt Redman}
+{key: D}
+{duration: 247}
+{tempo: 70}
+{time: 4/4}
+{copyright: 1999 Thankyou Music}
+
+{original_key: D}
+{c: Intro}
 [D] [A] [Em7] [A]
 
-{c:Verse 1}
+{c: Verse 1}
 [D]  When the music [A]fades all is stripped a-[Em7]way
 And I simply [A]come
 [D]  Longing just to [A]bring something that's of [Em7]worth
 That will bless Your [A]heart
 
-{c:Pre-Chorus}
+{c: Pre-Chorus}
 [Em7]  I’ll bring You [D/F#]more than a [A]song    For a song in itself
 [Em7]  Is not what [D/F#]You have re-[A]quired
 [Em7]  You search much [D/F#]deeper with-[A]in    Through the way things appear
@@ -27,13 +29,13 @@ And it’s [Em7]all about You   [G]All about [A]You Jesus
 When it’s [Em7]all about You   [G]All about [A]You Je-[D]sus   [D] [A] [Em7] [A]
 {eoc}
 
-{c:Verse 2}
+{c: Verse 2}
 [D]  King of endless [A]worth no one could ex-[Em7]press
 How much You de-[A]serve
 [D]  Though I’m weak and [A]poor all I have is [Em7]Yours
 Ev’ry single [A]breath
 
-{c:Pre-Chorus}
+{c: Pre-Chorus}
 [Em7]  I’ll bring You [D/F#]more than a [A]song    For a song in itself
 [Em7]  Is not what [D/F#]You have re-[A]quired
 [Em7]  You search much [D/F#]deeper with-[A]in    Through the way things appear
@@ -51,7 +53,7 @@ And it’s [Em7]all about You   [G]All about [A]You Jesus
 When it’s [Em7]all about You   [G]All about [A]You Je-[D]sus   [D] [A] [Em7] [A]
 {eoc}
 
-{c:Pre-Chorus}
+{c: Pre-Chorus}
 [Em7]  I’ll bring You [D/F#]more than a [A]song    For a song in itself
 [Em7]  Is not what [D/F#]You have re-[A]quired
 [Em7]  You search much [D/F#]deeper with-[A]in    Through the way things appear
@@ -64,5 +66,5 @@ And it’s [Em7]all about You   [G]All about [A]You Jesus
 When it’s [Em7]all about You   [G]All about [A]You Je-[D]sus
 {eoc}
 
-{c:Ending}
+{c: Ending}
 [D] [A] [Em7] [A] [D]

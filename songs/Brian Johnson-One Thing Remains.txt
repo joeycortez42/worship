@@ -1,78 +1,81 @@
-{title:One Thing Remains}
-{subtitle:Brian Johnson}
-{original_key:Bb}
-{key:G}
-{tempo:78}
-{time:4/4}
-{as:10}
-{c:Intro}
-[Em] [C] [G] [D/F#]
+{title: One Thing Remains}
+{artist: Brian Johnson}
+{key: G}
+{duration: 276}
+{tempo: 78}
+{time: 4/4}
+{copyright: 2010 ChristaJoy Music Publishing}
+
+{original_key: Bb}
+{c: Intro}
+[Em]     [C]     [G]     [D/F#]
 
 {soc}
 Your [Em]love never fails It ne[C]ver gives up   Ne[G]ver runs out on [D/F#]me
 Your [Em]love never fails It ne[C]ver gives up   Ne[G]ver runs out on [D/F#]me
 Your [Em]love never fails It ne[C]ver gives up   Ne[G]ver runs out on [D/F#]me
-Your [Em]love [C] [G] [D/F#]   [Em] [C] [G] [D/F#]
+Your [Em]love [C]     [G]     [D/F#]
+[Em]   [C]  [G]  [D/F#]  
 {eoc}
 
-{c:Verse 1}
-[C]It’s higher than the mou[G]ntains that I fa[D/F#]ce
-And s[C]tronger than the po[G]wer of the gr[D/F#]ave
-And c[C]onstant in the tr[G]ial and the ch[D/F#]ange
-One [C]thing  [G]  re - [D/F#]mains   [D/F#]
+{c: Verse 1}
+[C]It’s higher than the mou[G]ntains that I fa[D/F#]ce   
+And s[C]tronger than the po[G]wer of the gr[D/F#]ave  
+And c[C]onstant in the tr[G]ial and the ch[D/F#]ange 
+One [C]thing  [G]  re - [D/F#]mains   [D/F#]     
 
-[C]It’s higher than the mou[G]ntains that I fa[D/F#]ce
-And s[C]tronger than the po[G]wer of the gr[D/F#]ave
-And c[C]onstant in the tr[G]ial and the ch[D/F#]ange
+[C]It’s higher than the mou[G]ntains that I fa[D/F#]ce   
+And s[C]tronger than the po[G]wer of the gr[D/F#]ave  
+And c[C]onstant in the tr[G]ial and the ch[D/F#]ange 
 One [C]thing  [G]  re - [D/F#]mains   One [C]thing  [G]  re - [D/F#]mains
 
 {soc}
 Your [Em]love never fails It ne[C]ver gives up   Ne[G]ver runs out on [D/F#]me
 Your [Em]love never fails It ne[C]ver gives up   Ne[G]ver runs out on [D/F#]me
 Your [Em]love never fails It ne[C]ver gives up   Ne[G]ver runs out on [D/F#]me
-Your [Em]love [C] [G] [D/F#]
+Your [Em]love [C]  [G]  [D/F#]
 {eoc}
 
-{c:Verse 2 -  Down Strums}
-[C] On and on and [G]on and on it g[D/F#]oes
-It [C]overwhelms and s[G]atisfies my [D/F#]soul
-And I [C]never ever h[G]ave to be afr[D/F#]aid
+{c:Verse 2 - Down Strums}
+[C] On and on and [G]on and on it g[D/F#]oes  
+It [C]overwhelms and s[G]atisfies my [D/F#]soul 
+And I [C]never ever h[G]ave to be afr[D/F#]aid  
 One [C]thing  [G]  re - [D/F#]mains   One [C]thing  [G]  re - [D/F#]mains
 
 {soc}
 Your [Em]love never fails It ne[C]ver gives up   Ne[G]ver runs out on [D/F#]me
 Your [Em]love never fails It ne[C]ver gives up   Ne[G]ver runs out on [D/F#]me
 Your [Em]love never fails It ne[C]ver gives up   Ne[G]ver runs out on [D/F#]me
-Your [Em]love [C] [G] [D/F#]
+Your [Em]love [C]  [G]  [D/F#]
 {eoc}
 
 {sob}
 In de[C]ath in li[G]fe   I'm c[D]onfident and co[Em]vered by
-The po[C]wer of Y[G]our great lo[D]ve   [D]
+The po[C]wer of Y[G]our great lo[D]ve   [D]  
 My d[C]ebt is p[G]aid   There's not[D/F#]hing that can [Am]separate
-My he[C]art from Y[G]our great lo[D/F#]ve
+My he[C]art from Y[G]our great lo[D/F#]ve   
 {eob}
 
 {soc}
-{c:A cappella}
-Your [Em]love never fails It ne[C]ver gives up   Ne[G]ver runs out on [D/F#]me
-Your [Em]love never fails It ne[C]ver gives up   Ne[G]ver runs out on [D/F#]me
-{c:Build}
-Your [Em]love never fails It ne[C]ver gives up   Ne[G]ver runs out on [D/F#]me
-Your [Em]love [C] [G] [D/F#]
+{c: A cappella}
+Your [Em]love never fails It ne[C]ver gives up   Ne[G]ver runs out on [D/F#]me   
+Your [Em]love never fails It ne[C]ver gives up   Ne[G]ver runs out on [D/F#]me   
+{c: Build}
+Your [Em]love never fails It ne[C]ver gives up   Ne[G]ver runs out on [D/F#]me   
+Your [Em]love [C]  [G]  [D/F#]     
 {eoc}
 
-{c:Verse 2}
-[C] On and on and [G]on and on it g[D/F#]oes
-It [C]overwhelms and s[G]atisfies my [D/F#]soul
-And I [C]never ever h[G]ave to be afr[D/F#]aid
+{c: Verse 2}
+[C] On and on and [G]on and on it g[D/F#]oes  
+It [C]overwhelms and s[G]atisfies my [D/F#]soul 
+And I [C]never ever h[G]ave to be afr[D/F#]aid  
 One [C]thing  [G]  re - [D/F#]mains   One [C]thing  [G]  re - [D/F#]mains
 
 {soc}
-Your [Em]love never fails It ne[C]ver gives up   Ne[G]ver runs out on [D/F#]me
-Your [Em]love never fails It ne[C]ver gives up   Ne[G]ver runs out on [D/F#]me
-Your [Em]love never fails It ne[C]ver gives up   Ne[G]ver runs out on [D/F#]me
-Your [Em]love [C] [G] [D/F#]
-Your [Em]love [C] [G] [D/F#]
-Your [Em]love [C] [G] [D/F#] [Em]
+Your [Em]love never fails It ne[C]ver gives up   Ne[G]ver runs out on [D/F#]me   
+Your [Em]love never fails It ne[C]ver gives up   Ne[G]ver runs out on [D/F#]me   
+Your [Em]love never fails It ne[C]ver gives up   Ne[G]ver runs out on [D/F#]me   
+Your [Em]love [C]  [G]  [D/F#]     
+Your [Em]love [C]  [G]  [D/F#]     
+Your [Em]love [C]  [G]  [D/F#]     [Em]
 {eoc}

@@ -1,7 +1,7 @@
 {title: Reckless Love}
 {artist: Cory Asbury}
 {key: G}
-{duration: }
+{duration: 250}
 {tempo: 56}
 {time: 6/8}
 {copyright: 2017 Cory Asbury Publishing}
