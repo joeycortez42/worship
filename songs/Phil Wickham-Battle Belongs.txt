@@ -1,0 +1,87 @@
+{title: Battle Belongs}
+{artist: Phil Wickham}
+{key: G}
+{duration: 269}
+{tempo: 81}
+{time: 4/4}
+{copyright: Phil Wickham Music}
+
+{original_key: Db}
+{c: Intro}
+[G]
+
+{c: Verse 1}
+[G]     When all I see is the battle
+You see my v[C2]ictory
+[Em7]     When all I see is the mountain
+You [D]see a mou[C2]ntain moved
+
+{c: Verse 2}
+[G]     And as I walk through the shadow
+Your love surro[C2]unds me
+[Em7]     There’s nothing to fear now
+For [D]I     am sa[G]fe     with You
+
+{soc}
+So when I [C2]fight     I’ll [G]fight on my kn[D]ees
+With my [Em7]hands lifted h[C2]igh
+Oh [G]God     the battle be[D]longs to Y[Em7]ou
+And every [C2]fear I   [G]lay at Your f[D]eet
+I’ll [Em7]sing through the n[C2]ight
+Oh [G]God the battle be[D]longs to You
+{eoc}
+
+[G]. . . .     [G]. . . .
+
+{c: Verse 3}
+[G]     And if You are for me
+Who can be aga[C2]inst me
+[Em7]     For Jesus there’s nothing
+Im[D]possible [C2]    for You
+
+{c: Verse 4}
+[G]     When all I see are the ashes
+You see the bea[C2]uty
+[Em7]     When all I see is a cross
+God You [D]see the em[G]pty tomb
+
+{soc}
+So when I [C2]fight     I’ll [G]fight on my kn[D]ees
+With my [Em7]hands lifted h[C2]igh
+Oh [G]God     the battle be[D]longs to Y[Em7]ou
+And every [C2]fear I   [G]lay at Your f[D]eet
+I’ll [Em7]sing through the n[C2]ight
+Oh [G]God the battle be[D]longs to You
+{eoc}
+
+[G]. . . .     [C]
+
+{sob}
+Almighty Fo[G]rtress     You go bef[D]ore us
+Nothing can [Em7]stand against the [D]power of our [C]God
+You shine in the sh[G]adow     You win every b[D]attle
+Nothing can [Em7]stand against the [D]power of our G[C]od
+
+Almighty Fo[G]rtress     You go bef[D]ore us
+Nothing can [Em7]stand against the [D]power of our [C]God
+You shine in the sh[G]adow     You win every b[D]attle
+Nothing can [Em7]stand against the [D]power of our G[C]od
+
+Almighty Fo[G]rtress     You go bef[D]ore us
+Nothing can [Em7]stand against the [D]power of our [C]God
+You shine in the sh[G]adow     You win every b[D]attle
+Nothing can [Em7]stand against the [D]power of our G[C]od . .  [D]
+{eob}
+
+{soc}
+So when I [C2]fight     I’ll [G]fight on my kn[D]ees
+With my [Em7]hands lifted h[C2]igh
+Oh [G]God     the battle be[D]longs to Y[Em7]ou
+And every [C2]fear I   [G]lay at Your f[D]eet
+I’ll [Em7]sing through the n[C2]ight
+Oh [G]God the battle be[D]longs to You [Em7]
+{eoc}
+
+{c: Ending}
+[C2]     Oh [G]God the battle be[D]longs to You
+[G]

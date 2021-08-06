@@ -1,6 +1,7 @@
 {title: Blessed Assurance}
 {artist: Fanny Jane Crosby}
 {key: C}
+{duration: 226}
 {tempo: 48}
 {time: 9/8}
 {copyright: Public Domain}

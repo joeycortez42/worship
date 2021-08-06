@@ -1,0 +1,79 @@
+{title: Indescribable}
+{artist: Laura Story}
+{key: G}
+{duration: 60}
+{tempo: 120}
+{time: 6/8}
+{copyright: 2004 Laura Stories}
+
+{original_key: Bb}
+{c: Intro}
+{sot}
+e|------------------------|
+b|--------12-11----9------|
+g|---9h11-------11---9-11-|
+d|-9----------------------|
+a|------------------------|
+e|------------------------|
+{eot}
+
+
+{c: Verse 1}
+[Em]    From the highest of heights to the d[D/F#]epths of t[G]he sea
+[Am7]    Creation's revealing Your [C]maj - [F]esty
+[Em]    From the colours of fall to the fra[D/F#]grance [G]of spring
+[Am7]    Every creature unique in the s[C]ong tha[F]t it sings
+[C]All ex - cla[D/F#]iming
+
+{soc}
+[G]    Indescribable    [D]    uncontainable
+[C2]You placed the stars in the sky and You know them [Em]by name
+[G]You are amaz - i[C]ng God
+
+[G]   All powerful    [D]   untamable
+Awe[C2]struck we fall to our knees as we humbly pro[Em]claim
+[G]You are amaz [C2]- ing [D]God    [C2]    [D]    [C2]
+{eoc}
+
+{c: Verse 2}
+[Em]    Who has told every lightning bolt w[D/F#]here it sh[G]ould go
+[Am7]   Or seen heavenly storehouses l[C]aden [F]with snow
+[Em]    Who imagined the sun and gives s[D/F#]ource to [G]ts light
+[Am7]   Yet conceals it to bring us the co[C]olness [F]of night
+N[C]one can fa[D/F#]thom
+
+{soc}
+[G]    Indescribable    [D]    uncontainable
+[C2]You placed the stars in the sky and You know them [Em]by name
+[G]You are amaz - i[C]ng God
+
+[G]   All powerful    [D]   untamable
+Awe[C2]struck we fall to our knees as we humbly pro[Em]claim
+[G]You are amaz [C2]- ing [D]God    [C2]    [D]    [C2]
+{eoc}
+
+[Am7]   You are a - [G]maz [F]- ing God    [A#]    [A#/G#]
+
+{soc}
+[G]    Indescribable    [D]    uncontainable
+[C2]You placed the stars in the sky and You know them [Em]by name
+[G]You are amaz - i[C]ng God
+
+[G]   All powerful    [D]   untamable
+Awe[C2]struck we fall to our knees as we humbly pro[Em]claim
+[G]You are amaz [C2]- ing [D]God    [C2]
+{eoc}
+
+
+[G]    Indescribable    [D]    uncontainable
+[C2]You placed the stars in the sky and You know them [Em]by name
+[G]You are amaz - i[C]ng God
+
+[G]   In - comparable    [D] unchangeable
+[C2]You see the depths of my heart and You love me [Em]the same
+[G]You are amaz [C2]- ing [D]God   [C2]    [D]    [C2]
+
+{c: Ending}
+[D]   [C2]You are amazing [D]God   [C2]    [D]    [C2]
+
+[G]You are amaz [C2]- ing [D]God   [C2]    [D]    [G]

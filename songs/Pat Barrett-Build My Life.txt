@@ -1,0 +1,102 @@
+{title: Build My Life}
+{artist: Pat Barrett}
+{key: G}
+{duration: 327}
+{tempo: 70}
+{time: 4/4}
+{copyright: 2016 Kaple Music}
+
+{original_key: Ab}
+{c: Intro}
+[G] [C] [G] [C]
+
+{c: Verse 1}
+[G]   Worthy of ev'ry [C]song we could ever sing
+[G]   Worthy of all the [C]praise we could ever bring
+[G]   Worthy of ev'ry b[C]reath we could ever breathe
+We live for [G]You   [C]
+
+{c: Verse 2}
+[G]   Jesus the name ab[C]ove ev'ry other name
+[G]   Jesus the only [C]one who could ever save
+[G]   Worthy of ev'ry br[C]eath we could ever breathe
+We live for [G]You   [C]
+We live for You
+
+{soc}
+[C]Holy there is no one [Am]like You
+There is none be[G]sides You
+Open up my [Em]eyes in wonder
+And [C]Show me who You are
+And [Am]fill me with Your heart
+And [G]lead me in Your love to [Em]those around me
+{eoc}
+
+[C]
+
+{c: Verse 1}
+[G]   Worthy of ev'ry [C]song we could ever sing
+[G]   Worthy of all the [C]praise we could ever bring
+[G]   Worthy of ev'ry breath we could ever breathe
+We live for [G]You   [C]
+
+{c: Verse 2}
+[G]   Jesus the name ab[C]ove ev'ry other name
+[G]   Jesus the only [C]one who could ever save
+[G]   Worthy of ev'ry br[C]eath we could ever breathe
+We live for [G]You     We live for [C]You
+
+{soc}
+[C]Holy there is no one [Am]like You
+There is none be[G]sides You
+Open up my [Em]eyes in wonder
+And [C]Show me who You are
+And [Am]fill me with Your heart
+And [G]lead me in Your love to [Em]those around me
+
+[C]Holy there is no one [Am]like You
+There is none be[G]sides You
+Open up my [Em]eyes in wonder
+And [C]Show me who You are
+And [Am]fill me with Your heart
+And [G]lead me in Your love to [Em]those around me
+{eoc}
+
+[C]. . . . .   [D]. . . . .   [Em]. . . . .     [G]. . . . .
+
+{sob}
+[C]I will build my [D]life upon Your [Em]love
+It is a [G]firm foundation
+[C]I will put my [D]trust in You a[Em]lone
+And I will [G]not be shaken
+
+[C]I will build my [D]life upon Your [Em]love
+It is a [G]firm foundation
+[C]I will put my [D]trust in You a[Em]lone
+And I will [G]not be shaken
+{eob}
+
+{soc}
+[C]Holy there is no one [Am]like You
+There is none be[G]sides You
+Open up my [Em]eyes in wonder
+And [C]Show me who You are
+And [Am]fill me with Your heart
+And [G]lead me in Your love to [Em]those around me
+
+[C]Holy there is no one [Am]like You
+There is none be[G]sides You
+Open up my [Em]eyes in wonder
+And [C]Show me who You are
+And [Am]fill me with Your heart
+And [G]lead me in Your love to [Em]those around me
+{eoc}
+
+{sob}
+[C]I will build my [D]life upon Your [Em]love
+It is a [G]firm foundation
+[C]I will put my [D]trust in You a[Em]lone
+And I will [G]not be shaken
+{eob}
+
+[C]

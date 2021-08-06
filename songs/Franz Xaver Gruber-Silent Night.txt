@@ -3,13 +3,13 @@
 {key: A}
 {tempo: 0}
 {time: 6/8}
-{copyright: }
+{copyright: Public Domain}
 
 {original_key: Bb}
 {c: Intro}
 S[A]leep in he[E]aven - ly pe[A]ace
 
-{c:Verse 1}
+{c: Verse 1}
 [A]Si - lent night ho - ly night
 [E]All is calm [A]all is bright
 [D]Round yon virgin [A]moth - er and Child

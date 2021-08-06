@@ -1,7 +1,7 @@
 {title: My Testimony}
 {artist: Steven Furtick}
 {key: A}
-{duration: }
+{duration: 277}
 {tempo: 97}
 {time: 4/4}
 {copyright: Music by Elevation Worship Publishing}
@@ -15,6 +15,15 @@
 [A]     I saw darkness run for [D]cover
 [F#m]     But the miracle that [D]I     just can't get over
 My [F#m]name     is [E]registered in [D]heaven
+
+{soc}
+[A]     This is my testi - [F#m]mony   from [D]death to life
+[A]     'Cause grace rewrote my [F#m]story   I'll [D]testify
+[A]     By Jesus Christ the [F#m]Righteous   I'm [D]justified
+[A]     This is my testi - [F#m]mony   this [D]is   my testi - [A]mony
+{eoc}
+
+[A]     [F#m]     [D]     [A]     [F#m]     [D]
 
 {c: Verse 2}
 [A]     I believe in signs and [D]wonders
@@ -76,22 +85,7 @@ Our [F#m]God     will [E]finish what He [D]started
 [A]     By Jesus Christ the [F#m]Righteous   I'm [D]justified
 [A]     This is my testi - [F#m]mony   this [D]is   my testi - [A]mony
 {eoc}
- 
+
 {c: Ending}
 [A]     [F#m]     [D]     [A]     [F#m]     [D]
 [A]     [F#m]     [D]     [A]     [F#m]     [D]     [A]
-
-{c: .}
-{c: .}
-{c: .}
-{c: .}
-{c: .}
-{c: .}
-{c: .}
-{c: .}
-{c: .}
-{c: .}
-{c: .}
-{c: .}
-{c: .}
-{c: Scroll Space}
