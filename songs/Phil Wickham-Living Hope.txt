@@ -1,0 +1,90 @@
+{title: Living Hope}
+{artist: Phil Wickham}
+{key: D}
+{duration: }
+{tempo: 72}
+{time: 4/4}
+{copyright: 2017 Phil Wickham Music}
+
+{original_key: Eb}
+{c: Intro}
+[D] [G] [D] [G]
+
+{c: Verse 1}
+How great the [D]chasm     that lay be[Asus]tween us
+How high the [G]mountain     [Bm]  I could not [Asus]climb
+In desper[D]ation     I turned to [Asus]heaven
+And spoke Your [G]name     in[Asus]to the [D]night
+
+{c: Pre-Chorus}
+Then through the [G]darkness     Your loving [D]kindness
+Tore through the [Bm]shadows of my [A]soul
+The work is [D]finished the end is [A]written
+Jesus [G]Christ my [A]living [D]hope
+
+[G]
+
+{c: Verse 2}
+Who could [D]imagine     so great a [Asus]mercy
+What heart could [G]fathom     [Bm]   such boundless [Asus]grace
+The God of [D]ages     stepped down from [Asus]glory
+To wear my [G]sin     and [Asus]bear my [D]shame
+
+{c: Pre-Chorus}
+The cross has [G]spoken     I am for[D]given
+The King of [Bm]kings calls me His [A]own
+Beautiful [D]Savior I’m Yours for[A]ever
+Jesus [G]Christ my [A]living [D]hope
+
+{soc}
+Halle[G]lu - [D]jah     praise the [A]One who set me [Bm]free
+Halle[G]lu - [D]jah     death has [A]lost its grip on [Bm]me
+[A]You have [G]broken every [D]chain
+There’s sal[A]vation in Your [Bm]name
+Jesus [G]Christ my [A]living [D]hope
+{eoc}
+
+{soc}
+Halle[G]lu - [D]jah     praise the [A]One who set me [Bm]free
+Halle[G]lu - [D]jah     death has [A]lost its grip on [Bm]me
+[A]You have [G]broken every [D]chain
+There’s sal[A]vation in Your [Bm]name
+Jesus [G]Christ my [A]living [D]hope
+{eoc}
+
+[G]
+
+{c: Verse 3}
+Then came the [D]morning     that sealed the [Asus]promise
+Your buried [G]body     [Bm]   began to [Asus]breathe
+Out of the [D]silence     the Roaring [Asus]Lion
+Declared the [G]grave     has no [Asus]claim on [D]me
+
+Then came the [D]morning     that sealed the [Asus]promise
+Your buried [G]body     [Bm]   began to [Asus]breathe
+Out of the [D]silence     the Roaring [Asus]Lion
+Declared the [G]grave     has no [Asus]claim on [D]me
+
+Jesus [G]Yours is the [Asus]victory
+
+[D]
+
+{soc}
+Halle[G]lu - [D]jah     praise the [A]One who set me [Bm]free
+Halle[G]lu - [D]jah     death has [A]lost its grip on [Bm]me
+[A]You have [G]broken every [D]chain
+There’s sal[A]vation in Your [Bm]name
+Jesus [G]Christ my [A]living [D]hope
+{eoc}
+
+{soc}
+[D/F#]Halle[G]lu - [D]jah     praise the [A]One who set me [Bm]free
+Halle[G]lu - [D]jah     death has [A]lost its grip on [Bm]me
+[A]You have [G]broken every [D]chain
+There’s sal[A]vation in Your [Bm]name
+Jesus [G]Christ my [A]living [D]hope   [D/F#]
+{eoc}
+
+{c: Ending}
+Jesus [G]Christ my [A]living [D]hope   [D/F#]
+Oh God You [G]are my [A]living hope     [D]

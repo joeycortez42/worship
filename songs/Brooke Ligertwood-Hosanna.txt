@@ -21,8 +21,10 @@ The people [Em7]sing   The people [A]sing
 
 {soc}
 {c: Softly}
-Ho - [D/F#]sanna [G]   ho - [A]sanna[Bm]    Ho - [G]sanna in the [Bm]highest [A]
-Ho - [D/F#]sanna [G]   ho - [A]sanna[Bm]    Ho - [G]sanna in the [A]high - [Bm]est   [Bm]
+Ho - [D/F#]sanna [G]     ho - [A]sanna[Bm]
+Ho - [G]sanna in the [Bm]highest [A]
+Ho - [D/F#]sanna [G]     ho - [A]sanna[Bm]
+Ho - [G]sanna in the [A]high - [Bm]est   [Bm]
 {eoc}
 
 {c: Verse 3}
@@ -34,8 +36,9 @@ With selfless [Em7]faith   With selfless [A]faith
 We're on our [Em7]knees   We're on our [A]knees
 
 {soc}
-Ho - [D/F#]sanna [G]   ho - [A]sanna[Bm]    Ho - [G]sanna in the [Bm]highest [A]
-Ho - [D/F#]sanna [G]   ho - [A]sanna[Bm]
+Ho - [D/F#]sanna [G]     ho - [A]sanna[Bm]
+Ho - [G]sanna in the [Bm]highest [A]
+Ho - [D/F#]sanna [G]     ho - [A]sanna[Bm]
 Ho - [G]sanna in the [A]high   [Bm]. . . .   [D]. . . .   [Em7]. . . .   [F#m7]. . . .
 {eoc}
 
@@ -53,12 +56,16 @@ Ho - [G]sanna in the [A]high   [Bm]. . . .   [D]. . . .   [Em7]. . . .   [F#m7].
 
 {soc}
 {c: Softly}
-Ho - [D/F#]sanna [G]   ho - [A]sanna[Bm]    Ho - [G]sanna in the [Bm]highest   [A]
-Ho - [D/F#]sanna [G]   ho - [A]sanna[Bm]    Ho - [G]sanna in the [A]high - [D]est
+Ho - [D/F#]sanna [G]     ho - [A]sanna[Bm]
+Ho - [G]sanna in the [Bm]highest   [A]
+Ho - [D/F#]sanna [G]     ho - [A]sanna[Bm]
+Ho - [G]sanna in the [A]high - [D]est
 
 {c: Full Band}
-Ho - [D/F#]sanna [G]   ho - [A]sanna[Bm]    Ho - [G]sanna in the [Bm]highest   [A]
-Ho - [D/F#]sanna [G]   ho - [A]sanna[Bm]    Ho - [G]sanna in the [A]high - [Bm]est
+Ho - [D/F#]sanna [G]     ho - [A]sanna[Bm]
+Ho - [G]sanna in the [Bm]highest   [A]
+Ho - [D/F#]sanna [G]     ho - [A]sanna[Bm]
+Ho - [G]sanna in the [A]high - [Bm]est
 {eoc}
 
 {c: Ending}
