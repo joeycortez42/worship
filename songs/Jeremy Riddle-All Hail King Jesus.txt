@@ -1,0 +1,87 @@
+{title: All Hail King Jesus}
+{artist: Jeremy Riddle}
+{key: C}
+{duration: }
+{tempo: 74}
+{time: 4/4}
+{copyright: }
+
+{original_key: C}
+{c: Intro}
+[C]. . . .     [C]. . . .     [Am]. . . .     [Am]. . . .
+[G]. . . .     [G]. . . .     [F]. . . .     [F]. . . .
+
+{c: Verse 1}
+[C]There was a moment when the lights went out
+[Am]When death had claimed its victory
+[Gsus]The King of love had given up His life
+[F]The darkest day in history
+
+{c: Verse 2}
+[C]There on a cross they made for sinners
+[Am]For every curse His blood atoned
+[G]One final breath and it was finished
+[F]But not the end we could have known
+
+{c: Pre-Chorus}
+For the[Dm] earth be[Am]gan to s[G]hake     and the [C]veil [C/E]was [F]torn
+What [Dm]sacri [Am]fice was [G]made     as the [C]hea [C/E]vens [F]roared
+
+{soc}
+[C]   All hail King [Csus]Jesus
+[C]   All hail the L[Csus]ord of H[C/E]eaven and Ea[Am]rth
+All hail King [F]Jesus
+[C/E]   All hail the S[G]avior of the wo[C]rld   [Csus]. . . .     [C]. . . .     [Csus]. . . .
+{eoc}
+
+{c: Verse 3}
+[C]   There was a moment when the sky lit up
+[Am]   A flash of light breaking through
+[G]   When all was lost He crossed eternity
+[F]   The King of life was on the move
+
+{c: Pre-Chorus}
+For in a [Dm]dark [Am]cold [G]tomb     where our [C]Lord [C/E]was [F]laid
+One mi[Dm]racu [Am]lous [G]breath     and we're for[C]e - [C/E]ver [F]changed
+
+{soc}
+[C]   All hail King [Csus]Jesus
+[C]   All hail the L[Csus]ord of H[C/E]eaven and Ea[Am]rth
+All hail King [F]Jesus
+[C/E]   All hail the S[G]avior of the world
+
+[Am]   All hail King [F]Jesus
+[C/E]   All hail the L[G]ord of heaven and earth
+[Am]   All hail, King [F]Jesus
+[C/E]   All hail the S[F]avior of the world
+{eoc}
+
+[G]. . . .     [Am]. . . .     [F]. . . .     [C]. . . .
+[G]. . . .     [Am]. . . .     [F]. . . .     [C]. . . .
+
+{sob}
+Let [G]every [Am]knee   come b[F]ow before the K[C]ing of kings
+Let [G]every [Am]tongue   conf[F]ess that He is [C]Lord
+Lift [G]up your [Am]shout   let us j[F]oin with all of H[C]eaven
+
+Singing [G]ho - [Am]o - [F]ly     [C]. . . .
+Singing [G]ho - [Am]o - [F]ly     [C]. . . .
+We cry out [G]ho - [Am]o - [F]ly     [C]. . . .
+We sing out [G]ho - [Am]o - [F]ly     [C]. . . .
+{eob}
+
+[G]Ho - [Am]o - [F]ly     [C]. . . .
+[G]Ho - [Am]o - [F]ly     [C]. . . .
+
+Singing [G]ho - [Am]o - [F]ly     [C]. . . .
+We sing out [G]ho - [Am]o - [F]ly     [F]. . . .
+
+{soc}
+[C]   All hail King [Csus]Jesus
+[C]   All hail the L[Csus]ord of Heaven and Earth
+[Am]   All hail King [F]Jesus
+[C/E]   All hail the S[G]avior of the world
+{eoc}
+
+{c: Ending}
+[Am]. . . .     [F]. . . .     [C/E]. . . .     [G]. . . .

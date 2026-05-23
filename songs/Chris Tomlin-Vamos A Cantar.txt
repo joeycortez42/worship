@@ -1,0 +1,84 @@
+{title: Vamos A Cantar}
+{artist: Chris Tomlin}
+{key: D#}
+{duration: }
+{tempo: 145}
+{time: 4/4}
+{copyright: 2008 Rising Springs Music}
+
+{original_key: D#}
+{c: Intro}
+[D#]
+
+{soc}
+Vamos [D#]a cantar   Con la música del cielo
+Vamos [Cm]a cantar   Alegres porque escuchas cuando
+C[Bb]antamos   par[G#]a exaltar   tu no[D#]mbre
+{eoc}
+
+[D#] [G#] [Gm]
+[C#] [G#] [Gm]
+
+[D#] [G#] [Gm]
+[C#] [G#] [Gm]
+
+[D#] [G#] [Gm]
+[C#] [G#] [Gm]
+
+{c: Verse 1}
+[D#]Amamos todo de ti
+Cielo y tierra Te adoran
+[Cm]Los reinos se rinden
+Hijo de Dios Tú eres por qu[Bb]ien
+Tú eres por qu[G#]ien
+Vivimos [D#]hoy
+
+{c: Verse 2}
+[D#]Tú eres quien nos liberta
+Tú eres la Luz que guía
+[Cm]Como un fuego ardiente
+Hijo de Dios Tú eres por qu[Bb]ien
+Tú eres por qu[G#]ien
+Vivimos [D#]hoy
+
+{soc}
+Vamos [D#]a cantar   Con la música del cielo
+Vamos [Cm]a cantar   Alegres porque escuchas cuando
+C[Bb]antamos   par[G#]a exaltar   tu no[D#]mbre
+{eoc}
+
+[D#] [G#] [Gm]
+[C#] [G#] [Gm]
+
+[D#]
+
+{c: A cappella}
+{soc}
+Vamos [D#]a cantar   Con la música del cielo
+Vamos [Cm]a cantar   Alegres porque escuchas cuando
+{c: Build}
+C[Bb]antamos   par[G#]a exaltar   tu no[D#]mbre
+{eoc}
+
+[D#] [G#] [Gm]
+[C#] [G#] [Gm]
+
+{c: A cappella}
+{soc}
+Vamos [D#]a cantar   Con la música del cielo
+{c: Build}
+Vamos [Cm]a cantar   Alegres porque escuchas cuando
+C[Bb]antamos   par[G#]a exaltar   tu no[D#]mbre
+{eoc}
+
+[D#] [G#] [Gm]
+[C#] [G#] [Gm]
+
+[D#] [G#] [Gm]
+[C#] [G#] [Gm]
+
+[D#] [G#] [Gm]
+[C#] [G#] [Gm]
+
+{c: Ending}
+[D#]

@@ -1,0 +1,85 @@
+{title: Gone}
+{artist: Steven Furtick}
+{key: G}
+{duration: }
+{tempo: 82}
+{time: 4/4}
+{copyright: 2019 Elevation Worship Records}
+
+{original_key: G}
+{c: Intro}
+[G]Whoa . .   Whoa . .   Whoa . .   Whoa . .
+[G]Whoa . .   Whoa . .   Whoa . .   Whoa . .
+
+{c: Verse 1}
+It [G]wasn't for nothing that You [C]shed Your [G]blood . . .
+So [D]I'm gonna live like my [Em]shame is [C]gone . . .
+[G]Won't be shackled to the [C]way I [G]was . . .
+[D]I'm gonna live like my [C]chains are
+
+{soc}
+[Em]Gone   [D/F#]gone
+[G]Now my [C]sin is dead and g[Em]one
+And I sing [D]halleluj - [G]ah . . . .
+
+[Em]Done   [D/F#]done
+[G]He is [C]risen it is d[Em]one
+And I sing [D]halleluj - [G]ah . . . .
+{eoc}
+
+[G]. . . .
+
+{c: Verse 2}
+[G]Praise is a weapon that will [C]over [G]come . . .
+[D]I'm gonna shout like the [Em]battle's [C]won . . .
+[Em]Fall back [D]devil 'cause your [C]time is [G]up . . .
+[D]I'm gonna live like the [C]stone is
+
+{soc}
+[Em]Gone [D/F#]gone
+[G]Now my [C]sin is dead and g[Em]one
+And I sing [D]halleluj - [G]ah . . . .
+
+[Em]Done [D/F#]done
+[G]He is [C]risen it is d[Em]one
+And I sing [D]halleluj - [G]ah . . . .
+{eoc}
+
+[G]. . . .
+
+{sob}
+How [G]great the power of the blood . . .
+Oh . .   oh . .
+I [G]am the righteousness of God . . .
+Oh [Em]. .   o[G]h . .
+
+How [G]great the power of the blood . . .
+Oh . .   oh . .
+I [G]am the righteousness of God . . .
+Oh [Em]. .   o[G]h . .
+Oh [Em]. .   o[G]h . .
+{eob}
+
+{soc}
+[Em]Gone [D/F#]gone
+[G]Now my [C]sin is dead and g[Em]one
+And I sing [D]halleluj - [G]ah . . . .
+
+[Em]Done [D/F#]done
+[G]He is [C]risen it is d[Em]one
+And I sing [D]halleluj - [G]ah . . . .
+{eoc}
+
+{soc}
+[Em]Gone [D/F#]gone
+[G]Now my [C]sin is dead and g[Em]one
+And I sing [D]halleluj - [G]ah . . . .
+
+[Em]Done [D/F#]done
+[G]He is [C]risen it is d[Em]one
+And I sing [D]halleluj - [G]ah . . . .
+{eoc}
+
+{c: Ending}
+[G]Whoa . .   Whoa . .   Whoa . .   Whoa . .
+[G]Whoa . .   Whoa . .   Whoa . .   Whoa . .

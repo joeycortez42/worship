@@ -1,0 +1,84 @@
+{title: Great Are You Lord}
+{artist: Jason Ingram}
+{key: G}
+{duration: }
+{tempo: 144}
+{time: 6/8}
+{copyright: 2012 Open Hands Music}
+
+{original_key: A}
+{c: Intro}
+[C]. . . . . .     [Em7]. . . . . .     [D]. . . . . .     [D]. . . . . .
+[C]. . . . . .     [Em7]. . . . . .     [D]. . . . . .     [D]. . . . . .
+
+{c: Verse}
+You give l[C]ife     You are l[Em]ove
+You bring l[Dsus]ight to the darkness
+You give h[C]ope     You re - st[Em7]ore
+Ev'ry he[Dsus]art that is broken
+[C]     And g[Em7]reat are You L[Dsus]ord
+
+{soc}
+It's Your b[C]reath     in our lu[Em7]ngs
+So we p[Dsus]our out our praise     We pour out our praise
+It's Your br[C]eath     in our l[Em7]ungs
+So we p[Dsus]our out our praise to You on - ly
+{eoc}
+
+[C]. . . . . .     [Em7]. . . . . .     [D]. . . . . .     [D]. . . . . .
+
+{c: Verse}
+You give l[C]ife     You are l[Em]ove
+You bring l[Dsus]ight to the darkness
+You give h[C]ope     You re - st[Em7]ore
+Ev'ry h[Dsus]eart that is broken
+[C]     And g[Em7]reat are You L[Dsus]ord
+
+{soc}
+It's Your b[C]reath     in our lu[Em7]ngs
+So we p[Dsus]our out our praise     We pour out our praise
+It's Your br[C]eath     in our l[Em7]ungs
+So we p[Dsus]our out our praise to You on - ly
+{eoc}
+
+{soc}
+It's Your b[C]reath     in our lu[Em7]ngs
+So we p[Dsus]our out our praise     We pour out our praise
+It's Your br[C]eath     in our l[Em7]ungs
+So we p[Dsus]our out our praise to You on - ly
+{eoc}
+
+[G]. . . . . .     [G]. . . . . .     [Gsus]. . . . . .     [Gsus]. . . . . .
+[C2]. . . . . .     [C2]. . . . . .     [G]. . . . . .     [G]. . . . . .
+
+{sob}
+And a[G]ll the earth will shout Your praise
+Our h[Gsus]earts will cry these bones will sing
+Gr[C2]eat are You L[G]ord
+
+And a[G]ll the earth will shout Your praise
+Our h[Gsus]earts will cry these bones will sing
+Gr[C2]eat are You L[G]ord
+
+And a[G]ll the earth will shout Your praise
+Our h[Gsus]earts will cry these bones will sing
+Gr[C2]eat are You L[G]ord
+{eob}
+
+{soc}
+It's Your b[C]reath     in our lu[Em7]ngs
+So we p[Dsus]our out our praise     We pour out our praise
+It's Your br[C]eath     in our l[Em7]ungs
+So we p[Dsus]our out our praise to You on - ly
+{eoc}
+
+{soc}
+It's Your b[C]reath     in our lu[Em7]ngs
+So we p[Dsus]our out our praise     We pour out our praise
+It's Your br[C]eath     in our l[Em7]ungs
+So we p[Dsus]our out our praise to You on - ly
+{eoc}
+
+{c: Ending}
+[C]. . . . . .     [Em7]. . . . . .     [D]. . . . . .
+[C]. . . . . .     [Em7]. . . . . .     [D]

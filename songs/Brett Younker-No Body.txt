@@ -1,0 +1,142 @@
+{title: Brett Younker}
+{artist: No Body}
+{key: C}
+{duration: }
+{tempo: 67}
+{time: 4/4}
+{copyright: 2023 Elevation Worship Records}
+
+{original_key: C}
+{c: Intro - Clean with Delay}
+[C] [F] [C] [F] [G] [Am7] [G] [C]
+
+[C] [F] [C] [F] [G] [Am7] [G] [C]
+
+#e|--------------------------------------|
+#B|-8--10--8--10--12--13--15--17---------|
+#G|--------------------------------------|
+#D|--------------------------------------|
+#A|-7--8---7--8---10--12--14--15---------|
+#E|--------------------------------------|
+
+e|-----------------------------------|
+B|-5--7--5--7--9--10--12--16---------|
+G|-----------------------------------|
+D|-----------------------------------|
+A|-4--5--4--5--7--9---11--12---------|
+E|-----------------------------------|
+
+{c: Verse 1 Clean with Delay}
+Be[C]hold th[F]e lamb
+U[C]pon th[F]e cross
+Who [G]takes a[Am7]way the [G]sins [C]of all
+
+Fo[C]rgivenes[F]s flows
+From [C]hands a[F]nd feet
+As [G]viole[Am7]nce meets the [G]Prince o[C]f peace
+Behold th[G]e King
+
+{soc}
+[C]Light of the [C]world
+Lamb that was s[G]lain
+[C]Lion who [C]rose
+Mighty to [G]save
+The [C]fullness of [C]God
+Won’t be kept in a [G]grave
+[F]Darkness your hour is [G]o - [C]ver
+{eoc}
+
+{c: Verse 2 - Clean with Delay}
+Be[C]hold th[F]e love
+His [C]dyin[F]g plea
+Be[G]hold th[Am7]e grace of [G]Calva[C]ry
+That [C]rugge[F]d cross
+[C]Soon t[F]o be
+The [G]emble[Am7]m of a [G]rise - [C]n King
+Be[C]hold th[G]e King
+
+{soc}
+{c: Single Strum w/ Distortion}
+[F]Light of the [C]world
+[Am7]Lamb that was s[G]lain
+[F]Lion who [C]rose
+[Am7]Mighty to [G]save
+The [F]fullness of [C]God
+Won’t be [Am7]kept in a [G]grave
+[F]Darkness your hour is [G]o - [C]ver
+
+[F]Light of the [C]world
+[Am7]Lamb that was s[G]lain
+[F]Lion who [C]rose
+[Am7]Mighty to [G]save
+The [F]fullness of [C]God
+Won’t be [Am7]kept in a [G]grave
+[F]Darkness your hour is [G]o - [C]ver
+{eoc}
+{c: Drop}
+
+[F] [G] [Am7] [C]
+[F] [G] [Am7] [C]
+
+{sob}
+[F]   No enemy can hold You [G]down
+[Am7] 'Cause there's no [C]body in the grave now
+[F]   One head gets to wear that [G]crown
+[Am7] 'Cause there's no [C]body in the grave now
+
+{c: Single Strum}
+[F]   No enemy can hold You [G]down
+[Am7] 'Cause there's no [C]body in the grave now
+[F]   One head gets to wear that [G]crown
+[Am7] 'Cause there's no [C]body in the grave now
+
+{c: Single Strum w/ Distortion}
+[F]   No enemy can hold You [G]down
+[Am7] 'Cause there's no [C]body in the grave now
+[F]   One head gets to wear that [G]crown
+[Am7] 'Cause there's no [C]body in the grave now
+
+{c: Downstrokes}
+[F]   No enemy can hold You [G]down
+[Am7] 'Cause there's no [C]body in the grave now
+[F]   One head gets to wear that [G]crown
+[Am7] 'Cause there's no [C]body in the grave now
+{eob}
+
+{soc}
+{c: Single Strum w/ Distortion}
+[F]Light of the [C]world
+[Am7]Lamb that was s[G]lain
+[F]Lion who [C]rose
+[Am7]Mighty to [G]save
+The [F]fullness of [C]God
+Won’t be [Am7]kept in a [G]grave
+[F]Darkness your hour is [G]o - [C]ver
+
+[F]Light of the [C]world
+[Am7]Lamb that was s[G]lain
+[F]Lion who [C]rose
+[Am7]Mighty to [G]save
+The [F]fullness of [C]God
+Won’t be [Am7]kept in a [G]grave
+[F]Darkness your hour is [G]o - [C]ver
+{eoc}
+
+{sob}
+{c: Downstrokes}
+[F]   No enemy can hold You [G]down
+[Am7] 'Cause there's no [C]body in the grave now
+[F]   One head gets to wear that [G]crown
+[Am7] 'Cause there's no [C]body in the grave now
+
+[F]   No enemy can hold You [G]down
+[Am7] 'Cause there's no [C]body in the grave now
+[F]   One head gets to wear that [G]crown
+[Am7] 'Cause there's no [C]body in the grave now
+
+[F] [G] [Am7]'Cause there's no [C]body in the grave now
+[F] [G] [Am7]'Cause there's no [C]body in the grave now
+
+{c: Ending - Palm Muting}
+[F] [G] [Am7] [C]
+[F] [G] [Am7] [C]

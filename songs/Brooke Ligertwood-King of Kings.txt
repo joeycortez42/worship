@@ -1,0 +1,96 @@
+{title: King of Kings}
+{artist: Brooke Ligertwood}
+{key: C}
+{duration: }
+{tempo: 68}
+{time: 4/4}
+{copyright: 2019 Hillsong Music Publishing Australia}
+
+{original_key: D}
+{c: Intro}
+[C][C] [G][G] [D][D] [E][F] [E] [C] [G]
+[C][C] [G][G] [D][D] [E][F] [E] [C]
+
+{c: Verse 1}
+In the da[C]rkness we were wa[F]iting
+Without h[G]ope without l[C]ight
+Till from h[C]eaven You came r[F]unning
+There was me[G]rcy in Your e[C]yes
+
+To fulf[C]il the law and pr[F]ophets
+To a vi[G]rgin came the Wo[C]rd
+From a thr[C]one of endless gl[F]ory
+To a cr[G]adle in the dirt
+
+[C][C] [G][G] [D][D] [E][F] [E] [C]
+
+{soc}
+[C]Praise the Father . [F]Praise the Son
+[Am7]Praise the Spirit [Gsus]three in [G]one
+[C]God of glory . [F]Majesty
+[Am7]Praise for[F]ever to the [G]King of Kings
+{eoc}
+
+[C][C] [G][G] [D][D] [E][F] [E] [C]
+
+{c: Verse 2}
+To rev[C]eal the kingdom c[F]oming
+And to r[G]econcile the l[C]ost
+To rede[C]em the whole cre[F]ation
+You did no[G]t despise the cr[C]oss
+
+For [C]even in Your s[F]uffering
+You saw t[G]o the other s[C]ide
+Knowing thi[C]s was our salv[F]ation
+Jesus f[G]or our sake You died
+
+{c: Add Distortion}
+[C][C] [G][G] [D][D] [E][F] [E] [C]
+
+{soc}
+{c: Light Fast Struming}
+[C]Praise the Father . [F]Praise the Son
+[Am7]Praise the Spirit [Gsus]three in [G]one
+[C]God of glory . [F]Majesty
+[Am7]Praise for[F]ever to the [G]King of Kings
+{eoc}
+
+[C][C] [G][G] [D][D] [E][F] [E] [C]
+
+{c: Verse 3 - Drop}
+And the mo[Am]rning that You r[F]ose
+All of h[G]eaven held its bre[C]ath
+Till that st[Am]one was moved for go[F]od
+For the L[G]amb had conquered d[C]eath
+{c: Low Build - Light Fast Struming}
+And the de[Am]ad rose from their t[F]ombs
+And the [G]angels stood in [C]awe
+For the s[Am]ouls of all who’d c[F]ome
+To the F[G]ather are rest[C]ored
+
+{c: Verse 4 - Light Fast Struming}
+And the Chu[C]rch of Christ was b[F]orn
+Then the Sp[G]irit lit the fl[C]ame
+Now this go[C]spel truth of [F]old
+Shall not kn[G]eel shall not fa[C]int
+
+By His bloo[C]d and in His N[F]ame
+In His fr[G]eedom I am fr[C]ee
+For the l[C]ove of Jesus Chr[F]ist
+Who has r[G]esurrected me
+
+[C][C] [G][G] [D][D] [E][F] [E] [C]
+
+{soc}
+[C]Praise the Father . [F]Praise the Son
+[Am7]Praise the Spirit [Gsus]three in [G]one
+[C]God of glory . [F]Majesty
+[Am7]Praise for[F]ever to the [G]King of Kings [C]
+{eoc}
+
+[C]Praise for[F]ever to the [G]King of Kings
+
+{c: Ending}
+[C][C] [G][G] [D][D] [E][F] [E] [C] [G]
+
+[C]

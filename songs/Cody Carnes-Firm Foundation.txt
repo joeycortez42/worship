@@ -1,0 +1,148 @@
+{title: Firm Foundation}
+{artist: Cody Carnes}
+{key: G}
+{duration: }
+{tempo: 75}
+{time: 6/8}
+{copyright: 2021 For Humans Publishing}
+
+{original_key: Bb}
+{c: Intro}
+[G]. . . [G]. . . [G] [Am7] [G] [C2]
+ 
+{c: Verse 1} 
+Christ is my [G]firm foundation
+The[Em7]rock on which I [D]stand
+ 
+When everything a[G]round me is [G]shaken
+I’ve [Em7]never been more [D]glad
+
+{soc}
+That I put my [C2]faith in Jesus[G] 
+‘Cause He’s [Em7]never let me [D]down
+
+He’s faithful through [C2]generations [G] 
+So [Em7]why would He fail [D]now?
+{eoc}
+
+{c: Post-Chorus}
+He won’t [G]
+He won’t [Gsus] 
+ 
+{c: Verse 2}
+I’ve still got [G]joy in chaos
+I’ve got [Em7]peace that makes no [D]sense
+
+I won’t be [C]go-ing un-[G]der
+I’m not [Em7]held by my own [D]strength
+
+{soc}
+‘Cause I’ve built my [C2]life on Jesus[G] 
+He’s [Em7]never let me [D]down
+
+He’s faithful in [C2]every season[G] 
+So [Em7]why would He fail [D]now?
+{eoc}
+
+{c: Post-Chorus}
+He won’t [G]
+He won’t [Gsus] 
+He won't [Em7]fail [D][C] 
+He won't [Em7]fail [D][G][Bm][C] 
+
+{c: Post-Chorus}
+He won’t [G]
+He won’t [Gsus] 
+He won't [Em7]fail [D][C] 
+He won't [Em7]fail [D][G][Bm][C]
+ 
+{c: Verse 1} 
+Christ is my [G]firm foundation
+The[Em7]rock on which I [D]stand
+ 
+When everything a[G]round me is [G]shaken
+I’ve [Em7]never been more [D]glad
+ 
+{soc}
+That I put my [C2]faith in Jesus[G] 
+‘Cause He’s [Em7]never let me [D]down
+
+He’s faithful through [C2]generations [G] 
+So [Em7]why would He fail [D]now?
+{eoc}
+
+{c: Post-Chorus}
+He won’t [G]
+He won’t [Gsus] 
+He won't [Em7]fail [D][C] 
+He won't [Em7]fail [D][G][Bm][C] 
+
+{c: Instrumental}
+[C]. . . . . .     [D]. . . . . .     [G]. . .      [Em]. . .      [D]. . .
+[C]. . . . . .     [D]. . . . . .     [G]. . .      [Em]. . .      [D]. . .
+
+e|--------------------------------------------------------------|
+B|------15------18----18--16--15--------------------15----------|
+G|----------14--------------------17--15----15--17------14--15--|
+D|--17----------------------------------------------------------|
+A|--------------------------------------------------------------|
+E|--------------------------------------------------------------|
+
+e|-------------------------------------------------|
+B|------7----10---10--8--7----------------7--------|
+G|--------6-----------------9--7---7--9------6--7--|
+D|--9----------------------------------------------|
+A|-------------------------------------------------|
+E|-------------------------------------------------|
+
+{sob}
+[C]Rain came and [D]wind blew
+But [G]my house was built on [Em]You [D]
+[C] I’m safe [D]with You
+[G]I’m going to make it [Em]through [D]
+
+[C]Rain came and [D]wind blew
+But [G]my house was built on [Em]You [D]
+[C] I’m safe [D]with You
+[G]I’m going to make it [Em]through [D]
+
+[C]Rain came and [D]wind blew
+But [G]my house was built on [Em]You [D]
+[C] I’m safe [D]with You
+[G]I’m going to make it [Em]through [D]
+
+[C]I’m going to make it [D]through
+‘Cause [G]I’m standing strong on [Em]You [D]
+[C]I’m going to make it [D]through
+‘Cause [G]my house was built on [Em]You [D] 
+{eob}
+
+{c: Verse 1} 
+Christ is my [G]firm foundation [Am7]
+The[Em7]rock on which I [D]stand
+ 
+When everything a[C]round me is [Am7]shaken
+I’ve [Em7]never been more [D]glad
+ 
+{soc}
+That I put my [C2]faith in Jesus[G] 
+‘Cause He’s [Em7]never let me [D]down
+
+He’s faithful through [C2]generations [G] 
+So [Em7]why would He fail [D]now?
+{eoc}
+
+{c: Post-Chorus}
+He won’t [G]
+He won’t [Gsus] 
+He won't [Em7]fail [D][C] 
+He won't [Em7]fail [D][G][Bm][C]
+
+{c: Post-Chorus}
+He won’t [G]
+He won’t [Gsus] 
+He won't [Em7]fail [D][C] 
+He won't [Em7]fail [D][G][Bm][C] 
+
+{c: Ending}
+No, He won’t [G]

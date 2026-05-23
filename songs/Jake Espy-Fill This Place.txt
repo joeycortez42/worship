@@ -1,0 +1,108 @@
+{title: Fill This Place}
+{artist: Jake Espy}
+{key: D}
+{duration: }
+{tempo: 133}
+{time: 4/4}
+{copyright: 2017 Clement Sea Publishing}
+
+{original_key: G}
+{c: Intro}
+[D/F#]. . . .     [G]. . . .     [D/F#]. . . .     [G]. . . .
+{c: Enter with distortion}
+[D/F#]. . . .     [G]. . . .     [D/F#]. . . .     [G]. . . .
+
+{c: Verse 1}
+[D]   There is a Light that bu[Dsus]rns in the darknes[D]s
+[D]   There is a Hope that wa[Dsus]shes the fear aw[D]ay
+[Bm7]   There is a Peace that s[G]ettles around us [D]
+[Bm7]   It is Your love that [A]sets our hearts abl[D]aze
+
+{soc}
+{c: Ambient}
+[D]   Father we're on our knee[G]s
+With every heartbeat
+[Bm7]We bring you this offeri[G]ng
+Lord come and fill this pla[D]ce
+
+Father we're crying ou[G]t
+Spirit we need you no[Bm7]w
+Glorious love surro[G]unds us
+Lord come and fill this place
+{eoc}
+
+{c: Enter with distortion}
+[D]. . . .     [Dsus]. . . .     [D]. . . .     [Dsus]. . . .     
+
+{c: Verse 1}
+[D]   There is a King that re[Dsus]igns in victor[D]y
+[D]   There is a mercy str[Dsus]ong enough to sa[D]ve
+[Bm7]   We feel it rising u[G]p from the ash[D]es
+[Bm7]   There is a Love that [A]overcame the gr[D]ave
+{c: Single Strum}
+[Bm7]   There is a Love that [A]overcame the gr[D]ave
+
+{soc}
+[D]   Father we're on our knee[G]s
+With every heartbeat
+[Bm7]We bring you this offeri[G]ng
+Lord come and fill this pla[D]ce
+
+Father we're crying ou[G]t
+Spirit we need you no[Bm7]w
+Glorious love surro[G]unds us
+Lord come and fill this pl[D]ace   [G]
+Lord come and fill this pl[Bm7]ace   [G]
+{eoc}
+
+{sob}
+{c: Ambient}
+And I will [D]worship You     I'll [G]worship You
+I'll [Bm7]worship You alw[G]ays
+
+And I will [D]worship You     I'll [G]worship You
+I'll [Bm7]worship You alw[G]ays
+
+And I will [D]worship You     I'll [G]worship You
+I'll [Bm7]worship You alw[G]ays
+
+And I will [D]worship You     I'll [G]worship You
+I'll [Bm7]worship You alw[G]ays
+
+And I will [D]worship You     I'll [G]worship You
+I'll [Bm7]worship You alw[G]ays
+
+{c: Build}
+And I will [D]worship You     I'll [G]worship You
+I'll [Bm7]worship You alw[G]ays
+{sob}
+{c: Drop}
+
+{soc}
+[D]   Father we're on our knee[G]s
+With every heartbeat
+[Bm7]We bring you this offeri[G]ng
+Lord come and fill this pla[D]ce
+
+{c: Enter with distortion}
+[D]   Father we're crying ou[G]t
+Spirit we need you no[Bm7]w
+Glorious love surro[G]unds us
+{eoc}
+
+{sob}
+And I will [D]worship You     I'll [G]worship You
+I'll [Bm7]worship You alw[G]ays
+
+And I will [D]worship You     I'll [G]worship You
+I'll [Bm7]worship You alw[G]ays
+
+{c: Drop to Ambient}
+And I will [D]worship You     I'll [G]worship You
+I'll [Bm7]worship You alw[G]ays
+
+And I will [D]worship You     I'll [G]worship You
+I'll [Bm7]worship You alw[G]ays
+{sob}
+
+{c: Ending}

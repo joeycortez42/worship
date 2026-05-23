@@ -1,0 +1,162 @@
+{title: Praise You Anywhere}
+{artist: Brandon Lake}
+{key: B}
+{duration: }
+{tempo: 108}
+{time: 4/4}
+{copyright: 2023 Provident Label Group LLC}
+
+{original_key: G}
+{c: Intro}
+[B] [E]
+
+e|-------------------------------------|
+B|12---11-12-14---12-14-16---17-16-----|
+G|-------------------------------------|
+D|-------------------------------------|
+A|-------------------------------------|
+E|-------------------------------------|
+ 
+e|-------------------------------------|
+B|12---11-12-14---12-14-16-------------|
+G|-------------------------------------|
+D|-------------------------------------|
+A|-------------------------------------|
+E|-------------------------------------|
+
+
+{c: Verse 1}
+Sometimes you’ve gotta [B]dance through the darkness
+Sing through the fire
+[E]Praise when it don’t make sense
+
+Sometimes you’ve gotta [G#m7]stare down the giant
+[F#]Worship from the lion’s den[E]
+
+e|-------------------------------------|
+B|----------20-------------------------|
+G|-14/--17------17--14-----------------|
+D|-------------------------------------|
+A|-------------------------------------|
+E|-------------------------------------|
+
+{c: Verse 2}
+Sometimes you’ve gotta [B]shout it from the mountain
+Louder in the valley
+[E]Trusting that He’s gonna get you there
+
+Sometimes you’ve gotta [G#m7]welcome the wonder
+[F#]Wait for the answer
+[E]Worship with your hands in the air
+
+I’ll praise You anywhere
+
+e|------14-------------------14--------------------------|
+B|-12------11------------14-----11-----16--14--16--14--12-|
+G|-11--------------11/16------------------------------|
+D|-9----------13-------------------13-----------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+{soc}
+[B]Praise
+Give Him praise, Give Him praise
+In the highest
+
+[E]Praise
+Give Him praise, Give Him praise
+In the highest
+
+[G#m7]He is [F#]worthy
+Yes [E]He is worthy of all of the praise
+{eoc}
+
+[B]
+
+{c: Verse 3}
+Sometimes you’ve gotta [B]praise in the prison
+Cry out to heaven
+[E]Shout it ‘til the doors swing wide
+
+Sometimes you’ve gotta [G#m7]stand on your shackles
+[F#]Brave in the battle
+[E]Worship with your hands held high
+
+I’ll praise You anywhere
+
+{soc}
+[B]Praise
+Give Him praise, Give Him praise
+In the highest
+
+[E]Praise
+Give Him praise, Give Him praise
+In the highest
+
+[G#m7]He is [F#]worthy
+Yes [E]He is worthy of all of the praise
+{eoc}
+
+{soc}
+[B]Praise
+Give Him praise, Give Him praise
+In the highest
+
+[E]Praise
+Give Him praise, Give Him praise
+In the highest
+
+[G#m7]He is [F#]worthy
+Yes [E]He is worthy of all of the praise
+{eoc}
+
+[B]
+
+e|-------------------------------------|
+B|-12----11----7----9------------------|
+G|-------------------------------------|
+D|-------------------------------------|
+A|-------------------------------------|
+E|-------------------------------------|
+
+{sob}
+[G#m]Faithful all my life
+[F#]Blessings day and night
+[B]Countless reasons why
+[E]. . I’ll praise You anywhere
+
+[G#m]Every promise kept
+[F#]Goodness every step
+[B]Each and every breath
+[E]. . I’ll praise You anywhere
+{eob}
+
+{sob}
+[G#m]Faithful all my life
+[F#]Blessings day and night
+[B]Countless reasons why
+[E]. . I’ll praise You anywhere
+
+[G#m]Every promise kept
+[F#]Goodness every step
+[B]Each and every breath
+[E]. . I’ll praise You anywhere
+{eob}
+
+{soc}
+[B]Praise
+Give Him praise, Give Him praise
+In the highest
+
+[E]Praise
+Give Him praise, Give Him praise
+In the highest
+
+[G#m7]He is [F#]worthy
+Yes [E]He is worthy of all of the praise
+{eoc}
+
+{c: Ending}
+[B] [E]
+[G#m7] [F#] [E]
+[B]

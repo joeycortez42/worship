@@ -1,0 +1,99 @@
+{title: Worthy}
+{artist: Chris Brown}
+{key: C}
+{duration: }
+{tempo: 67.5}
+{time: 4/4}
+{copyright: 2018 Elevation Worship}
+
+{c: Intro}
+[Am7]   [C]   [F]   [G]
+[Am7]   [C]   [F]   [G]
+
+{c: Verse 1}
+[C]  It was my cr[Gsus]oss You bore[G]
+So I could l[C]ive in the [F]feeedom You [C]died  f[G]or
+[C]  And now my l[Gsus]ife is Yours [G]
+And I will s[C]ing of Your [F]goodness for[C]ever-[G]more
+
+[G]
+
+{soc}
+Worthy is Your n[F]ame. . . . Je - [G]sus
+You deserve the pr[C]aise
+Worthy is Your n[Am7]ame
+Worthy is Your n[F]ame. . . . Je - [G]sus
+You deserve the pr[C]aise
+Worthy is Your name
+{eoc}
+
+[Am7]   [C]   [F]   [G]
+[Am7]   [C]   [F]   [G]
+
+{c: Verse 2}
+[C]  And now my sh[Gsus]ame is gone[G]
+I stand a[C]mazed in Your [F]love unde[C]ni - [G]able
+[C]   Your grace goes [Gsus]on and on[G]
+And I will [C]sing of Your [F]goodness for[C]ev - [G]er more
+
+{soc}
+Worthy is Your n[F]ame. . . . J[Am]e - [G]sus
+You deserve the pr[C]aise
+Worthy is Your n[Am7]ame
+Worthy is Your n[F]ame. . . J[Am]e - [G]sus
+You deserve the pr[C]aise
+Worthy is Your n[Am7]ame
+{eoc}
+
+{soc}
+[G]Worthy is Your n[F]ame. . . . J[Am]e - [G]sus
+You deserve the pr[C]aise
+Worthy is Your n[Am7]ame
+Worthy is Your n[F]ame. . . J[Am]e - [G]sus
+You deserve the pr[C]aise
+Worthy is Your n[Am7]ame. . . . [G]
+{eoc}
+
+[F] [Dm7] [Am7] [G] [C]
+
+{sob}
+Be ex[F]alted now in the heavens
+As your [Dm7]glory fills this place
+You a[Am7]lone deserve our praise
+You're the n[G]ame above all na[C]mes
+
+Be ex[F]alted now in the heavens
+As your [Dm7]glory fills this place
+You a[Am7]lone deserve our praise
+You're the n[G]ame above all na[C]mes
+
+Be ex[F]alted now in the heavens
+As your [Dm7]glory fills this place
+You a[Am7]lone deserve our praise
+You're the n[G]ame above all na[C]mes
+{eob}
+{c: Repeat bridges}
+
+[Dm7] [Am7] [C] [G] [C]
+[Dm7] [Am7] [C] [G] [C]
+
+{soc}
+Worthy is Your n[F]ame. . . . J[Am]e - [G]sus
+You deserve the pr[C]aise
+Worthy is Your n[Am7]ame
+[G]Worthy is Your n[F]ame. . . J[Am]e - [G]sus
+You deserve the pr[C]aise
+Worthy is Your n[Am7]ame
+{eoc}
+
+{soc}
+[G]Worthy is Your n[F]ame. . . . J[Am]e - [G]sus
+You deserve the pr[C]aise
+Worthy is Your n[Am7]ame
+[G]Worthy is Your n[F]ame. . . J[Am]e - [G]sus
+You deserve the pr[C]aise
+Worthy is Your n[Am7]ame [G]
+{eoc}
+
+{c: Ending}
+[F]

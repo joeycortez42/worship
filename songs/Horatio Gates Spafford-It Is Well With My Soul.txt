@@ -1,0 +1,47 @@
+{title:It Is Well With My Soul}
+{subtitle:Horatio Gates Spafford}
+{original_key:C}
+{key:G}
+{tempo:96}
+{time:4/4}
+{as:10}
+{c:Intro - Key B - Capo 4 G}
+It is [C]well    it is [G]well    [D]with my [G]soul
+
+{c:Verse 1}
+When [G]peace like a [D]ri - ver at - [Am7]ten - [D]deth my [G]way
+When [Em]sorrows like [A]sea bil - lows [Dsus]roll    [D]
+What - [G]ever my [C]lot Thou hast [A]taught  me to  [D]say
+[D]It is  [G]well    it  [C]is  [G]well    [D]with  my  [G]soul
+
+{soc}
+It is [G]well . . [D]. . with my [D]soul . . . [G]
+It is [C]well    it is [G]well    [D]with my [G]soul
+{eoc}
+
+{c:Verse 2}
+My  [G]sin O the [D]bliss of this [Am7]glo  -  [D]rious  [G]tho't
+My [Em]sin not in [A]part but the [Dsus]whole    [D]
+Is  [G]nailed to the [C]cross and  I  [A]bear it no [D]more
+[D]Praise the [G]Lord!   Praise [C]the  [G]Lord    [D]O  my  [G]soul!
+
+{soc}
+It is [G]well . . [D]. . with my [D]soul . . . [G]
+It is [C]well    it is [G]well    [D]with my [G]soul
+{eoc}
+
+{c:Verse 3}
+And [G]Lord haste the [D]day when the [Am7]faith   [D]shall be [G]sight
+The [Em]clouds be rolled [A]back as a [Dsus]scroll    [D]
+The [G]trump shall re - [C]sound and the [A]Lord shall de - [D]scend
+[D]Even  [G]so    it [C]is  [G]well    [D]with  my  [G]soul
+
+{soc}
+It is [G]well . . [D]. . with my [D]soul . . . [G]
+It is [C]well    it is [G]well    [D]with my [G]soul
+{eoc}
+
+{c:Ending}
+It is [G]well . . [D]. . with my [D]soul . . . [G]
+{c:Retard}
+It is [C]well    it is [G]well    [D]with my [G]soul

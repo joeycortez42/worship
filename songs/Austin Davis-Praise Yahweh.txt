@@ -1,0 +1,95 @@
+{title: Praise Yahweh}
+{artist: Austin Davis}
+{key: C}
+{duration: }
+{tempo: 143}
+{time: 4/4}
+{copyright: }
+
+{original_key: C}
+{c: Intro}
+[C] [Dm7] [F] [Am] [G] [F]
+[C] [Dm7] [F] [Am] [G] [F]
+[C] [Dm7] [F] [Am] [G] [F]
+[C] [Dm7] [F] [Am] [G] [F]
+
+{c: Verse 1}
+[C]King of kings and Lord of all
+Be - [C]hold the Lamb upon the throne
+Be - [Am]fore You ev'ry crown will fall
+[F]Jesus Christ, You stand alone
+
+{soc}
+[C]Halle, [Dm7]halle - [F]lujah
+[Am]All the [G]praise is[F] Yours
+[C]Halle, [Dm7]halle - [F]lujah
+Our [Am]songs are [G]ever [F]- more
+Sing [C]Holy, [F]Holy, [Am]Holy [G]is the[F] Lord
+[C]Halle, [Dm7]halle - [F]lujah
+[G]All the praise [C] is Yours
+{eoc}
+
+[C] [Dm7] [F] [Am] [G] [F]
+[C] [Dm7] [F] [Am] [G] [F]
+
+{c: Verse 2}
+[C]Day and night, it never stops
+That [C]ancient and eternal song
+[Am]Heaven and earth will sing as one
+To the [F]One who was and is to come
+The [F]One who was and is to come
+
+{soc}
+[C]Halle, [Dm7]halle - [F]lujah
+[Am]All the [G]praise is[F] Yours
+[C]Halle, [Dm7]halle - [F]lujah
+Our [Am]songs are [G]ever [F]- more
+Sing [C]Holy, [F]Holy, [Am]Holy [G]is the[F] Lord
+[C]Halle, [Dm7]halle - [F]lujah
+[G]All the praise [C] is Yours
+{eoc}
+
+[C] [Dm7] [F] [Am] [G] [F]
+[C] [Dm7] [F] [Am] [G] [F]
+
+[C] [C]
+
+{sob}
+[C]. . Praise Yahweh, [Csus]. . praise Yahweh
+[C]. . Praise Your name [Csus]now and forever
+
+[C]. . Praise Yahweh, [Csus]. . praise Yahweh
+[C]. . Praise Your name [Csus]now and forever
+
+[C]. . Praise Yahweh, [Dm7]. . praise Yahweh
+[C]. . Praise Your name [F]now and for - [G]ever
+[Am]Now and for - [G]ever
+{eob}
+
+{soc}
+[C]Halle, [Am]hallelujah
+[Am]All the [G]praise is[F] Yours
+[C]Halle, [Dm7]halle - [F]lujah
+Our [Am]songs are [G]evermore [F]
+{eoc}
+
+{soc}
+[C]Halle, [Dm7]halle - [F]lujah
+[Am]All the [G]praise is[F] Yours
+[C]Halle, [Dm7]halle - [F]lujah
+Our [Am]songs are [G]ever [F]- more
+Sing [C]Holy, [F]Holy, [Am]Holy [G]is the[F] Lord
+[C]Halle, [Dm7]halle - [F]lujah
+[G]All the praise [C] is Yours
+{eoc}
+
+[C] [Dm7] [F] [Am] [G] [F]
+
+{c: Ending}
+[C]. . Praise Yahweh, [Dm7]. . praise Yahweh
+[C]. . Praise Your name [F]now and for - [G]ever
+
+[Am]. . Praise Yahweh, [G]. . praise Yahweh
+[C]. . Praise Your name [F]now and for - [G]ever
+
+[C]

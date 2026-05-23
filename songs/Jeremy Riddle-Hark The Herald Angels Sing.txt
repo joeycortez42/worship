@@ -1,0 +1,79 @@
+{title: Hark The Herald Angels Sing}
+{artist: Jeremy Riddle}
+{key: E}
+{duration: 90}
+{tempo: 0}
+{time: 4/4}
+{copyright: 2018 Watershed Music Group}
+
+{original_key: E}
+{c: Intro - Muted Electric Guitar}
+[E]
+
+{c: Verse 1 - Add Bass}
+[E]Hark the herald angels sing
+[E]Glory to the newborn King
+[E]Peace on earth and mercy mild
+[B]God and sinners reconciled
+
+{c: Pre-Chorus}
+[E]Joyful all ye [A]nations [B]rise
+[E]Join the triumph [A]of the [B]skies
+
+{start_of_chorus}
+[A]With the angelic [F#m]hosts proclaim
+[B]Christ is [E]born in [A]Beth [B]le [E]hem
+[A]Hark the herald [F#m]angels sing
+[B]Glory [E]to the [F#m]new - [B]born [E]King . .
+{end_of_chorus}
+
+[A]. . . .     [E]. . . .     [C#m]. .     [A]. .
+
+{c: Verse 2}
+[E]Christ by highest heav'n adored
+[E]Christ the everlasting Lord
+[E]Late in time behold Him come
+[B]Offspring of the Virgin’s womb
+
+{c: Pre-Chorus}
+[E]Veiled in flesh the [A]Godhead [B]see
+[E]Hail the incarnate [A]Dei[B]ty
+
+{start_of_chorus}
+[A]Pleased with man as [F#m]men to dwell
+[B]Jesus [E]our Em[A]ma[B]nu[E]el
+[A]Hark the herald [F#m]angels sing
+[B]Glory [E]to the [F#m]new - [B]born [E]King . .
+{end_of_chorus}
+
+[A]. . . .     [E]. . . .     [C#m]. .     [A]. .
+
+[E]. . . .     [A]. . . .     [E]. . . .     [C#m]. .     [A]. .
+
+{c: Verse 3}
+[E]Hail the heav'nborn Prince of Peace
+[E]Hail the Sun of Righteousness
+[E]Light and life to all He brings
+[B]Ris'n with healing in His wings
+
+{c: Pre-Chorus}
+[E]Mild He lays His [A]glory [B]by
+[E]Born that man no [A]more may [B]die
+
+{start_of_chorus}
+[A]Born to raise the [F#m]sons of earth
+[B]Born to [E]give them [A]se - [B]cond [E]birth
+[A]Hark the herald [F#m]angels sing
+[B]Glory [E]to the [F#m]new - [B]born [E]King . .
+{end_of_chorus}
+
+[A]. . . .     [E]. . . .     [C#m]. .     [A]. .
+
+[E]. . . .     [A]. . . .     [E]. . . .     [C#m]. .     [A]. .
+
+[E]. . . .     [A]. . . .     [E]. . . .     [C#m]. .     [A]. .
+
+[E]. . . .     [A]. . . .     [E]. . . .     [C#m]. .     [A]. .
+
+{c: Ending}
+[E]

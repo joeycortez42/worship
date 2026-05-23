@@ -1,0 +1,160 @@
+{title: Who Else}
+{artist: Josiah Funderburk}
+{key: G}
+{duration: }
+{tempo: 120}
+{time: 4/4}
+{copyright: }
+
+{original_key: Ab}
+{c: Intro}
+
+{c: Verse 1}
+I am an [G]instrument of exal[D]tation
+And I was [Em7]born to lift Your [D]name above a[C2]ll names
+
+You hear the [G]melody of all cr[D]eation
+But there's a [Em7]song of praise that [D]only I ca[C2]n bring
+
+{soc}
+Who else is worth[G]y? Who else is worth[Am]y?
+There is n[Em7]o one, only [D]You, J[C2]esus
+
+Who else is worth[G]y? Who else is worth[Am]y?
+There is n[Em7]o one, only You, J[C]esus
+{eoc}
+
+{c: Verse 2}
+You are the [G]infinite God of the [D]ages
+Yet You [Em7]chose to make my [D]heart Your dwellin[C2]g place
+
+You healed my [G]brokenness, showed me Your [D]glory
+So I have [Em7]songs of thanks not [D]even angel[C2]s sing
+
+{soc}
+Who else is worth[G]y? Who else is worth[Am]y?
+There is n[Em7]o one, only You, J[C2]esus
+
+Who else is worth[G]y? Who else is worth[Am]y?
+There is n[Em7]o one, only You, J[C]esus
+{eoc}
+
+{soc}
+Who else is worth[G]y? Who else is worth[Am]y?
+There is n[Em7]o one, only You, J[C2]esus
+
+Who else is worth[G]y? Who else is worth[Am]y?
+There is n[Em7]o one, only You, J[C]esus
+{eoc}
+
+[C] [D] [Em] [G] [D]
+
+[C] [D] [Em] [G] [D]
+
+{sob}
+[C2]Lamb of God, anointed one
+Who [D]was and is and is to come
+[Em7]Seated on the throne above
+[G]Holy, [D]holy
+
+[C2]Righteous One who shed His blood
+To [D]proved to us the Father's love
+[Em7]Jesus Christ, be lifted up
+[G]Holy, [D]holy
+{eob}
+
+{sob}
+[C2]Lamb of God, anointed one
+Who [D]was and is and is to come
+[Em7]Seated on the throne above
+[G]Holy, [D]holy
+
+[C2]Righteous One who shed His blood
+To [D]proved to us the Father's love
+[Em7]Jesus Christ, be lifted up [D]
+[G]Holy, [D]holy
+{eob}
+
+{soc}
+Who else is worth[G]y? Who else is worth[Am]y?
+There is n[Em7]o one, only You, J[C2]esus
+
+Who else is worth[G]y? Who else is worth[Am]y?
+There is n[Em7]o one, only You, J[C]esus
+{eoc}
+
+There is n[Em]o one, only You, J[C]esus
+There is n[Em]o one, only You, J[C]esus
+
+[C2]
+
+{soc}
+Who else is worth[G]y? Who else is worth[Am7]y?
+There is n[Em]o one, only You, J[C2]esus
+
+Who else is worth[G]y? Who else is worth[Am]y?
+There is n[Em]o one, only You, J[C]esus
+{eoc}
+
+There is n[Em]o one, only You, J[C2]esus
+There is n[Em7]o one, only You, J[C2]esus
+
+[G] [Am] [Em7] [D] [C2]
+[G] [Am] [Em7] [D] [C]
+[G] [Am] [Em7] [C2]
+[G] [Am] [Em7] [C2]
+[G] [Am] [Em7] [D] [C2]
+
+{soc}
+Who else is worth[G]y? Who else is worth[Am]y?
+There is n[Em7]o one, only You, J[C2]esus
+
+Who else is worth[G]y? Who else is worth[Am]y?
+There is n[Em7]o one, only You, J[C]esus
+{eoc}
+
+{sob}
+[C]Lamb of God, anointed one
+Who [D]was and is and is to come
+[Em]Seated on the throne above
+[G]Holy, [D]holy
+
+[C2]Righteous One who shed His blood
+To [D]proved to us the Father's love
+[Em7]Jesus Christ, be lifted up [D]
+[G]Holy, [D]holy
+{eob}
+
+{sob}
+[C2]Lamb of God, anointed one
+Who [D]was and is and is to come
+[Em7]Seated on the throne above
+[G]Holy, [D]holy
+
+[C2]Righteous One who shed His blood
+To [D]proved to us the Father's love
+[Em7]Jesus Christ, be lifted up [D]
+[G]Holy, [D]holy
+{eob}
+
+{sob}
+[C2]Lamb of God, anointed one
+Who [D]was and is and is to come
+[Em7]Seated on the throne above
+[G]Holy, [D]holy
+
+[C2]Righteous One who shed His blood
+To [D]proved to us the Father's love
+[C]Jesus Christ, be lifted up [D]
+{eob}
+
+{soc}
+Who else is worth[G]y? Who else is worth[Am]y?
+There is n[Em7]o one, only You, J[C2]esus
+
+Who else is worth[G]y? Who else is worth[Am]y?
+There is n[Em7]o one, only You, J[C]esus
+{eoc}
+
+There is n[Em]o one, only You, J[C2]esus
+There is n[Em]o one, only You, J[C2]esus

@@ -1,0 +1,87 @@
+{title: Glorious Day}
+{artist: Jason Ingram}
+{key: D}
+{duration: }
+{tempo: 120}
+{time: 4/4}
+{copyright: 2017 KPS 1.0}
+
+{original_key: D}
+{c: Intro}
+[D]
+
+{c: Verse 1}
+I was bu[D]ried beneath my shame
+Who could c[Bm7]arry that kind of weight
+It was my t[G]omb . . . .  'til I met Yo[D]u
+
+{c: Verse 2 - Swells}
+I was br[D]eathing but not alive
+All my f[Bm7]ailures I tried to hide
+It was my t[G]omb . . . . 'til I met Y[D]ou
+
+{soc}
+You called my n[G2]ame I ran out of that gr[D]ave
+Out of the d[G2]arkness into Your glorious d[D]ay
+You called my n[G2]ame I ran out of that g[Bm7]rave
+Out of the da[G2]rkness into Your glorious d[D]ay
+{eoc}
+
+[D][D][D][D]
+
+e|-------------------------|------------------------|
+B|-15p14-------------------|------10-------10-------|
+G|-------16p14--14--14-----|-9h11-----9h11-----9h11-|
+D|--------------16--16--14-|------------------------|
+A|-------------------------|------------------------|
+E|-------------------------|------------------------|
+
+{c: Verse 3}
+Now Your m[D]ercy has saved my soul
+Now Your f[Bm7]reedom is all that I know
+The old made n[G2]ew Jesus when I met Y[D]ou
+
+{soc}
+You called my n[G2]ame I ran out of that gr[D]ave
+Out of the d[G2]arkness into Your glorious d[D]ay
+You called my n[G2]ame I ran out of that g[Bm7]rave
+Out of the da[G2]rkness into Your glorious d[D]ay
+{eoc}
+
+e|-------------------------|------------------------|
+B|-15p14-------------------|------10-------10-------|
+G|-------16p14--14--14-----|-9h11-----9h11-----9h11-|
+D|--------------16--16--14-|------------------------|
+A|-------------------------|------------------------|
+E|-------------------------|------------------------|
+
+[D][D][D][D]
+
+{sob}
+{c: Palm Mute rythm with dotted delay}
+[D]   I needed rescue my sin was heavy
+But chains break at the weight of Your glory
+I needed shelter I was an orphan
+Now You call me a citizen of Heaven
+When I was broken You were my healing
+{c: Ring chords}
+[D]   Now Your love is the air that I'm breathing
+[Bm7]   I have a future[Asus] my eyes are open
+{eob}
+
+{soc}
+You called my n[G2]ame I ran out of that gr[D]ave
+Out of the d[G2]arkness into Your glorious d[D]ay
+You called my n[G2]ame I ran out of that g[Bm7]rave
+Out of the da[G2]rkness into Your glorious d[D]ay
+{eoc}
+
+e|-------------------------|------------------------|
+B|-15p14-------------------|------10-------10-------|
+G|-------16p14--14--14-----|-9h11-----9h11-----9h11-|
+D|--------------16--16--14-|------------------------|
+A|-------------------------|------------------------|
+E|-------------------------|------------------------|
+
+[D][D][D][D]
+[D][D][D][D]

@@ -1,0 +1,100 @@
+{title: Canvas And Clay}
+{artist: Pat Barrett}
+{key: G}
+{duration: }
+{tempo: 72}
+{time: 4/4}
+{copyright: }
+
+{original_key: B}
+{c: Intro}
+[C]. . . .   [G]. . . .   [Em]. . . .   [Dsus]. . . .
+[C]. . . .   [G]. . . .   [Em]. . . .   [Dsus]. . . .
+
+{c: Verse 1}
+In my [C]mother's wom[G]b
+You [Em]formed me with Your h[Dsus]ands
+Known and [C]loved by You [G]
+Be[Em]fore I took a bre[Dsus]ath
+
+{c: Pre-Chorus}
+When I d[Am7]oubt it Lord rem[G]ind me
+I'm [C2]wonderfully made
+You're an [Em7]artist and a p[G]otter
+I'm the c[C2]anvas and the cla[G]y   [G]
+
+{soc}
+You make a[C2]ll things
+Work tog[Dsus]ether     for my f[Em7]uture
+And [G]for my good
+You make a[Csus]ll things
+Work tog[Dsus]ether     for Your gl[Em7]ory
+And [G]for Your name
+{eoc}
+
+[C]. . . .   [G]. . . .   [Em]. . . .   [Dsus]. . . .
+
+{c: Verse 2}
+There's a [C]healing ligh[G]t
+[Em]Just beyond the clo[D]uds
+Though I've [C]walked through fi[G]re
+[Em]I see clearly no[D]w
+
+{c: Pre-Chorus}
+I know n[Am7]othing has been w[G]asted
+No [C2]failure or mistake
+You're an a[Em7]rtist and a p[D]otter
+I'm the ca[C2]nvas and the cl[G]ay
+
+{soc}
+You make a[C]ll things
+Work tog[D]ether     for my f[Em7]uture
+And [G]for my good
+You make a[C]ll things
+Work tog[D]ether     for Your gl[Em7]ory
+And [G]for Your name
+{eoc}
+
+[Em]. . . .   [D]. . . .   [C]. . . .   [G]
+[Em]. . . .   [D]. . . .   [C]. . . .   [G]
+
+{c: Pre-Chorus}
+When I d[Em]oubt it Lord rem[D]ind me
+I'm [C]wonderfully m[G]ade
+You're an a[Em]rtist and a p[D]otter
+I'm the ca[C]nvas and the cla[G]y
+
+{c: Pre-Chorus}
+And I know n[Em]othing has been w[D]asted
+No [C]failure or mist[G]ake
+You're an [Em]artist and a p[D]otter
+I'm the ca[C]nvas and the cla[G]y
+
+{soc}
+You make a[C]ll things
+Work tog[D]ether     for my f[Em7]uture
+And [G]for my good
+You make a[C]ll things
+Work tog[D]ether     for Your gl[Em7]ory
+And [G]for Your name
+{eoc}
+
+{c: Pre-Chorus - A cappella}
+When I doubt it Lord remind me
+I'm wonderfully made
+You're an artist and a potter
+I'm the canvas and the clay
+
+{c: Pre-Chorus}
+And I know n[Em]othing has been w[D]asted
+No [C]failure or mist[G]ake
+You're an [Em]artist and a p[D]otter
+I'm the ca[C]nvas and the cla[G]y
+
+{c: Ending}
+You're an [Em]artist and a p[D]otter
+I'm the ca[C]nvas and the cla[G]y
+
+{c: Softly}
+You're an [Em]artist and a p[D]otter
+I'm the ca[C]nvas and the cla[G]y     [G]

@@ -1,0 +1,114 @@
+{title: Be Glad}
+{artist: Cody Carnes}
+{key: A}
+{duration: }
+{tempo: 120}
+{time: 4/4}
+{copyright: }
+
+{original_key: A}
+{c: Intro}
+[A]. . . .     [Bm7]. .     [D]. .
+[A]. . . .     [Bm7]. .     [D]. .
+
+{c: Verse 1}
+Give [A]thanks to the Lord [Bm7]. .     [D]. .
+His love endures for[A]ever [E]. .     [D]. .
+Give [A]praise to the Lord [Bm7]. .     [D]. .
+Beside Him there's no [A]other [E]. .     [D]. .
+
+{c: Verse 1}
+Give [A]thanks to the Lord [Bm7]. .     [D]. .
+His love endures for[A]ever [E]. .     [D]. .
+Give [A]praise to the Lord [Bm7]. .     [D]. .
+Beside Him there's no [A]other [E]. .     [D]. .
+
+{soc}
+[A]   This is the day the [E]Lord has [D]made
+[A]   I will rejoice an[E]d be [D]glad in it
+
+[A]   This is the day the [E]Lord has [D]made
+[A]   I will rejoice an[E]d be [D]glad in it
+
+He brought us from [F#m]mourning to dan[E]cing
+From [D]glory to glory
+[A]   This is the day the [Bm7]Lord has [D]made
+So what are we waiting for   [A]. . . .     [Bm7]. .     [D]. .
+Come on and praise the [A]Lord     [Bm7]. .     [D]. .
+{eoc}
+
+{c: Verse 2}
+Hear the [A]word of the Lord [Bm7]. .     [D]. .
+There's freedom for the [A]captive [E]. .     [D]. .
+Good [A]news to the poor [Bm7]. .     [D]. .
+And beauty for the [A]ashes [E]. .     [D]. .
+
+{c: Pre-Chorus}
+So what are we [F#m7]waiting for
+[E]What are we [D]waiting for
+
+{soc}
+[A]   This is the day the [E]Lord has [D]made
+[A]   I will rejoice an[E]d be [D]glad in it
+
+[A]   This is the day the [E]Lord has [D]made
+[A]   I will rejoice an[E]d be [D]glad in it
+
+He brought us from [F#m]mourning to dan[E]cing
+From [D]glory to glory
+[A]   This is the day the [Bm7]Lord has [D]made
+So what are we waiting for   [A]. . . .     [Bm7]. .     [D]. .
+Come on and praise the [A]Lord     [Bm7]. .     [D]. .
+{eoc}
+
+What are we waiting for   [F#m]. . . .     [A]. .     [D]. .
+Come on and praise the [A]Lord     [Bm7]Oh praise the [D]Lord
+
+{sob}
+{c: Drop to single strums}
+I [A]live I live
+To tell what the Lord [D]has [A]done
+I live to sing of my Sa[E]vior's [F#m]love
+I live [E] be[D]cause
+He is risen [A]. . . .     [E]. .     [D]. .
+
+I [A]live I live
+To tell what the Lord [D]has [A]done
+I live to sing of my Sa[E]vior's [F#m]love
+I live [E] be[D]cause
+He is risen [A]. . . .     [E]. .     [D]. .
+{eob}
+
+[A]. . . .     [Bm7]. .     [D]. .
+
+{soc}
+{c: A cappella}
+[A]   This is the day the [E]Lord has [D]made
+[A]   I will rejoice an[E]d be [D]glad in it
+
+{c: Build}
+[A]   This is the day the [E]Lord has [D]made
+[A]   I will rejoice an[E]d be [D]glad in it
+
+[A]   This is the day the [E]Lord has [D]made
+[A]   I will rejoice an[E]d be [D]glad in it
+
+He brought us from [F#m]mourning to dan[E]cing
+From [D]glory to glory
+
+He brought us from [F#m]mourning to dan[E]cing
+From [D]glory to glory
+
+He brought us from [F#m]mourning to dan[E]cing
+From [D]glory to glory
+
+[A]   This is the day the [Bm7]Lord has [D]made
+So what are we waiting for   [A]. . . .     [Bm7]. .     [D]. .
+Come on and praise the [A]Lord     [Bm7]. .     [D]. .
+{eoc}
+
+What are we waiting for   [F#m]. . . .     [A]. .     [D]. .
+Come on and praise the [A]Lord     [Bm7]Oh praise the [D]Lord
+
+{c: Ending}
+[D]

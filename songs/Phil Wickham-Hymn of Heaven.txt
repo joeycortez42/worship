@@ -1,0 +1,101 @@
+{title: Hymn of Heaven}
+{artist: Phil Wickham}
+{key: C}
+{duration: }
+{tempo: 70}
+{time: 4/4}
+{copyright: }
+
+{original_key:C}
+{c: Intro}
+[C]
+
+{c: Verse 1}
+How I [C]long to [F]breathe the air of H[C]eaven
+Where pai[G]n is [Am]gone and [F]mercy fills the str[C]eets
+[G]   To look up[C]on the [F]one who bled to s[C]ave m[G]e   [Am7]
+And walk with [F]Him for [G]all eterni[F]ty   [C]
+
+{soc}
+There will be a [F]day
+When [G]all will bow bef[C]ore Him
+There will be a [F]day
+When [Am7]death will be no[G] more
+Standing [C]face to [F]face
+With [G]He who died and [C]rose [C]a [E]- [F]gain
+[F]Holy [G]holy is the L[C]ord
+{eoc}
+
+{c: Verse 2}
+And ev'ry pr[C]ayer we [C]prayed in desper[C]ation
+The so[G]ngs of [Am7]faith
+We [F]sang through doubt and f[G]ear
+But in the [C]end we’ll [F]see that it was w[C]orth [G]it   [Am7]
+When He re[F]turns to [G]wipe away our[C] tears[C]
+
+{soc}
+There will be a [F]day
+When [G]all will bow bef[C]ore Him
+There will be a [F]day
+When [Am7]death will be no[G] more
+Standing [C]face to [F]face
+With [G]He who died and [C]rose [C]a [E]- [F]gain
+[F]Holy [G]holy is the L[C]ord
+{eoc}
+
+{c: Verse 3}
+And on that [Am]day we [F]join the resurr[C]ection
+And st[G]and be[Am]side the [F]heroes of the f[G]aith
+With one v[C]oice a [F]thousand gener[C]atio-[C2]ns   [Am]
+Sing [F]worthy is the [G]Lamb who was sl[Am]ain
+Forever He shall r[C]eign
+
+{soc}
+So let it be to[F]day
+We [G]shout the hymn of H[C]eaven
+With angels and the [F]Saints
+We [Am7]raise a mighty r[G]oar
+Glory [C]to our [F]God
+Who [G]gave us life be[C]yond [C/E]the [F]grave
+[F]Holy [G]holy is the [C]Lord
+[F]Holy [G]holy is the L[Am7]ord   [G]
+[F]Holy [G]holy is the Lord
+{c: Pre-Chorus}
+
+[C] [Csus] [C] [Csus]
+[C] [Csus] [C] [Csus]
+[C] [F] [C] [F]
+[C] [F] [C] [F]
+
+{sob}
+[C]Holy holy holy
+[F]Holy holy holy
+[C]Holy holy holy [G]is the L[F]ord
+
+[C]Holy holy holy
+[F]Holy holy holy
+[C]Holy holy holy is the L[F]ord
+{eob}
+
+{sob}
+[C]Holy holy holy
+[F]Holy holy holy
+[C]Holy holy holy is the L[F]ord
+
+[C]Holy holy holy
+[F]Holy holy holy
+[C]Holy holy holy is the L[F]ord
+{eob}
+
+{sob}
+[C]Holy holy holy
+[Csus]Holy holy holy
+[C]Holy holy holy [F]
+
+[C]Holy holy holy
+[F]Holy holy holy
+[G]Holy holy holy [C]   [F]
+{eob}
+
+{c: Ending}
+[C]

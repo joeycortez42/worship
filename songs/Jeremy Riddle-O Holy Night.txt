@@ -1,0 +1,56 @@
+{title: O Holy Night}
+{artist: Jeremy Riddle}
+{key: B}
+{tempo: 77}
+{time: 6/8}
+{copyright: 2018 Watershed Music Group}
+
+{original_key: B}
+{c: Intro - Acoustic Guitar}
+[B]
+
+{c: Verse 1}
+[B]Oh holy night     The [E]stars are brightly [B]shining
+It is the night     Of our [B/F#]dear [B/E]Savior's [B]birth
+
+[B]Long lay the world     In [E]sin and error [B]pining
+Till He a[D#m]ppeared     And the [A#]soul felt its [D#m]worth
+
+{c: Pre-Chorus}
+The [F#]thrill of hope     The [B]weary world rejoices
+For [F#]yonder breaks     A [B]new and glorious morn
+
+{soc}
+[G#m]Fall on you[D#m]r. . . knees     O [C#m]hear the angels' [G#m]voices
+O [B]n - [F#]ight  di[B/D#]v - [E]ine     O [B]night [F#]  when Christ [B]was born
+O [F#]n - [F#/E]ight. . . di[B/D#]vi - [E]ne  [E]   O [B]night
+[F#]  O night di[B]vine
+{eoc}
+
+{c: Verse 2}
+[B]Truly He taught us     To [E]love one [B]another
+His law is love     And His [F#]gospel is[B] peace
+
+[B]Chains he shall break     For the [E]slave is our [B]brother
+And in his [D#m]name     All op[A#]pression shal[D#m]l    cease
+
+{c: Pre-Chorus}
+Sweet [F#]hymns of joy     In [B]grateful chorus raise we
+Let [F#]all withinus     [B]Praise His holy name
+
+{soc}
+[G#m]Christ is the [D#m]Lord     Oh [C#m]praise his name for[G#m]ever
+His [B]p - [F#]ower and [B/D#]gl - [E]ory    [B]E- [F#]ver more pr[B]oclaim
+His [F#]p - [F#/E]ower and[B/D#] gl - [E]ory    [B]E- [F#]ver more pr[B]oclaim
+{eoc}
+
+{soc}
+[G#m]Christ is the [D#m]Lord     Oh [C#m]praise his name for[G#m]ever
+His [B]p - [F#]ower and [B/D#]gl - [E]ory    [B]E- [F#]ver more pr[B]oclaim
+His [F#]p - [F#/E]ower and[B/D#] gl - [E]ory    [B]E- [F#]ver more pr[B]oclaim
+{eoc}
+
+{c: Ending}
+His [F#]p - [F#/E]ower and[B/D#] gl - [E]ory    [B]E- [F#]ver more pr[B]oclaim
+
+His [F#]p - [F#/E]ower and[B/D#] gl - [E]ory    [B]E- [F#]ver more pr[B]oclaims

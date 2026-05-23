@@ -1,0 +1,62 @@
+{title: The Power Of Your Love}
+{artist: Geoff Bullock}
+{key: G}
+{duration: }
+{tempo: 85}
+{time: 4/4}
+{copyright: 1992 Geoff Bullock Music}
+
+{original_key: G}
+{c: Intro}
+
+{c: Verse 1}
+[G]. . . Lord I [D/F#]come to [Em7]You
+Let my heart be [Bm7]changed, re - [Em7]newed
+Flowing [D]from the [C]grace
+That I've [Dsus]found. . [D]. . in [Em7]You . . . [Dsus] [D]
+[G]. . . And Lord I've [D/F#]come to [Em7]know
+The weaknesses I [Bm7]see in [Em7]me . . . [Dsus] [D]
+Will be [D]stripped a - [C]way . . . [Dsus]
+By the [D]power of Your [C/G]love . . .
+[G] [D/F#] [Em7] [D]
+
+{soc}
+[C]Hold . [C/E]. . me [D]close let Your love sur - [C/G]round   [D] [G]me [D/F#] [Em7] [D]
+[C]Bring . [C/E]. . me [D]near [D]draw me to Your [G] side [Am7] [G/B] [F/G] [G]
+And [C]as . [C/E]. . I [D]wait I'll rise up like the [C/G]ea - [G]gle
+And I will [D/F#]soar with [Em7]You Your Spirit [D]leads me [C]on
+In the [C/D]power of Your [C/G]love
+{eoc}
+
+{c: Verse 2}
+[G]. . . Lord un - [D/F#]veil my [Em7]eyes
+Let me see You [Bm7]face to [Em7]face
+The knowledge [D]of [C]Your love as You [Dsus]live . [D]. . in [Em7]me
+[G]. . . Lord re - [D/F#]new my [Em7]mind as Your will un - [Bm7]folds in my [Em7]life
+In living [D]every [C]day . [Dsus]. . by the [D]power of Your [C/G]love . . .
+[G] [D/F#] [Em7] [D]
+
+{soc}
+[C]Hold . [C/E]. . me [D]close let Your love sur - [C/G]round   [D] [G]me [D/F#] [Em7] [D]
+[C]Bring . [C/E]. . me [D]near [D]draw me to Your [G] side [Am7] [G/B] [F/G] [G]
+And [C]as . [C/E]. . I [D]wait I'll rise up like the [C/G]ea - [G]gle
+And I will [D/F#]soar with [Em7]You Your Spirit [D]leads me [C]on
+In the [C/D]power of Your [C/G]love
+{eoc}
+
+{soc}
+[C]Hold . [C/E]. . me [D]close let Your love sur - [C/G]round   [D] [G]me [D/F#] [Em7] [D]
+[C]Bring . [C/E]. . me [D]near [D]draw me to Your [G] side [Am7] [G/B] [F/G] [G]
+And [C]as . [C/E]. . I [D]wait I'll rise up like the [C/G]ea - [G]gle
+And I will [D/F#]soar with [Em7]You Your Spirit [D]leads me [C]on
+In the [C/D]power of Your [C/G]love
+{eoc}
+
+And I will [D/F#]soar with [Em7]You Your Spirit [D]leads me [C]on
+In the [C/D]power of Your [C/G]love
+
+And I will [D/F#]soar with [Em7]You Your Spirit [D]leads me [C]on
+In the [C/D]power of Your [C/G]love
+
+{c: Ending}
+[C]

@@ -1,0 +1,111 @@
+{title: The Lion And The Lamb}
+{artist: Brian Johnson}
+{key: C}
+{duration: 240}
+{tempo: 90}
+{time: 4/4}
+{copyright: 2015 Meaux Mercy}
+
+{original_key: B}
+{c: Intro}
+[C]. . . . . .     [Dm7]. .           [F]. . . . . . . .
+
+e|-----------------------------------------------------|
+B|-10-12-14--10-12-15-14---------12-14-12----12-14-12--|
+G|----------------------------14----------14-----------|
+D|-------------------------14--------------------------|
+A|-----------------------------------------------------|
+E|-----------------------------------------------------|
+
+e|-----------------------------------------------------|
+B|-13-15-17--13-15-18-17---------15-17-15----15-17-15--|
+G|----------------------------17----------17-----------|
+D|-------------------------17--------------------------|
+A|-----------------------------------------------------|
+E|-----------------------------------------------------|
+
+{c: Verse 1}
+He's [C]coming on the clouds
+Kings and kingdoms [Dm7]will bow d[F]own
+And [Am7]every chain will break
+As b[G]roken hearts declare His p[F]raise
+For who can stop the L[G]ord almighty
+
+{soc}
+[C]   Our God is the Lion     the [G]Lion of J[Am7]udah
+He's roaring with power     and f[G]ighting our b[F]attles
+And every knee will [G]bow before Him
+[C]   Our God is the Lamb     the L[G]amb that was sl[Am7]ain
+For the sin of the world     His b[G]lood breaks the c[F]hains
+And every knee will [G]bow before the Lion and the L[F]amb
+Oh every knee will [G]bow before Him
+{eoc}
+
+[C]. . . . . .     [Dm7]. .           [F]. . . . . . . .
+
+e|--------------------------------------|
+B|--------------------------------------|
+G|--------------------------------------|
+D|-7-7-7-7-9-7-9-7-9----7-7-7-9-6-------|
+A|--------------------------------------|
+E|--------------------------------------|
+
+{c: Verse 2}
+So [C]open up the gates
+Make way before the [Dm7]King of [F]kings
+Our [Am7]God who comes to save
+Is [G]here to set the captives f[F]ree
+For who can stop the [G]Lord almighty
+
+{soc}
+[C]   Our God is the Lion     the [G]Lion of J[Am7]udah
+He's roaring with power     and f[G]ighting our b[F]attles
+And every knee will [G]bow before Him
+[C]   Our God is the Lamb     the L[G]amb that was sl[Am7]ain
+For the sin of the world     His b[G]lood breaks the c[F]hains
+And every knee will [G]bow before the Lion and the L[F]amb
+Oh every knee will [G]bow before Him
+{eoc}
+
+[Dm7]. . . .     [C]. . . .     [F]. . . .     [G]. . . . .
+
+e|--------------------------------------|
+B|--------------------------------------|
+G|-7-6-4-6-4-2--------------------------|
+D|--------------------------------------|
+A|--------------------------------------|
+E|--------------------------------------|
+
+e|--------------------------------------|
+B|--------------------------------------|
+G|-10-9-7-9-7-5-------------------------|
+D|--------------------------------------|
+A|--------------------------------------|
+E|--------------------------------------|
+
+{sob}
+[Dm7]     Who can stop the [C]Lord almighty
+[F]     Who can stop the [G]Lord
+[Dm7]     Who can stop the [C]Lord almighty
+[F]     Who can stop the [G]Lord
+
+[Dm7]     Who can stop the [C]Lord almighty
+[F]     Who can stop the [G]Lord
+[Dm7]     Who can stop the [C]Lord almighty
+[F]     Who can stop the [G]Lord
+{eob}
+
+[C]
+
+{soc}
+[C]   Our God is the Lion     the [G]Lion of J[Am7]udah
+He's roaring with power     and f[G]ighting our b[F]attles
+And every knee will [G]bow before Him
+[C]   Our God is the Lamb     the L[G]amb that was sl[Am7]ain
+For the sin of the world     His b[G]lood breaks the c[F]hains
+And every knee will [G]bow before the Lion and the L[F]amb
+Oh every knee will [G]bow before Him
+{eoc}
+
+{c: Ending}
+[C]. . . .     [C]. . . .     [C]. . . .

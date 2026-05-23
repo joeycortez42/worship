@@ -1,0 +1,87 @@
+{title: Every Good Thing}
+{artist: Ryan Williams}
+{key: C}
+{duration: 294}
+{tempo: 120}
+{time: 4/4}
+{copyright: }
+
+{original_key: G}
+{c: Intro}
+[C]. . . .
+[C]. . . .
+[C]. . . .
+
+{c: Verse 1}
+[Csus]For every [C]battle You've won without question
+For every [F]lie that You've silenced with love
+We ac[Am7]knowledge You in every [G]victory
+Almighty [C]God
+
+{c: Verse 2}
+[Csus]For every [C]promise You kept in the valley
+For every [F]burden You lifted with ease
+We are [Am7]gathered with great e[G]xpectation
+Lord we b[C]elieve
+
+{c: Pre-Chorus}
+[G]You never cease to a[Am7]maze us
+All of the [F]praises Lord they belong to You
+[G]Jesus receive all th[Am7]e glory
+Take all th[F]e credit for what You're about to do
+
+{soc}
+[G]Every good thing
+[Am7]Every good thing
+[F]Comes from You
+{eoc}
+
+{c: Verse 3}
+[Csus]For every [C]season that showed us You're sovereign
+For every [F]trial that taught us to trust
+We ar[Am7]e standing right here i[G]n Your purpose
+You stand[C] with us
+
+{c: Pre-Chorus}
+[G]You never cease to a[Am7]maze us
+All of the [F]praises Lord they belong to You
+[G]Jesus receive all th[Am7]e glory
+Take all th[F]e credit for what You're about to do
+
+{soc}
+[G]Every good thing
+[Am7]Every good thing
+[F]Comes from You
+
+[G]Every good thing
+[Am7]Every good thing
+[F]Comes from You
+{eoc}
+
+[C]. . . .     [F]. . . .
+[C]. . . .     [F]. . . .
+
+{c: Pre-Chorus}
+[G]You never cease to a[Am7]maze us
+All of the [F]praises Lord they belong to You
+[G]Jesus receive all th[Am7]e glory
+Take all th[F]e credit for what You're about to do
+
+[G]You never cease to a[Am7]maze us
+All of the [F]praises Lord they belong to You
+[G]Jesus receive all th[Am7]e glory
+Take all th[F]e credit for what You're about to do
+
+{soc}
+[G]Every good thing
+[Am7]Every good thing
+[F]Comes from You
+
+[G]Every good thing
+[Am7]Every good thing
+[F]Comes from You
+{eoc}
+
+{c: Ending}
+[C]. . . .     [F]. . . .
+[C]. . . .     [F]. . . .

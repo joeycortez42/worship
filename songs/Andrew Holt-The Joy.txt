@@ -1,0 +1,117 @@
+{title: The Joy}
+{artist: Andrew Holt}
+{key: C}
+{duration: }
+{tempo: 132}
+{time: 4/4}
+{copyright: }
+
+{original_key: C}
+{c: Intro}
+[C] [Dm] [F]
+[C] [Dm] [F]
+[C] [Dm] [F]
+
+{c: Verse 1}
+[C]This is the day You made
+So I'll rej[Am7]oice and be glad
+Re[F]joice and be glad in i[C]t
+
+{c: Verse 2}
+[C]This is where I be - [C]lieve
+Than You are m[Am7]ore than enough
+M[F]ore than enough for m[C]e
+
+{c: Pre-Chorus}
+You are f[F]aithful to Your promise
+You are str[G]ong when I am w[C]eak
+When I'm st[F]anding in Your presence
+I have e[G]verything I need
+
+{soc}
+The [C]joy of the Lord
+The [Dm]joy of the Lord is [F]my strength
+
+The [C]joy of the Lord
+The [Dm]joy of the Lord is [F]my strength
+
+O[Am7] my soul, b[G]less His name
+A[C]ll that is withi[Dm]n me say
+
+The [C]joy of the Lord
+The [Dm]joy of the Lord is [F]my strength
+{eoc}
+
+[C] [Dm] [F]
+
+{c: Verse 3}
+[C]Jesus, come [C]what m[C]ay
+You are w[Am7]orthy of all
+W[F]orthy of all my pr[C]aise
+
+{c: Pre-Chorus}
+You are f[F]aithful to Your promise
+You are str[G]ong when I am w[C]eak
+When I'm st[F]anding in Your presence
+I have e[G]verything I need
+
+{soc}
+The [C]joy of the Lord
+The [Dm]joy of the Lord is [F]my strength
+
+The [C]joy of the Lord
+The [Dm]joy of the Lord is [F]my strength
+
+O[Am7] my soul, b[G]less His name
+A[C]ll that is withi[Dm]n me say
+
+The [C]joy of the Lord
+The [Dm]joy of the Lord is [F]my strength
+{eoc}
+
+[C] [Dm] [F]
+[C] [Dm] [F]
+
+{sob}
+So let it r[G]ise up like a [F]ri - ver   [C]
+Overfl[G]owing, Holy Sp[F]ir - it   [C]
+
+Let it p[G]our out with no l[F]i - mit   [C]
+Overfl[G]owing, Holy Sp[F]ir - it   [C]
+
+So let it r[G]ise up like a [F]ri - ver   [C]
+Overfl[G]owing, Holy Sp[F]ir - it   [C]
+
+Let it p[G]our out with no l[F]i - mit   [C]
+Overfl[G]owing, Holy Sp[F]ir - it   [C]
+{eob}
+
+[C] [C] [C]
+[C] [C] [C]
+[C] [Dm] [F]
+[C] [Dm] [F]
+
+{soc}
+The [C]joy of the Lord
+The [Dm]joy of the Lord is [F]my strength
+
+The [C]joy of the Lord
+The [Dm]joy of the Lord is [F]my strength
+
+O[Am7] my soul, b[G]less His name
+A[C]ll that is withi[Dm]n me say
+
+O[Am7] my soul, b[G]less His name
+A[C]ll that is withi[Dm]n me say
+
+O[Am7] my soul, b[G]less His name
+A[C]ll that is withi[Dm]n me say
+
+The [C]joy of the Lord
+The [Dm]joy of the Lord is [F]my strength
+{eoc}
+
+{c: Ending}
+[C] [Dm] [F]
+[C] [Dm] [F]
+[C]

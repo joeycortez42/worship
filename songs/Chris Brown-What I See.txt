@@ -1,0 +1,83 @@
+{title: What I See}
+{artist: Chris Brown}
+{key: C}
+{duration: }
+{tempo: 148}
+{time: 4/4}
+{copyright: }
+
+{original_key: C}
+{c: Intro}
+[C5]   Do you see what I see?
+[C5]   Do you see what I see?
+
+{c: Verse 1}
+[C5]I see lightning, I hear thunder
+[F5]Something stirring six feet under
+[Gsus]Dead things coming back to life again
+[F5]I believe there's about to be another resurrec [C]- tion
+
+{c: Verse 2}
+[C5]Oh, I see signs and I see wonders
+[F5]I see bursts of living color
+[Gsus]Dead things coming back to life again
+[F5]I believe there's about to be another resurrec [C]- tion
+
+{soc}
+Come alive     Wake up, sleeper
+He is risen     We are risen with Him
+{eoc}
+
+[C5]. . . .   [C5]. . . .   [C5]. . . .   [C5]. . . .
+
+{c: Verse 3}
+[C]Oh, Hallelujah, it is finished
+[F5]See that grave, no body in it
+[Gsus]Dead things coming back to life again
+[D7]I believe there's about to [F5]be another resurrec [C]- tion
+
+{soc}
+[C]Come alive   Wake up, sleeper
+[C]He is risen   We are risen with Him
+[Am]Paradise   [F]Flung wide open
+[C]He is risen   [G]We are risen with Him
+{eoc}
+
+{soc}
+[C]Come alive   Wake up, sleeper
+[C]He is risen   We are risen with Him
+[Am]Paradise   [F]Flung wide open
+[C]He is risen   [G]We are risen with Him
+{eoc}
+
+[Am] [F] [C] [Csus] [C]
+[Am] [F] [C] [Csus] [C]
+
+{sob}
+[Am]   If you see   [F]   what I see
+[C]   That the grave is empty
+[Am]   Then you know   [F]   what I know
+[C]   Anything is possible
+
+[Am]   If you see   [F]   what I see
+[C]   That the grave is empty
+[Am]   Then you know   [F]   what I know
+[C]   Anything is possible
+{eob}
+
+[Am]   Do you see   [F]   what I see?   [C]
+[Am]   Do you see   [F]   what I see?   [C]
+
+[Am]   Do you see   [F]   what I see?
+[C]I see signs and [Csus]I see [C]wonders
+[Am]   Do you see   [F]   what I see?
+[C]I see lightning, [Csus]I hear [C]thunder
+[Am]   Do you see   [F]   what I see?
+[C]Something stirring [Csus]six feet [C]under
+[Am]   [F]
+
+{c: Ending}
+Come alive     Wake up, sleeper
+He is risen     We are risen with Him
+[C5]Paradise   Flung wide open
+[C5]He is risen   We are risen with Him

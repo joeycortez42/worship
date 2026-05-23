@@ -1,0 +1,105 @@
+{title: Christ Be Magnified}
+{artist: Cody Carnes}
+{key: A}
+{duration: }
+{tempo: 72}
+{time: 4/4}
+{copyright: 2020 Sparrow Records}
+
+{original_key: A}
+{c: Intro}
+[A]   [E]   [D]
+[A]   [E]   [D]
+
+{c: Verse 1}
+Were cre[A]ation suddenly art[Dsus]iculate
+With a [A]thousand tongues to lift on[Dsus]e cry
+Then from [A/C#]north to south
+And [Dsus]east to west
+We'd hear [Esus]Christ be [E]magnified
+
+[A]   [E]   [D]
+
+{c: Verse 2}
+Were the [A]whole earth echoing His e[Dsus]minence
+His [A]name would burst from sea and [Dsus]sky
+From [A/C#]rivers to the [Dsus]mountain tops
+We'd hear [Esus]Christ be [E]magnified
+
+[A]   [E]
+
+{soc}
+[A]O Christ be [Bm7]magnif-[D]ied
+Let His [E]praise ar[F#m]ise
+Christ be [E]magnif-[D]ied in me
+
+[A]O Christ be [Bm7]magnif-[D]ied
+From the altar o[E]f my l[F#m]ife
+Christ be [E]magnif-[D]ied in me
+{eoc}
+
+[A]   [E]   [D]
+
+{c: Verse 3}
+When every [A]creature finds its inmost me[Dsus]lody
+And every [A]human heart its native [Dsus]cry
+O then in [A/C#]one enraptured [D]hymn of praise
+We'll sing [E]Christ be magnif[E]ied
+[D]
+
+{soc}
+[A]O Christ be [Bm7]magnif-[D]ied
+Let His [E]praise ar[F#m]ise
+Christ be [E]magnif-[D]ied in me
+
+[A]O Christ be [Bm7]magnif-[D]ied
+From the altar o[E]f my l[F#m]ife
+Christ be [E]magnif-[D]ied in me
+{eoc}
+
+[D]   [E]   [F#m]   [A/C#]
+
+{sob}
+[D]I won't bow to idols
+I'll stand [E]strong and worship You
+And if it pu[F#m]ts me in the fire
+I'll rej[A/C#]oice 'cause You're there too
+
+I wo[D]n't be formed by feelings
+I hold f[E]ast to what is true
+If the cro[F#m]ss brings transformation
+Then I'll be cr[A/C#]ucified with You
+
+'Cause de[D]ath is just the doorway
+Into r[E]esurrection life
+And if I jo[F#m]in You in Your suffering
+Then I'll jo[A/C#]in You when You rise
+
+And when Yo[D]u return in glory
+With all the [E]angels and the saints
+My hea[F#m]rt will still be singing
+And my s[E]ong will be the same
+{eob}
+
+{soc}
+[A]O Christ be [Bm7]magnif-[D]ied
+Let His [E]praise ar[F#m]ise
+Christ be [E]magnif-[D]ied in me
+
+[A]O Christ be [Bm7]magnif-[D]ied
+From the altar o[E]f my l[F#m]ife
+Christ be [E]magnif-[D]ied in me
+{eoc}
+
+{soc}
+[A]O Christ be [Bm7]magnif-[D]ied
+Let His [E]praise ar[F#m]ise
+Christ be [E]magnif-[D]ied in me
+
+[A]O Christ be [Bm7]magnif-[D]ied
+From the altar o[E]f my l[F#m]ife
+Christ be [E]magnif-[D]ied in me
+{eoc}
+
+{c: Ending}
+[A]

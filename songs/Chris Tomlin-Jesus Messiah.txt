@@ -1,0 +1,60 @@
+{title: Jesus Messiah}
+{artist: Chris Tomlin}
+{key: G}
+{duration: }
+{tempo: 86}
+{time: 4/4}
+{copyright: }
+
+{original_key: B}
+{c: Intro}
+[G]. . . .    [Am]. . . .
+[G]. . . .    [Am]. . . .
+
+{c: Verse 1}
+[G]He became sin who [Am7]knew no sin
+That [G]we might become His [C2]righteousness
+He [G]humbled Himself and [Am7]carried the cross
+
+[G]Love so a-[C2]mazing  [G]love so a-[C2]mazing
+
+{soc}
+Jesus Mes - s[G]iah Name above [C2]all names
+Blessed Re-[G]deemer Emmanu-[Dsus]el
+The Rescue for [G]sinners
+The Ransom from [C2]heaven
+Jesus Mes-s[G]iah  [Dsus]  Lord of [G]all
+{eoc}
+
+{c: Verse 2}
+His [G]body the bread His [Am7]blood the wine
+[G]Bro-ken and poured out [C2]all for love
+The [G]whole earth trembled and the [Am7]veil was torn
+[G]Love so a-[C2]mazing  [G]love so a-[C2]mazing
+
+{soc}
+Jesus Mes - s[G]iah Name above [C2]all names
+Blessed Re-[G]deemer Emmanu-[Dsus]el
+The Rescue for [G]sinners
+The Ransom from [C2]heaven
+Jesus Mes-s[G]iah  [Dsus]  Lord of [G]all
+{eoc}
+
+{sob}
+All our [Am]hope is in [G]You, all our [C2]hope is in [Dsus]You
+All the [Am]glory to Y[G]ou God [C2]   the Light of the [Dsus]world
+{eob}
+
+{soc}
+Jesus Mes - s[G]iah Name above [C2]all names
+Blessed Re-[G]deemer Emmanu-[Dsus]el
+The Rescue for [G]sinners
+The Ransom from [C2]heaven
+Jesus Mes-s[G]iah  [Dsus]  Lord of [G]all
+{eoc}
+
+{c: Ending}
+Jesus Mes-s[G]iah
+[Dsus]. . .   Lord of [C2]all
+You're the Lord of all
+The Lord of all . . . [G]

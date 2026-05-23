@@ -1,0 +1,134 @@
+{title: Homecoming}
+{artist: Gabe Price}
+{key: C}
+{duration: }
+{tempo: 145}
+{time: 6/8}
+{copyright: }
+
+{original_key: G}
+{c: Intro}
+
+e|--------------------------------------|
+B|--------------------------------------|
+G|--------------------------------------|
+D|--------------------------------------|
+A|--------------------------------------|
+E|--------------------------------------|
+
+{c: Verse 1}
+Lord I con-[C]fess that I've been[Am7] a criminal
+I've stolen Your [F]breath and sang my o[G]wn song
+And Lord I con-[C]fess that I'm far[Am7] from innocent
+These shackles I [F]wear Oh I bought on my [G]own    [C]
+
+{soc}
+The [C]Scarlet sins had a [F]crimson cost
+You [Am7]nailed my debt to that [G]old rugged cross
+An [Am7]empty slate at the [F]empty grave
+Thank [C]God that stone was [G]rolled a-[C]way
+{eoc}
+
+{c: Verse 2}
+Lord I con-[C]fess I've been[Am7] the prodigal
+Made for Your [F]house but I [Am7]walked my own [G]roads
+Then Jesus [C]came He [C]tore down my [Am7]prison walls
+Death came to [F]life when He [Am7]called me by [G]name
+
+{soc}
+The [C]Scarlet sins had a [F]crimson cost
+You [Am7]nailed my debt to that [G]old rugged cross
+An [Am7]empty slate at the [F]empty grave
+Thank [C]God that stone was [G]rolled
+{eoc}
+
+{soc}
+The [C]Scarlet sins had a [F]crimson cost
+You [Am7]nailed my debt to that [G]old rugged cross
+An [Am7]empty slate at the [F]empty grave
+Thank [C]God that stone was [G]rolled away
+{eoc}
+
+[C]. . .   [F]. . .   [C]. . .   [F]. . .
+
+{sob}
+And I see [C]bright crimson robes draped over the ashes
+A [F]wide open tomb where there should be a casket
+The [C]children are singing and dancing and laughing
+The F[F]ather is welcoming
+This is our homecoming
+{eob}
+
+{sob}
+[C]Roses in bloom pushed up from the embers
+Our r[F]ivers of tears flow from good times remembered
+[C]Families are singing and dancing and laughing
+The F[F]ather is welcoming
+This is our homecoming
+{eob}
+
+{sob}
+[B]Heaven joins in with a glorious sound
+And the [F]great cloud of witnesses all gather 'round
+'Cause the [C]ones that were lost are finally found
+The [E]Father is welcoming
+This is our homecoming
+{eob}
+
+{soc}
+The [C]Scarlet sins had a [F]crimson cost
+You [Am7]nailed my debt to that [G]old rugged cross
+An [Am7]empty slate at the [F]empty grave
+Thank [C]God that stone was [G]rolled
+{eoc}
+
+[C]Oh-oh, oh-oh, oh-oh-oh-oh
+[F]Oh-oh, oh-oh, oh-oh-oh-oh
+[C]Oh-oh, oh-oh, oh-oh-oh-oh
+The F[F]ather is welcoming
+This is our homecoming
+
+[C]Oh-oh, oh-oh, oh-oh-oh-oh
+[F]Oh-oh, oh-oh, oh-oh-oh-oh
+[C]Oh-oh, oh-oh, oh-oh-oh-oh
+The F[F]ather is welcoming
+This is our homecoming [C]
+
+{sob}
+And I see [C]bright crimson robes draped over the ashes
+A [F]wide open tomb where there should be a casket
+The [C]children are singing and dancing and laughing
+The F[F]ather is welcoming
+This is our homecoming
+{eob}
+
+{sob}
+[C]Roses in bloom pushed up from the embers
+Our r[F]ivers of tears flow from good times remembered
+[C]Families are singing and dancing and laughing
+The F[F]ather is welcoming
+This is our homecoming
+{eob}
+
+{sob}
+[B]Heaven joins in with a glorious sound
+And the [F]great cloud of witnesses all gather 'round
+'Cause the [C]ones that were lost are finally found
+The [E]Father is welcoming
+This is our homecoming
+{eob}
+
+{soc}
+The [C]Scarlet sins had a [F]crimson cost
+You [Am7]nailed my debt to that [G]old rugged cross
+An [Am7]empty slate at the [F]empty grave
+Thank [C]God that stone was [G]rolled
+{eoc}
+
+{c: Ending}
+[C]Oh-oh, oh-oh, oh-oh-oh-oh
+[F]Oh-oh, oh-oh, oh-oh-oh-oh
+[C]Oh-oh, oh-oh, oh-oh-oh-oh
+The F[F]ather is welcoming
+This is our homecoming
+[C]

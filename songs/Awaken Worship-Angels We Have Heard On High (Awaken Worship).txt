@@ -1,0 +1,55 @@
+{title: Angels We Have Heard On High (Awaken Worship)}
+{artist: Awaken Worship}
+{key: G}
+{duration: }
+{tempo: 112}
+{time: 4/4}
+{copyright: }
+
+{original_key: F}
+{c: Intro}
+[G]. . . .   [D]. .  [G]. .
+[G]. . . .   [D]. .  [G]. .
+
+{c: Verse 1}
+[G]Angels we have [D]heard on [G]high
+[G]Sweet-ly sing-ing [D]o'er the [G]plains
+[G]And the moun-tains [Din re-[Em]ply
+[C]Ech-o-ing their [D]joy-ous [G]strains
+
+{start_of_chorus}
+[G]Glo [C] -     [Am] -   [D] -     [G] -   [C] -     [D] -   [D7]ria     [G]In ex-[Em]cel-sis [D]De-[D7]o
+[G]Glo [C] -     [Am] -   [D] -     [G] -   [C] -     [D] -   [D7]ria     [G]In ex-[Em]cel-sis [D]De-[D7]o
+{end_of_chorus}
+
+[G]. . . .   [D]. .  [G]. .
+[G]. . . .   [D]. .  [G]. .
+
+{c: Verse 2}
+[G]Shepherds why this [D]ju - bi-[G]lee
+[G]Why your joy-ous [D]strains pro-[G]long
+[G]What the glad-some [D]ti-dings [Em]be
+[C]Which in-spire your [D]heaven-ly [G]song
+
+{start_of_chorus}
+[G]Glo [C] -     [Am] -   [D] -     [G] -   [C] -     [D] -   [D7]ria     [G]In ex-[Em]cel-sis [D]De-[D7]o
+[G]Glo [C] -     [Am] -   [D] -     [G] -   [C] -     [D] -   [D7]ria     [G]In ex-[Em]cel-sis [D]De-[D7]o
+{end_of_chorus}
+
+[G]. . . .   [G]. .  [Gsus]. .
+[G]. . . .   [G]. .  [Gsus]. .
+
+{c: Verse 3}
+[G]Come to Bethle[D]hem and [G]see
+[G]Him whose birth the [D]angels [G]sing
+[G]Come, adore on [D]bended [Em]knee
+[C]Christ the Lord, the [D]newborn [G]King
+
+{start_of_chorus}
+[G]Glo [C] -     [Am] -   [D] -     [G] -   [C] -     [D] -   [D7]ria     [G]In ex-[Em]cel-sis [D]De-[D7]o
+[G]Glo [C] -     [Am] -   [D] -     [G] -   [C] -     [D] -   [D7]ria     [G]In ex-[Em]cel-sis [D]De-[D7]o
+{end_of_chorus}
+
+{c: Ending}
+[G]. . . .   [D]. .  [G]. .
+[G]. . . .   [D]. .  [G]. .

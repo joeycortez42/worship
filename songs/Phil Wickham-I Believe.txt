@@ -1,0 +1,124 @@
+{title: I Believe}
+{artist: Phil Wickham}
+{key: C}
+{duration: }
+{tempo: 133}
+{time: 4/4}
+{copyright: }
+
+{original_key: C}
+{c: Intro}
+[C] [F] [Am7] [G]
+[C] [F] [Am7] [G]
+
+{c: Verse 1}
+[C]   I believe there is one salvation
+One doorway that leads to life
+One redemption one confession
+[A]   I believe in the [F]name of Jesus Christ
+
+[C] [Am7] [G]
+
+{c: Verse 2}
+[C]   I believe in the crucifixion
+By His blood I have been set free
+I believe in the resurrection
+[A]   Hallelujah His [F]life is death’s defeat
+
+[C]
+
+{soc}
+[F]   All praise to [C]God the Father
+[G]   All praise to [Am7]Christ the Son
+[F]   All praise to the [C]Holy Spirit
+[G]   Our God has [Am7]overcome
+[F]   The King who [C]was and is
+And [G]evermore will [Am7]be   [G]
+In [F]Jesus' [C]mighty [G]name I be[C]lieve
+{eoc}
+
+[F] [Am7] [G]
+
+I believe, I believe
+[C] [F] [Am7] [G]
+
+{c: Verse 3}
+[C]   I believe in the hope of heaven
+He’s preparing a place for [F]me
+[C]   Far beyond what hearts imagine
+Ears have heard or eyes have [F]seen
+
+{c: Verse 4}
+[C]   I believe that day is coming
+He’s returning to claim His [F]bride
+[Am7]   Light the altar keep it burning
+[G]   See the Lamb who [F]rose a roaring Lion
+
+[C]
+
+{soc}
+[F]   All praise to [C]God the Father
+[G]   All praise to [Am7]Christ the Son
+[F]   All praise to the [C]Holy Spirit
+[G]   Our God has [Am7]overcome
+[F]   The King who [C]was and is
+And [G]evermore will [Am7]be   [G]
+In [F]Jesus' [C]mighty [G]name I be[F]lieve
+{eoc}
+
+[Am7] [G] [C]
+[F] [Am7] [G] [C]
+
+{sob}
+No [C]I’ll never be asha[F]med
+Of the [Am7]gospel of Jesus Chri[G]st   [C]
+How could I [C]ever walk away[F]
+From the [Am7]One who saved my li[G]fe   [C]
+{eob}
+
+{sob}
+No [C]I’ll never be asha[F]med
+Of the [Am7]gospel of Jesus Chri[G]st   [C]
+How could I [C]ever walk away[F]
+From the [Am7]One who saved my li[G]fe   [C]
+{eob}
+
+{sob}
+No [C]I’ll never be asha[F]med
+Of the [Am7]gospel of Jesus Chri[G]st   [C]
+How could I [C]ever walk away[F]
+From the [Am7]One who saved my li[G]fe   [C]
+{eob}
+
+{soc}
+[C]   All praise to God the Father
+   All praise to Christ the Son
+   All praise to the Holy Spirit
+   Our God has overcome
+[F]   The King who [C]was and is
+And [G]evermore will [Am7]be   [G]
+In [F]Jesus' [C]mighty [G]name I be[F]lieve
+{eoc}
+
+{soc}
+[F]   All praise to [C]God the Father
+[G]   All praise to [Am7]Christ the Son
+[F]   All praise to the [C]Holy Spirit
+[G]   Our God has [Am7]overcome
+[F]   The King who [C]was and is
+And [G]evermore will [Am7]be
+In [F]Jesus' mighty [G]name I be[Am7]lieve   [C]
+{eoc}
+
+In [F]Jesus' [C]mighty [G]name I believe
+
+{c: Ending}
+[C] [F] [Am7] [G]
+
+I believe, I believe
+
+[C] [F] [Am7] [G]
+
+I believe, I believe
+
+[C]

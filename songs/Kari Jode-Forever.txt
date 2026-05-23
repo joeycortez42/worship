@@ -1,0 +1,91 @@
+{title: Forever}
+{artist: Kari Jobe}
+{key: G}
+{duration: }
+{tempo: 74}
+{time: 4/4}
+{copyright: }
+
+{original_key: Ab}
+{c: Intro}
+[G] [D] [Am7] [C]
+
+{c: Verse 1}
+[G]  The moon and stars they [D]wept
+The morning sun was [Em7]dead
+The Savior of the [C]world was fallen
+
+[G]  His body on the [D]cross
+His blood poured out for [Em7]us
+The weight of every [C]curse upon Him
+
+[G] [D] [Am7] [C]
+
+{c: Verse 1}
+[G]  One final breath He [D]gave
+As heaven looked a - [Em7]way
+The Son of God was [C]laid in darkness
+
+[G]  A battle in the [D]grave
+The war on death was [Em7]waged
+The power of hell for - [C]ever broken
+
+{c: Pre-Chorus}
+[G]  The ground began to [D]shake
+The stone was rolled a - [Em7]way
+His perfect love could [C]not be overcome
+
+[G]  Now death where is your [D]sting
+Our resurrected [Em7]King
+Has rendered you de - [C]feated
+
+{soc}
+For - [G]ever He is [Dsus]glori - [D]fied
+For - [Em7]ever He is l[G]ifted high
+For - [G]ever He is [Dsus]ris - [D]en
+He is a - [Em7]live and He is a - [C]live
+{eoc}
+
+{c: Pre-Chorus}
+[G]  The ground began to [D]shake
+The stone was rolled a - [Em7]way
+His perfect love could [C]not be overcome
+
+[G]  Now death where is your [D]sting
+Our resurrected [Em7]King
+Has rendered you de - [C]feated
+
+{soc}
+For - [G]ever He is [Dsus]glori - [D]fied
+For - [Em7]ever He is l[G]ifted high
+For - [G]ever He is [Dsus]ris - [D]en
+He is a - [Em7]live and He is a - [C]live
+{eoc}
+
+[G] [D] [Em7] [C]
+[G] [D] [Em7] [C]
+
+[G] [D] [Em7] [C]
+[G] [D] [Em7] [C]
+
+{sob}
+We sing halle - [D]lujah we sing halle - [Am7]lujah
+We sing halle - [C]lujah the Lamb has overcome
+{eob}
+
+{soc}
+For - [G]ever He is [Dsus]glori - [D]fied
+For - [Em7]ever He is l[G]ifted high
+For - [G]ever He is [Dsus]ris - [D]en
+He is a - [Em7]live and He is a - [C]live
+{eoc}
+
+{soc}
+For - [G]ever He is [Dsus]glori - [D]fied
+For - [Em7]ever He is l[G]ifted high
+For - [G]ever He is [Dsus]ris - [D]en
+He is a - [Em7]live and He is a - [C]live
+{eoc}
+
+{c: Ending}
+[G]

@@ -1,0 +1,98 @@
+{title: Nothing Else}
+{artist: Cody Carnes}
+{key: D}
+{duration: }
+{tempo: 68}
+{time: 4/4}
+{copyright: 2020 Sparrow Records}
+
+{original_key: D}
+{c: Intro}
+[Em7] [G] [D] [Dsus] [D]
+[Em7] [G] [D] [Dsus] [D]
+
+{soc}
+I'm caught up in Your [Em7]presence   [G2]
+I just want to [D]sit here at Your feet
+I'm caught up in this [Em7]holy moment [G2]
+I never want to l[D]eave[Dsus] [D]
+
+Oh I'm not here for [Em7]blessings   [G2]
+Jesus You don't [D]owe me anything
+More than any[Em7]thing that You can do[G2]
+I just want You[D]
+{eoc}
+
+{c: Verse 1}
+I'm s[G2]orry   when I've just gone through the motions
+I'm [D/F#]sorry  when I just sang another song
+Take me b[G2]ack to where we started
+I open up my heart to Yo[D]u [Dsus] [D]
+
+{c: Verse 2}
+I'm s[G2]orry   when I've come with my agenda
+I'm s[D/F#]orry   when I forgot that You're enough
+Take me b[G2]ack to where we started
+I open up my heart to Yo[D]u [Dsus] [D]
+
+{soc}
+{c: Ambient}
+I'm caught up in Your [Em7]presence   [G2]
+I just want to [D]sit here at Your feet
+I'm caught up in this [Em7]holy moment [G2]
+I never want to l[D]eave[Dsus] [D]
+
+Oh I'm not here for [Em7]blessings   [G2]
+Jesus You don't [D]owe me anything
+More than any[Em7]thing that You can do[G2]
+I just want You[D]
+{eoc}
+
+{sob}
+{c: Drop}
+I just want You[Em]
+And nothing els[G2]e   and nothing else[Bm7]
+Nothing else will d[A]o
+
+I just want You[Em]
+And nothing els[G2]e   and nothing else[Bm7]
+Nothing else will d[A]o
+
+{c: Shimmer}
+I just want You[Em]
+And nothing els[G2]e   and nothing else[Bm7]
+Nothing else will d[A]o
+
+I just want You[Em]
+And nothing els[G2]e   and nothing else[Bm7]
+Nothing else will d[A]o
+
+{c: Distortion}
+I just want You[Em]
+And nothing els[G2]e   and nothing else[Bm7]
+Nothing else will d[A]o
+
+I just want You[Em]
+And nothing els[G2]e   and nothing else[Bm7]
+Nothing else will d[A]o
+{c: Drop}
+{eob}
+
+[Em] [G2] [Bm7] [A]
+[Em] [G2] [Bm7] [A]
+[Em] [G2] [Bm7] [A]
+
+{soc}
+I'm caught up in Your [Em7]presence   [G2]
+I just want to [D]sit here at Your feet
+I'm caught up in this [Em7]holy moment [G2]
+I never want to l[D]eave[Dsus] [D]
+
+Oh I'm not here for [Em7]blessings   [G2]
+Jesus You don't [D]owe me anything
+More than any[Em7]thing that You can do[G2]
+I just want You[D]
+{eoc}
+
+{c: Ending}
+[D]

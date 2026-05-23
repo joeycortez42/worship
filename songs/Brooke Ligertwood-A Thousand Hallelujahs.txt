@@ -1,0 +1,104 @@
+{title: A Thousand Hallelujahs}
+{artist: Brooke Ligertwood}
+{key: C}
+{duration: }
+{tempo: 68}
+{time: 4/4}
+{copyright: 2022 City and Vine Music Publishing Internationa}
+
+{original_key: C}
+{c: Intro}
+[C] [F] [C]
+[C] [F] [C]
+
+{c: Verse 1}
+[C]. . Who else would r[F]ocks cry out to w[C]orship
+[C]. . Whose glory t[F]aught the stars to sh[C]ine
+[F]. . Perhaps cre[G]ation longs to h[Am]ave the w[G]ords to s[F]ing
+[F]. . But this [G]joy is m[C]ine
+
+{soc}
+[F2]. . With a thousand [C]hallelujahs
+[G]. . We magni[Am7]fy Your [G]name
+[F2]. . You alone de[C]serve the glory
+[G]. . The honor [Am7]and the [G]praise
+[F2]. . Lord Jesu[G]s this song is for[C]e - ver [Am7]Yours  [G]
+
+A [F2]thousand halle[C]lujahs
+And a [G]thousand [C]more
+{eoc}
+
+{c: Verse 2}
+[C]. . Who else would [F]die for our red[C]emption
+[C]. . Whose resurre[F]ction means I'll r[C]ise
+[F]. . There isn't [G]time enough to s[Am]ing of [G]all You've [F]done
+[F]. . But I have e[G]ternity to[C] try
+
+{soc}
+[F2]. . With a thousand [C]hallelujahs
+[G]. . We magni[Am7]fy Your [G]name
+[F2]. . You alone de[C]serve the glory
+[G]. . The honor [Am7]and the [G]praise
+[F2]. . Lord Jesus[G] this song is for[C]e - ver [Am7]Yours  [G]
+
+A [F2]thousand halle[C]lujahs
+And a [G]thousand [C]more
+{eoc}
+
+{c: Instrumental}
+[C] [Dm7] [C2] [F2] [C] [G]
+
+{sob}
+[C]Praise to th[Dm7]e Lord
+To th[C2]e Lamb
+To the [F2]King of [C]hea [G]ven
+[C]Praise for H[Dm7]e rose
+Now H[C2]e reigns
+We will [F2]sing for[C]e - [G]ver
+{eob}
+
+{sob}
+[Am7]Praise to th[G]e Lord
+To th[C]e Lamb
+To the [F2]King of [C]hea [G]ven
+[Am7]Praise for H[G]e rose
+Now H[C]e reigns[C]
+We will [F2]sing for[C]e - [G]ver
+{eob}
+
+{soc}
+[F2]. . With a thousand [C]hallelujahs
+[G]. . We magni[Am7]fy Your [G]name
+[F2]. . You alone de[C]serve the glory
+[G]. . The honor [Am7]and the [G]praise
+[F2]. . Lord Jesus[G] this song is for[C]e - ver [Am7]Yours  [G]
+
+A [F2]thousand halle[C]lujahs
+And a [G]thousand [C]more
+{eoc}
+
+{c: Instrumental}
+[C] [Dm7] [C] [F2] [C] [G]
+
+{sob}
+[C]Praise to th[Dm7]e Lord
+To th[C]e Lamb
+To the [F2]King of [C]hea [G]ven
+[Am7]Praise for H[G]e rose
+Now H[C]e reigns[C]
+We will [F2]sing for[C]e - [G]ver
+{eob}
+
+{soc}
+[F2]. . With a thousand [C]hallelujahs
+[G]. . We magni[Am7]fy Your [G]name
+[F2]. . You alone de[C]serve the glory
+[G]. . The honor [Am7]and the [G]praise
+[F2]. . Lord Jesus[G] this song is for[C]e - ver [Am7]Yours  [G]
+
+A [F2]thousand halle[C]lujahs
+And a [G]thousand [C]more
+{eoc}
+
+{c: Ending}
+[C]

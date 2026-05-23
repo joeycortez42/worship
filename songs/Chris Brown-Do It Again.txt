@@ -1,0 +1,133 @@
+{title: Do It Again}
+{artist: Ben Fielding}
+{key: D}
+{duration: }
+{tempo: 86}
+{time: 4/4}
+{copyright: Said And Done Music}
+
+{original_key: Bb}
+{c: Intro}
+[G] [D/F#]
+[G] [D]
+
+{c: Verse 1}
+[G] Walking around these walls
+[D/F#] I  thought by now they'd fall
+[G] But You have never failed me ye[D]t
+
+{c: Verse 2}
+[G]  Waiting for change to come
+[D/F#]  Knowing the battle's won
+[G]  For You have never failed me ye[D]t
+
+{soc}
+[G]   Your promise still [A]stands
+Great is Your fai[D]thfulness fai[G]thfulness
+[G]   I'm still in Your [A]hands
+This is my co[D]nfidence
+You've n[G]ever failed me ye[D/F#]t
+{eoc}
+
+[G] [D/F#] [G]  [D/F#]
+
+{c: Verse 3}
+[G]   I know the night won't last
+[D/F#]   Your Word will come to pass
+[G]   My heart will sing Your praise aga[D]in
+
+{c: Verse 4}
+[G]   Jesus You're still enough
+[D/F#]   Keep me within Your love
+[G]   My heart will sing Your praise aga[D]in
+
+{soc}
+[G]   Your promise still [A]stands
+Great is Your fai[D]thfulness fai[G]thfulness
+[G]   I'm still in Your [A]hands
+This is my co[D]nfidence
+You've n[G]ever failed   [G]
+{eoc}
+
+{soc}
+[G]   Your promise still [A]stands
+Great is Your fai[D]thfulness fai[G]thfulness
+[G]   I'm still in Your [A]hands
+This is my co[D]nfidence
+You've n[G]ever failed me ye[D/F#]t
+{eoc}
+
+[G] [D/F#] [G]
+
+[D/F#] [G]      [D/F#] [G]
+[A] [D]     [A] [D]
+
+[D/F#] [G]      [D/F#] [G]
+[A] [D]     [A] [D]
+
+[D/F#] [G]
+
+{sob}
+[G]   I've seen You mov[D/F#]e
+[G]   You move the mou[A]ntai - [D]ns
+And I beli[A]eve   [D]
+I'll see You do [D/F#]it a[G]gain
+
+You made a wa[D/F#]y   [G]
+Where there was n[A]o wa[D]y
+And I beli[A]eve   [D]
+I'll see You do [D/F#]it a[G]gain
+{eob}
+
+{sob}
+[G]   I've seen You mov[D/F#]e
+[G]   You move the mou[A]ntai - [D]ns
+And I beli[A]eve   [D]
+I'll see You do [D/F#]it a[G]gain
+
+You made a wa[D/F#]y   [G]
+Where there was n[A]o wa[D]y
+And I beli[A]eve   [D]
+I'll see You do [D/F#]it a[G]gain
+{eob}
+
+{sob}
+[G]   I've seen You mov[D/F#]e
+[G]   You move the mou[A]ntai - [D]ns
+And I beli[A]eve   [D]
+I'll see You do [D/F#]it a[G]gain
+
+You made a wa[D/F#]y   [G]
+Where there was n[A]o wa[D]y
+And I beli[A]eve   [D]
+I'll see You do [D/F#]it a[G]gain
+{eob}
+
+[D/F#] [G]
+[A] [D]     [A] [D]
+
+[D/F#] [G]      [D/F#] [G]
+[A] [D]     [A] [D]
+
+{soc}
+[G]   Your promise still [A]stands
+Great is Your fai[D]thfulness fai[G]thfulness
+[G]   I'm still in Your [A]hands
+This is my co[D]nfidence
+You've n[G]ever failed me ye[G]t
+{eoc}
+
+{soc}
+[G]   Your promise still [A]stands
+Great is Your fai[D]thfulness fai[G]thfulness
+[G]   I'm still in Your [A]hands
+This is my co[D]nfidence
+You've n[G]ever failed me ye[D/F#]t
+{eoc}
+
+{c: Ending}
+[G]   [D/F#]     [G]   [D/F#]
+You've n[G]ever failed me y[D/F#]et
+And I n[G]ever will forg[D/F#]et
+You've n[G]ever failed me y[D/F#]et
+You've n[G]ever failed me y[D/F#]et   [G]

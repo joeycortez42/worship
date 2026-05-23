@@ -1,0 +1,103 @@
+{title: Exalting}
+{artist: Jonathan Rosado}
+{key: A}
+{duration: }
+{tempo: 146}
+{time: 4/4}
+{copyright: }
+
+{original_key: A}
+{c: Intro - Ambient}
+[A]. . . .   [A]. . . .
+
+{c: Verse 1}
+I sought the [A]Lord
+And He answered me[A]
+And de[F#m]livered me from [D]all my fears[A]
+
+{c: Verse 2}
+I will sing Your praise[A]
+Each note an offering[A]
+I w[F#m]ill not cease to [D]bless His name[A]
+
+{c: Pre-Chorus}
+O [F#m]Magnify the [D]Lord with me[A]
+T[F#m]aste and see that [D]He is good[A]
+My li[F#m]fe will boast of w[D]ho You are[A] and all that You’ve don[E]e
+
+{soc}
+{c: Single strum distortion}
+[A] My God the greatest re[C#m] - fuge[F#m]
+Seated upon the [D]throne    [A]
+His Kingdom with one [C#m]voice ex[F#m]alting His [D]name together    [A]
+Our God who came to [C#m]save us[F#m]
+Jesus the Corner[D]stone    [A]
+Creation with one [C#m]song exa[F#m]lting His n[D]ame Together    [A]
+{eoc}
+
+{c: Verse 1 - Palm muting}
+I sought the [A]Lord
+And He answered me[A]
+And de[F#m]livered me from [D]all my fears[A]
+
+{c: Verse 2}
+I will sing Your praise[A]
+Each note an offering[A]
+I w[F#m]ill not cease to [D]bless His name[A]
+
+{c: Pre-Chorus}
+O [F#m]Magnify the [D]Lord with me[A]
+T[F#m]aste and see that [D]He is good[A]
+My li[F#m]fe will boast of w[D]ho You are[A] and all that You’ve don[E]e
+
+{soc}
+[A] My God the greatest re[C#m] - fuge[F#m]
+Seated upon the [D]throne
+[A] His Kingdom with one [C#m]voice ex[F#m]alting His [D]name together
+[A] Our God who came to [C#m]save us[F#m]
+Jesus the Corner[D]stone
+[A] Creation with one [C#m]song exa[F#m]lting His n[D]ame Together
+{eoc}
+
+[A]. . . .     [A]. .   [C#m]   Exa[F#m]lting His n[D]ame Together
+[A]. . . .     [A]. .   [C#m]   Exa[F#m]lting His n[D]ame Together    [A]
+
+{sob}
+{c: Ambient}
+J[F#m]esus. .     J[D]esus
+No other n[A]ame
+J[F#m]esus. .     J[D]esus
+Your Church proc[A]laims we sing Your pr[E]aise
+{eob}
+
+{sob}
+{c: Delay Picking}
+J[F#m]esus. .     J[D]esus
+No other n[A]ame, No other n[Abm]ame
+J[F#m]esus. .     P[D]recious Jesus
+{c: Build}
+Your Church proc[A]laims we sing Your pr[E]aise
+{eob}
+
+{soc}
+{c: Quick drop}
+[A] My God the greatest re[C#m] - fuge[F#m]
+Seated upon the [D]throne
+[A] His Kingdom with one [C#m]voice ex[F#m]alting His [D]name together
+[A] Our God who came to [C#m]save us[F#m]
+Jesus the Corner[D]stone
+[A] Creation with one [C#m]song exa[F#m]lting His n[D]ame Together
+{eoc}
+
+{soc}
+[A] My God the greatest re[C#m] - fuge[F#m]
+Seated upon the [D]throne
+[A] His Kingdom with one [C#m]voice ex[F#m]alting His [D]name together
+[A] Our God who came to [C#m]save us[F#m]
+Jesus the Corner[D]stone
+[A] Creation with one [C#m]song exa[F#m]lting His n[D]ame Together
+{eoc}
+
+{c: Ending}
+[A]. . . .     [A]. .   [C#m]   Exa[F#m]lting His n[D]ame Together
+[A]. . . .     [A]. .   [C#m]   Exa[F#m]lting His n[D]ame Together    [A]

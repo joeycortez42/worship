@@ -1,0 +1,45 @@
+{title: Tu Fidelidad}
+{artist: Marcos Witt}
+{key: C}
+{duration: }
+{tempo: 80}
+{time: 4/4}
+{copyright: }
+
+{original_key: D}
+{c: Intro}
+[F] [G] [C]
+
+T[C]u fidelidad es g[Dm]rande
+T[G]u fidelidad inc[F]omparable e[C]s
+N[Am]adie como tú, ben[Dm]dito Dios
+Gr[F]ande es [G]tu fidelid[C]ad
+
+T[C]u fidelidad es g[Dm]rande
+T[G]u fidelidad inc[F]omparable e[C]s
+N[Am]adie como tú, ben[Dm]dito Dios
+Gr[F]ande es [G]tu fidelid[C]ad
+
+T[D]u fidelidad es g[Em]rande
+T[A]u fidelidad inc[G]omparable e[D]s
+N[Bm]adie como tú, ben[Em]dito Dios
+Gr[G]ande es [A]tu fidelid[D]ad
+
+T[D]u fidelidad es g[Em]rande
+T[A]u fidelidad inc[G]omparable e[D]s
+N[Bm]adie como tú, ben[Em]dito Dios
+Gr[G]ande es [A]tu fidelid[D]ad
+
+T[E]u fidelidad es g[F#m]rande
+T[B]u fidelidad inc[A]omparable e[E]s
+N[C#m]adie como tú, ben[F#m]dito Dios
+Gr[A]ande es [B]tu fidelid[E]ad
+
+T[E]u fidelidad es g[F#m]rande
+T[B]u fidelidad inc[A]omparable e[E]s
+N[C#m]adie como tú, ben[F#m]dito Dios
+Gr[A]ande es [B]tu fidelid[E]ad
+
+{c: Ending}
+Gr[A]ande es [B]tu fidelid[E]ad
+Gr[A]ande es [B]tu fidelid[A]ad   [E]

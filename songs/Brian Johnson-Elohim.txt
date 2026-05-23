@@ -1,0 +1,140 @@
+{title: Elohim}
+{artist: Brian Johnson}
+{key: C}
+{duration: }
+{tempo: 67}
+{time: 4/4}
+{copyright: 2025 Bethel Music}
+
+{original_key: G}
+{c: Intro}
+[Am] [F]
+[Am] [F]
+
+{c: Verse 1}
+[Am]Time and time ag[C]ain
+We've a[F]sked if You are able
+[Am]Time and time ag[C]ain
+You've proved[F]
+You're the [Am]God of our salv[C]ation
+[F]Worthy of our praises
+[Am]Time and time ag[C]ain
+We worship You[F]
+
+{c: Pre-Chorus}
+Oh [G]anyone with eyes
+Can s[C]ee a m[F]ountain
+But [G]anyone with faith
+Will see [C]it m[Dm7]ove
+
+{soc}
+[Am]E - [G]loh [C]im
+You're the G[F]od who goes before me
+[Am]Prince [G]of P[C]eace
+And my [F]heart has [Fmaj7]found a h[G]ome
+You're the [Am]Fa - [G]ther S[C]on
+And the [Dm]Ho - [C]ly Gh[Am]ost
+There's no e[F]nd to who You are
+And there's no [Dm]limit to Your [Am]Throne
+{eoc}
+
+[F] [Am] [F]
+
+{c: Verse 2}
+[Am]Merciful and tr[G]ue
+[F]God of every virtue
+The [Am]solid rock
+We're [G]standing on[Fmaj7]
+You're [Am]holy and
+You're k[C]ind the epi[Dm7]tome of l[F2]ight
+We [Am]magnify the [G]worthy O[F]ne
+We [Dm]magnify the [C]worthy O[F]ne
+
+{soc}
+[Am]E - [G]loh [C]im
+You're the G[F]od who goes before me
+[Am]Prince [G]of P[C]eace
+And my [F]heart has [Fmaj7]found a h[G]ome
+You're the [Am]Fa - [G]ther S[C]on
+And the [Dm]Ho - [C]ly [Am]Ghost
+There's no e[F]nd to who You are
+And there's no [Dm]limit to Your [Am]Throne
+{eoc}
+
+[C] [Dm] [F]
+[Am] [C] [Dm] [F]
+
+{sob}
+[Am]No one is higher
+[G]God our provider
+[F]Prince of Peace
+He is [Am]good beyond measure
+[Cmaj7]Worthy forever
+[F]Elohim
+[Am]No one is higher
+[G]God our provider
+[F]Prince of Peace
+He is [Am]good beyond measure
+[Cmaj7]Worthy forev[Dm]er
+{eob}
+
+{sob}
+[F]No one is higher
+[F]God our provider
+[Am]Prince of Peace
+He is [C]good beyond measure
+[C]Worthy forever
+[Dm]Elohim
+[F]No one is higher
+[F]God our provider
+[Am]Prince of Peace
+He is [C]good beyond measure
+[C]Worthy forev[Dm7]er
+{eob}
+
+{soc}
+[Am]E - [G]loh [C]im
+You're the G[F]od who goes before me
+[Am]Prince [G]of P[C]eace
+And my [F]heart has found a h[G]ome
+You're the [Am]Fa - [G]ther S[C]on
+And the [Dm]Ho - [C]ly [Am]Ghost
+There's no e[F]nd to who You are
+And there's no [Dm]limit to Your [F]Throne
+{eoc}
+
+[Am]  There's no limit to Your[C2] Throne
+[Dm7]  There's no limit to Your[F2] Throne
+[Am7]  There's no limit to Your[C2] Throne
+[Dm7]
+
+[F2] [Am7] [C] [Dm7]
+[F2] [Am7] [C] [Dm7]
+[F] [Am] [C] [Dm]
+[F] [Am] [C] [Dm]
+[F] [Am] [C] [Dm]
+
+{sob}
+[F]No one is higher
+[F]God our provider
+[Am]Prince of Peace
+He is [C]good beyond measure
+[C]Worthy forever
+[D]Elohim
+[F]No one is higher
+[F]God our provider
+[Am]Prince of Peace
+He is [C]good beyond measure
+[C]Worthy forev[D]er
+{eob}
+
+{soc}
+[Am]E - [G]loh [C]im
+You're the G[F]od who goes before me
+[Am]Prince [G]of P[C]eace
+And my [F]heart has found a h[G]ome
+You're the [Am]Fa - [G]ther S[C]on
+And the [Dm]Ho - [C]ly [Am]Ghost
+There's no e[F]nd to who You are
+And there's no [Dm]limit to Your [F]Throne
+{eoc}

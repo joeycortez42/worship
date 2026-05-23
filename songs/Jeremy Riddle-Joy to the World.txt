@@ -1,0 +1,70 @@
+{title: Joy to the World}
+{artist: Jeremy Riddle}
+{key: C}
+{duration: }
+{tempo: 150}
+{time: 4/4}
+{copyright: 2018 Watershed Music Group}
+
+{original_key: C}
+{c: Intro}
+[C]. . . .
+
+{c: Verse 1}
+[C]Joy to the world the Lord is come
+Let [F]earth re[G]ceive h[Am]er King
+Let [C]ev'ry heart prepare Him room
+And heaven and nature sing
+And [G]heaven and nature sing
+And [C/E]heaven and [F]heaven and [C/G]na - [G]ture sing
+
+[C]. . . .     [F]. . . .     [G]. . . .     [C]. . . .
+[F]. . . .     [G]. . . .     [Am]. . . .
+
+{c: Verse 2}
+[C]Joy to the world the [F]Sav [G]iour [C]reigns
+Let [F]men their[G] songs e[Am]mploy
+While [C]fields and floods
+Rocks hills and plains
+Repeat the sounding joy
+Re[G]peat the sounding joy
+Re[C/E]peat re[F]peat the s[C/G]oun - [G]ding joy
+
+#{c: Verse 3}
+#No [C]more let sins and [F]sor [G]rows [C]grow
+#Nor [F]thorns in[G]fest th[Am]e ground
+#He [C]comes to make His blessings flow
+#Far as the curse is found
+#Far [G]as the curse is found
+#Far [C/E]as [F]far as the c[C/G]urse [G]is found
+#
+#[C]. . . .     [F]. . . .     [G]. . . .     [C]. . . .
+#[F]. . . .     [G]. . . .     [Am]. . . .
+#
+{c: Verse 4 - Drop Out}
+[C]He rules the world with [F]truth [G]and [C]grace
+And He [F]makes every [G]nation [Am]prove
+The [C]glories of His righteousness
+And wonders of His love
+And [G]wonders of His love
+And [C/E]wonders [F]wonders [C/G]of [G]His love
+
+[C]. . . .     [Csus]. . . .     [C]. . . .     [Csus]. . . .
+
+{c: Verse 4}
+[C]He rules the world with [F]truth [G]and [C]grace
+And He [F]makes every [G]nation [Am]prove
+The [C]glories of His righteousness
+And wonders of His love
+And [G]wonders of His love
+And [C/E]wonders [F]wonders [C/G]of [G]His love
+
+[C]. . . .     [Dm]. . . .     [C/E]. . . .     [F]. . . .
+[C]. . . .     [Dm]. . . .     [C/E]. . . .     [F]. . . .
+
+{c: Ending}
+Let [C]ev'ry heart prepare Him room
+And heaven and nature sing
+And [G]heaven and nature sing
+And [C/E]heaven and [F]heaven and [C/G]na - [G]ture sing
+[C]

@@ -1,0 +1,86 @@
+{title: Great Things}
+{artist: Phil Wickham}
+{key: G}
+{duration: }
+{tempo: 102}
+{time: 4/4}
+{copyright: 2018 Capitol CMG Paragon}
+
+{original_key: G}
+{c: Intro}
+[G]. . . . . .     [Am]. .     [Em7]. . . . . .     [C]. .
+[G]. . . . . .     [Am]. .     [Em7]. . . . . .     [C]. .
+
+{c: Verse 1}
+[G]Come let us worship our King
+Come let us bow at His feet
+He has done [C]great things
+
+{c: Verse 2}
+[G]See what our Savior has done
+See how His love overcomes
+He has done [C]great things
+He has done [Em7]great thin[Dsus]gs
+
+{soc}
+Oh [G]hero of Heaven     You conquered the grave
+You [Em7]free every captive     And break every chain
+Oh [C]God You have done great things
+
+We [G]dance in Your freedom     Awake and a[G]live
+Oh [Em7]Jesus our Savior     Your name lifted high
+Oh [C]God You have done great things
+{eoc}
+
+[G]. . . . . .     [Am]. .     [Em7]. . . . . .     [C]. .
+
+{c: Verse 3}
+You've been [G]faithful through every storm
+You'll be faithful forevermore
+[G]You has done [C]great things
+
+{c: Verse 4}
+And I [G]know You will do it again
+For Your promise is Yes and amen
+[G]You will do [C]great things
+God You do [Em7]great thin[Dsus]gs
+
+{soc}
+Oh [G]hero of Heaven     You conquered the grave
+You [Em7]free every captive     And break every chain
+Oh [C]God You have done great things
+
+We [G]dance in Your freedom     Awake and a[G]live
+Oh [Em7]Jesus our Savior     Your name lifted high
+Oh [C]God You have done great things
+{eoc}
+
+[G]
+
+{sob}
+[C]Hallelujah [D]God above it all
+[Em7]Hallelujah [G]God unshakable
+[C]Hallelujah [D]You have done great thi[Em7]ngs     [G]
+
+[C]Hallelujah [D]God above it all
+[Em7]Hallelujah [G]God unshakable
+[C]Hallelujah [D]You have done great thi[Em7]ngs
+You've done great thi[D/F#]ngs
+{eob}
+
+{soc}
+Oh [G]hero of Heaven     You conquered the grave
+You [Em7]free every captive     And break every chain
+Oh [C]God You have done great things
+
+We [G]dance in Your freedom     Awake and a[G]live
+Oh [Em7]Jesus our Savior     Your name lifted high
+Oh [C]God You have done great things
+{eoc}
+
+[Dsus]   You have done [Em7]great things
+[Dsus]   Oh God You do [C]great things
+
+{c: Ending}
+[G]. . . . . .     [Am]. .     [Em7]. . . . . .     [C]. .
+[G]. . . . . .     [Am]. .     [Em7]. . . . . .     [C]. .     [G]

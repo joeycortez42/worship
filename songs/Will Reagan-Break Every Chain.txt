@@ -1,0 +1,80 @@
+{title:Break Every Chain}
+{subtitle:Will Reagan}
+{original_key:F#}
+{key:A}
+{tempo:67}
+{time:4/4}
+{as:10}
+
+{c:Intro}
+[F#m] [D] [A] [E]
+[F#m] [D] [A] [E]
+[F#m] [D] [A] [E]
+
+#Chorus 1
+There is [F#m]pow - er [D]in the name of [A]Je - sus  [E]
+There is [F#m]pow - er [D]in the name of [A]Je - sus  [E]
+There is [F#m]pow - er [D]in the name of [A]Je - sus  [E]
+To break [F#m]every chain Break every [D]chain--
+Break eve - ry-- [A]chain  [E]
+
+To break [F#m]every chain Break every [D]chain
+Break eve - ry-- [A]chain  [E]
+
+#Chorus 1
+There is [F#m]pow - er [D]in the name of [A]Je - sus  [E]
+There is [F#m]pow - er [D]in the name of [A]Je - sus  [E]
+There is [F#m]pow - er [D]in the name of [A]Je - sus  [E]
+To break [F#m]every chain Break every [D]chain
+Break eve - ry-- [A]chain  [E]
+
+To break [F#m]every chain Break every [D]chain
+Break eve - ry-- [A]chain  [E]
+
+#Chorus 2
+There's an [F#m]ar - my [D]ris - ing [A]up  [E]
+There's an [F#m]ar - my [D]ris - ing [A]up  [E]
+There's an [F#m]ar - my [D]ris - ing [A]up  [E]
+To break every [F#m]chain Break every [D]chain
+Break eve - ry-- [A]chain  [E]
+
+To break every [F#m]chain Break every [D]chain
+Break eve - ry-- [A]chain  [E]
+
+{c:(Full drums enter)}
+
+#Chorus 2
+There's an [F#m]ar - my [D]ris - ing [A]up  [E]
+There's an [F#m]ar - my [D]ris - ing [A]up  [E]
+There's an [F#m]ar - my [D]ris - ing [A]up  [E]
+To break [F#m]every chain Break every [D]chain
+Break e - ve - ry [A]chain  [E]
+
+To break [F#m]every chain Break every [D]chain
+Break e - ve - ry [A]chain  [E]
+
+[F#m] [D] [A] [E]
+[F#m] [D] [A] [E]
+[F#m] [D] [A] [E]
+[F#m] [D] [A] [E]
+
+{sob}
+[F#m]  I hear the [D]chains fal[A]l - ing  [E]
+[F#m]  I hear the [D]chains fal[A]l - ing  [E]
+{c:(A cappella)}
+[F#m]  I hear the [D]chains fal[A]l - ing  [E]
+[F#m]  I hear the [D]chains fal[A]l - ing  [E]
+
+[F#m]  I hear the [D]chains fal[A]l - ing  [E]
+[F#m]  I hear the [D]chains fal[A]l - ing  [E]
+{c:(with instruments)}
+[F#m]  I hear the [D]chains fal[A]l - ing  [E]
+[F#m]  I hear the [D]chains fal[A]l - ing  [E]
+{eob}
+
+#Ending
+To break [F#m]every chain Break every [D]chain
+Break e - ve - ry [A]chain  [E]
+
+To break [F#m]every chain Break every [D]chain
+Break e - ve - ry [A]chain  [E]

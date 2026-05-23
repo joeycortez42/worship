@@ -1,11 +1,12 @@
-{title:God's Not Dead}
-{subtitle:Daniel Bashta}
-{original_key:B}
-{key:A}
-{tempo:128}
-{time:4/4}
-{as:10}
-{c:Intro}
+{title: God's Not Dead}
+{artist: Daniel Bashta}
+{key: A}
+{tempo: 128}
+{time: 4/4}
+{copyright: 2009 Go Forth Sounds}
+
+{original_key: B}
+{c: Intro}
 #|------------------------------------------|
 #|-/3-3-3---------3-3-3---------------------|
 #|--------4-4-4-----------------------------|

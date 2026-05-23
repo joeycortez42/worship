@@ -1,0 +1,41 @@
+{title: Silent Night}
+{artist: Tommee Profitt}
+{key: F}
+{tempo: 80}
+{time: 4/4}
+{copyright: Public Domain}
+
+{original_key: F}
+{c: Intro}
+[F]
+
+{c: Verse 1}
+[F]Si - lent [Am]night [F]ho - ly [Am]night
+[C]All is calm [F]all is bright
+[Am]. . . [Bb]Round yon [Bb]virgin [F]moth - er and Child
+[Am]. . . [Bb]Holy [Bb]Infant so [F]ten - der and mild
+[C]Sleep in heavenly [F]peace
+[F]Sleep in [C]heaven - ly [F]peace
+
+{c: Verse 2}
+[F]Si - [Am]lent night [F]ho - ly [Am]night
+[C]Shepherds quake [F]at the sight
+[Am]. . . [Bb]Glories stream from [F]heav - en afar
+[F]. . . [Bb]Heav'nly hosts sing [F]al - le - luia
+[C]Christ the Sa[C7]vior is [F]born
+[F]Christ the [C]Savior is [F]born
+
+[F]. . [Am]. . [F]. . [Am]. .
+[C]. . [F]. . [F]. . [Am]. .
+[Bb]. . [F]. . [F]. .
+[Bb]. . [F]. .
+[C]. . [C7]. . [F]. .
+[F]. . [C]. . [F]. .
+
+{c: Verse 3}
+[F]Si - lent night ho - ly night
+[F]Son of God love's pure light
+[F]Radiant beams from Thy ho - ly face
+[F]With the dawn of re - deem - ing grace
+[F]Jesus Lord at Thy birth
+[F]Jesus Lord at Thy birth

@@ -1,0 +1,67 @@
+{title: Goodness Of God}
+{artist: Jenn Johnson}
+{key: G}
+{duration: }
+{tempo: 63}
+{time: 4/4}
+{copyright: 2018 Alletrop Music}
+
+{original_key: G}
+{c: Intro}
+[G]. . . .   [C]. .   [G]. .   [D/F#]   [Em7]   [C]. .   [D]. .
+
+{c: Verse 1}
+I love You L[G]ord     Oh Your m[C]ercy never f[G]ails me
+[D/F#] All my [Em7]days     I've been h[C]eld in Your h[D]ands
+From the moment that I [Em7]wake up  [C]
+Until I lay [G]my head  [D/F#]   [Em7]
+I will s[C]ing of the go[D]odness of G[G]od
+
+{soc}
+[C2]   All my life You have been fai[G]thful
+[C2]   All my life You have been [G]so so [D]good
+[C2]   With every breath that I am a[G]ble   [D/F#]   [Em7]
+I will s[C2]ing of the go[D]odness of G[G]od
+{eoc}
+
+{c: Verse 2}
+I love Your vo[G]ice     You have l[C]ed me through the f[G]ire
+In da[D/F#]rkest [Em7]night     You are cl[C]ose like no [D]other
+I've known You as a f[Em7]ather   [C]
+I've known You as [G]a friend   [D/F#]   [Em7]
+I have li[C]ved in the go[D]odness of G[G]od
+
+{soc}
+[C2]   All my life You have been fai[G]thful
+[C2]   All my life You have been [G]so so [D]good
+[C2]   With every breath that I am a[G]ble   [D/F#]   [Em7]
+I will s[C2]ing of the go[D]odness of G[G]od
+{eoc}
+
+{sob}
+[G]   Your goodness is ru[C2]nning after     It’s ru[D]nning after [G]me
+[G]   Your goodness is ru[C2]nning after     It’s ru[D]nning after [G]me
+With my [G]life laid down     I’m sur - re[C2]ndered now
+I[D] give You every - thing
+[G]   Your goodness is ru[C2]nning after     It's ru[D]nning after [G]me
+
+[G]   Your goodness is ru[C2]nning after     It’s ru[D]nning after [G]me
+[G]   Your goodness is ru[C2]nning after     It’s ru[D]nning after [G]me
+With my [G]life laid down     I’m sur - re[C2]ndered now
+I[D] give You every - thing
+[G]   Your goodness is ru[C2]nning after     It's ru[D]nning after [G]me
+{eob}
+
+{soc}
+[C2]   All my life You have been fai[G]thful
+[C2]   All my life You have been [G]so so [D]good
+[C2]   With every breath that I am a[G]ble   [D/F#]   [Em7]
+I will s[C2]ing of the go[D]odness of G[G]od
+{eoc}
+
+{c: Ending}
+[C2]   All my life You have been fai[G]thful
+[C2]   All my life You have been [G]so so [D]good
+[C2]   With every breath that I am a[G]ble   [D/F#]   [Em7]
+I will s[C2]ing of the go[D]odness of G[Em7]od
+I will s[C2]ing of the go[D]odness of G[G]od

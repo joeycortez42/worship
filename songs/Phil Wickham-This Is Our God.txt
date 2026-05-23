@@ -1,0 +1,125 @@
+{title: This Is Our God}
+{artist: Phil Wickham}
+{key: C}
+{duration: }
+{tempo: 80}
+{time: 4/4}
+{copyright: }
+
+{original_key: G}
+{c: Intro}
+[C] [Csus] [C]
+[C] [Csus] [C]
+
+#e|----------------------------------|
+#B|----13-13-------------------------|
+#G|-12-------12-10-9--10-10-9--------|
+#D|----------------------------------|
+#A|----------------------------------|
+#E|----------------------------------|
+
+e|-----------------------------|
+B|---10-10---------------------|
+G|-9-------9-7-6--7-7-6--------|
+D|-----------------------------|
+A|-----------------------------|
+E|-----------------------------|
+
+{c: Verse 1}
+[C]   Remember those walls that we called [Csus]sin and [C]shame
+[Am7]  They were like prisons that we couldn’t escape
+But He c[G]ame and He died and He r[F]ose
+Those walls are rubble now
+
+{c: Riff}
+[C] [Csus] [C]
+
+{c: Verse 2}
+[C]   Remember those giants we called [Csus]death and [C]grave
+[Am7]  They were like mountains that stood in our way
+But He c[G]ame and He died and He r[F]ose
+Those giants are dead now
+
+{c: Riff}
+[C] [Csus] [C]
+
+{soc}
+[C]This is our [F]God this is who He [C]is
+He [G]loves us
+[C]This is our [F]God this is what He [C]does
+He [G]saves us
+He [C]bore the cr[F]oss beat the gr[C]ave
+Let [G]heaven and earth pro[Am7]claim
+[G]This is our [F]God King [G]Jesus
+{eoc}
+
+{c: Riff}
+[C] [Csus] [C]
+
+{c: Verse 3}
+[C]   Remember that fear that took our [Csus]breath a-[C]way
+[Am7]  Faith so weak that we could barely pray
+But He he[G]ard every word every wh[F]isper
+
+{c: Verse 4}
+[C]   Now those altars in the [Csus]wilder-[C]ness
+[Am7]  Tell the story of His faithfulness
+Never o[G]nce did He fail and He n[F]ever will
+
+[C]
+
+{soc}
+[C]This is our [F]God this is who He [C]is
+He [G]loves us
+[C]This is our [F]God this is what He [C]does
+He [G]saves us
+He [C]bore the cr[F]oss beat the gr[C]ave
+Let [G]heaven and earth pro[Am7]claim
+[G]This is our [F]God King [G]Jesus
+{eoc}
+
+[C]
+
+{sob}
+[F]   Who pulled me out of that pit
+He did, He [G]did
+[C]   Who paid for all of our sin
+Nobody but Je[C]sus
+
+[F]   Who pulled me out of that pit
+He did, He [G]did
+[C]   Who paid for all of our sin
+Nobody but Je[C]sus
+{eob}
+
+{sob}
+[F]   Who rescued me from that grave
+Yahweh, Yah[G]weh
+[C]   Who gets the glory and praise
+Nobody but Je[C]sus
+
+[F]   Who rescued me from that grave
+[F]Yahweh, Yah[G]weh
+[Am7]   Who gets the glory and praise
+[G]Nobody but Him
+{eob}
+
+{soc}
+[C]This is our [F]God this is who He [C]is
+He [G]loves us
+[C]This is our [F]God this is what He [C]does
+He [G]saves us
+He [C]bore the cr[F]oss beat the gr[C]ave
+Let [G]heaven and earth pro[Am7]claim
+[G]This is our [F]God King [G]Jes - [C]us
+{eoc}
+
+{c: Ending}
+He [C]bore the cr[F]oss beat the gr[C]ave
+Let [G]heaven and earth pro[Am7]claim
+[G]This is our [F]God King [G]Jesus
+
+{c: Riff}
+[C] [Csus] [C] [Am] [F]
+
+[C]

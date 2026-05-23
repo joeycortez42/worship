@@ -1,0 +1,89 @@
+{title: O Come All Ye Faithful (Gloria)}
+{artist: C. Frederick Oakeley}
+{key: G}
+{duration: }
+{tempo: 120}
+{time: 4/4}
+{copyright: Public Domain}
+
+{original_key: C}
+{c: Intro}	
+[G]. . . .     [C/E]. . . .     [G]. . . .     [C]. . . .     [C]. . . .
+
+{c: Single Note}
+[G]
+
+{c: Band}	                                          
+[G]. . . .     [G]. . . .     [G5]. . . .      [G2]. . . .     
+
+{c: All In}	                                          
+[G]. . . .     [Gsus]. . . .     [G]. . . .      [Gsus]. . . . 
+                                     
+{c: Breakdown - Single Note}
+[G]. . . .     [G]. . . .
+               
+{c: Verse 1 - Single Note}
+[G]O come all ye faith-ful     Joyful and triumphant
+O come ye, O come ye to Beth - lehem
+[Em]Come and be[C2]hold him 
+[D4]Born the King of [D]angels
+
+{soc}
+O [G]come let us a[Gsus]dore Him
+O [G]come let us a[Gsus]dore Him
+O [Am]come let [G/B]us a[D4]dore [Em]Him, [C/E]Chri  - [D/F#]st the Lord
+{eoc}
+
+{c: Turnaround - All In}	                                          
+[G]. . . .     [Gsus]. . . .     [G]. . . .      [Gsus]. . . . 
+                                 
+{c: Verse 2}
+[G]Sing choirs of [D]angels
+[G/B]Sing in [C]exul - [G/D]ta - [D]tion
+O [Em]sing all ye [G/B]citizens of [D]hea - [A]v'n [5]above
+[G/B]Glory to [C]God     [Dsus]Glory in the [C/E]highest
+
+{soc}
+O [G]come let us a[Am7]dore Him
+O [G/B]come let us a[C]dore Him
+O [Am]come let [G/B]us a[D4]dore [Em]Him, [C/E]Chri  - [D/F#]st the [G]Lord   [G]. . . . .
+{eoc}
+
+{sob}
+[Em]   Glori - [C]a . . .     [G]   Our King has [D]come
+[Em]   Glori - [C]a . . .     [G]   Heaven has [Bm7]spoken
+{eob}
+
+{sob}
+[Em]   Glori - [C]a . . .     [G]   Our King has [D]come
+[Em]   Glori - [C]a . . .     [G]   Heaven has [D]spoken
+{eob}
+
+{c: Breakdown - Video}
+
+[Em7]. . . .     [C]. . . .     [G]. . . .     [D4]. . . .
+[Em7]. . . .     [C]. . . .     [G]. . . .     [D4]. .
+
+{c: Drop}
+
+{sob}
+[Em]   Glori - [C]a . . .     [G]   Our King has [D]come
+[Em]   Glori - [C]a . . .     [G]   Heaven has [D]spoken
+{eob}
+
+{soc}
+O [Em]come let us a[C]dore Him
+O [G]come let us a[Dsus]dore Him
+
+O [Em]come let us a[C]dore Him
+O [G]come let us a[Dsus]dore Him
+
+O [Am]come let [G/B]us a[D4]dore [Em]Him
+[C/E]Chri -  - [D/F#]st - - the [Em]Lord
+{eoc}
+
+[C]. . . .     [G]. . . .     [D4]. . . .
+[Em7]. . . .     [C]. . . .     [G]. . . .     [D4]. . . .
+
+{c: Ending}
+[G]

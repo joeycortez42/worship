@@ -1,0 +1,100 @@
+{title: Holy Ground}
+{artist: Brett Younker}
+{key: Eb}
+{duration: }
+{tempo: 72}
+{time: 4/4}
+{copyright: }
+
+{original_key: Eb}
+{c: Intro}
+[Ab] [Bb] [Cm7] [Eb]
+[Ab] [Bb] [Cm7] [Eb]
+
+{c: Verse 1}
+[Ab]Here as we wai[Bb]t
+Seek your f[Cm7]ace
+Come and make your thr[Eb]one upon our praise
+
+[Ab]Here in this pl[Bb]ace
+Have your w[Cm7]ay
+The moment that we s[Eb]ee you, we are changed
+
+{soc}
+[Ab]. . . Show us your gl[Bb]ory
+Show us your gl[Cm7]ory
+In wonder and surre[Eb]nder we fall down
+[Ab]. . . Show us your gl[Bb]ory
+Show us your gl[Cm7]ory
+Let every burning hea[Eb]rt be holy ground
+{eoc}
+
+[Ab] [Bb] [Cm7] [Eb]
+
+{c: Verse 2}
+[Ab]Here not by po[Bb]wer
+Not by mi[Cm7]ght
+But only by the cr[Eb]oss we come alive
+
+[Ab]Here, we're undo[Bb]ne
+Overc[Cm7]ome
+By heaven's love reve[Rb]aled before our eyes
+
+{soc}
+[Ab]. . . Show us your gl[Bb]ory
+Show us your gl[Cm7]ory
+In wonder and surre[Eb]nder we fall down
+[Ab]. . . Show us your gl[Bb]ory
+Show us your gl[Cm7]ory
+Let every burning hea[Eb]rt be holy ground
+{eoc}
+
+{soc}
+[Ab]. . . Show us your gl[Bb]ory
+Show us your gl[Cm7]ory
+In wonder and surre[Eb]nder we fall down
+[Ab]. . . Show us your gl[Bb]ory
+Show us your gl[Cm7]ory
+Let every burning hea[Eb]rt be holy ground
+{eoc}
+
+[Ab] [Bb] [Cm7] [Eb]
+
+[Ab] [Bb] [Cm7] [Eb]
+
+{sob}
+[Ab]Chains fall, [Bb]Fear bow
+[Cm7]Here, now
+[Eb]Jesus, you change everything
+
+[Ab]Lives healed, [Bb]Hope found
+[Cm7]Here, now
+[Eb]Jesus, you change everything
+{eob}
+
+{sob}
+[Ab]Chains fall, [Bb]Fear bow
+[Cm7]Here, now
+[Eb]Jesus, you change everything
+
+[Ab]Lives healed, [Bb]Hope found
+[Cm7]Here, now
+[Eb]Jesus, you change everything
+{eob}
+
+[Ab] [Bb] [Cm7] [Eb]
+
+[Ab] [Bb] [Cm7] [Eb]
+
+{sob}
+[Ab]Chains fall, [Bb]Fear bow
+[Cm7]Here, now
+[Eb]Jesus, you change everything
+
+[Ab]Lives healed, [Bb]Hope found
+[Cm7]Here, now
+[Eb]Jesus, you change everything
+{eob}
+
+{c: Ending}
+[Ab]

@@ -1,0 +1,66 @@
+{title: Graves Into Gardens}
+{artist: Brandon Lake}
+{key: G}
+{duration: }
+{tempo: 70}
+{time: 6/8}
+{copyright: 2019 Brandon Lake Music}
+
+{original_key: E}
+{c: Intro}
+[G] [C2] [G] [C2]
+
+{c: Verse 1}
+I searched the w[G]orld but [C2]it couldn't f[G]ill me
+Man's empty pr[Em]aise and treasures that f[D]ade
+Are never en[C]ough
+
+{c: Verse 2}
+Then You came al[G]ong and [C]put me back to[G]gether
+And every des[Em]ire is now satisf[D]ied here in Your l[C]ove
+
+{soc}
+Oh there's [G]nothing better than You
+There's [Em]nothing better You
+Lord there's [C]nothing
+Nothing is better than Y[G]ou [C2] [G] [C2]
+{eoc}
+
+{c: Verse 3}
+I'm not afr[G]aid to [C]show You my [G]weakness
+My failures and fl[Em]aws
+Lord You've seen them [D]all
+And You still call me f[C]riend
+
+{c: Verse 4}
+'Cause the God of the mo[G]untain
+Is the [Am7]God of the v[G]alley
+And there's not a pl[Em]ace
+Your mercy and gr[D]ace won't find me ag[C]ain
+
+{soc}
+Oh there's [G]nothing better than You
+There's [Em]nothing better You
+Lord there's [C]nothing
+Nothing is better than Y[G]ou
+{eoc}
+
+{soc}
+Oh there's [G]nothing better than You
+There's [Em]nothing better You
+Lord there's [C]nothing
+Nothing is better than Y[G]ou
+{eoc}
+
+
+{sob}
+You turn mourning to dancing
+You give beauty for ashes
+You turn shame into glory
+You're the only one who can
+{eob}
+
+You turn graves into gardens
+You turn bones into armies
+You turn seas into highways
+You're the only one who can

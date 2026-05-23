@@ -1,0 +1,106 @@
+{title: Again And Again}
+{artist: Benji Cowart}
+{key: C}
+{duration: }
+{tempo: 115}
+{time: 4/4}
+{copyright: 2021 Provident Label Group LLC}
+
+{original_key: C}
+{c: Intro}
+[C] [F] [Am] [F] [C]
+
+{c: Verse 1}
+When the [C]doubt in my way
+Tries to steal what You’ve saved
+Sayin’ I have no reason to praise
+I will g[F]ive thanks
+I will g[C]ive thanks
+
+{c: Verse 2}
+When the [C]roar that I hear
+Is the voice of my fear
+Tryin’ to silence this hope in my heart
+I will g[Am]ive thanks [F]
+I will g[C]ive thanks
+
+{c: Pre-Chorus}
+A [F]song of thanksgiving
+Is [G]my battle-cry
+With [C]joy as my weapon
+I’ll [F]stand and defy
+The [F]lie of the dark with
+My [G]hands lifted to the sky
+
+{soc}
+I will r[C]ejoice, I will rejoice
+I will [F]dance in Your kindness
+And claim every yes and a[C]men
+
+I will r[C]ejoice, I will rejoice
+I will [F]shout of Your goodness
+Forever again and a[C]gain
+{eoc}
+
+{c: Verse 3}
+When it’s [C]all stripped away
+And it seems it’s too late
+Hope is buried and dead in the grave
+I’ll speak Y[Am]our name[F]
+I’ll speak Y[C]our name
+
+{c: Pre-Chorus}
+A [F]song of thanksgiving
+Is [G]my battle-cry
+With [C]joy as my weapon
+I’ll [F]stand and defy
+The [F]lie of the dark with
+My [G]hands lifted to the sky
+
+{soc}
+I will r[C]ejoice, I will rejoice
+I will [F]dance in Your kindness
+And claim every yes and a[C]men
+
+I will r[C]ejoice, I will rejoice
+I will [F]shout of Your goodness
+Forever again and a[C]gain
+{eoc}
+
+[C] [F] [Am] [F] [C]
+
+{sob}
+The [Am]joy of the Lord
+The joy of the [F]Lord
+The [C]joy of the Lord is my strength
+
+[Am]I’ll never stop
+I’ll never [F]stop
+[C]Nothing can stop my praise
+
+The [Am]joy of the Lord
+The joy of the [F]Lord
+The [C]joy of the Lord is my strength
+
+[Am]I’ll never stop
+I’ll never [F]stop
+[C]Nothing can stop my praise
+{eob}
+
+{soc}
+I will r[C]ejoice, I will rejoice
+I will [F]dance in Your kindness
+And claim every yes and a[C]men
+
+I will r[Am]ej - [F]oice, I will r[C]ejoice
+[G]  I will [Am]shout of Your goodness
+For[F]ever again and a[C]gain [G]
+{eoc}
+
+I will [Am]shout of Your goodness
+For[F]ever again and a[C]gain [G]
+
+{c: Ending}
+I will [Am]shout of Your goodness
+For[F]ever again and again
+[C]

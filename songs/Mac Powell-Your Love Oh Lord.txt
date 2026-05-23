@@ -1,0 +1,55 @@
+{title: Your Love Oh Lord}
+{artist: Mac Powell}
+{key: G}
+{duration: 212}
+{tempo: 88}
+{time: 4/4}
+{copyright: 1999 New Spring}
+
+{original_key: G}
+{c: Intro}
+
+{c: Verse}
+Your [G]love O Lord   [C2]   reaches to the [G]heavens       [D/F#]
+Your [Em]faithfulness   [C2]   stretches to the [G]sky       [D/F#]
+[Em7]Your righteous - [C2]ness is like the mighty [G]mountains        [D/F#]
+Your [Em]justice flows [C2]like the ocean's [G]tide        [D]
+
+{start_of_chorus}
+I will lift my  [D]  voice
+To [C2]worship You my [G]King
+I will find my  [D]  strength
+In the [C2]shadow of Your [Am7]wings       [D]
+{end_of_chorus}
+
+{c: Verse with distortion}
+Your [G]love O Lord   [C2]   reaches to the [G]heavens       [D/F#]
+Your [Em]faithfulness   [C2]   stretches to the [G]sky       [D/F#]
+[Em7]Your righteous - [C2]ness is like the mighty [G]mountains        [D/F#]
+Your [Em]justice flows [C2]like the ocean's [G]tide        [D]
+
+{start_of_chorus}
+I will lift my  [D]  voice
+To [C2]worship You my [G]King
+I will find my  [D]  strength
+In the [C2]shadow of Your [Am7]wings       [D]
+{end_of_chorus}
+
+{c: Instrumental}
+
+{start_of_chorus}
+I will lift my  [D]  voice
+To [C2]worship You my [G]King
+I will find my  [D]  strength
+In the [C2]shadow of Your [Am7]wings       [D]
+
+{c: Sing higher}
+I will lift my  [D]  voice
+To [C2]worship You my [G]King
+I will find my  [D]  strength
+In the [C2]shadow of Your [Am7]wings       [D]
+{end_of_chorus}
+
+{c: Ending - Soft with retard}
+Your [G]love O Lord  [C2]   reaches to the [G]heavens        [D/F#]
+Your [Em]faithfulness  [C2]   stretches to the [G]sky

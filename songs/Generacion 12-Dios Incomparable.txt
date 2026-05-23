@@ -1,0 +1,131 @@
+{title: Dios Incomparable}
+{artist: Generacion 12}
+{key: B}
+{duration: }
+{tempo: 78}
+{time: 4/4}
+{copyright: }
+
+{original_key: B}
+{c: Intro}
+[B] [F#] [G#m] [E]
+
+[B] [F#] [G#m] [E]
+
+{c: Verse 1}
+[B]  Dios de mi [F#]corazón
+[G#m]  En ti encontré mi sa[E]lvación
+[B]  Tu gloria y [F#]majestad
+[G#m]  Quiero siempre co[E]ntemplar
+
+{c: Verse 2}
+[B]  Tú eres mi a[F#]doración
+[G#m]  Y mi eter[E]na canción
+[B]  Todo m[F#]i interior
+[G#m]  Es cautivado po[E]r tu amor
+
+[E]
+
+{soc}
+[B]  Eres Dios e[F#]terno
+Solo tú eres [G#m]bueno
+Dios incompar[E]able eres tú
+[B]  Nunca me separa[F#]re
+De tu gran a[G#m]mor
+Eres mi se[E]ñor mi salvador
+{eoc}
+
+[B] [F#] [G#m] [E]
+
+{c: Verse 1}
+[B]  Dios de mi [F#]corazón
+[G#m]  En ti encontré mi sa[E]lvación
+[B]  Tu gloria y [F#]majestad
+[G#m]  Quiero siempre co[E]ntemplar
+
+{c: Verse 2}
+[B]  Tú eres mi a[F#]doración
+[G#m]  Y mi eter[E]na canción
+[B]  Todo m[F#]i interior
+[G#m]  Es cautivado po[E]r tu amor
+
+{soc}
+[B]  Eres Dios e[F#]terno
+Solo tú eres [G#m]bueno
+Dios incompar[E]able eres tú
+[B]  Nunca me separa[F#]re
+De tu gran a[G#m]mor
+Eres mi se[E]ñor mi salvador
+{eoc}
+
+[B] [F#] [G#m] [E]
+[B] [F#] [G#m] [E]
+
+[B]  Alelu[F#]ya. . . . [G#m7]  Alelu[E]ya
+[B]  Alelu[F#]ya. . . . [G#m7]  Alelu[E]ya
+
+[B]  Alelu[F#]ya. . . . [G#m7]  Alelu[E]ya
+[B]  Alelu[F#]ya. . . . [G#m7]  Alelu[E]ya
+
+[B]  Alelu[F#]ya. . . . [G#m7]  Alelu[E]ya
+[B]  Alelu[F#]ya. . . . [G#m7]  Alelu[E]ya
+
+[B]  Alelu[F#]ya. . . . [G#m7]  Alelu[E]ya
+[B]  Alelu[F#]ya. . . . [G#m7]  Alelu[E]ya
+
+{soc}
+[B]  Eres Dios e[F#]terno
+Solo tú eres [G#m]bueno
+Dios incompar[E]able eres tú
+[B]  Nunca me separa[F#]re
+De tu gran a[G#m]mor
+Eres mi se[E]ñor mi salvador
+{eoc}
+
+[B]  Alelu[F#]ya. . . . [G#m7]  Alelu[E]ya
+[B]  Alelu[F#]ya. . . . [G#m7]  Alelu[E]ya
+
+[B]  Alelu[F#]ya. . . . [G#m7]  Alelu[E]ya
+[B]  Alelu[F#]ya. . . . [G#m7]  Alelu[E]ya
+
+[B]  Alelu[F#]ya. . . . [G#m7]  Alelu[E]ya
+[B]  Alelu[F#]ya. . . . [G#m7]  Alelu[E]ya
+
+[B]  Alelu[F#]ya. . . . [G#m7]  Alelu[E]ya
+[B]  Alelu[F#]ya. . . . [G#m7]  Alelu[E]ya
+
+{soc}
+[B]  Eres Dios e[F#]terno
+Solo tú eres [G#m]bueno
+Dios incompar[E]able eres tú
+[B]  Nunca me separa[F#]re
+De tu gran a[G#m]mor
+Eres mi se[E]ñor mi salvador
+{eoc}
+
+{soc}
+[B]  Eres Dios e[F#]terno
+Solo tú eres [G#m]bueno
+Dios incompar[E]able eres tú
+[B]  Nunca me separa[F#]re
+De tu gran a[G#m]mor
+Eres mi se[E]ñor mi salvador
+{eoc}
+
+[B]  Alelu[F#]ya. . . . [G#m7]  Alelu[E]ya
+[B]  Alelu[F#]ya. . . . [G#m7]  Alelu[E]ya
+
+[B]  Alelu[F#]ya. . . . [G#m7]  Alelu[E]ya
+[B]  Alelu[F#]ya. . . . [G#m7]  Alelu[E]ya
+
+[B]  Alelu[F#]ya. . . . [G#m7]  Alelu[E]ya
+[B]  Alelu[F#]ya. . . . [G#m7]  Alelu[E]ya
+
+[B]  Alelu[F#]ya. . . . [G#m7]  Alelu[E]ya
+[B]  Alelu[F#]ya. . . . [G#m7]  Alelu[E]ya
+
+[B]  Alelu[F#]ya. . . . [G#m7]  Alelu[E]ya
+[B]  Alelu[F#]ya. . . . [G#m7]  Alelu[E]ya
+
+{c: Ending}
+[E]

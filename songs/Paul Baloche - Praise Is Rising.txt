@@ -1,0 +1,105 @@
+{title: Hosanna Praise Is Rising}
+{artist: Paul Baloche}
+{key: G}
+{duration: }
+{tempo: 114}
+{time: 4/4}
+{copyright: }
+
+{original_key: G}
+{c: Intro}
+[G]
+
+{c: Verse 1}
+[G]Praise is rising, eyes are turning to [C2]You
+We turn to [G]You
+
+[G]Hope is stirring, hearts are yearning for [C2]You
+We long for [G]You
+
+{c: Pre-Chorus}
+'Cause when we [D]see You we find [C2]strength
+To face the [G]day
+And in Your [D]presence all our [C2]fears
+Are washed a[G]way, washed a[Dsus]way
+
+{soc}
+Ho[G]san - [G]na, Ho[Em7]san - [C2]na
+You are the [G]God who saves [Dsus]us
+Worthy of [Em7]all our prai[C2]ses
+
+Ho[G]san - [G]na, Ho[Em7]san - [C2]na
+Come have Your [G]way among [Dsus]us
+We welcome You [Em7]here, Lord Je[C2]sus
+{eoc}
+
+{c: Verse 2}
+[G]Hear the sound of hearts returning to [C2]You
+We turn to [G]You
+
+[G]In Your Kingdom broken lives are made [C2]new
+You make us [G]new
+
+{c: Pre-Chorus}
+'Cause when we [D]see You we find [C2]strength
+To face the [G]day
+And in Your [D]presence all our [C2]fears
+Are washed a[G]way, washed a[Dsus]way
+
+{soc}
+Ho[G]san - [G]na, Ho[Em7]san - [C2]na
+You are the [G]God who saves [Dsus]us
+Worthy of [Em7]all our prai[C2]ses
+
+Ho[G]san - [G]na, Ho[Em7]san - [C2]na
+Come have Your [G]way among [Dsus]us
+We welcome You [Em7]here, Lord Je[C2]sus
+{eoc}
+
+[G] [Em7] [C2]
+[G] [Dsus] [Em7] [C2]
+
+[G] [Em7] [C2]
+[G] [Dsus] [Em7] [C2]
+
+[G]
+
+{sob}
+'Cause when we [D]see You we find [C2]strength
+To face the [G]day
+And in Your [D]presence all our [C2]fears
+Are washed a[G]way
+
+'Cause when we [D]see You we find [C2]strength
+To face the [G]day
+And in Your [D]presence all our [C2]fears
+Are washed a[G]way, washed a[Dsus]way
+{eob}
+
+{soc}
+Ho[G]san - [G]na, Ho[Em7]san - [C2]na
+You are the [G]God who saves [Dsus]us
+Worthy of [Em7]all our prai[C2]ses
+
+Ho[G]san - [G]na, Ho[Em7]san - [C2]na
+Come have Your [G]way among [Dsus]us
+We welcome You [Em7]here, Lord Je[C2]sus
+{eoc}
+
+{soc}
+Ho[G]san - [G]na, Ho[Em7]san - [C2]na
+You are the [G]God who saves [Dsus]us
+Worthy of [Em7]all our prai[C2]ses
+
+Ho[G]san - [G]na, Ho[Em7]san - [C2]na
+Come have Your [G]way among [Dsus]us
+We welcome You [Em7]here, Lord Je[C2]sus
+{eoc}
+
+[Gsus] [G] [Gsus] [G]
+
+Ho[Gsus]san - [G]na, Ho[Gsus]san - [G]na
+Ho[Gsus]san - [G]na, Ho[Gsus]san - [G]na
+
+{c: Ending}
+[G]

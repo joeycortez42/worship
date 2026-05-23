@@ -1,0 +1,108 @@
+{title: Hay Fiesta En Este Lugar}
+{artist: Christine D'Clario}
+{key: A}
+{duration: }
+{tempo: 130}
+{time: 4/4}
+{copyright: }
+
+{original_key: Bb}
+{c: Intro}
+[D] [F#m7] [E] [F#m7] [A/C#]
+[D] [A] [E] [F#m7] [A]
+
+{c: Verse 1}
+Entrar[D]emos por sus p[F#m7]uertas
+Con acción de gr[E]acias [F#m7]
+[A/C#]En Tu c[D]asa hoy tus h[A]ijos
+Tenemos entr[E]ada
+
+{c: Pre-Chorus}
+[F#m7]  Como n[A]o alab[D]arte
+[F#m7]  Como no bendec[E]irte [F#m7]
+Tu a[A/C#]mor es et[D]erno
+[A]  Y por que has sido b[E]ueno
+Hay fiesta en este lu[D]gar
+
+{soc}
+[F#m7] [E]
+[F#m7]   Tu pueblo [A/C#]vino ado[D]rar
+[A] [E] [F#m7] [A]
+{eoc}
+
+{c: Verse 2}
+Contempl[D]amos al Cord[F#m7]ero
+Y Su sacri[E]ficio [F#m7]
+[A/C#]Las tin[D]ieblas se som[A]eten
+A Tu señor[E]io
+
+{c: Pre-Chorus}
+[F#m7]  Como n[A]o alab[D]arte
+[F#m7]  Como no bendec[E]irte [F#m7]
+La vict[A/C#]oria gan[D]aste
+[A]   Cuando resucist[E]aste
+Hay fiesta en este lu[D]gar
+
+{soc}
+[F#m7] [E]
+[F#m7]   Tu pueblo [A/C#]vino ado[D]rar
+[A] [E] [F#m7] [A]
+
+Exalt[D]amos al que v[F#m7]ive
+En Su n[E]ombre esta la libertad
+[F#m7]   Vinimos [A/C#]a celeb[D]rar
+[A] [E] [F#m7] [A]
+{eoc}
+
+{sob}
+E[D]n la mañana y h[E]asta el anochece[F#m]r
+Hay [A]fiesta fiesta
+
+E[D]n la abundancia [E]y en la escase[F#m]z
+Hay [A]fiesta fiesta
+{eob}
+
+{sob}
+[D]Dios de milagros s[E]olo en Ti confiar[F#m]é
+Hay [A]fiesta fiesta
+Pue[D]s Tu promesa s[E]iempre ha sido fie[F#m7]l
+Hay [A]fiesta fiesta
+{eob}
+
+[D] [A] [E] [A/C#]
+[D] [A] [E] [A/C#]
+
+{soc}
+Hay fiesta en este lu[D]gar [A]  [E]
+Vinimos [A/C#]a celeb[D]rar [A]  [E]
+Hay fiesta en este lu[D]gar
+{eoc}
+
+{soc}
+[F#m7] [E]
+[F#m7]   Tu pueblo [A/C#]vino ado[D]rar
+[A] [E] [F#m7] [A]
+
+Exalt[D]amos al que v[F#m7]ive
+En Su n[E]ombre esta la libertad
+[F#m7]   Vinimos [A/C#]a celeb[D]rar
+[A] [E] [F#m7] [A]
+{eoc}
+
+{sob}
+E[D]n la mañana y h[E]asta el anochece[F#m]r
+Hay [A]fiesta fiesta
+
+E[D]n la abundancia [E]y en la escase[F#m]z
+Hay [A]fiesta fiesta
+{eob}
+
+{sob}
+[D]Dios de milagros s[E]olo en Ti confiar[F#m]é
+Hay [A]fiesta fiesta
+Pue[D]s Tu promesa s[E]iempre ha sido fie[F#m7]l
+Hay [A]fiesta fiesta
+{eob}
+
+{c: Ending}
+[D]

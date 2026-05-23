@@ -1,0 +1,79 @@
+{title: Jesus Paid It All}
+{artist: Justin Freeman}
+{key: B}
+{duration: }
+{tempo: 80}
+{time: 3/4}
+{copyright: }
+
+{original_key:B}
+{c:Intro}
+[B] [B/D#] [E] [B/D#] [C#] [B/D#] [E] [B/D#] [B]
+
+{c:Verse 1}
+I[B] hear the Saviour say
+Thy [F#sus]strength indeed is sm[B]all
+Child of w[G#m]eakness watch and Pr[E]ay
+Find in M[F#]e thine all in all[B]
+
+{soc}
+[B]Jesus paid it [E]all
+[G#m]All to Him I [F#sus]owe
+[B]Sin had left a crimson s[E]tain
+He w[G#m]ashed it wh[F#]ite as snow
+{eoc}
+
+[B] [B/D#] [E] [B/D#] [C#] [B/D#] [E] [B/D#] [B]
+
+{c:Verse 2}
+L[B]ord now indeed I find
+Thy [F#sus]power and Thine alon[B]e
+Can chan[G#m]ge the leper's sp[E]ots
+And me[F#]lt the heart of sto[B]ne
+
+{soc}
+[B]Jesus paid it [E]all
+[G#m]All to Him I [F#sus]owe
+[B]Sin had left a crimson s[E]tain
+He w[G#m]ashed it wh[F#]ite as snow
+{eoc}
+
+[B] [B/D#] [E] [B/D#] [C#] [B/D#] [E] [B/D#] [B]
+
+{c:Verse 3}
+And w[B]hen before the throne
+I [D#sus]stand in Him com[B]plete
+Jesus d[G#m]ied my soul to sa[E]ve
+My li[F#]ps shall still rep[B]eat
+
+{soc}
+[B]Jesus paid it [E]all
+[G#m]All to Him I [F#sus]owe
+[B]Sin had left a crimson s[E]tain
+He w[G#m]ashed it wh[F#]ite as snow
+{eoc}
+
+{sob}
+[B]Oh praise the One Who [E]paid my debt
+And r[C#]aised this life up fro[E]m the dead
+
+[B]Oh praise the One Who [E]paid my debt
+And r[C#]aised this life up fro[E]m the dead
+
+
+[B]Oh praise the One Who [E]paid my debt
+And r[C#]aised this life up fro[E]m the dead
+
+[B]Oh praise the One Who [E]paid my debt
+And r[C#]aised this life up fro[E]m the dead
+
+
+[B]Oh praise the One Who [E]paid my debt
+And r[C#]aised this life up fro[E]m the dead
+
+[B]Oh praise the One Who [E]paid my debt
+And r[C#]aised this life up fro[E]m the dead
+{eob}
+
+{c:Ending}
+[B]Jesus

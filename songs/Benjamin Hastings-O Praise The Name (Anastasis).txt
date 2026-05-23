@@ -1,0 +1,79 @@
+{title: O Praise The Name (Anastasis)}
+{artist: Benjamin Hastings}
+{key: D}
+{duration: }
+{tempo: 72.5}
+{time: 4/4}
+{copyright: }
+
+{original_key: D}
+{c: Intro}
+[D]
+
+{c: Verse 1 - Ambient}
+I cast my [D]mind to Calvary
+Where Jesus [A]bled and died [Bm]for me
+I see His [G]wounds His hands His [D]feet
+My Saviour [A]on that cursed[D] tree     [D/F#]. .     [G]. .
+
+{c: Verse 2 - Ambient}
+His body [D]bound and [Dsus]drenched in [D]tears
+They laid Him [A]down in Jo - [BM]seph's tomb
+The entrance [G2]sealed by heavy [D]stone
+Messiah [A]still and all a [D]- lone
+
+{soc}
+O [D]praise the Name of the [G]Lord our [D]God
+O [Bm]praise His Name for - [Asus]ever - [A]more
+For [D/F#]endless days we will [G]sing Your [Bm]praise
+Oh [G]Lord oh [A]Lord our [D]God
+{eoc}
+
+{c: Verse 3}
+Then on the [D]third at break of dawn
+The Son of [A]heaven rose [Bm]again
+O trampled [G]death where is [D]your sting
+The angels [Asus]roar [A]for Christ [D]the King [Dsus]
+
+{soc}
+O [D]praise the Name of the [G]Lord our [D]God
+O [Bm]praise His Name for - [Asus]ever - [A]more
+For [D/F#]endless days we will [G]sing Your [Bm]praise
+Oh [G]Lord oh [A]Lord our [D]God
+{eoc}
+
+{soc}
+O [D]praise the Name of the [G]Lord our [D]God
+O [Bm]praise His Name for - [Asus]ever - [A]more
+For [D/F#]endless days we will [G]sing Your [Bm]praise
+Oh [G]Lord oh [A]Lord our [D]God
+{eoc}
+
+{c: Verse 4 - Soft Ambient}
+He shall re - [D]turn in robes of white
+The blazing [A]sun shall pierce the [Bm] night
+And I will [G]rise among the s[D]aints
+My gaze [A]transfixed on Jesus'[D] face
+
+{c: Verse 4 - Build}
+He shall re - [D]turn in robes of white
+The blazing [A]sun shall pierce the [Bm] night
+And I will [G]rise among the s[D]aints
+My gaze [A]transfixed on Jesus'[D] face
+
+{soc}
+O [D]praise the Name of the [G]Lord our [D]God
+O [Bm]praise His Name for - [Asus]ever - [A]more
+For [D/F#]endless days we will [G]sing Your [Bm]praise
+Oh [G]Lord oh [A]Lord our [D]God
+{eoc}
+
+{soc}
+O [D]praise the Name of the [G]Lord our [D]God
+O [Bm]praise His Name for - [Asus]ever - [A]more
+For [D/F#]endless days we will [G]sing Your [Bm]praise
+Oh [G]Lord oh [A]Lord our [D]God
+{eoc}
+
+{c: Ending}
+Oh [G]Lord oh [A]Lord our [D]God

@@ -1,0 +1,114 @@
+{title: I Believe}
+{artist: Charity Gayle}
+{key: G}
+{duration: }
+{tempo: 81}
+{time: 6/8}
+{copyright: 2024 Blue Duck Records}
+
+{original_key: G}
+{c: Intro}
+[E] [C#m7] [A2] [Bsus] [B]
+
+{c: Verse 1}
+From the be[E]ginning
+You've been un[C#m7]changing
+[A2]Age to age, You stay
+[Bsus]Constant, You re[B]main
+
+Every [E]mystery
+The questions I've [C#m7]carried
+Are [A2]safe within Your will
+So I [Bsus]trust You even [B]still
+
+{soc}
+I be[E]lieve
+You are who You [C#m7]say You [B]are
+You do what You say You'll [F#m7]do
+You'll com[C#m7]e through
+You are [A2]always [E/B]a - [B]ble
+
+I be[E]lieve 
+You've already [C#m7]made a [B]way
+I'm running through parted [F#m7]waves
+Straight to [C#m7]You
+You are [A2]always [E/B]faith [B]ful
+{eoc}
+
+{c: Verse 2}
+Jesus, You're [E]for me
+Holding me [C#m7]steady
+[A2]Every word, every word You Speak
+Is a [B]promise that You keep
+This firm foun[E]dation
+Cannot be [C#m7]shaken
+My [A2]God You never fail
+Never [Bsus]once, You never [B]will
+
+{soc}
+I be[E]lieve
+You are who You [C#m7]say You [B]are
+You do what You say You'll [F#m7]do
+You'll com[C#m7]e through
+You are [A2]always [E/B]a - [B]ble
+
+I be[E]lieve 
+You've already [C#m7]made a [B]way
+I'm running through parted [F#m7]waves
+Straight to [C#m7]You
+You are [A2]always [E/B]faith [B]ful
+{eoc}
+
+I bel[E]ieve   [B]
+I bel[C#m7]ieve   [A2]
+
+{sob}
+That [E]on that cross Your blood was spilled
+And [B]by Your stripes I have been healed
+And [C#m7]every promise You've fulfilled
+I bel[A2]ieve, I believe
+
+That You [E]rose again in victory
+And [B]that same power lives in me
+I'm [C#m7]born again, I've been made free
+I bel[A2]ieve, I believe
+
+That the [E]gates of hell will not prevail
+Your [B]church is still alive and well
+This [C#m7]gospel truth I live to tell
+I bel[A2]ieve, I believe
+
+That [E]one day soon You'll split the sky
+You're [F#m7]coming for a spotless bride
+Un[E2]til my faith has been made sight
+I bel[A2]ieve, I believe
+{eob}
+
+{soc}
+I be[E]lieve
+You are who You [C#m7]say You [B]are
+You do what You say You'll [F#m7]do
+You'll com[C#m7]e through
+You are [A2]always [E/B]a - [B]ble
+
+I be[E]lieve 
+You've already [C#m7]made a [B]way
+I'm running through parted [F#m7]waves
+Straight to [C#m7]You
+You are [A2]always [E/B]faith [B]ful
+{eoc}
+
+I bel[E]ieve   [B]
+I bel[C#m7]ieve   [A2]
+
+{sob}
+And [E]on that day when I've run my race
+I'll [B]finally see You face to face
+And [C#m]nothing then will separate
+I bel[A7]ieve
+
+I'll [E]join with every tribe and tongue
+And [B]bow before the Lamb of God
+Singing[C#m] Holy, Holy, Holy One
+I bel[A2]ieve, I believe
+{eob}

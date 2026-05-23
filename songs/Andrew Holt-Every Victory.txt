@@ -1,0 +1,132 @@
+{title: Every Victory}
+{artist: Andrew Holt}
+{key: B}
+{duration: }
+{tempo: 70}
+{time: 4/4}
+{copyright: 2021 TBCO Music LLC}
+
+{original_key: C}
+{c: Intro}
+[Am7] [Fsus] [C] [Em] [Am7] [Fsus] [C]
+
+{c: Verse 1}
+[Am7]  We will [Fsus]lift our ey[C]es, we won't [G]fear the f[Am7]ight
+There is [Fsus]One who's str[C]onger [G]
+
+[Am7]  Hard pressed [Fsus]on each s[C]ide, we will [Em]not lose s[Am7]ight
+Of the [Fsus]One who's gre[C]ater [Em]
+
+{soc}
+One [Am7]Name, one [F]Name holds every [C]victor[G]y
+One [Am7]Voice that [F]silences the [C]enem [G]y
+One [Am7]King who [F]reigns for all e[C]ternit [G]y
+[Am7]Je - [F]sus, [C]Je - [G]sus
+{eoc}
+
+{c: Verse 2}
+[Am7]  On the [F]battlefi[C]eld Your powеr [G]is reve[Am7]aled
+Giants [F]fall dеf[C]eat[G]ed
+
+[Am7]  We are [F]taking gr[C]ound, walls are [Em]falling d[Am7]own
+In the [f]mighty Name of [C]Jes [Em]us
+
+{soc}
+One [Am7]Name, one [F]Name holds every [C]victor[G]y
+One [Am7]Voice that [F]silences the [C]enem [G]y
+One [Am7]King who [F]reigns for all e[C]ternit [G]y
+[Am7]Je - [F]sus, [C]Je - [G]sus
+[Am7]Je - [F]sus, [C]Je - [G]sus
+{eoc}
+
+[F] [G] [Am7] [G]
+[C] [C] [G] [C]
+
+[F] [G] [Am7] [G]
+[C] [C] [G] [C]
+
+{sob}
+[F]  Every victor[G]y is [Am7]Yours
+Every victo[G]ry is [C]Yours
+You ro[C]se,[G] You re[C]ign
+
+[F]  Death is buried [G]in the [Am7]grave
+Hell could not de[G]fy Your [C]Name
+You ro[C]se,[G] You re[C]ign
+
+[F]  Every victor[G]y is [Am7]Yours
+Every victo[G]ry is [C]Yours
+You ro[C]se,[G] You re[C]ign
+
+[F]  Death is buried [G]in the [Am7]grave
+Hell could not de[G]fy Your [C]Name
+You ro[C]se,[G] You re[C]ign
+{eob}
+
+{soc}
+One Name, one Name holds every victory
+One Voice that silences the enemy
+One [Am7]King who [F]reigns for all e[C]ternit [G]y
+[Am7]Je - [F]sus, [C]Je - [G]sus
+{eoc}
+
+{soc}
+One [Am7]Name, one [F]Name holds every [C]victor[G]y
+One [Am7]Voice that [F]silences the [C]enem [G]y
+One [Am7]King who [F]reigns for all e[C]ternit [G]y
+[Am7]Je - [F]sus, [C]Je - [G]sus
+[Am7]Je - [F]sus, [C]Je - [G]sus
+{eoc}
+
+[F] [G] [Am7] [G]
+[C] [C] [G] [C]
+
+[F] [G] [Am7] [G]
+[C] [C] [G] [C]
+
+[F] [G] [Am7] [G]
+[C] [C] [G] [C]
+
+[F] [G] [Am7] [G]
+[C] [C] [G] [C]
+
+[F]Ohhh [G] [Am7]Ohhh [G] [C]Ohhh
+The victo[C]ry is [G]Yours [C]
+
+[F]Ohhh [G] [Am7]Ohhh [G] [C]Ohhh
+The victo[C]ry is [G]Yours [C]
+
+[F]Ohhh [G] [Am7]Ohhh [G] [C]Ohhh
+The battle [C]is the [G]Lord's [C]
+
+[F]Ohhh [G] [Am7]Ohhh [G] [C]Ohhh
+The victo[C]ry is [G]Yours [C]
+
+[F]  Every victor[G]y is [Am7]Yours
+Every victo[G]ry is [C]Yours
+You ro[C]se,[G] You re[C]ign
+
+[F]  Death is buried [G]in the [Am7]grave
+Hell could not de[G]fy Your [C]Name
+You ro[C]se,[G] You re[C]ign
+
+[F]Ohhh [G] [Am7]Ohhh [G] [C]Ohhh
+The battle [C]is the [G]Lord's [C]
+
+[F]Ohhh [G] [Am7]Ohhh [G] [C]Ohhh
+The victo[C]ry is [G]Yours [C]
+
+Ohhh Ohhh Ohhh
+The battle is the Lord's
+
+[F]Ohhh [G] [Am7]Ohhh [G] [C]Ohhh
+The victo[C]ry is [G]Yours [C]
+
+[F]Ohhh [G] [Am7]Ohhh [G] [C]Ohhh
+The battle [C]is the [G]Lord's [C]
+
+[F]Ohhh [G] [Am7]Ohhh [G] [C]Ohhh
+The victo[C]ry is [G]Yours [C]
+
+{c: Ending}
+[F]
